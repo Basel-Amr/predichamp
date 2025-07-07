@@ -1,0 +1,148 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 285,
+    "name": "Elche CF",
+    "shortName": "Elche",
+    "tla": "ELC",
+    "crest": "https://crests.football-data.org/285.png",
+    "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
+    "website": "http://www.elchecf.es",
+    "founded": 1923,
+    "clubColors": "White / Green",
+    "venue": "Estadio Manuel Martínez Valero",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        }
+    ],
+    "coach": {
+        "id": 186597,
+        "firstName": "",
+        "lastName": "Eder Sarabia",
+        "name": "Eder Sarabia",
+        "dateOfBirth": "1981-01-12",
+        "nationality": "Spain",
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 15842,
+            "name": "Axel Werner",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-02-28",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 32453,
+            "name": "Jairo Izquierdo",
+            "position": "Defence",
+            "dateOfBirth": "1993-10-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33516,
+            "name": "Bambo Diaby",
+            "position": "Defence",
+            "dateOfBirth": "1997-12-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 123212,
+            "name": "David Affengruber",
+            "position": "Defence",
+            "dateOfBirth": "2001-03-19",
+            "nationality": "Austria"
+        },
+        {
+            "id": 172388,
+            "name": "John Chetauya",
+            "position": "Defence",
+            "dateOfBirth": "2000-08-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 203463,
+            "name": "Nicolás Fernández Marcau",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-11",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 211835,
+            "name": "Álvaro Núñez",
+            "position": "Defence",
+            "dateOfBirth": "2000-07-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264422,
+            "name": "Matia Barzic",
+            "position": "Defence",
+            "dateOfBirth": "2004-05-31",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32052,
+            "name": "Aleix Febas",
+            "position": "Midfield",
+            "dateOfBirth": "1996-02-02",
+            "nationality": "Spain"
+        },
+        {
+            "id": 159647,
+            "name": "Marc Aguado",
+            "position": "Midfield",
+            "dateOfBirth": "2000-02-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 189617,
+            "name": "Rodrigo Mendoza",
+            "position": "Midfield",
+            "dateOfBirth": "2005-03-15",
+            "nationality": "Spain"
+        },
+        {
+            "id": 246442,
+            "name": "Rafa Núñez",
+            "position": "Midfield",
+            "dateOfBirth": "2002-01-25",
+            "nationality": "Dominican Republic"
+        },
+        {
+            "id": 137064,
+            "name": "Mourad El Ghezouani",
+            "position": "Offence",
+            "dateOfBirth": "1998-05-27",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 229143,
+            "name": "Adam",
+            "position": "Offence",
+            "dateOfBirth": "2005-10-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 206810,
+            "name": "Yago Santiago",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-04-15",
+            "nationality": "Spain"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-24T07:42:28Z"
+}

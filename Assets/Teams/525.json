@@ -1,0 +1,197 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 525,
+    "name": "FC Lorient",
+    "shortName": "Lorient",
+    "tla": "FCL",
+    "crest": "https://crests.football-data.org/525.png",
+    "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+    "website": "http://www.fclweb.fr",
+    "founded": 1926,
+    "clubColors": "Orange / Black",
+    "venue": "Stade Yves Allainmat - Le Moustoir",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 57280,
+        "firstName": "Olivier",
+        "lastName": "Pantaloni",
+        "name": "Olivier Pantaloni",
+        "dateOfBirth": "1966-12-13",
+        "nationality": "France",
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 8554,
+            "name": "Benjamin Leroy",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-04-07",
+            "nationality": "France"
+        },
+        {
+            "id": 264717,
+            "name": "Gaël Alette",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-04-27",
+            "nationality": "France"
+        },
+        {
+            "id": 187420,
+            "name": "Dembo Sylla",
+            "position": "Defence",
+            "dateOfBirth": "2002-11-10",
+            "nationality": "France"
+        },
+        {
+            "id": 129440,
+            "name": "Sambou Soumano",
+            "position": "Midfield",
+            "dateOfBirth": "2001-01-03",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 180506,
+            "name": "Joel Mvuka",
+            "position": "Midfield",
+            "dateOfBirth": "2002-11-12",
+            "nationality": "Norway"
+        },
+        {
+            "id": 245416,
+            "name": "Arthur Avon Ebong",
+            "position": "Midfield",
+            "dateOfBirth": "2004-12-15",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 166640,
+            "name": "Ahmadou Bamba Dieng",
+            "position": "Offence",
+            "dateOfBirth": "2000-03-23",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 213216,
+            "name": "Siriné Doucouré",
+            "position": "Offence",
+            "dateOfBirth": "2002-04-08",
+            "nationality": "France"
+        },
+        {
+            "id": 213749,
+            "name": "Mohamed Bamba",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-12-10",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 188658,
+            "name": "Panos Katseris",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-07-05",
+            "nationality": "Greece"
+        },
+        {
+            "id": 177695,
+            "name": "Montassar Talbi",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-05-26",
+            "nationality": "Tunisia"
+        },
+        {
+            "id": 177248,
+            "name": "Pablo Pagis",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-12-29",
+            "nationality": "France"
+        },
+        {
+            "id": 172520,
+            "name": "Theo Le Bris",
+            "position": "Left Midfield",
+            "dateOfBirth": "2002-10-01",
+            "nationality": "France"
+        },
+        {
+            "id": 171397,
+            "name": "Igor Silva",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-08-21",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 156630,
+            "name": "Formose Mendy",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-01-02",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 150424,
+            "name": "Bandiougou Fadiga",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-01-15",
+            "nationality": "France"
+        },
+        {
+            "id": 149069,
+            "name": "Souleymane Isaak Toure",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-03-28",
+            "nationality": "France"
+        },
+        {
+            "id": 131179,
+            "name": "Darlin Yongwa",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-09-21",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 82600,
+            "name": "Gédéon Kalulu",
+            "position": "Right-Back",
+            "dateOfBirth": "1997-08-29",
+            "nationality": "DR Congo"
+        },
+        {
+            "id": 72551,
+            "name": "Aiyegun Tosin",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-06-26",
+            "nationality": "Benin"
+        },
+        {
+            "id": 8437,
+            "name": "Jean-Victor Makengo",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-12",
+            "nationality": "France"
+        },
+        {
+            "id": 566,
+            "name": "Laurent Abergel",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1993-02-01",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:25:01Z"
+}

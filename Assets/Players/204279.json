@@ -1,0 +1,43 @@
+{
+    "id": 204279,
+    "name": "Simon Ebonog",
+    "firstName": "Simon",
+    "lastName": "Ebonog",
+    "dateOfBirth": "2004-08-16",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 18,
+    "lastUpdated": "2024-08-23T09:25:25Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 520,
+        "name": "AS Nancy-Lorraine",
+        "shortName": "Nancy",
+        "tla": "ASN",
+        "crest": "https://crests.football-data.org/520.png",
+        "address": "90 Boulevard Jean Jaurès Tomblaine 54510",
+        "website": "http://www.asnl.net",
+        "founded": 1967,
+        "clubColors": "Red / White",
+        "venue": "Stade Marcel-Picot (annexe 2)",
+        "runningCompetitions": [
+            {
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL2.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2025-06"
+        }
+    }
+}

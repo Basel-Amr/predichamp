@@ -1,0 +1,43 @@
+{
+    "id": 254719,
+    "name": "Jakub Zieliński",
+    "firstName": "Jakub",
+    "lastName": "Zieliński",
+    "dateOfBirth": "2008-02-21",
+    "nationality": "Poland",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2025-07-01T09:41:04Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 11,
+        "name": "VfL Wolfsburg",
+        "shortName": "Wolfsburg",
+        "tla": "WOB",
+        "crest": "https://crests.football-data.org/11.png",
+        "address": "In den Allerwiesen 1 Wolfsburg 38446",
+        "website": "http://www.vfl-wolfsburg.de",
+        "founded": 1945,
+        "clubColors": "Green / White",
+        "venue": "Volkswagen Arena",
+        "runningCompetitions": [
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

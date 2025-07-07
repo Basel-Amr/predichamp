@@ -1,0 +1,35 @@
+{
+    "id": 245366,
+    "name": "Henri Salomaa",
+    "firstName": "Henri",
+    "lastName": "Salomaa",
+    "dateOfBirth": "2003-02-14",
+    "nationality": "Finland",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 78,
+    "lastUpdated": "2024-01-09T09:46:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 5871,
+        "name": "AS Lucchese Libertas 1905",
+        "shortName": "Lucchese",
+        "tla": "LUC",
+        "crest": "https://crests.football-data.org/5871.png",
+        "address": "Viale S. Concordio, 149 Lucca 55100",
+        "website": "http://www.asluccheselibertas.com",
+        "founded": 1905,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Porta Elisa",
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-06"
+        }
+    }
+}

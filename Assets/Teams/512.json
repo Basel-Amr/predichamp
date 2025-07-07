@@ -1,0 +1,169 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 512,
+    "name": "Stade Brestois 29",
+    "shortName": "Brest",
+    "tla": "BRE",
+    "crest": "https://crests.football-data.org/512.png",
+    "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+    "website": "http://www.stade-brestois.com",
+    "founded": 1903,
+    "clubColors": "White / Red",
+    "venue": "Stade Francis-Le Blé",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 190990,
+        "firstName": "Éric",
+        "lastName": "Roy",
+        "name": "Eric Roy",
+        "dateOfBirth": "1967-09-26",
+        "nationality": "France",
+        "contract": {
+            "start": "2023-01",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 731,
+            "name": "Grégoire Coudert",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-04-03",
+            "nationality": "France"
+        },
+        {
+            "id": 7675,
+            "name": "Marco Bizot",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-03-10",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 172283,
+            "name": "Axel Camblan",
+            "position": "Midfield",
+            "dateOfBirth": "2003-06-18",
+            "nationality": "France"
+        },
+        {
+            "id": 276983,
+            "name": "Hamidou Makalou",
+            "position": "Midfield",
+            "dateOfBirth": "2006-07-15",
+            "nationality": "Mali"
+        },
+        {
+            "id": 274570,
+            "name": "Justin Bourgault",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-09-14",
+            "nationality": "France"
+        },
+        {
+            "id": 227982,
+            "name": "Luc Zogbe",
+            "position": "Right-Back",
+            "dateOfBirth": "2005-03-24",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 175942,
+            "name": "Kamory Doumbia",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-02-18",
+            "nationality": "Mali"
+        },
+        {
+            "id": 171659,
+            "name": "Bradley Locko",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-05-06",
+            "nationality": "France"
+        },
+        {
+            "id": 133785,
+            "name": "Hianga Mananga Mbock",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-12-28",
+            "nationality": "France"
+        },
+        {
+            "id": 119418,
+            "name": "Julien Le Cardinal",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-08-03",
+            "nationality": "France"
+        },
+        {
+            "id": 76145,
+            "name": "Hugo Magnetti",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-05-30",
+            "nationality": "France"
+        },
+        {
+            "id": 43707,
+            "name": "Mama Baldé",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1995-11-06",
+            "nationality": "Guinea-Bissau"
+        },
+        {
+            "id": 8778,
+            "name": "Kenny Lala",
+            "position": "Right-Back",
+            "dateOfBirth": "1991-10-03",
+            "nationality": "France"
+        },
+        {
+            "id": 8542,
+            "name": "Mahdi Camara",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-30",
+            "nationality": "France"
+        },
+        {
+            "id": 8439,
+            "name": "Pierre Lees Melou",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1993-05-25",
+            "nationality": "France"
+        },
+        {
+            "id": 856,
+            "name": "Romain Del Castillo",
+            "position": "Right Winger",
+            "dateOfBirth": "1996-03-29",
+            "nationality": "France"
+        },
+        {
+            "id": 723,
+            "name": "Ludovic Ajorque",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-02-25",
+            "nationality": "France"
+        },
+        {
+            "id": 441,
+            "name": "Brendan Chardonnet",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-12-22",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:43:14Z"
+}

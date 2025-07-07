@@ -1,0 +1,43 @@
+{
+    "id": 32228,
+    "name": "Pedro Díaz",
+    "firstName": "",
+    "lastName": "Pedro Díaz",
+    "dateOfBirth": "1998-06-05",
+    "nationality": "Spain",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 4,
+    "lastUpdated": "2024-08-23T10:11:36Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 87,
+        "name": "Rayo Vallecano de Madrid",
+        "shortName": "Rayo Vallecano",
+        "tla": "RAY",
+        "crest": "https://crests.football-data.org/87.png",
+        "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+        "website": "http://www.rayovallecano.es",
+        "founded": 1924,
+        "clubColors": "White / Red",
+        "venue": "Estadio del Rayo Vallecano",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2028-06"
+        }
+    }
+}

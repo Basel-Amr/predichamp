@@ -1,0 +1,43 @@
+{
+    "id": 166329,
+    "name": "Matteo Prati",
+    "firstName": "Matteo",
+    "lastName": "Prati",
+    "dateOfBirth": "2003-12-28",
+    "nationality": "Italy",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 16,
+    "lastUpdated": "2024-12-06T09:43:11Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 104,
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "tla": "CAG",
+        "crest": "https://crests.football-data.org/104.png",
+        "address": "Viale la Plaia 15 Cagliari 09123",
+        "website": "http://www.cagliaricalcio.net",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue / White",
+        "venue": "Sardegna Arena",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2028-06"
+        }
+    }
+}

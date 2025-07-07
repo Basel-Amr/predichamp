@@ -1,0 +1,50 @@
+{
+    "id": 327,
+    "name": "Linton Maina",
+    "firstName": "Linton",
+    "lastName": "Maina",
+    "dateOfBirth": "1999-06-23",
+    "nationality": "Germany",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": 37,
+    "lastUpdated": "2024-09-02T09:59:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 1,
+        "name": "1. FC Köln",
+        "shortName": "1. FC Köln",
+        "tla": "KOE",
+        "crest": "https://crests.football-data.org/1.png",
+        "address": "Franz-Kremer-Allee 1 Köln 50937",
+        "website": "http://www.fc-koeln.de",
+        "founded": 1948,
+        "clubColors": "Red / White",
+        "venue": "RheinEnergieSTADION",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

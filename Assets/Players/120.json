@@ -1,0 +1,50 @@
+{
+    "id": 120,
+    "name": "Jan Oblak",
+    "firstName": "Jan",
+    "lastName": "Oblak",
+    "dateOfBirth": "1993-01-07",
+    "nationality": "Slovenia",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 13,
+    "lastUpdated": "2023-07-30T17:05:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+        "website": "http://www.clubatleticodemadrid.com",
+        "founded": 1903,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadio Wanda Metropolitano",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2014-07",
+            "until": "2028-06"
+        }
+    }
+}

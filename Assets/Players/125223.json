@@ -1,0 +1,43 @@
+{
+    "id": 125223,
+    "name": "Manuel Sánchez",
+    "firstName": "",
+    "lastName": "Manuel Sánchez",
+    "dateOfBirth": "1996-03-24",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 22,
+    "lastUpdated": "2023-10-19T09:45:37Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 33122,
+    "name": "Sergio Lozano",
+    "firstName": "",
+    "lastName": "Sergio Lozano",
+    "dateOfBirth": "1999-03-24",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 21,
+    "lastUpdated": "2024-08-05T08:21:34Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

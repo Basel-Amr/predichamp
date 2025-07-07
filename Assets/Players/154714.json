@@ -1,0 +1,43 @@
+{
+    "id": 154714,
+    "name": "Omar El Hilali",
+    "firstName": "",
+    "lastName": "El Hilali",
+    "dateOfBirth": "2003-09-12",
+    "nationality": "Morocco",
+    "section": "Midfield",
+    "position": "Defence",
+    "shirtNumber": 23,
+    "lastUpdated": "2025-03-15T09:41:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 80,
+        "name": "RCD Espanyol de Barcelona",
+        "shortName": "Espanyol",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/80.png",
+        "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+        "website": "http://www.rcdespanyol.com",
+        "founded": 1900,
+        "clubColors": "Blue / White",
+        "venue": "RCDE Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-01",
+            "until": "2027-06"
+        }
+    }
+}

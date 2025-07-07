@@ -1,0 +1,50 @@
+{
+    "id": 3475,
+    "name": "Nico Elvedi",
+    "firstName": "Nico",
+    "lastName": "Elvedi",
+    "dateOfBirth": "1996-09-30",
+    "nationality": "Switzerland",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 30,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 18,
+        "name": "Borussia Mönchengladbach",
+        "shortName": "M'gladbach",
+        "tla": "BMG",
+        "crest": "https://crests.football-data.org/18.png",
+        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+        "website": "http://www.borussia.de",
+        "founded": 1900,
+        "clubColors": "Black / White / Green",
+        "venue": "Stadion im Borussia-Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2015-07",
+            "until": "2027-06"
+        }
+    }
+}

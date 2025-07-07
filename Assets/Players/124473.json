@@ -1,0 +1,43 @@
+{
+    "id": 124473,
+    "name": "Amin Sarr",
+    "firstName": "Amin",
+    "lastName": "Sarr",
+    "dateOfBirth": "2001-03-11",
+    "nationality": "Sweden",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 523,
+        "name": "Olympique Lyonnais",
+        "shortName": "Olympique Lyon",
+        "tla": "LYO",
+        "crest": "https://crests.football-data.org/523.png",
+        "address": "350 avenue Jean Jaurès Lyon 69007",
+        "website": "http://www.olweb.fr",
+        "founded": 1896,
+        "clubColors": "White / Red / Blue",
+        "venue": "Groupama Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

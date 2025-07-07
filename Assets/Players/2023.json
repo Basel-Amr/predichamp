@@ -1,0 +1,50 @@
+{
+    "id": 2023,
+    "name": "Carlo Pinsoglio",
+    "firstName": "Carlo",
+    "lastName": "Pinsoglio",
+    "dateOfBirth": "1990-03-16",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 23,
+    "lastUpdated": "2023-07-30T22:13:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 109,
+        "name": "Juventus FC",
+        "shortName": "Juventus",
+        "tla": "JUV",
+        "crest": "https://crests.football-data.org/109.png",
+        "address": "Corso Galileo Ferraris, 32 Torino 10128",
+        "website": "http://www.juventus.com",
+        "founded": 1897,
+        "clubColors": "White / Black",
+        "venue": "Allianz Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-07",
+            "until": "2026-06"
+        }
+    }
+}

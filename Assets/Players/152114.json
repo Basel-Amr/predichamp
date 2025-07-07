@@ -1,0 +1,50 @@
+{
+    "id": 152114,
+    "name": "Agustín Álvarez Martínez",
+    "firstName": "Agustín",
+    "lastName": "Álvarez",
+    "dateOfBirth": "2001-05-19",
+    "nationality": "Uruguay",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-07-30T16:42:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 471,
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "tla": "SAS",
+        "crest": "https://crests.football-data.org/471.png",
+        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+        "website": "http://www.sassuolocalcio.it",
+        "founded": 1920,
+        "clubColors": "Green / Black",
+        "venue": "Mapei Stadium - Città del Tricolore",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

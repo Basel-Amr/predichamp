@@ -1,0 +1,35 @@
+{
+    "id": 227048,
+    "name": "Álex Jiménez",
+    "firstName": "",
+    "lastName": "Álex Jiménez",
+    "dateOfBirth": "2005-05-08",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 20,
+    "lastUpdated": "2024-11-28T13:36:12Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 11089,
+        "name": "AC Milan II",
+        "shortName": "AC Milan II",
+        "tla": "",
+        "crest": "https://crests.football-data.org/11089.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

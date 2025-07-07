@@ -1,0 +1,43 @@
+{
+    "id": 31968,
+    "name": "Sergio Herrera",
+    "firstName": "",
+    "lastName": "Sergio Herrera",
+    "dateOfBirth": "1993-06-05",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2025-03-28T09:42:32Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png",
+        "address": "Calle del Sadar, s/n Pamplona 31006",
+        "website": "http://www.osasuna.es",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Estadio El Sadar",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2017-07",
+            "until": "2026-06"
+        }
+    }
+}

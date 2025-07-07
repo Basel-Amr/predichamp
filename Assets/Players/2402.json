@@ -1,0 +1,43 @@
+{
+    "id": 2402,
+    "name": "Francisco Sierralta",
+    "firstName": "Francisco",
+    "lastName": "Sierralta",
+    "dateOfBirth": "1997-05-06",
+    "nationality": "Chile",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 4,
+    "lastUpdated": "2024-09-02T09:59:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 519,
+        "name": "AJ Auxerre",
+        "shortName": "Auxerre",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/519.png",
+        "address": "Route de Vaux BP 349 Auxerre 89006",
+        "website": "http://www.aja.fr",
+        "founded": 1905,
+        "clubColors": "White / Blue",
+        "venue": "Stade de l'Abbé Deschamps",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

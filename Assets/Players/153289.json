@@ -1,0 +1,43 @@
+{
+    "id": 153289,
+    "name": "Moritz Jenz",
+    "firstName": "Moritz",
+    "lastName": "Jenz",
+    "dateOfBirth": "1999-04-30",
+    "nationality": "Germany",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 11,
+        "name": "VfL Wolfsburg",
+        "shortName": "Wolfsburg",
+        "tla": "WOB",
+        "crest": "https://crests.football-data.org/11.png",
+        "address": "In den Allerwiesen 1 Wolfsburg 38446",
+        "website": "http://www.vfl-wolfsburg.de",
+        "founded": 1945,
+        "clubColors": "Green / White",
+        "venue": "Volkswagen Arena",
+        "runningCompetitions": [
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

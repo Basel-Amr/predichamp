@@ -1,0 +1,43 @@
+{
+    "id": 3309,
+    "name": "Jordan Pickford",
+    "firstName": "Jordan",
+    "lastName": "Pickford",
+    "dateOfBirth": "1994-03-07",
+    "nationality": "England",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:01:16Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 62,
+        "name": "Everton FC",
+        "shortName": "Everton",
+        "tla": "EVE",
+        "crest": "https://crests.football-data.org/62.png",
+        "address": "Goodison Park Liverpool L4 4EL",
+        "website": "http://www.evertonfc.com",
+        "founded": 1878,
+        "clubColors": "Blue / White",
+        "venue": "Goodison Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2017-07",
+            "until": "2027-06"
+        }
+    }
+}

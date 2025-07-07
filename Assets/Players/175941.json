@@ -1,0 +1,43 @@
+{
+    "id": 175941,
+    "name": "Abdessamad Ezzalzouli",
+    "firstName": "Abde",
+    "lastName": "Ezzalzouli",
+    "dateOfBirth": "2001-12-17",
+    "nationality": "Morocco",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 10,
+    "lastUpdated": "2024-01-11T10:31:49Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+        "website": "http://www.realbetisbalompie.es",
+        "founded": 1907,
+        "clubColors": "Green / White",
+        "venue": "Estadio Benito Villamarín",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

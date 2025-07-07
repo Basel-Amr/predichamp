@@ -1,0 +1,50 @@
+{
+    "id": 175951,
+    "name": "Ezechiel Banzuzi",
+    "firstName": "Ezechiel",
+    "lastName": "Banzuzi",
+    "dateOfBirth": "2005-02-16",
+    "nationality": "Netherlands",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-09T01:50:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 721,
+        "name": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "tla": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "address": "Neumarkt 29-33 Leipzig 04109",
+        "website": "http://www.dierotenbullen.com",
+        "founded": 2009,
+        "clubColors": "White / Red",
+        "venue": "Red Bull Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2030-06"
+        }
+    }
+}

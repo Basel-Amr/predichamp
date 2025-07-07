@@ -1,0 +1,43 @@
+{
+    "id": 102223,
+    "name": "Toti Gomes",
+    "firstName": "",
+    "lastName": "Toti",
+    "dateOfBirth": "1999-01-16",
+    "nationality": "Portugal",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 24,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 76,
+        "name": "Wolverhampton Wanderers FC",
+        "shortName": "Wolverhampton",
+        "tla": "WOL",
+        "crest": "https://crests.football-data.org/76.png",
+        "address": "Waterloo Road Wolverhampton WV1 4QR",
+        "website": "http://www.wolves.co.uk",
+        "founded": 1877,
+        "clubColors": "Black / Gold",
+        "venue": "Molineux Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-01",
+            "until": "2029-06"
+        }
+    }
+}

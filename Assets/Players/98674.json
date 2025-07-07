@@ -1,0 +1,43 @@
+{
+    "id": 98674,
+    "name": "Hugo Guillamón",
+    "firstName": "",
+    "lastName": "Hugo Guillamón",
+    "dateOfBirth": "2000-01-31",
+    "nationality": "Spain",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png",
+        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+        "website": "http://www.valenciacf.com",
+        "founded": 1919,
+        "clubColors": "White / Orange / Black",
+        "venue": "Estadio de Mestalla",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-07",
+            "until": "2026-06"
+        }
+    }
+}

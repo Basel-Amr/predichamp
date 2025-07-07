@@ -1,0 +1,239 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 519,
+    "name": "AJ Auxerre",
+    "shortName": "Auxerre",
+    "tla": "AJA",
+    "crest": "https://crests.football-data.org/519.png",
+    "address": "Route de Vaux BP 349 Auxerre 89006",
+    "website": "http://www.aja.fr",
+    "founded": 1905,
+    "clubColors": "White / Blue",
+    "venue": "Stade de l'Abbé Deschamps",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 45110,
+        "firstName": "Christophe",
+        "lastName": "Pélissier",
+        "name": "Christophe Pélissier",
+        "dateOfBirth": "1965-10-05",
+        "nationality": "France",
+        "contract": {
+            "start": "2022-10",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 437,
+            "name": "Donovan Léon",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-11-03",
+            "nationality": "French Guiana"
+        },
+        {
+            "id": 157131,
+            "name": "Théo De Percin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-02-02",
+            "nationality": "France"
+        },
+        {
+            "id": 204236,
+            "name": "Tom Negrel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-04-13",
+            "nationality": "France"
+        },
+        {
+            "id": 264394,
+            "name": "Victor Mayela",
+            "position": "Defence",
+            "dateOfBirth": "2004-04-22",
+            "nationality": "France"
+        },
+        {
+            "id": 276935,
+            "name": "Marvyn Muzungu",
+            "position": "Defence",
+            "dateOfBirth": "2007-11-28",
+            "nationality": "France"
+        },
+        {
+            "id": 270290,
+            "name": "Aristide Zossou",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-06-14",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 264392,
+            "name": "Ben Viadère",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-09-02",
+            "nationality": "France"
+        },
+        {
+            "id": 189237,
+            "name": "Nathan Buayi-Kiala",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-02-29",
+            "nationality": "France"
+        },
+        {
+            "id": 185194,
+            "name": "Clement Akpa",
+            "position": "Left-Back",
+            "dateOfBirth": "2001-11-24",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 177412,
+            "name": "Lamine Sy",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-08-10",
+            "nationality": "France"
+        },
+        {
+            "id": 175724,
+            "name": "Kevin Danois",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-06-28",
+            "nationality": "France"
+        },
+        {
+            "id": 170623,
+            "name": "Paul Joly",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-06-07",
+            "nationality": "France"
+        },
+        {
+            "id": 170396,
+            "name": "Lasso Coulibaly",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-10-19",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 154108,
+            "name": "Fredrik Oppegard",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-08-07",
+            "nationality": "Norway"
+        },
+        {
+            "id": 153924,
+            "name": "Marvin Senaya",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-01-28",
+            "nationality": "France"
+        },
+        {
+            "id": 152737,
+            "name": "Josué Casimir",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-09-24",
+            "nationality": "Guadeloupe"
+        },
+        {
+            "id": 141637,
+            "name": "Sinaly Diomandé",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-04-09",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 121864,
+            "name": "Saad Agouzoul",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-08-10",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 113229,
+            "name": "Theo Bair",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-08-27",
+            "nationality": "Canada"
+        },
+        {
+            "id": 83162,
+            "name": "Eros Maddy",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-02-05",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 44114,
+            "name": "Ado Onaiwu",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1995-11-08",
+            "nationality": "Japan"
+        },
+        {
+            "id": 16340,
+            "name": "Gideon Mensah",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-07-18",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 8470,
+            "name": "Elisha Owusu",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-11-07",
+            "nationality": "France"
+        },
+        {
+            "id": 3631,
+            "name": "Assane Dioussé",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-09-20",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 2402,
+            "name": "Francisco Sierralta",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-05-06",
+            "nationality": "Chile"
+        },
+        {
+            "id": 914,
+            "name": "Gaëtan Perrin",
+            "position": "Right Winger",
+            "dateOfBirth": "1996-06-07",
+            "nationality": "France"
+        },
+        {
+            "id": 552,
+            "name": "Lassine Sinayoko",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-12-08",
+            "nationality": "France"
+        },
+        {
+            "id": 547,
+            "name": "Florian Ayé",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-01-19",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-07-26T18:03:55Z"
+}

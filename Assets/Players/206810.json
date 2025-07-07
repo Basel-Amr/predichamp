@@ -1,0 +1,43 @@
+{
+    "id": 206810,
+    "name": "Yago Santiago",
+    "firstName": "",
+    "lastName": "Yago Santiago",
+    "dateOfBirth": "2003-04-15",
+    "nationality": "Spain",
+    "section": "Left Winger",
+    "position": "Midfield",
+    "shirtNumber": 24,
+    "lastUpdated": "2025-02-13T09:44:59Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 285,
+        "name": "Elche CF",
+        "shortName": "Elche",
+        "tla": "ELC",
+        "crest": "https://crests.football-data.org/285.png",
+        "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
+        "website": "http://www.elchecf.es",
+        "founded": 1923,
+        "clubColors": "White / Green",
+        "venue": "Estadio Manuel Martínez Valero",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

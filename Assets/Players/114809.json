@@ -1,0 +1,50 @@
+{
+    "id": 114809,
+    "name": "Kaishu Sano",
+    "firstName": "Kaishu",
+    "lastName": "Sano",
+    "dateOfBirth": "2000-12-30",
+    "nationality": "Japan",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2023-09-18T09:04:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 15,
+        "name": "1. FSV Mainz 05",
+        "shortName": "Mainz",
+        "tla": "M05",
+        "crest": "https://crests.football-data.org/15.png",
+        "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+        "website": "http://www.mainz05.de",
+        "founded": 1905,
+        "clubColors": "Red / White",
+        "venue": "Opel Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

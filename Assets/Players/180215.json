@@ -1,0 +1,43 @@
+{
+    "id": 180215,
+    "name": "Fran Vieites",
+    "firstName": "",
+    "lastName": "Fran Vieites",
+    "dateOfBirth": "1999-05-07",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 25,
+    "lastUpdated": "2023-08-25T10:29:05Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+        "website": "http://www.realbetisbalompie.es",
+        "founded": 1907,
+        "clubColors": "Green / White",
+        "venue": "Estadio Benito Villamarín",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 213187,
+    "name": "Jean-Daniel Akpa-Akpro",
+    "firstName": "Jean-Daniel",
+    "lastName": "Akpa-Akpro",
+    "dateOfBirth": "1992-10-11",
+    "nationality": "Ivory Coast",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-09T01:49:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png",
+        "address": "Via di Santa Cornelia, 1000 Formello 00060",
+        "website": "http://www.sslazio.it",
+        "founded": 1900,
+        "clubColors": "White / Sky Blue",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

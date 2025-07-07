@@ -1,0 +1,218 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 82,
+    "name": "Getafe CF",
+    "shortName": "Getafe",
+    "tla": "GET",
+    "crest": "https://crests.football-data.org/82.png",
+    "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+    "website": "http://www.getafecf.com",
+    "founded": 1946,
+    "clubColors": "Blue / White",
+    "venue": "Coliseum Alfonso Pérez",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        }
+    ],
+    "coach": {
+        "id": 3155,
+        "firstName": "",
+        "lastName": "José Bordalás",
+        "name": "Pepe Bordalás",
+        "dateOfBirth": "1964-03-05",
+        "nationality": "Spain",
+        "contract": {
+            "start": "2023-04",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 78,
+            "name": "David Soria",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-04-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 146888,
+            "name": "Jiří Letáček",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-01-09",
+            "nationality": "Czech Republic"
+        },
+        {
+            "id": 213274,
+            "name": "Kiko Femenía",
+            "position": "Defence",
+            "dateOfBirth": "1991-02-02",
+            "nationality": "Spain"
+        },
+        {
+            "id": 274175,
+            "name": "Ismael Bekhoucha",
+            "position": "Defence",
+            "dateOfBirth": "2004-11-20",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 211825,
+            "name": "Alejandro Sancris",
+            "position": "Midfield",
+            "dateOfBirth": "1997-01-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 213262,
+            "name": "Carles Aleñá",
+            "position": "Midfield",
+            "dateOfBirth": "1998-01-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 249599,
+            "name": "Adri Liso",
+            "position": "Midfield",
+            "dateOfBirth": "2005-04-02",
+            "nationality": "Spain"
+        },
+        {
+            "id": 274083,
+            "name": "Isma Fernández",
+            "position": "Offence",
+            "dateOfBirth": "2005-07-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 267897,
+            "name": "Coba da Costa",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-07-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 260763,
+            "name": "Chrisantus",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-05-19",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 250399,
+            "name": "Alberto Risco",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-08-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 186707,
+            "name": "Gorka Rivera",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-08-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 176733,
+            "name": "Peter Gonzalez",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-07-25",
+            "nationality": "Dominican Republic"
+        },
+        {
+            "id": 111570,
+            "name": "Alex Sola",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-06-09",
+            "nationality": "Spain"
+        },
+        {
+            "id": 102213,
+            "name": "Yvan Neyou",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-01-03",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 83351,
+            "name": "Juan Iglesias",
+            "position": "Right-Back",
+            "dateOfBirth": "1998-07-03",
+            "nationality": "Spain"
+        },
+        {
+            "id": 46491,
+            "name": "Omar Alderete",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-12-26",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 45472,
+            "name": "Domingos Duarte",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-03-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 33073,
+            "name": "Juan Berrocal",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32758,
+            "name": "Mauro Arambarri",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-09-30",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 32449,
+            "name": "Luis Milla",
+            "position": "Central Midfield",
+            "dateOfBirth": "1994-10-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 3125,
+            "name": "Dakonam Djené",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-12-31",
+            "nationality": "Togo"
+        },
+        {
+            "id": 277,
+            "name": "Diego Rico",
+            "position": "Left-Back",
+            "dateOfBirth": "1993-02-23",
+            "nationality": "Spain"
+        },
+        {
+            "id": 69,
+            "name": "Borja Mayoral",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-04-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 2,
+            "name": "Juanmi",
+            "position": "Left Winger",
+            "dateOfBirth": "1993-05-20",
+            "nationality": "Spain"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-25T16:43:35Z"
+}

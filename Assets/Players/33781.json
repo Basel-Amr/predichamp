@@ -1,0 +1,43 @@
+{
+    "id": 33781,
+    "name": "Stole Dimitrievski",
+    "firstName": "Stole",
+    "lastName": "Dimitrievski",
+    "dateOfBirth": "1993-12-25",
+    "nationality": "North Macedonia",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 13,
+    "lastUpdated": "2023-07-30T17:05:46Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png",
+        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+        "website": "http://www.valenciacf.com",
+        "founded": 1919,
+        "clubColors": "White / Orange / Black",
+        "venue": "Estadio de Mestalla",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

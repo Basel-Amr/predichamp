@@ -1,0 +1,50 @@
+{
+    "id": 5240,
+    "name": "Nathan Bishop",
+    "firstName": "Nathan",
+    "lastName": "Bishop",
+    "dateOfBirth": "1999-10-15",
+    "nationality": "England",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2024-05-24T09:47:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 347,
+        "name": "AFC Wimbledon",
+        "shortName": "AFC Wimbledon",
+        "tla": "WMB",
+        "crest": "https://crests.football-data.org/347.png",
+        "address": "Jack Goodchild Way, 422a Kingston Road Kingston upon Thames KT1 3PB",
+        "website": "http://www.afcwimbledon.co.uk",
+        "founded": 2002,
+        "clubColors": "Blue / Yellow",
+        "venue": "Kiyan Prince Foundation Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

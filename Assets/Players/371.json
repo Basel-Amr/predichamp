@@ -1,0 +1,43 @@
+{
+    "id": 371,
+    "name": "Robert Lewandowski",
+    "firstName": "Robert",
+    "lastName": "Lewandowski",
+    "dateOfBirth": "1988-08-21",
+    "nationality": "Poland",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "website": "http://www.fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

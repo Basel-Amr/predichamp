@@ -1,0 +1,43 @@
+{
+    "id": 217521,
+    "name": "Pau Navarro",
+    "firstName": "",
+    "lastName": "Pau Navarro",
+    "dateOfBirth": "2005-04-25",
+    "nationality": "Spain",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 26,
+    "lastUpdated": "2025-02-18T17:35:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-02",
+            "until": "2030-06"
+        }
+    }
+}

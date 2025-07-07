@@ -1,0 +1,43 @@
+{
+    "id": 279752,
+    "name": "Adi Kurti",
+    "firstName": "Adi",
+    "lastName": "Kurti",
+    "dateOfBirth": "2006-01-17",
+    "nationality": "Albania",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-07-02T09:42:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

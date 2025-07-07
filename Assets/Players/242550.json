@@ -1,0 +1,35 @@
+{
+    "id": 242550,
+    "name": "Francesco Camarda",
+    "firstName": "Francesco",
+    "lastName": "Camarda",
+    "dateOfBirth": "2008-03-10",
+    "nationality": "Italy",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2025-05-10T09:41:04Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 11089,
+        "name": "AC Milan II",
+        "shortName": "AC Milan II",
+        "tla": "",
+        "crest": "https://crests.football-data.org/11089.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

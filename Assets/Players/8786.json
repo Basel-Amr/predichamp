@@ -1,0 +1,43 @@
+{
+    "id": 8786,
+    "name": "Jean-Eudes Aholou",
+    "firstName": "Jean-Eudes",
+    "lastName": "Aholou",
+    "dateOfBirth": "1994-03-20",
+    "nationality": "Ivory Coast",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 532,
+        "name": "Angers SCO",
+        "shortName": "Angers SCO",
+        "tla": "ANG",
+        "crest": "https://crests.football-data.org/532.png",
+        "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+        "website": "http://www.angers-sco.fr",
+        "founded": 1919,
+        "clubColors": "Black / White / Gold",
+        "venue": "Stade Raymond Kopa",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

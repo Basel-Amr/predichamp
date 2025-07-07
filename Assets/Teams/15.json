@@ -1,0 +1,267 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 15,
+    "name": "1. FSV Mainz 05",
+    "shortName": "Mainz",
+    "tla": "M05",
+    "crest": "https://crests.football-data.org/15.png",
+    "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+    "website": "http://www.mainz05.de",
+    "founded": 1905,
+    "clubColors": "Red / White",
+    "venue": "Opel Arena",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 23951,
+        "firstName": "Bo",
+        "lastName": "Henriksen",
+        "name": "Bo Henriksen",
+        "dateOfBirth": "1975-02-07",
+        "nationality": "Denmark",
+        "contract": {
+            "start": "2024-02",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 6616,
+            "name": "Robin Zentner",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-10-28",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6985,
+            "name": "Daniel Batz",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-01-12",
+            "nationality": "Germany"
+        },
+        {
+            "id": 170064,
+            "name": "Lasse Rieß",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-07-27",
+            "nationality": "Germany"
+        },
+        {
+            "id": 184976,
+            "name": "Philipp Schulz",
+            "position": "Defence",
+            "dateOfBirth": "2005-05-25",
+            "nationality": "Germany"
+        },
+        {
+            "id": 217349,
+            "name": "Konstantin Schopp",
+            "position": "Defence",
+            "dateOfBirth": "2005-12-30",
+            "nationality": "Austria"
+        },
+        {
+            "id": 114809,
+            "name": "Kaishu Sano",
+            "position": "Midfield",
+            "dateOfBirth": "2000-12-30",
+            "nationality": "Japan"
+        },
+        {
+            "id": 150432,
+            "name": "Paul Nebel",
+            "position": "Midfield",
+            "dateOfBirth": "2002-10-10",
+            "nationality": "Germany"
+        },
+        {
+            "id": 171970,
+            "name": "Ben Bobzien",
+            "position": "Midfield",
+            "dateOfBirth": "2003-04-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 177460,
+            "name": "Nikolas Veratschnig",
+            "position": "Midfield",
+            "dateOfBirth": "2003-01-24",
+            "nationality": "Austria"
+        },
+        {
+            "id": 179889,
+            "name": "Jae-sung Lee",
+            "position": "Midfield",
+            "dateOfBirth": "1992-08-10",
+            "nationality": "South Korea"
+        },
+        {
+            "id": 180775,
+            "name": "Hyun-seok Hong",
+            "position": "Midfield",
+            "dateOfBirth": "1999-06-16",
+            "nationality": "South Korea"
+        },
+        {
+            "id": 250164,
+            "name": "Daniel Gleiber",
+            "position": "Midfield",
+            "dateOfBirth": "2005-02-01",
+            "nationality": "Germany"
+        },
+        {
+            "id": 151458,
+            "name": "Armindo Sieb",
+            "position": "Offence",
+            "dateOfBirth": "2003-02-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 218021,
+            "name": "Kasey Bos",
+            "position": "Offence",
+            "dateOfBirth": null,
+            "nationality": "Australia"
+        },
+        {
+            "id": 38394,
+            "name": "Andreas Hanche-Olsen",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-01-17",
+            "nationality": "Norway"
+        },
+        {
+            "id": 9994,
+            "name": "Maxim Leitsch",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-05-18",
+            "nationality": "Germany"
+        },
+        {
+            "id": 8785,
+            "name": "Anthony Caci",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-07-01",
+            "nationality": "France"
+        },
+        {
+            "id": 8220,
+            "name": "Edimilson Fernandes",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1996-04-15",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 6826,
+            "name": "Lennart Maloney",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-10-08",
+            "nationality": "USA"
+        },
+        {
+            "id": 6707,
+            "name": "Danny da Costa",
+            "position": "Right-Back",
+            "dateOfBirth": "1993-07-13",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6664,
+            "name": "Marco Richter",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1997-11-24",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6620,
+            "name": "Stefan Bell",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-08-24",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6576,
+            "name": "Philipp Mwene",
+            "position": "Left-Back",
+            "dateOfBirth": "1994-01-29",
+            "nationality": "Austria"
+        },
+        {
+            "id": 2114,
+            "name": "Silvan Widmer",
+            "position": "Right-Back",
+            "dateOfBirth": "1993-03-05",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 575,
+            "name": "Arnaud Nordin",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-06-17",
+            "nationality": "France"
+        },
+        {
+            "id": 320,
+            "name": "Nadiem Amiri",
+            "position": "Central Midfield",
+            "dateOfBirth": "1996-10-27",
+            "nationality": "Germany"
+        },
+        {
+            "id": 152,
+            "name": "Dominik Kohr",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-01-31",
+            "nationality": "Germany"
+        },
+        {
+            "id": 248678,
+            "name": "Maxim Dal",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-01-26",
+            "nationality": "Germany"
+        },
+        {
+            "id": 150647,
+            "name": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-05-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 150433,
+            "name": "Niklas Tauer",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-02-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 99812,
+            "name": "Tom Krauß",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-06-22",
+            "nationality": "Germany"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-02-28T07:59:34Z"
+}

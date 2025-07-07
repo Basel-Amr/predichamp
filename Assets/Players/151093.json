@@ -1,0 +1,43 @@
+{
+    "id": 151093,
+    "name": "Brandon Domingues",
+    "firstName": "Brandon",
+    "lastName": "Dominguès",
+    "dateOfBirth": "2000-06-06",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2023-08-22T11:53:32Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 1048,
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "tla": "OVI",
+        "crest": "https://crests.football-data.org/1048.png",
+        "address": "Ricardo Vázquez Prada, s/n Oviedo 33013",
+        "website": "http://www.realoviedo.es",
+        "founded": 1926,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Nuevo Carlos Tartiere",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

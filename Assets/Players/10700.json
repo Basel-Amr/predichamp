@@ -1,0 +1,43 @@
+{
+    "id": 10700,
+    "name": "Pavao Pervan",
+    "firstName": "Pavao",
+    "lastName": "Pervan",
+    "dateOfBirth": "1987-11-13",
+    "nationality": "Austria",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 12,
+    "lastUpdated": "2023-07-30T16:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 11,
+        "name": "VfL Wolfsburg",
+        "shortName": "Wolfsburg",
+        "tla": "WOB",
+        "crest": "https://crests.football-data.org/11.png",
+        "address": "In den Allerwiesen 1 Wolfsburg 38446",
+        "website": "http://www.vfl-wolfsburg.de",
+        "founded": 1945,
+        "clubColors": "Green / White",
+        "venue": "Volkswagen Arena",
+        "runningCompetitions": [
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2018-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 226037,
+    "name": "Rahim Alhassane",
+    "firstName": "Rahim",
+    "lastName": "Alhassane",
+    "dateOfBirth": "2002-01-01",
+    "nationality": "Niger",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 3,
+    "lastUpdated": "2024-01-12T09:41:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 1048,
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "tla": "OVI",
+        "crest": "https://crests.football-data.org/1048.png",
+        "address": "Ricardo Vázquez Prada, s/n Oviedo 33013",
+        "website": "http://www.realoviedo.es",
+        "founded": 1926,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Nuevo Carlos Tartiere",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

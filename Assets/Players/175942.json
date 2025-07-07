@@ -1,0 +1,43 @@
+{
+    "id": 175942,
+    "name": "Kamory Doumbia",
+    "firstName": "Kamory",
+    "lastName": "Doumbia",
+    "dateOfBirth": "2003-02-18",
+    "nationality": "Mali",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-08-12T11:57:17Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 512,
+        "name": "Stade Brestois 29",
+        "shortName": "Brest",
+        "tla": "BRE",
+        "crest": "https://crests.football-data.org/512.png",
+        "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+        "website": "http://www.stade-brestois.com",
+        "founded": 1903,
+        "clubColors": "White / Red",
+        "venue": "Stade Francis-Le Blé",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

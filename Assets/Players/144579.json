@@ -1,0 +1,43 @@
+{
+    "id": 144579,
+    "name": "Pau Victor Delgado",
+    "firstName": "",
+    "lastName": "Pau Víctor",
+    "dateOfBirth": "2001-11-26",
+    "nationality": "Spain",
+    "section": "Centre-Forward",
+    "position": "Midfield",
+    "shirtNumber": 18,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "website": "http://www.fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

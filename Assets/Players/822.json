@@ -1,0 +1,50 @@
+{
+    "id": 822,
+    "name": "Hassane Kamara",
+    "firstName": "Hassane",
+    "lastName": "Kamara",
+    "dateOfBirth": "1994-03-05",
+    "nationality": "Ivory Coast",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-11-06T09:41:47Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 115,
+        "name": "Udinese Calcio",
+        "shortName": "Udinese",
+        "tla": "UDI",
+        "crest": "https://crests.football-data.org/115.png",
+        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
+        "website": "http://www.udinese.it",
+        "founded": 1896,
+        "clubColors": "White / Black",
+        "venue": "Dacia Arena",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

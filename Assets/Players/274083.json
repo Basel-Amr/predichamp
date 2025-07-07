@@ -1,0 +1,43 @@
+{
+    "id": 274083,
+    "name": "Isma Fernández",
+    "firstName": "",
+    "lastName": "Isma Fernández",
+    "dateOfBirth": "2005-07-29",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 23,
+    "lastUpdated": "2025-01-13T09:47:22Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 82,
+        "name": "Getafe CF",
+        "shortName": "Getafe",
+        "tla": "GET",
+        "crest": "https://crests.football-data.org/82.png",
+        "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+        "website": "http://www.getafecf.com",
+        "founded": 1946,
+        "clubColors": "Blue / White",
+        "venue": "Coliseum Alfonso Pérez",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

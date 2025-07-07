@@ -1,0 +1,43 @@
+{
+    "id": 212858,
+    "name": "Santiago Mouriño",
+    "firstName": "Santiago",
+    "lastName": "Mouriño",
+    "dateOfBirth": "2002-02-13",
+    "nationality": "Uruguay",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 12,
+    "lastUpdated": "2024-08-23T10:11:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 263,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/263.png",
+        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+        "website": "http://www.alaves.com",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "Estadio de Mendizorroza",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

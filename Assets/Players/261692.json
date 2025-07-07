@@ -1,0 +1,50 @@
+{
+    "id": 261692,
+    "name": "Dachi Lordkipanidze",
+    "firstName": "Dachi",
+    "lastName": "Lordkipanidze",
+    "dateOfBirth": "2005-03-08",
+    "nationality": "Georgia",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 57,
+    "lastUpdated": "2024-09-27T09:47:11Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 457,
+        "name": "US Cremonese",
+        "shortName": "Cremonese",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/457.png",
+        "address": "Via Persico, 19 Cremona 26100",
+        "website": "http://www.uscremonese.it",
+        "founded": 1903,
+        "clubColors": "Red / Grey",
+        "venue": "Stadio Giovanni Zin",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2027-06"
+        }
+    }
+}

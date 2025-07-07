@@ -1,0 +1,43 @@
+{
+    "id": 188859,
+    "name": "Pablo Duran",
+    "firstName": "",
+    "lastName": "Pablo Durán",
+    "dateOfBirth": "2001-05-25",
+    "nationality": "Spain",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 18,
+    "lastUpdated": "2024-08-23T10:11:37Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 558,
+        "name": "RC Celta de Vigo",
+        "shortName": "Celta",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/558.png",
+        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
+        "website": "http://www.celtavigo.net",
+        "founded": 1923,
+        "clubColors": "Sky Blue / White",
+        "venue": "Estadio de Balaídos",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

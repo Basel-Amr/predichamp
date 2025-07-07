@@ -1,0 +1,267 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 450,
+    "name": "Hellas Verona FC",
+    "shortName": "Verona",
+    "tla": "HVE",
+    "crest": "https://crests.football-data.org/450.png",
+    "address": "Via Evangelista Torricelli, 37 Verona 37136",
+    "website": "http://www.hellasverona.it",
+    "founded": 1903,
+    "clubColors": "Yellow / Blue",
+    "venue": "Stadio Marc'Antonio Bentegodi",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        }
+    ],
+    "coach": {
+        "id": 74290,
+        "firstName": "Paolo",
+        "lastName": "Zanetti",
+        "name": "Paolo Zanetti",
+        "dateOfBirth": "1982-12-16",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2024-06",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 2891,
+            "name": "Lorenzo Montipò",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-02-20",
+            "nationality": "Italy"
+        },
+        {
+            "id": 92090,
+            "name": "Mattia Chiesa",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-07-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 176869,
+            "name": "Giacomo Toniolo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-04-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 178649,
+            "name": "Elia Boseggia",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-02-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 136782,
+            "name": "Luan Patrick",
+            "position": "Defence",
+            "dateOfBirth": "2002-01-20",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 217702,
+            "name": "Edoardo Bernardi",
+            "position": "Defence",
+            "dateOfBirth": "2003-12-12",
+            "nationality": "Italy"
+        },
+        {
+            "id": 264812,
+            "name": "Mattia Rigo",
+            "position": "Defence",
+            "dateOfBirth": "2004-10-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 279752,
+            "name": "Adi Kurti",
+            "position": "Defence",
+            "dateOfBirth": "2006-01-17",
+            "nationality": "Albania"
+        },
+        {
+            "id": 16232,
+            "name": "Mateusz Praszelik",
+            "position": "Midfield",
+            "dateOfBirth": "2000-09-26",
+            "nationality": "Poland"
+        },
+        {
+            "id": 2139,
+            "name": "Kevin Lasagna",
+            "position": "Offence",
+            "dateOfBirth": "1992-08-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 136910,
+            "name": "Stefan Mitrović",
+            "position": "Offence",
+            "dateOfBirth": "2002-08-15",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 140261,
+            "name": "Juan Cruz",
+            "position": "Offence",
+            "dateOfBirth": "1999-07-19",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 158717,
+            "name": "Federico Caia",
+            "position": "Offence",
+            "dateOfBirth": "2003-04-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 171027,
+            "name": "Jackson Tchatchoua",
+            "position": "Offence",
+            "dateOfBirth": "2002-06-22",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 137978,
+            "name": "Tomáš Suslov",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-06-07",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 99512,
+            "name": "Elayis Tavsan",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-04-30",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 77237,
+            "name": "Thomas Henry",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-09-20",
+            "nationality": "France"
+        },
+        {
+            "id": 30533,
+            "name": "Koray Günter",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-08-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 24235,
+            "name": "Martin Frese",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-01-04",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 7763,
+            "name": "Abdou Harroui",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-01-13",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 6629,
+            "name": "Suat Serdar",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-04-11",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6560,
+            "name": "Ondrej Duda",
+            "position": "Central Midfield",
+            "dateOfBirth": "1994-12-15",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 221866,
+            "name": "Nicolò Calabrese",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-11-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 217541,
+            "name": "Mathis Lambourde",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2006-01-09",
+            "nationality": "France"
+        },
+        {
+            "id": 215513,
+            "name": "Nicola Patanè",
+            "position": "Right Midfield",
+            "dateOfBirth": "2004-03-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 203887,
+            "name": "Charlys",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-02-19",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 189152,
+            "name": "Christian Corradi",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 178445,
+            "name": "Daniel Mosquera",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-10-20",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 175919,
+            "name": "Dailon Rocha Livramento",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-05-04",
+            "nationality": "Cape Verde Islands"
+        },
+        {
+            "id": 175894,
+            "name": "Daniel Oyegoke",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-01-03",
+            "nationality": "England"
+        },
+        {
+            "id": 169315,
+            "name": "Yayah Kallon",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-06-30",
+            "nationality": "Sierra Leone"
+        },
+        {
+            "id": 159336,
+            "name": "Jayden Braaf",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-08-31",
+            "nationality": "Netherlands"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:54:02Z"
+}

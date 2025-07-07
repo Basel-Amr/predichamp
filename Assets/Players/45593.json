@@ -1,0 +1,50 @@
+{
+    "id": 45593,
+    "name": "Phillip Tietz",
+    "firstName": "Phillip",
+    "lastName": "Tietz",
+    "dateOfBirth": "1997-07-09",
+    "nationality": "Germany",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 21,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 16,
+        "name": "FC Augsburg",
+        "shortName": "Augsburg",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "address": "Donauwörther Straße 170 Augsburg 86154",
+        "website": "http://www.fcaugsburg.de",
+        "founded": 1907,
+        "clubColors": "Red / Green / White",
+        "venue": "WWK Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

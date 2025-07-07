@@ -1,0 +1,57 @@
+{
+    "id": 279090,
+    "name": "Samuele Inácio",
+    "firstName": "Samuele",
+    "lastName": "Inácio",
+    "dateOfBirth": "2008-04-02",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 40,
+    "lastUpdated": "2025-06-17T09:43:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 4,
+        "name": "Borussia Dortmund",
+        "shortName": "Dortmund",
+        "tla": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "address": "Rheinlanddamm 207-209 Dortmund 44137",
+        "website": "http://www.bvb.de",
+        "founded": 1909,
+        "clubColors": "Black / Yellow",
+        "venue": "Signal Iduna Park",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-06",
+            "until": "2026-06"
+        }
+    }
+}

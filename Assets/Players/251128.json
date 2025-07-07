@@ -1,0 +1,35 @@
+{
+    "id": 251128,
+    "name": "Lorenzo Torriani",
+    "firstName": "Lorenzo",
+    "lastName": "Torriani",
+    "dateOfBirth": "2005-01-31",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 38,
+    "lastUpdated": "2024-07-16T18:37:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 11089,
+        "name": "AC Milan II",
+        "shortName": "AC Milan II",
+        "tla": "",
+        "crest": "https://crests.football-data.org/11089.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2024-07",
+            "until": "2025-06"
+        }
+    }
+}

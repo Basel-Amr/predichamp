@@ -1,0 +1,50 @@
+{
+    "id": 123049,
+    "name": "Jessic Ngankam",
+    "firstName": "Jessic",
+    "lastName": "Ngankam",
+    "dateOfBirth": "2000-07-20",
+    "nationality": "Germany",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-12-13T09:41:28Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 19,
+        "name": "Eintracht Frankfurt",
+        "shortName": "Frankfurt",
+        "tla": "SGE",
+        "crest": "https://crests.football-data.org/19.png",
+        "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
+        "website": "http://www.eintracht.de",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Deutsche Bank Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

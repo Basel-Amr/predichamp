@@ -1,0 +1,43 @@
+{
+    "id": 144643,
+    "name": "Sebastian Nanasi",
+    "firstName": "Sebastian",
+    "lastName": "Nanasi",
+    "dateOfBirth": "2002-05-16",
+    "nationality": "Sweden",
+    "section": "Left Midfield",
+    "position": "Midfield",
+    "shirtNumber": 15,
+    "lastUpdated": "2024-09-02T09:38:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png",
+        "address": "12 Rue Extenwoerth Strasbourg 67000",
+        "website": "http://www.rcstrasbourgalsace.fr",
+        "founded": 1906,
+        "clubColors": "Blue / White",
+        "venue": "Stade de la Meinau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

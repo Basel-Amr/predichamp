@@ -1,0 +1,197 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 511,
+    "name": "Toulouse FC",
+    "shortName": "Toulouse",
+    "tla": "TOU",
+    "crest": "https://crests.football-data.org/511.png",
+    "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+    "website": "http://www.tfc.info",
+    "founded": 1937,
+    "clubColors": "Violet / White",
+    "venue": "Stadium Municipal",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 210420,
+        "firstName": "",
+        "lastName": "Carles Martínez",
+        "name": "Carles Martínez",
+        "dateOfBirth": "1984-01-01",
+        "nationality": "Spain",
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 44055,
+            "name": "Kjetil Haug",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-06-12",
+            "nationality": "Norway"
+        },
+        {
+            "id": 98754,
+            "name": "Álex Domínguez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-07-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 178669,
+            "name": "Guillaume Restes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-03-11",
+            "nationality": "France"
+        },
+        {
+            "id": 260271,
+            "name": "Jaydee Canvot",
+            "position": "Defence",
+            "dateOfBirth": "2006-07-29",
+            "nationality": "France"
+        },
+        {
+            "id": 216718,
+            "name": "Mário Sauer",
+            "position": "Midfield",
+            "dateOfBirth": "2004-05-15",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 260272,
+            "name": "Mathis Saka",
+            "position": "Midfield",
+            "dateOfBirth": "2006-09-20",
+            "nationality": "France"
+        },
+        {
+            "id": 191225,
+            "name": "Saïd Hamulic",
+            "position": "Offence",
+            "dateOfBirth": "2000-11-12",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 250994,
+            "name": "Rafik Messali",
+            "position": "Right Midfield",
+            "dateOfBirth": "2003-04-28",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 212589,
+            "name": "Shavy Warren Babicka",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-06-01",
+            "nationality": "Gabon"
+        },
+        {
+            "id": 204253,
+            "name": "Ilyes Aradj",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-06-05",
+            "nationality": "France"
+        },
+        {
+            "id": 192688,
+            "name": "Aron Dönnum",
+            "position": "Right Midfield",
+            "dateOfBirth": "1998-04-20",
+            "nationality": "Norway"
+        },
+        {
+            "id": 180519,
+            "name": "Warren Kamanzi",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-11-11",
+            "nationality": "Norway"
+        },
+        {
+            "id": 176747,
+            "name": "Frank Magri",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-09-04",
+            "nationality": "France"
+        },
+        {
+            "id": 171438,
+            "name": "Ibrahim Cissoko",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-03-26",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 150797,
+            "name": "Charlie Cresswell",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-12-07",
+            "nationality": "England"
+        },
+        {
+            "id": 81229,
+            "name": "Cristian Cásseres Jr.",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-01-20",
+            "nationality": "Venezuela"
+        },
+        {
+            "id": 81085,
+            "name": "Zakaria Aboukhlal",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-02-18",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 80175,
+            "name": "Yann Gboho",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-01-14",
+            "nationality": "France"
+        },
+        {
+            "id": 77803,
+            "name": "Mark McKenzie",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-25",
+            "nationality": "USA"
+        },
+        {
+            "id": 21385,
+            "name": "Gabriel Suazo",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-08-09",
+            "nationality": "Chile"
+        },
+        {
+            "id": 9490,
+            "name": "Vincent Sierro",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-10-08",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 9455,
+            "name": "Niklas Schmidt",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-03-01",
+            "nationality": "Germany"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-20T08:39:56Z"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 8640,
+    "name": "Abdoulaye Bamba",
+    "firstName": "Abdoulaye",
+    "lastName": "Bamba",
+    "dateOfBirth": "1990-04-25",
+    "nationality": "Ivory Coast",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 25,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 532,
+        "name": "Angers SCO",
+        "shortName": "Angers SCO",
+        "tla": "ANG",
+        "crest": "https://crests.football-data.org/532.png",
+        "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+        "website": "http://www.angers-sco.fr",
+        "founded": 1919,
+        "clubColors": "Black / White / Gold",
+        "venue": "Stade Raymond Kopa",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2017-01",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 3214,
+    "name": "Leandro Paredes",
+    "firstName": "Leandro",
+    "lastName": "Paredes",
+    "dateOfBirth": "1994-06-29",
+    "nationality": "Argentina",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 16,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 100,
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "tla": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "address": "Via di Trigoria km. 3,600 Roma 00128",
+        "website": "http://www.asroma.it",
+        "founded": 1927,
+        "clubColors": "Maroon / Orange / White",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2026-06"
+        }
+    }
+}

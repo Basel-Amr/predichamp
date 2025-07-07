@@ -1,0 +1,43 @@
+{
+    "id": 1797,
+    "name": "Łukasz Skorupski",
+    "firstName": "Łukasz",
+    "lastName": "Skorupski",
+    "dateOfBirth": "1991-05-05",
+    "nationality": "Poland",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2024-11-03T09:41:05Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 103,
+        "name": "Bologna FC 1909",
+        "shortName": "Bologna",
+        "tla": "BOL",
+        "crest": "https://crests.football-data.org/103.png",
+        "address": "Via Casteldebole 10 Bologna 40132",
+        "website": "http://www.bolognafc.it",
+        "founded": 1909,
+        "clubColors": "Red / Blue / White",
+        "venue": "Stadio Renato Dall'Ara",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 9870,
+    "name": "Arnaut Danjuma",
+    "firstName": "Arnaut",
+    "lastName": "Danjuma",
+    "dateOfBirth": "1997-01-31",
+    "nationality": "Netherlands",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

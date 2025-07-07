@@ -1,0 +1,43 @@
+{
+    "id": 33633,
+    "name": "Diego Pampín",
+    "firstName": "",
+    "lastName": "Diego Pampín",
+    "dateOfBirth": "2000-03-15",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 16,
+    "lastUpdated": "2023-07-30T17:06:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

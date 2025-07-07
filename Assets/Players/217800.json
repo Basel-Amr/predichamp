@@ -1,0 +1,43 @@
+{
+    "id": 217800,
+    "name": "Bruno Prati",
+    "firstName": "Bruno",
+    "lastName": "Prati",
+    "dateOfBirth": "2004-04-15",
+    "nationality": "Italy",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-19T09:51:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 99,
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "tla": "FIO",
+        "crest": "https://crests.football-data.org/99.png",
+        "address": "Viale Manfredo Fanti 4 Firenze 50137",
+        "website": "http://www.acffiorentina.it",
+        "founded": 1926,
+        "clubColors": "Purple / White",
+        "venue": "Stadio Artemio Franchi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

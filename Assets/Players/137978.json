@@ -1,0 +1,43 @@
+{
+    "id": 137978,
+    "name": "Tomáš Suslov",
+    "firstName": "Tomáš",
+    "lastName": "Suslov",
+    "dateOfBirth": "2002-06-07",
+    "nationality": "Slovakia",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": 31,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-09",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "area": {
+        "id": 2163,
+        "name": "Netherlands",
+        "code": "NLD",
+        "flag": "https://crests.football-data.org/8601.svg"
+    },
+    "id": 674,
+    "name": "PSV",
+    "shortName": "PSV",
+    "tla": "PSV",
+    "crest": "https://crests.football-data.org/674.png",
+    "address": "Fredriklaan 10a Eindhoven 5616 NH",
+    "website": "http://www.psv.nl",
+    "founded": 1913,
+    "clubColors": "Red / White",
+    "venue": "Philips Stadion",
+    "runningCompetitions": [
+        {
+            "id": 2003,
+            "name": "Eredivisie",
+            "code": "DED",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/ED.png"
+        },
+        {
+            "id": 2110,
+            "name": "Johan Cruijff Schaal",
+            "code": "JCS",
+            "type": "SUPER_CUP",
+            "emblem": null
+        }
+    ],
+    "coach": {
+        "id": 43925,
+        "firstName": "Peter",
+        "lastName": "Bosz",
+        "name": "Peter Bosz",
+        "dateOfBirth": "1963-11-21",
+        "nationality": "Netherlands",
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 7250,
+            "name": "Jo\u00ebl Drommel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-11-16",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7673,
+            "name": "Nick Olij",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-08-01",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 172077,
+            "name": "Niek Schiks",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-02-03",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 165162,
+            "name": "Adamo Nagalo",
+            "position": "Defence",
+            "dateOfBirth": "2002-09-22",
+            "nationality": "Burkina Faso"
+        },
+        {
+            "id": 186380,
+            "name": "Esmir Bajraktarevic",
+            "position": "Midfield",
+            "dateOfBirth": "2005-03-10",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 214386,
+            "name": "Isaac Babadi",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-04-06",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 190468,
+            "name": "Tygo Land",
+            "position": "Central Midfield",
+            "dateOfBirth": "2006-01-11",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 184642,
+            "name": "Ryan Flamingo",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-12-31",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 154110,
+            "name": "Johan Bakayoko",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-04-20",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 150536,
+            "name": "Couhaib Driouech",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-04-17",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 144470,
+            "name": "Malik Tillman",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-05-28",
+            "nationality": "USA"
+        },
+        {
+            "id": 130173,
+            "name": "Ismael Saibari",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-01-28",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 119731,
+            "name": "Ricardo Pepi",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-01-09",
+            "nationality": "USA"
+        },
+        {
+            "id": 97534,
+            "name": "Sergi\u00f1o Dest",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-11-03",
+            "nationality": "USA"
+        },
+        {
+            "id": 53426,
+            "name": "Joey Veerman",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-11-19",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 9770,
+            "name": "Jerdy Schouten",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-01-12",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7688,
+            "name": "Guus Til",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1997-12-22",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7565,
+            "name": "Noa Lang",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-06-17",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7451,
+            "name": "Mauro J\u00fanior",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-05-06",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 7443,
+            "name": "Armando Obispo",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-03-05",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 2004,
+            "name": "Ivan Peri\u0161i\u0107",
+            "position": "Left Winger",
+            "dateOfBirth": "1989-02-02",
+            "nationality": "Croatia"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-03-06T09:30:40Z"
+}

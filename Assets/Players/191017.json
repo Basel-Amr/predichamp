@@ -1,0 +1,43 @@
+{
+    "id": 191017,
+    "name": "Antoine Joujou",
+    "firstName": "Antoine",
+    "lastName": "Joujou",
+    "dateOfBirth": "2003-03-12",
+    "nationality": "France",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 112,
+        "name": "Parma Calcio 1913",
+        "shortName": "Parma",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/112.png",
+        "address": "Strada Carlo Pisacane, 4 Parma 43121",
+        "website": "http://www.parmacalcio1913.com",
+        "founded": 1913,
+        "clubColors": "White / Black",
+        "venue": "Stadio Ennio Tardini",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

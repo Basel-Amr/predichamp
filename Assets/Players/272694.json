@@ -1,0 +1,43 @@
+{
+    "id": 272694,
+    "name": "Ángel Ortiz",
+    "firstName": "",
+    "lastName": "Ángel Ortiz",
+    "dateOfBirth": "2004-07-25",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 40,
+    "lastUpdated": "2024-11-08T09:46:08Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+        "website": "http://www.realbetisbalompie.es",
+        "founded": 1907,
+        "clubColors": "Green / White",
+        "venue": "Estadio Benito Villamarín",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-11",
+            "until": "2029-06"
+        }
+    }
+}

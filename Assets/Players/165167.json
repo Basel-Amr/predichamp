@@ -1,0 +1,43 @@
+{
+    "id": 165167,
+    "name": "Pablo Cuñat",
+    "firstName": "",
+    "lastName": "Pablo Cuñat",
+    "dateOfBirth": "2002-04-28",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2024-05-08T11:15:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

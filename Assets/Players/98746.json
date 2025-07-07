@@ -1,0 +1,50 @@
+{
+    "id": 98746,
+    "name": "Nathan N'Goumou",
+    "firstName": "Nathan",
+    "lastName": "Ngoumou",
+    "dateOfBirth": "2000-03-14",
+    "nationality": "Cameroon",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": 19,
+    "lastUpdated": "2025-06-15T09:41:01Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 18,
+        "name": "Borussia Mönchengladbach",
+        "shortName": "M'gladbach",
+        "tla": "BMG",
+        "crest": "https://crests.football-data.org/18.png",
+        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+        "website": "http://www.borussia.de",
+        "founded": 1900,
+        "clubColors": "Black / White / Green",
+        "venue": "Stadion im Borussia-Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-08",
+            "until": "2027-06"
+        }
+    }
+}

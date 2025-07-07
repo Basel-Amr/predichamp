@@ -1,0 +1,50 @@
+{
+    "id": 264835,
+    "name": "Michele Bigonzoni",
+    "firstName": "Michele",
+    "lastName": "Bigonzoni",
+    "dateOfBirth": "2004-05-31",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-22T09:50:22Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 457,
+        "name": "US Cremonese",
+        "shortName": "Cremonese",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/457.png",
+        "address": "Via Persico, 19 Cremona 26100",
+        "website": "http://www.uscremonese.it",
+        "founded": 1903,
+        "clubColors": "Red / Grey",
+        "venue": "Stadio Giovanni Zin",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

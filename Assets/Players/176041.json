@@ -1,0 +1,43 @@
+{
+    "id": 176041,
+    "name": "Cesar Tarrega",
+    "firstName": "",
+    "lastName": "César Tárrega",
+    "dateOfBirth": "2002-02-26",
+    "nationality": "Spain",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 15,
+    "lastUpdated": "2024-08-23T09:42:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png",
+        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+        "website": "http://www.valenciacf.com",
+        "founded": 1919,
+        "clubColors": "White / Orange / Black",
+        "venue": "Estadio de Mestalla",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

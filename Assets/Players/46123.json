@@ -1,0 +1,43 @@
+{
+    "id": 46123,
+    "name": "Nahuel Tenaglia",
+    "firstName": "Facundo",
+    "lastName": "Tenaglia",
+    "dateOfBirth": "1996-02-21",
+    "nationality": "Argentina",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 14,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 263,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/263.png",
+        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+        "website": "http://www.alaves.com",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "Estadio de Mendizorroza",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+[2025-07-06 22:18:14] ✅ PL: 380 matches saved.
+[2025-07-06 22:18:18] ✅ SA: 380 matches saved.
+[2025-07-06 22:18:22] ✅ FL1: 306 matches saved.
+[2025-07-06 22:18:26] ❌ Failed PPL - Reason: 404 Client Error:  for url: https://api.football-data.org/v4/competitions/PPL/matches?season=2025
+[2025-07-06 22:18:29] ✅ BL1: 306 matches saved.
+[2025-07-06 22:18:32] 🔁 Match fetch complete.
+[2025-07-06 22:21:15] ✅ PD: 380 matches saved.
+[2025-07-06 22:21:18] 🔁 Match fetch complete.
+[2025-07-06 22:27:18] ✅ PD: 380 matches saved.
+[2025-07-06 22:27:21] 🔁 Match fetch complete.
+[2025-07-06 23:09:10] ✅ PD: 380 matches inserted.
+[2025-07-06 23:09:15] ✅ FL1: 306 matches inserted.
+[2025-07-06 23:09:21] ✅ SA: 380 matches inserted.
+[2025-07-06 23:09:27] ✅ PL: 380 matches inserted.
+[2025-07-06 23:09:33] ✅ BL1: 306 matches inserted.
+[2025-07-06 23:09:34] 🎯 All leagues fetched and saved.

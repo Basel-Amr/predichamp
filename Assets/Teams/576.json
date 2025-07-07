@@ -1,0 +1,267 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 576,
+    "name": "RC Strasbourg Alsace",
+    "shortName": "Strasbourg",
+    "tla": "RC ",
+    "crest": "https://crests.football-data.org/576.png",
+    "address": "12 Rue Extenwoerth Strasbourg 67000",
+    "website": "http://www.rcstrasbourgalsace.fr",
+    "founded": 1906,
+    "clubColors": "Blue / White",
+    "venue": "Stade de la Meinau",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 8262,
+        "firstName": "Liam",
+        "lastName": "Rosenior",
+        "name": "Liam Rosenior",
+        "dateOfBirth": "1984-07-09",
+        "nationality": "England",
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 188389,
+            "name": "Robin Risser",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-12-02",
+            "nationality": "France"
+        },
+        {
+            "id": 205508,
+            "name": "Kalle Johnsson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-01-28",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 135473,
+            "name": "Guela Doué",
+            "position": "Defence",
+            "dateOfBirth": "2002-10-17",
+            "nationality": "France"
+        },
+        {
+            "id": 192686,
+            "name": "Pape Diop",
+            "position": "Midfield",
+            "dateOfBirth": "2003-09-04",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 166244,
+            "name": "Dion Moise Sahi",
+            "position": "Offence",
+            "dateOfBirth": "2001-12-20",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 182441,
+            "name": "Oscar Perea",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-09-27",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 182297,
+            "name": "Abakar Sylla",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-12-25",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 182192,
+            "name": "Diego Moreira",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-08-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 182091,
+            "name": "Junior Mwanga",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-05-11",
+            "nationality": "France"
+        },
+        {
+            "id": 171406,
+            "name": "Felix Lemarechal",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-08-07",
+            "nationality": "France"
+        },
+        {
+            "id": 170261,
+            "name": "Valentin Barco",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-07-23",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 151552,
+            "name": "Sekou Mara",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-07-30",
+            "nationality": "France"
+        },
+        {
+            "id": 151295,
+            "name": "Dilane Bakwa",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-08-26",
+            "nationality": "France"
+        },
+        {
+            "id": 150599,
+            "name": "Emanuel Emegha",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-02-03",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 149920,
+            "name": "Andrew Omobamidele",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-06-23",
+            "nationality": "Ireland"
+        },
+        {
+            "id": 149127,
+            "name": "Saïdou Sow",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-07-04",
+            "nationality": "Guinea"
+        },
+        {
+            "id": 147878,
+            "name": "Ismaël Doukouré",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-07-24",
+            "nationality": "France"
+        },
+        {
+            "id": 144643,
+            "name": "Sebastian Nanasi",
+            "position": "Left Midfield",
+            "dateOfBirth": "2002-05-16",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 16213,
+            "name": "Eduard Sobol",
+            "position": "Left-Back",
+            "dateOfBirth": "1995-04-20",
+            "nationality": "Ukraine"
+        },
+        {
+            "id": 271961,
+            "name": "Rayane Messi",
+            "position": "Left Winger",
+            "dateOfBirth": "2007-05-23",
+            "nationality": "France"
+        },
+        {
+            "id": 270889,
+            "name": "Abdoul Ouattara",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-10-22",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 261041,
+            "name": "Pape Diong",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2006-06-15",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 252873,
+            "name": "Tidiane Diallo",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-05-28",
+            "nationality": "France"
+        },
+        {
+            "id": 252843,
+            "name": "Vignon Ouotro",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-09-13",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 249100,
+            "name": "Aboubacar Ali",
+            "position": "Left Winger",
+            "dateOfBirth": "2006-04-02",
+            "nationality": "France"
+        },
+        {
+            "id": 246704,
+            "name": "Rabby Nzingoula",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2005-11-25",
+            "nationality": "France"
+        },
+        {
+            "id": 246110,
+            "name": "Milos Lukovic",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-11-18",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 245388,
+            "name": "Mohamed Bechikh",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-07-13",
+            "nationality": "France"
+        },
+        {
+            "id": 229415,
+            "name": "Jérémy Sebas",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-04-14",
+            "nationality": "Martinique"
+        },
+        {
+            "id": 212863,
+            "name": "Steven Baseya",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-01-14",
+            "nationality": "France"
+        },
+        {
+            "id": 206809,
+            "name": "Samuel Amo-Ameyaw",
+            "position": "Right Winger",
+            "dateOfBirth": "2006-07-18",
+            "nationality": "England"
+        },
+        {
+            "id": 204280,
+            "name": "Yoni Gomis",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-09-23",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:40:46Z"
+}

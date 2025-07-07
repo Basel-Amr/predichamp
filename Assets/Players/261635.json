@@ -1,0 +1,50 @@
+{
+    "id": 261635,
+    "name": "Fellipe Jack",
+    "firstName": "",
+    "lastName": "Fellipe Jack",
+    "dateOfBirth": "2006-01-12",
+    "nationality": "Italy",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 15,
+    "lastUpdated": "2025-05-20T09:42:45Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 7397,
+        "name": "Como 1907",
+        "shortName": "Como 1907",
+        "tla": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "address": "Viale Sinigaglia 2 Como 22100",
+        "website": "http://www.como1907.net/",
+        "founded": 1907,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio Giuseppe Sinigaglia",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

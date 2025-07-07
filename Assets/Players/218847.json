@@ -1,0 +1,50 @@
+{
+    "id": 218847,
+    "name": "Ali Jassim El-Aibi",
+    "firstName": "Ali",
+    "lastName": "Jasim",
+    "dateOfBirth": "2004-01-20",
+    "nationality": "Iraq",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T10:11:39Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 7397,
+        "name": "Como 1907",
+        "shortName": "Como 1907",
+        "tla": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "address": "Viale Sinigaglia 2 Como 22100",
+        "website": "http://www.como1907.net/",
+        "founded": 1907,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio Giuseppe Sinigaglia",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

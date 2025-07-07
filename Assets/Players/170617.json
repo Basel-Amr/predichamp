@@ -1,0 +1,43 @@
+{
+    "id": 170617,
+    "name": "Andy Irving",
+    "firstName": "Andy",
+    "lastName": "Irving",
+    "dateOfBirth": "2000-05-13",
+    "nationality": "Scotland",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 39,
+    "lastUpdated": "2024-08-23T10:11:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 563,
+        "name": "West Ham United FC",
+        "shortName": "West Ham",
+        "tla": "WHU",
+        "crest": "https://crests.football-data.org/563.png",
+        "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+        "website": "http://www.whufc.com",
+        "founded": 1895,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "London Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

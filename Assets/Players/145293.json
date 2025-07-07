@@ -1,0 +1,50 @@
+{
+    "id": 145293,
+    "name": "Yuito Suzuki",
+    "firstName": "Yuito",
+    "lastName": "Suzuki",
+    "dateOfBirth": "2001-10-25",
+    "nationality": "Japan",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-08-22T09:24:52Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 17,
+        "name": "SC Freiburg",
+        "shortName": "Freiburg",
+        "tla": "SCF",
+        "crest": "https://crests.football-data.org/17.png",
+        "address": "Schwarzwaldstraße 193 Freiburg 79117",
+        "website": "http://www.scfreiburg.com",
+        "founded": 1912,
+        "clubColors": "Red / White",
+        "venue": "Schwarzwald-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

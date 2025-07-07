@@ -1,0 +1,50 @@
+{
+    "id": 124620,
+    "name": "Lucas Da Cunha",
+    "firstName": "Lucas",
+    "lastName": "Da Cunha",
+    "dateOfBirth": "2001-06-09",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Offence",
+    "shirtNumber": 33,
+    "lastUpdated": "2025-02-18T17:35:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 7397,
+        "name": "Como 1907",
+        "shortName": "Como 1907",
+        "tla": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "address": "Viale Sinigaglia 2 Como 22100",
+        "website": "http://www.como1907.net/",
+        "founded": 1907,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio Giuseppe Sinigaglia",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-01",
+            "until": "2029-06"
+        }
+    }
+}

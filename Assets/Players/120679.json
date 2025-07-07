@@ -1,0 +1,50 @@
+{
+    "id": 120679,
+    "name": "Nikola Krstović",
+    "firstName": "Nikola",
+    "lastName": "Krstović",
+    "dateOfBirth": "2000-04-05",
+    "nationality": "Montenegro",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 5890,
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/5890.png",
+        "address": "Via Templari 11 Lecce 73100",
+        "website": "http://www.uslecce.it",
+        "founded": 1908,
+        "clubColors": "Yellow / Red / Navy Blue",
+        "venue": "Stadio Comunale Via Del Mare",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2027-06"
+        }
+    }
+}

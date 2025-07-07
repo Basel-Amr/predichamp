@@ -1,0 +1,50 @@
+{
+    "id": 63207,
+    "name": "Attila Szalai",
+    "firstName": "Attila",
+    "lastName": "Szalai",
+    "dateOfBirth": "1998-01-20",
+    "nationality": "Hungary",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 2,
+        "name": "TSG 1899 Hoffenheim",
+        "shortName": "Hoffenheim",
+        "tla": "TSG",
+        "crest": "https://crests.football-data.org/2.png",
+        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+        "website": "http://www.achtzehn99.de",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "PreZero Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

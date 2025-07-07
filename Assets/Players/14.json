@@ -1,0 +1,50 @@
+{
+    "id": 14,
+    "name": "Antonio Sanabria",
+    "firstName": "Antonio",
+    "lastName": "Sanabria",
+    "dateOfBirth": "1996-03-04",
+    "nationality": "Paraguay",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2025-06-02T09:43:20Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 586,
+        "name": "Torino FC",
+        "shortName": "Torino",
+        "tla": "TOR",
+        "crest": "https://crests.football-data.org/586.png",
+        "address": "Via Arcivescovado 1 Torino 10122",
+        "website": "http://www.torinofc.it",
+        "founded": 1894,
+        "clubColors": "Brown / White",
+        "venue": "Stadio Olimpico di Torino",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 32570,
+    "name": "Unai Simón",
+    "firstName": "",
+    "lastName": "Unai Simón",
+    "dateOfBirth": "1997-06-11",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2019-07",
+            "until": "2029-06"
+        }
+    }
+}

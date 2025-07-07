@@ -1,0 +1,43 @@
+{
+    "id": 7899,
+    "name": "Daley Blind",
+    "firstName": "Daley",
+    "lastName": "Blind",
+    "dateOfBirth": "1990-03-09",
+    "nationality": "Netherlands",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 17,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 298,
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "tla": "GIR",
+        "crest": "https://crests.football-data.org/298.png",
+        "address": "Avinguda de Montilivi, 141 Girona 17003",
+        "website": "http://www.gironafc.cat",
+        "founded": 1930,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadi Municipal de Montilivi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

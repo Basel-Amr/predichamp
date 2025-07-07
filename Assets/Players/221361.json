@@ -1,0 +1,43 @@
+{
+    "id": 221361,
+    "name": "Aliou Thiare",
+    "firstName": "Aliou",
+    "lastName": "Thiaré",
+    "dateOfBirth": "2003-12-20",
+    "nationality": "Senegal",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 25,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 520,
+        "name": "AS Nancy-Lorraine",
+        "shortName": "Nancy",
+        "tla": "ASN",
+        "crest": "https://crests.football-data.org/520.png",
+        "address": "90 Boulevard Jean Jaurès Tomblaine 54510",
+        "website": "http://www.asnl.net",
+        "founded": 1967,
+        "clubColors": "Red / White",
+        "venue": "Stade Marcel-Picot (annexe 2)",
+        "runningCompetitions": [
+            {
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL2.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2025-06"
+        }
+    }
+}

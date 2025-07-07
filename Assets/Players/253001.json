@@ -1,0 +1,43 @@
+{
+    "id": 253001,
+    "name": "Javi Rueda",
+    "firstName": "",
+    "lastName": "Javi Rueda",
+    "dateOfBirth": "2002-05-08",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 558,
+        "name": "RC Celta de Vigo",
+        "shortName": "Celta",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/558.png",
+        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
+        "website": "http://www.celtavigo.net",
+        "founded": 1923,
+        "clubColors": "Sky Blue / White",
+        "venue": "Estadio de Balaídos",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

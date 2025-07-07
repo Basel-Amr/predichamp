@@ -1,0 +1,43 @@
+{
+    "id": 191225,
+    "name": "Saïd Hamulic",
+    "firstName": "Saïd",
+    "lastName": "Hamulić",
+    "dateOfBirth": "2000-11-12",
+    "nationality": "Bosnia-Herzegovina",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-07-01T09:42:34Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 511,
+        "name": "Toulouse FC",
+        "shortName": "Toulouse",
+        "tla": "TOU",
+        "crest": "https://crests.football-data.org/511.png",
+        "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+        "website": "http://www.tfc.info",
+        "founded": 1937,
+        "clubColors": "Violet / White",
+        "venue": "Stadium Municipal",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

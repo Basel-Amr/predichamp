@@ -1,0 +1,57 @@
+{
+    "id": 156949,
+    "name": "Mohamed Sankoh",
+    "firstName": "Mohamed",
+    "lastName": "Sankoh",
+    "dateOfBirth": "2003-10-16",
+    "nationality": "Netherlands",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 53,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 10,
+        "name": "VfB Stuttgart",
+        "shortName": "Stuttgart",
+        "tla": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "address": "Mercedesstraße 109 Stuttgart 70372",
+        "website": "http://www.vfb.de",
+        "founded": 1893,
+        "clubColors": "White / Red",
+        "venue": "Mercedes-Benz Arena",
+        "runningCompetitions": [
+            {
+                "id": 2134,
+                "name": "DFL Super Cup",
+                "code": "GSC",
+                "type": "SUPER_CUP",
+                "emblem": null
+            },
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 79776,
+    "name": "Dominik Greif",
+    "firstName": "Dominik",
+    "lastName": "Greif",
+    "dateOfBirth": "1997-04-06",
+    "nationality": "Slovakia",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:46Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 89,
+        "name": "RCD Mallorca",
+        "shortName": "Mallorca",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/89.png",
+        "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+        "website": "http://www.rcdmallorca.es",
+        "founded": 1916,
+        "clubColors": "Red / Black",
+        "venue": "Iberostar Estadi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

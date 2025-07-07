@@ -1,0 +1,50 @@
+{
+    "id": 274043,
+    "name": "Cristian Pehlivanov",
+    "firstName": "Cristian",
+    "lastName": "Pehlivanov",
+    "dateOfBirth": "2006-11-01",
+    "nationality": "Bulgaria",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 26,
+    "lastUpdated": "2025-01-12T09:44:10Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 5890,
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/5890.png",
+        "address": "Via Templari 11 Lecce 73100",
+        "website": "http://www.uslecce.it",
+        "founded": 1908,
+        "clubColors": "Yellow / Red / Navy Blue",
+        "venue": "Stadio Comunale Via Del Mare",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2027-06"
+        }
+    }
+}

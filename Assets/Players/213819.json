@@ -1,0 +1,50 @@
+{
+    "id": 213819,
+    "name": "Henrik Meister",
+    "firstName": "Henrik",
+    "lastName": "Meister",
+    "dateOfBirth": "2003-11-17",
+    "nationality": "Denmark",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 14,
+    "lastUpdated": "2024-10-10T09:42:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 487,
+        "name": "AC Pisa 1909",
+        "shortName": "AC Pisa",
+        "tla": "PIS",
+        "crest": "https://crests.football-data.org/487.png",
+        "address": "Piazza della Stazione 22 (scala A) Pisa null",
+        "website": "http://www.pisachannel.tv",
+        "founded": 1909,
+        "clubColors": "Blue / Black",
+        "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-12"
+        }
+    }
+}

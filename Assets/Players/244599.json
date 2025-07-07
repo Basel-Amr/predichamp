@@ -1,0 +1,43 @@
+{
+    "id": 244599,
+    "name": "Mikel Jauregizar",
+    "firstName": "",
+    "lastName": "Mikel Jauregizar",
+    "dateOfBirth": "2003-11-13",
+    "nationality": "Spain",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 23,
+    "lastUpdated": "2025-02-20T09:42:20Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2025-06"
+        }
+    }
+}

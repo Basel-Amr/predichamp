@@ -1,0 +1,43 @@
+{
+    "id": 113375,
+    "name": "Wilfried Singo",
+    "firstName": "Wilfried",
+    "lastName": "Singo",
+    "dateOfBirth": "2000-12-25",
+    "nationality": "Ivory Coast",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 17,
+    "lastUpdated": "2024-11-05T12:57:20Z",
+    "currentTeam": {
+        "area": {
+            "id": 2152,
+            "name": "Monaco",
+            "code": "MCO",
+            "flag": null
+        },
+        "id": 548,
+        "name": "AS Monaco FC",
+        "shortName": "Monaco",
+        "tla": "ASM",
+        "crest": "https://crests.football-data.org/548.png",
+        "address": "Avenue des Castellans Monaco 98000",
+        "website": "http://www.asmonaco.com",
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Stade Louis II.",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2028-06"
+        }
+    }
+}

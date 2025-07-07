@@ -1,0 +1,281 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 115,
+    "name": "Udinese Calcio",
+    "shortName": "Udinese",
+    "tla": "UDI",
+    "crest": "https://crests.football-data.org/115.png",
+    "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
+    "website": "http://www.udinese.it",
+    "founded": 1896,
+    "clubColors": "White / Black",
+    "venue": "Dacia Arena",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 105451,
+        "firstName": "Kosta",
+        "lastName": "Runjaic",
+        "name": "Kosta Runjaić",
+        "dateOfBirth": "1971-06-04",
+        "nationality": "Germany",
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 1993,
+            "name": "Daniele Padelli",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1985-10-25",
+            "nationality": "Italy"
+        },
+        {
+            "id": 65480,
+            "name": "Maduka Okoye",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-08-28",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 141480,
+            "name": "Razvan Sava",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-06-21",
+            "nationality": "Romania"
+        },
+        {
+            "id": 172425,
+            "name": "Nicolo Bertola",
+            "position": "Defence",
+            "dateOfBirth": "2003-03-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 3370,
+            "name": "Florian Thauvin",
+            "position": "Offence",
+            "dateOfBirth": "1993-01-26",
+            "nationality": "France"
+        },
+        {
+            "id": 204345,
+            "name": "Vivaldo Semedo",
+            "position": "Offence",
+            "dateOfBirth": "2005-01-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 84493,
+            "name": "Vakoun Issouf Bayo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-01-10",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 80753,
+            "name": "Sekou Diawara",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-02-08",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 45711,
+            "name": "Martín Payero",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-09-11",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 40305,
+            "name": "Lorenzo Lucca",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-09-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 31065,
+            "name": "Jesper Karlström",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-06-21",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 10887,
+            "name": "Sandi Lovric",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-03-28",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 8462,
+            "name": "Oumar Solet",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-02-07",
+            "nationality": "France"
+        },
+        {
+            "id": 7911,
+            "name": "Alexis Sánchez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1988-12-19",
+            "nationality": "Chile"
+        },
+        {
+            "id": 7710,
+            "name": "Kingsley Ehizibue",
+            "position": "Right-Back",
+            "dateOfBirth": "1995-05-25",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7567,
+            "name": "Jurgen Ekkelenkamp",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-04-05",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 3896,
+            "name": "Keinan Davis",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-02-13",
+            "nationality": "England"
+        },
+        {
+            "id": 1360,
+            "name": "Brenner",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-01-16",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 822,
+            "name": "Hassane Kamara",
+            "position": "Left-Back",
+            "dateOfBirth": "1994-03-05",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 777,
+            "name": "Enzo Ebosse",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-03-11",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 252872,
+            "name": "Matteo Palma",
+            "position": "Centre-Back",
+            "dateOfBirth": "2008-03-13",
+            "nationality": "Germany"
+        },
+        {
+            "id": 215588,
+            "name": "David Pejičić",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2007-06-14",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 187208,
+            "name": "James Abankwah",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-01-16",
+            "nationality": "Ireland"
+        },
+        {
+            "id": 182205,
+            "name": "Simone Pafundi",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-03-14",
+            "nationality": "Italy"
+        },
+        {
+            "id": 178884,
+            "name": "Damian Pizarro",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-03-28",
+            "nationality": "Chile"
+        },
+        {
+            "id": 175906,
+            "name": "Iker Bravo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-01-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 171300,
+            "name": "Goncalo Esteves",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-02-27",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 169269,
+            "name": "Lautaro Giannetti",
+            "position": "Centre-Back",
+            "dateOfBirth": "1993-11-13",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 151299,
+            "name": "Thomas Kristensen",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-01-17",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 151117,
+            "name": "Rui Modesto",
+            "position": "Right Midfield",
+            "dateOfBirth": "1999-10-07",
+            "nationality": "Angola"
+        },
+        {
+            "id": 150522,
+            "name": "Oier Zarraga",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-01-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 136145,
+            "name": "Marco Ballarini",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-03-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 99311,
+            "name": "Jordan Zemura",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-11-14",
+            "nationality": "Zimbabwe"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-24T07:45:52Z"
+}

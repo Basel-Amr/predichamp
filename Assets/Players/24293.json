@@ -1,0 +1,35 @@
+{
+    "id": 24293,
+    "name": "Oliver Christensen",
+    "firstName": "Oliver",
+    "lastName": "Christensen",
+    "dateOfBirth": "1999-03-22",
+    "nationality": "Denmark",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 53,
+    "lastUpdated": "2023-07-30T19:59:24Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 455,
+        "name": "US Salernitana 1919",
+        "shortName": "Salernitana",
+        "tla": "SAL",
+        "crest": "https://crests.football-data.org/455.png",
+        "address": "Via San Leonardo, 51 Salerno 84131",
+        "website": "http://www.ussalernitana1919.it",
+        "founded": 1919,
+        "clubColors": null,
+        "venue": "Stadio Arechi",
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-06"
+        }
+    }
+}

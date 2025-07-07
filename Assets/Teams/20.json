@@ -1,0 +1,162 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 20,
+    "name": "FC St. Pauli 1910",
+    "shortName": "St. Pauli",
+    "tla": "STP",
+    "crest": "https://crests.football-data.org/20.png",
+    "address": "Auf dem Heiligengeistfeld Hamburg 20359",
+    "website": "http://www.fcstpauli.de",
+    "founded": 1910,
+    "clubColors": "Brown / White",
+    "venue": "Millerntor-Stadion",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 144549,
+        "firstName": "Alexander",
+        "lastName": "Blessin",
+        "name": "Alexander Blessin",
+        "dateOfBirth": "1973-05-28",
+        "nationality": "Germany",
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 217277,
+            "name": "Simon Spari",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-06-16",
+            "nationality": "Austria"
+        },
+        {
+            "id": 179671,
+            "name": "Fin Stevens",
+            "position": "Defence",
+            "dateOfBirth": "2003-04-10",
+            "nationality": "Wales"
+        },
+        {
+            "id": 212779,
+            "name": "Jannik Robatsch",
+            "position": "Defence",
+            "dateOfBirth": "2004-12-28",
+            "nationality": "Austria"
+        },
+        {
+            "id": 128962,
+            "name": "Ricky Jade-Jones",
+            "position": "Midfield",
+            "dateOfBirth": "2001-06-24",
+            "nationality": "England"
+        },
+        {
+            "id": 130135,
+            "name": "Joel Fujita",
+            "position": "Midfield",
+            "dateOfBirth": "2002-02-16",
+            "nationality": "Japan"
+        },
+        {
+            "id": 132639,
+            "name": "Arkadiusz Pyrka",
+            "position": "Midfield",
+            "dateOfBirth": "2002-09-20",
+            "nationality": "Poland"
+        },
+        {
+            "id": 238083,
+            "name": "Muhammad Dahaba",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-03-07",
+            "nationality": "Germany"
+        },
+        {
+            "id": 227002,
+            "name": "Romeo Aigbekaen",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-06-22",
+            "nationality": "Germany"
+        },
+        {
+            "id": 102498,
+            "name": "Manolis Saliakas",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-09-12",
+            "nationality": "Greece"
+        },
+        {
+            "id": 101202,
+            "name": "David Nemeth",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-03-18",
+            "nationality": "Austria"
+        },
+        {
+            "id": 77783,
+            "name": "James Sands",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-07-06",
+            "nationality": "USA"
+        },
+        {
+            "id": 45318,
+            "name": "Maurides",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-03-10",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 31926,
+            "name": "Eric Smith",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-01-08",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 8226,
+            "name": "Oladapo Afolayan",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-02-12",
+            "nationality": "England"
+        },
+        {
+            "id": 7649,
+            "name": "Karol Mets",
+            "position": "Centre-Back",
+            "dateOfBirth": "1993-05-16",
+            "nationality": "Estonia"
+        },
+        {
+            "id": 722,
+            "name": "Mathias Pereira Lage",
+            "position": "Left Winger",
+            "dateOfBirth": "1996-11-30",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-07-12T12:08:57Z"
+}

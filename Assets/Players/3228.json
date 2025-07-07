@@ -1,0 +1,57 @@
+{
+    "id": 3228,
+    "name": "Philippe Coutinho",
+    "firstName": "",
+    "lastName": "Philippe Coutinho",
+    "dateOfBirth": "1992-06-12",
+    "nationality": "Brazil",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "id": 1780,
+        "name": "CR Vasco da Gama",
+        "shortName": "Vasco da Gama",
+        "tla": "VAS",
+        "crest": "https://crests.football-data.org/1780.png",
+        "address": "Rua Gen. Almério de Moura 131, Bairro Vasco da Gama Rio de Janeiro, RJ 20921-060",
+        "website": "http://www.vasco.com.br",
+        "founded": 1898,
+        "clubColors": "Black / White",
+        "venue": "Estádio Club de Regatas Vasco da Gama",
+        "runningCompetitions": [
+            {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
+            },
+            {
+                "id": 2081,
+                "name": "Copa Sudamericana",
+                "code": "CS",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2037,
+                "name": "Copa do Brasil",
+                "code": "CDB",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

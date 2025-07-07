@@ -1,0 +1,43 @@
+{
+    "id": 2475,
+    "name": "Ivan Provedel",
+    "firstName": "Ivan",
+    "lastName": "Provedel",
+    "dateOfBirth": "1994-03-17",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 94,
+    "lastUpdated": "2024-03-25T09:41:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png",
+        "address": "Via di Santa Cornelia, 1000 Formello 00060",
+        "website": "http://www.sslazio.it",
+        "founded": 1900,
+        "clubColors": "White / Sky Blue",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-08",
+            "until": "2027-06"
+        }
+    }
+}

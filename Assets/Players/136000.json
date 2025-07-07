@@ -1,0 +1,43 @@
+{
+    "id": 136000,
+    "name": "Jesús Areso",
+    "firstName": "",
+    "lastName": "Areso",
+    "dateOfBirth": "1999-07-02",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 12,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png",
+        "address": "Calle del Sadar, s/n Pamplona 31006",
+        "website": "http://www.osasuna.es",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Estadio El Sadar",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

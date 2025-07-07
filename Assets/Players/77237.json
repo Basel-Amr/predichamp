@@ -1,0 +1,43 @@
+{
+    "id": 77237,
+    "name": "Thomas Henry",
+    "firstName": "Thomas",
+    "lastName": "Henry",
+    "dateOfBirth": "1994-09-20",
+    "nationality": "France",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
+        },
+        "id": 1866,
+        "name": "Royal Standard de Liège",
+        "shortName": "Standard Liège",
+        "tla": "STA",
+        "crest": "https://crests.football-data.org/1866.png",
+        "address": "Rue de la Centrale, 2 Liège 4000",
+        "website": "http://www.standard.be",
+        "founded": 1898,
+        "clubColors": "Red / White",
+        "venue": "Stade Maurice Dufrasne",
+        "runningCompetitions": [
+            {
+                "id": 2009,
+                "name": "Jupiler Pro League",
+                "code": "BJL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bjl.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

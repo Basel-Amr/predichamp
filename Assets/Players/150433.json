@@ -1,0 +1,50 @@
+{
+    "id": 150433,
+    "name": "Niklas Tauer",
+    "firstName": "Niklas",
+    "lastName": "Tauer",
+    "dateOfBirth": "2001-02-17",
+    "nationality": "Germany",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-09-02T09:59:04Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 15,
+        "name": "1. FSV Mainz 05",
+        "shortName": "Mainz",
+        "tla": "M05",
+        "crest": "https://crests.football-data.org/15.png",
+        "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+        "website": "http://www.mainz05.de",
+        "founded": 1905,
+        "clubColors": "Red / White",
+        "venue": "Opel Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 23925,
+    "name": "Jens Stage",
+    "firstName": "Jens",
+    "lastName": "Stage",
+    "dateOfBirth": "1996-11-08",
+    "nationality": "Denmark",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 12,
+        "name": "SV Werder Bremen",
+        "shortName": "Bremen",
+        "tla": "SVW",
+        "crest": "https://crests.football-data.org/12.png",
+        "address": "Franz-Böhmert-Str. 1c Bremen 28205",
+        "website": "http://www.werder.de",
+        "founded": 1899,
+        "clubColors": "Green / White",
+        "venue": "Weserstadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

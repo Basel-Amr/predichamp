@@ -1,0 +1,43 @@
+{
+    "id": 131179,
+    "name": "Darlin Yongwa",
+    "firstName": "Darlin",
+    "lastName": "Yongwa",
+    "dateOfBirth": "2000-09-21",
+    "nationality": "Cameroon",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 44,
+    "lastUpdated": "2024-09-02T09:59:11Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 525,
+        "name": "FC Lorient",
+        "shortName": "Lorient",
+        "tla": "FCL",
+        "crest": "https://crests.football-data.org/525.png",
+        "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
+        "website": "http://www.fclweb.fr",
+        "founded": 1926,
+        "clubColors": "Orange / Black",
+        "venue": "Stade Yves Allainmat - Le Moustoir",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

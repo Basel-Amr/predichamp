@@ -1,0 +1,26 @@
+🔍 Match Fetch Log - 2025-07-04 16:50:54.516522
+Matchday Range: 1 to 7
+============================================================
+
+✅ Champions League (CL): 0 added, 170 skipped. ⚠️ All matches skipped (likely past dates or duplicates).
+
+✅ Premier League (PL): 0 added, 70 skipped. ⚠️ All matches skipped (likely past dates or duplicates).
+
+✅ La Liga (PD): 70 added, 0 skipped. 
+
+✅ Serie A (SA): 0 added, 70 skipped. ⚠️ All matches skipped (likely past dates or duplicates).
+
+Bundesliga (BL1): ⚠️ No matches found in API.
+
+✅ Ligue 1 (FL1): 0 added, 63 skipped. ⚠️ All matches skipped (likely past dates or duplicates).
+
+Europa League (EL): ❌ Invalid competition code or empty response.
+
+Primeira Liga (PPL): ❗ League not found in database.
+
+CAF Champions League (CAFCL): ❌ Invalid competition code or empty response.
+
+Egyptian Premier League (EGYPL): ❌ Invalid competition code or empty response.
+
+============================================================
+📄 End of log.

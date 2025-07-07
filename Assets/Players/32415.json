@@ -1,0 +1,43 @@
+{
+    "id": 32415,
+    "name": "Cucho Hernández",
+    "firstName": "Cucho",
+    "lastName": "Hernández",
+    "dateOfBirth": "1999-04-20",
+    "nationality": "Colombia",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 19,
+    "lastUpdated": "2025-02-18T17:35:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+        "website": "http://www.realbetisbalompie.es",
+        "founded": 1907,
+        "clubColors": "Green / White",
+        "venue": "Estadio Benito Villamarín",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2030-06"
+        }
+    }
+}

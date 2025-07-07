@@ -1,0 +1,43 @@
+{
+    "id": 4444,
+    "name": "Ollie Watkins",
+    "firstName": "Ollie",
+    "lastName": "Watkins",
+    "dateOfBirth": "1995-12-30",
+    "nationality": "England",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "address": "Villa Park Birmingham B6 6HE",
+        "website": "http://www.avfc.co.uk",
+        "founded": 1872,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "Villa Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2020-09",
+            "until": "2028-06"
+        }
+    }
+}

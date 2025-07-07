@@ -1,0 +1,43 @@
+{
+    "id": 92854,
+    "name": "Kamil Grabara",
+    "firstName": "Kamil",
+    "lastName": "Grabara",
+    "dateOfBirth": "1999-01-08",
+    "nationality": "Poland",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-08-22T06:42:42Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 11,
+        "name": "VfL Wolfsburg",
+        "shortName": "Wolfsburg",
+        "tla": "WOB",
+        "crest": "https://crests.football-data.org/11.png",
+        "address": "In den Allerwiesen 1 Wolfsburg 38446",
+        "website": "http://www.vfl-wolfsburg.de",
+        "founded": 1945,
+        "clubColors": "Green / White",
+        "venue": "Volkswagen Arena",
+        "runningCompetitions": [
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

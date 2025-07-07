@@ -1,0 +1,64 @@
+{
+    "id": 8004,
+    "name": "Harry Kane",
+    "firstName": "Harry",
+    "lastName": "Kane",
+    "dateOfBirth": "1993-07-28",
+    "nationality": "England",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 5,
+        "name": "FC Bayern München",
+        "shortName": "Bayern",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/5.png",
+        "address": "Säbenerstr. 51 München 81547",
+        "website": "http://www.fcbayern.de",
+        "founded": 1900,
+        "clubColors": "Red / White / Blue",
+        "venue": "Allianz Arena",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2134,
+                "name": "DFL Super Cup",
+                "code": "GSC",
+                "type": "SUPER_CUP",
+                "emblem": null
+            },
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2027-06"
+        }
+    }
+}

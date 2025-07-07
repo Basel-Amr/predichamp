@@ -1,0 +1,50 @@
+{
+    "id": 182886,
+    "name": "Andrej Ilic",
+    "firstName": "Andrej",
+    "lastName": "Ilić",
+    "dateOfBirth": "2000-04-03",
+    "nationality": "Serbia",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 23,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 28,
+        "name": "1. FC Union Berlin",
+        "shortName": "Union Berlin",
+        "tla": "UNB",
+        "crest": "https://crests.football-data.org/28.png",
+        "address": "An der Wuhlheide 263 Berlin 12555",
+        "website": "http://www.fc-union-berlin.de",
+        "founded": 1906,
+        "clubColors": "Red / White",
+        "venue": "Stadion An der Alten Försterei",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2026-06"
+        }
+    }
+}

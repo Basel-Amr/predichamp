@@ -1,0 +1,43 @@
+{
+    "id": 32695,
+    "name": "Pau López",
+    "firstName": "",
+    "lastName": "Pau López",
+    "dateOfBirth": "1994-12-13",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 18,
+    "lastUpdated": "2023-07-30T17:03:21Z",
+    "currentTeam": {
+        "area": {
+            "id": 2149,
+            "name": "Mexico",
+            "code": "MEX",
+            "flag": "https://crests.football-data.org/mexico.svg"
+        },
+        "id": 5790,
+        "name": "Deportivo Toluca FC",
+        "shortName": "Toluca",
+        "tla": "TOL",
+        "crest": "https://crests.football-data.org/5790.png",
+        "address": "Felipe Villanueva 300, San Bernardino Toluca 50080",
+        "website": "http://www.tolucafc.com",
+        "founded": 1917,
+        "clubColors": "Red / White",
+        "venue": "Estadio Nemesio Díez",
+        "runningCompetitions": [
+            {
+                "id": 2113,
+                "name": "Liga MX",
+                "code": "LMX",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2025-06"
+        }
+    }
+}

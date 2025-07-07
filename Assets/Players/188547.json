@@ -1,0 +1,35 @@
+{
+    "id": 188547,
+    "name": "Kevin Haveri",
+    "firstName": "Kevin",
+    "lastName": "Haveri",
+    "dateOfBirth": "2001-09-18",
+    "nationality": "Albania",
+    "section": "Midfield",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-18T09:04:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 447,
+        "name": "ACR Messina",
+        "shortName": null,
+        "tla": "MES",
+        "crest": "https://crests.football-data.org/447.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2025-02",
+            "until": "2025-06"
+        }
+    }
+}

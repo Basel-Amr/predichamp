@@ -1,0 +1,43 @@
+{
+    "id": 157709,
+    "name": "Hugo Bueno",
+    "firstName": "",
+    "lastName": "Hugo Bueno",
+    "dateOfBirth": "2002-09-18",
+    "nationality": "Spain",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 76,
+        "name": "Wolverhampton Wanderers FC",
+        "shortName": "Wolverhampton",
+        "tla": "WOL",
+        "crest": "https://crests.football-data.org/76.png",
+        "address": "Waterloo Road Wolverhampton WV1 4QR",
+        "website": "http://www.wolves.co.uk",
+        "founded": 1877,
+        "clubColors": "Black / Gold",
+        "venue": "Molineux Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

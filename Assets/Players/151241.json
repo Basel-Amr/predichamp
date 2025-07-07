@@ -1,0 +1,50 @@
+{
+    "id": 151241,
+    "name": "Matteo Ruggeri",
+    "firstName": "Matteo",
+    "lastName": "Ruggeri",
+    "dateOfBirth": "2002-07-11",
+    "nationality": "Italy",
+    "section": "Left Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 78,
+        "name": "Club Atlético de Madrid",
+        "shortName": "Atleti",
+        "tla": "ATL",
+        "crest": "https://crests.football-data.org/78.png",
+        "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
+        "website": "http://www.clubatleticodemadrid.com",
+        "founded": 1903,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadio Wanda Metropolitano",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2030-06"
+        }
+    }
+}

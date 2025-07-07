@@ -1,0 +1,43 @@
+{
+    "id": 206715,
+    "name": "Ebenezer Akinsanmiro",
+    "firstName": "Ebenezer",
+    "lastName": "Akinsanmiro",
+    "dateOfBirth": "2004-11-25",
+    "nationality": "Nigeria",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 15,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 584,
+        "name": "UC Sampdoria",
+        "shortName": "Sampdoria",
+        "tla": "SAM",
+        "crest": "https://crests.football-data.org/584.png",
+        "address": "Piazza Borgo Pila, 39 Genova 16129",
+        "website": "http://www.sampdoria.it",
+        "founded": 1946,
+        "clubColors": "Blue / White / Red",
+        "venue": "Stadio Comunale Luigi Ferraris",
+        "runningCompetitions": [
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2025-06"
+        }
+    }
+}

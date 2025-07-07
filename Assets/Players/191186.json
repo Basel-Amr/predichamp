@@ -1,0 +1,57 @@
+{
+    "id": 191186,
+    "name": "Justin Diehl",
+    "firstName": "Justin",
+    "lastName": "Diehl",
+    "dateOfBirth": "2004-11-27",
+    "nationality": "Germany",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 17,
+    "lastUpdated": "2023-07-30T16:25:20Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 10,
+        "name": "VfB Stuttgart",
+        "shortName": "Stuttgart",
+        "tla": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "address": "Mercedesstraße 109 Stuttgart 70372",
+        "website": "http://www.vfb.de",
+        "founded": 1893,
+        "clubColors": "White / Red",
+        "venue": "Mercedes-Benz Arena",
+        "runningCompetitions": [
+            {
+                "id": 2134,
+                "name": "DFL Super Cup",
+                "code": "GSC",
+                "type": "SUPER_CUP",
+                "emblem": null
+            },
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

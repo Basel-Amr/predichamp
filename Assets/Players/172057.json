@@ -1,0 +1,43 @@
+{
+    "id": 172057,
+    "name": "Youssouf Ndayishimiye",
+    "firstName": "Youssouf",
+    "lastName": "Ndayishimiye",
+    "dateOfBirth": "1998-10-27",
+    "nationality": "Burundi",
+    "section": "Centre-Back",
+    "position": "Midfield",
+    "shirtNumber": 55,
+    "lastUpdated": "2025-02-18T17:35:57Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-01",
+            "until": "2027-06"
+        }
+    }
+}

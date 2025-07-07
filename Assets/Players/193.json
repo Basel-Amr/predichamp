@@ -1,0 +1,50 @@
+{
+    "id": 193,
+    "name": "Yann Aurel Bisseck",
+    "firstName": "Yann",
+    "lastName": "Bisseck",
+    "dateOfBirth": "2000-11-29",
+    "nationality": "Germany",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 31,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 108,
+        "name": "FC Internazionale Milano",
+        "shortName": "Inter",
+        "tla": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+        "website": "http://www.inter.it",
+        "founded": 1908,
+        "clubColors": "Blue / Black",
+        "venue": "Stadio Giuseppe Meazza",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2029-06"
+        }
+    }
+}

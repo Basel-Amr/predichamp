@@ -1,0 +1,43 @@
+{
+    "id": 136713,
+    "name": "Gabriele Artistico",
+    "firstName": "Gabriele",
+    "lastName": "Artistico",
+    "dateOfBirth": "2002-07-14",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-19T09:51:39Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png",
+        "address": "Via di Santa Cornelia, 1000 Formello 00060",
+        "website": "http://www.sslazio.it",
+        "founded": 1900,
+        "clubColors": "White / Sky Blue",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

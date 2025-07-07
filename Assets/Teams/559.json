@@ -1,0 +1,239 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 559,
+    "name": "Sevilla FC",
+    "shortName": "Sevilla FC",
+    "tla": "SEV",
+    "crest": "https://crests.football-data.org/559.png",
+    "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+    "website": "http://www.sevillafc.es",
+    "founded": 1905,
+    "clubColors": "White / Red",
+    "venue": "Estadio Ramón Sánchez Pizjuán",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        }
+    ],
+    "coach": {
+        "id": 38804,
+        "firstName": "Matías",
+        "lastName": "Almeyda",
+        "name": "Matías Almeyda",
+        "dateOfBirth": "1973-12-21",
+        "nationality": "Argentina",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 6843,
+            "name": "Ørjan Nyland",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-09-10",
+            "nationality": "Norway"
+        },
+        {
+            "id": 79533,
+            "name": "Álvaro Fernández",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-04-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 177573,
+            "name": "Alberto Flores",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-11-10",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180165,
+            "name": "Castrin",
+            "position": "Defence",
+            "dateOfBirth": "2003-05-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 213280,
+            "name": "Adrià Pedrosa",
+            "position": "Defence",
+            "dateOfBirth": "1998-05-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 213257,
+            "name": "Joan Jordán",
+            "position": "Midfield",
+            "dateOfBirth": "1994-07-06",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264218,
+            "name": "Pablo Rivera",
+            "position": "Midfield",
+            "dateOfBirth": "2004-01-11",
+            "nationality": "Spain"
+        },
+        {
+            "id": 185105,
+            "name": "Peque",
+            "position": "Offence",
+            "dateOfBirth": "2002-10-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 221295,
+            "name": "Stanis Idumbo-Muzambo",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-06-29",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 213043,
+            "name": "Isaac",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-05-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180038,
+            "name": "Juanlu",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-08-15",
+            "nationality": "Spain"
+        },
+        {
+            "id": 178107,
+            "name": "Kike Salas",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-04-23",
+            "nationality": "Spain"
+        },
+        {
+            "id": 171984,
+            "name": "Jose Angel Carmona",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-01-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 136039,
+            "name": "Loïc Bade",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-11",
+            "nationality": "France"
+        },
+        {
+            "id": 127127,
+            "name": "Nianzou Kouassi",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-06-07",
+            "nationality": "France"
+        },
+        {
+            "id": 98223,
+            "name": "Lucien Agoume",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2002-02-09",
+            "nationality": "France"
+        },
+        {
+            "id": 82132,
+            "name": "Akor Adams",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-01-29",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 80890,
+            "name": "Federico Gattoni",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-16",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 45449,
+            "name": "Marcão",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-06-05",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 38625,
+            "name": "Chidera Ejuke",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-01-02",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 32324,
+            "name": "Alfonso González",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-05-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 31913,
+            "name": "Ruben Vargas",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-08-05",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 21410,
+            "name": "Nemanja Gudelj",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1991-11-16",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 16275,
+            "name": "Djibril Sow",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-02-06",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 10210,
+            "name": "Adnan Januzaj",
+            "position": "Right Winger",
+            "dateOfBirth": "1995-02-05",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 8128,
+            "name": "Dodi Lukebakio",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-09-24",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 4098,
+            "name": "Rafael Mir",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-06-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 3400,
+            "name": "Kelechi Iheanacho",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-10-03",
+            "nationality": "Nigeria"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:09:57Z"
+}

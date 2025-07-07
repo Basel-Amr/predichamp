@@ -1,0 +1,50 @@
+{
+    "id": 9957,
+    "name": "Marvin Schwäbe",
+    "firstName": "Marvin",
+    "lastName": "Schwäbe",
+    "dateOfBirth": "1995-04-25",
+    "nationality": "Germany",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T16:25:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 1,
+        "name": "1. FC Köln",
+        "shortName": "1. FC Köln",
+        "tla": "KOE",
+        "crest": "https://crests.football-data.org/1.png",
+        "address": "Franz-Kremer-Allee 1 Köln 50937",
+        "website": "http://www.fc-koeln.de",
+        "founded": 1948,
+        "clubColors": "Red / White",
+        "venue": "RheinEnergieSTADION",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

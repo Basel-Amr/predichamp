@@ -1,0 +1,43 @@
+{
+    "id": 264406,
+    "name": "Herba Guirassy",
+    "firstName": "Herba",
+    "lastName": "Guirassy",
+    "dateOfBirth": "2006-08-29",
+    "nationality": "Guinea",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 62,
+    "lastUpdated": "2024-09-02T09:38:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 543,
+        "name": "FC Nantes",
+        "shortName": "Nantes",
+        "tla": "NAN",
+        "crest": "https://crests.football-data.org/543.png",
+        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
+        "website": "http://www.fcnantes.com",
+        "founded": 1943,
+        "clubColors": "Green / Yellow",
+        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

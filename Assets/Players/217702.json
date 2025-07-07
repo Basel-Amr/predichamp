@@ -1,0 +1,43 @@
+{
+    "id": 217702,
+    "name": "Edoardo Bernardi",
+    "firstName": "Edoardo",
+    "lastName": "Bernardi",
+    "dateOfBirth": "2003-12-12",
+    "nationality": "Italy",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-19T09:50:05Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

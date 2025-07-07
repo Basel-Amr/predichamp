@@ -1,0 +1,43 @@
+{
+    "id": 180280,
+    "name": "Casals",
+    "firstName": "",
+    "lastName": "Joel Roca",
+    "dateOfBirth": "2005-01-01",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-02-12T09:45:07Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 298,
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "tla": "GIR",
+        "crest": "https://crests.football-data.org/298.png",
+        "address": "Avinguda de Montilivi, 141 Girona 17003",
+        "website": "http://www.gironafc.cat",
+        "founded": 1930,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadi Municipal de Montilivi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

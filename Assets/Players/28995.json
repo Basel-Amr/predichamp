@@ -1,0 +1,50 @@
+{
+    "id": 28995,
+    "name": "Andriy Lunin",
+    "firstName": "Andriy",
+    "lastName": "Lunin",
+    "dateOfBirth": "1999-02-11",
+    "nationality": "Ukraine",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 13,
+    "lastUpdated": "2023-07-30T17:05:45Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 86,
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "address": "Avenida Concha Espina, 1 Madrid 28036",
+        "website": "http://www.realmadrid.com",
+        "founded": 1902,
+        "clubColors": "White / Purple",
+        "venue": "Estadio Santiago Bernabéu",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2020-07",
+            "until": "2030-06"
+        }
+    }
+}

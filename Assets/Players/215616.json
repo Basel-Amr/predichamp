@@ -1,0 +1,35 @@
+{
+    "id": 215616,
+    "name": "Davide Bartesaghi",
+    "firstName": "Davide",
+    "lastName": "Bartesaghi",
+    "dateOfBirth": "2005-12-29",
+    "nationality": "Italy",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 4,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 11089,
+        "name": "AC Milan II",
+        "shortName": "AC Milan II",
+        "tla": "",
+        "crest": "https://crests.football-data.org/11089.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2024-07",
+            "until": "2030-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 9554,
+    "name": "Ademola Lookman",
+    "firstName": "Ademola",
+    "lastName": "Lookman",
+    "dateOfBirth": "1997-10-20",
+    "nationality": "Nigeria",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 11,
+    "lastUpdated": "2023-07-30T22:13:12Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 102,
+        "name": "Atalanta BC",
+        "shortName": "Atalanta",
+        "tla": "ATA",
+        "crest": "https://crests.football-data.org/102.png",
+        "address": "Corso Europa, 46, Zingonia Ciserano 24040",
+        "website": "http://www.atalanta.it",
+        "founded": 1904,
+        "clubColors": "Black / Blue",
+        "venue": "Stadio Atleti Azzurri d'Italia",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-08",
+            "until": "2027-06"
+        }
+    }
+}

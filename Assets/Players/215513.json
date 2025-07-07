@@ -1,0 +1,43 @@
+{
+    "id": 215513,
+    "name": "Nicola Patanè",
+    "firstName": "Nicola",
+    "lastName": "Patanè",
+    "dateOfBirth": "2004-03-23",
+    "nationality": "Italy",
+    "section": "Right Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

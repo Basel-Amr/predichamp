@@ -1,0 +1,50 @@
+{
+    "id": 275112,
+    "name": "Mario Rivas",
+    "firstName": "",
+    "lastName": "Mario Rivas",
+    "dateOfBirth": "2007-03-16",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 48,
+    "lastUpdated": "2025-02-06T09:41:03Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 86,
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "address": "Avenida Concha Espina, 1 Madrid 28036",
+        "website": "http://www.realmadrid.com",
+        "founded": 1902,
+        "clubColors": "White / Purple",
+        "venue": "Estadio Santiago Bernabéu",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2027-06"
+        }
+    }
+}

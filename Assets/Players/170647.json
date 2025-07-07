@@ -1,0 +1,43 @@
+{
+    "id": 170647,
+    "name": "Neil El Aynaoui",
+    "firstName": "Neil",
+    "lastName": "El Aynaoui",
+    "dateOfBirth": "2001-07-02",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 23,
+    "lastUpdated": "2024-10-09T09:42:55Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 546,
+        "name": "Racing Club de Lens",
+        "shortName": "RC Lens",
+        "tla": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "address": "33 rue Arthur Lamendin Avion 62210",
+        "website": "http://www.rclens.fr",
+        "founded": 1906,
+        "clubColors": "Red / Yellow",
+        "venue": "Stade Bollaert-Delelis",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

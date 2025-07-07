@@ -1,0 +1,43 @@
+{
+    "id": 3658,
+    "name": "Youri Tielemans",
+    "firstName": "Youri",
+    "lastName": "Tielemans",
+    "dateOfBirth": "1997-05-07",
+    "nationality": "Belgium",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 8,
+    "lastUpdated": "2025-04-01T09:41:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "address": "Villa Park Birmingham B6 6HE",
+        "website": "http://www.avfc.co.uk",
+        "founded": 1872,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "Villa Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 18,
+    "name": "Borussia Mönchengladbach",
+    "shortName": "M'gladbach",
+    "tla": "BMG",
+    "crest": "https://crests.football-data.org/18.png",
+    "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+    "website": "http://www.borussia.de",
+    "founded": 1900,
+    "clubColors": "Black / White / Green",
+    "venue": "Stadion im Borussia-Park",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 50157,
+        "firstName": "Gerardo",
+        "lastName": "Seoane",
+        "name": "Gerardo Seoane",
+        "dateOfBirth": "1978-10-30",
+        "nationality": "Switzerland",
+        "contract": {
+            "start": "2023-06",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 6668,
+            "name": "Moritz Nicolas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-10-21",
+            "nationality": "Germany"
+        },
+        {
+            "id": 30774,
+            "name": "Jonas Omlin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-01-10",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 7464,
+            "name": "Kevin Diks",
+            "position": "Defence",
+            "dateOfBirth": "1996-10-06",
+            "nationality": "Indonesia"
+        },
+        {
+            "id": 212854,
+            "name": "Ibrahim Digberekou",
+            "position": "Defence",
+            "dateOfBirth": "2005-02-22",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 270638,
+            "name": "Niklas Swider",
+            "position": "Midfield",
+            "dateOfBirth": "2007-01-05",
+            "nationality": "Germany"
+        },
+        {
+            "id": 260909,
+            "name": "Charles Herrmann",
+            "position": "Offence",
+            "dateOfBirth": "2006-01-21",
+            "nationality": "Germany"
+        },
+        {
+            "id": 206426,
+            "name": "Shio Fukuda",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-04-08",
+            "nationality": "Japan"
+        },
+        {
+            "id": 191106,
+            "name": "Simon Walde",
+            "position": "Right-Back",
+            "dateOfBirth": "2026-06-30",
+            "nationality": "Germany"
+        },
+        {
+            "id": 187273,
+            "name": "Lukas Ullrich",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-03-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 184974,
+            "name": "Yvandro Borges Sanches",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-05-24",
+            "nationality": "Luxembourg"
+        },
+        {
+            "id": 183637,
+            "name": "Grant-Leon Ranos",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-07-20",
+            "nationality": "Armenia"
+        },
+        {
+            "id": 176307,
+            "name": "Fabio Chiarodia",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-06-05",
+            "nationality": "Italy"
+        },
+        {
+            "id": 170782,
+            "name": "Oscar Fraulo",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-12-06",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 151888,
+            "name": "Jens Castrop",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-07-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 150517,
+            "name": "Rocco Reitz",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-05-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 144361,
+            "name": "Luca Netz",
+            "position": "Left-Back",
+            "dateOfBirth": "2003-05-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 98746,
+            "name": "Nathan N'Goumou",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-03-14",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 82442,
+            "name": "Joseph Scally",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-12-31",
+            "nationality": "USA"
+        },
+        {
+            "id": 72392,
+            "name": "Philipp Sander",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-02-21",
+            "nationality": "Germany"
+        },
+        {
+            "id": 62913,
+            "name": "Tomáš Čvančara",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-08-13",
+            "nationality": "Czech Republic"
+        },
+        {
+            "id": 48902,
+            "name": "Ko Itakura",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-01-27",
+            "nationality": "Japan"
+        },
+        {
+            "id": 9999,
+            "name": "Kevin Stöger",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1993-08-27",
+            "nationality": "Austria"
+        },
+        {
+            "id": 9522,
+            "name": "Florian Neuhaus",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-03-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 9499,
+            "name": "Tim Kleindienst",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1995-08-31",
+            "nationality": "Germany"
+        },
+        {
+            "id": 8443,
+            "name": "Alassane Pléa",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1993-03-10",
+            "nationality": "France"
+        },
+        {
+            "id": 6825,
+            "name": "Marvin Friedrich",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-12-13",
+            "nationality": "Germany"
+        },
+        {
+            "id": 3475,
+            "name": "Nico Elvedi",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-30",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 727,
+            "name": "Franck Honorat",
+            "position": "Right Winger",
+            "dateOfBirth": "1996-08-11",
+            "nationality": "France"
+        },
+        {
+            "id": 400,
+            "name": "Robin Hack",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-08-27",
+            "nationality": "Germany"
+        },
+        {
+            "id": 144,
+            "name": "Julian Weigl",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-09-08",
+            "nationality": "Germany"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-02-28T07:59:45Z"
+}

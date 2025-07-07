@@ -1,0 +1,43 @@
+{
+    "id": 130428,
+    "name": "Giuseppe Ciocci",
+    "firstName": "Giuseppe",
+    "lastName": "Ciocci",
+    "dateOfBirth": "2002-01-24",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2024-08-23T10:11:37Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 104,
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "tla": "CAG",
+        "crest": "https://crests.football-data.org/104.png",
+        "address": "Viale la Plaia 15 Cagliari 09123",
+        "website": "http://www.cagliaricalcio.net",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue / White",
+        "venue": "Sardegna Arena",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

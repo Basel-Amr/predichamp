@@ -1,0 +1,43 @@
+{
+    "id": 178663,
+    "name": "Rassoul N'Diaye",
+    "firstName": "Rassoul",
+    "lastName": "N'Diaye",
+    "dateOfBirth": "2001-12-11",
+    "nationality": "France",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 19,
+    "lastUpdated": "2025-02-18T17:35:57Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 533,
+        "name": "Le Havre AC",
+        "shortName": "Le Havre",
+        "tla": "HAC",
+        "crest": "https://crests.football-data.org/533.png",
+        "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+        "website": "http://www.hac-foot.com",
+        "founded": 1872,
+        "clubColors": "Sky Blue / Navy Blue",
+        "venue": "Stade Océane",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

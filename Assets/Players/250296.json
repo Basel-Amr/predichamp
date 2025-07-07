@@ -1,0 +1,43 @@
+{
+    "id": 250296,
+    "name": "Rayan Bamba",
+    "firstName": "Rayan",
+    "lastName": "Bamba",
+    "dateOfBirth": "2004-05-14",
+    "nationality": "France",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 529,
+        "name": "Stade Rennais FC 1901",
+        "shortName": "Stade Rennais",
+        "tla": "REN",
+        "crest": "https://crests.football-data.org/529.png",
+        "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+        "website": "http://www.staderennais.com",
+        "founded": 1901,
+        "clubColors": "Red / Black",
+        "venue": "Roazhon Park",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 24236,
+    "name": "Andreas Skov Olsen",
+    "firstName": "Andreas",
+    "lastName": "Skov Olsen",
+    "dateOfBirth": "1999-12-29",
+    "nationality": "Denmark",
+    "section": "Midfield",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-06-12T17:56:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 11,
+        "name": "VfL Wolfsburg",
+        "shortName": "Wolfsburg",
+        "tla": "WOB",
+        "crest": "https://crests.football-data.org/11.png",
+        "address": "In den Allerwiesen 1 Wolfsburg 38446",
+        "website": "http://www.vfl-wolfsburg.de",
+        "founded": 1945,
+        "clubColors": "Green / White",
+        "venue": "Volkswagen Arena",
+        "runningCompetitions": [
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2029-06"
+        }
+    }
+}

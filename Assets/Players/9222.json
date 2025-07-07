@@ -1,0 +1,43 @@
+{
+    "id": 9222,
+    "name": "Arnaud Bodart",
+    "firstName": "Arnaud",
+    "lastName": "Bodart",
+    "dateOfBirth": "1998-03-11",
+    "nationality": "Belgium",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-08-04T08:24:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 521,
+        "name": "Lille OSC",
+        "shortName": "Lille",
+        "tla": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+        "website": "http://www.losc.fr",
+        "founded": 1944,
+        "clubColors": "White / Red",
+        "venue": "Stade Pierre-Mauroy",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

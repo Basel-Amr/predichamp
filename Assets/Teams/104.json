@@ -1,0 +1,239 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 104,
+    "name": "Cagliari Calcio",
+    "shortName": "Cagliari",
+    "tla": "CAG",
+    "crest": "https://crests.football-data.org/104.png",
+    "address": "Viale la Plaia 15 Cagliari 09123",
+    "website": "http://www.cagliaricalcio.net",
+    "founded": 1920,
+    "clubColors": "Red / Navy Blue / White",
+    "venue": "Sardegna Arena",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        }
+    ],
+    "coach": {
+        "id": 1898,
+        "firstName": "Fabio",
+        "lastName": "Pisacane",
+        "name": "Fabio Pisacane",
+        "dateOfBirth": "1986-01-28",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 2108,
+            "name": "Simone Scuffet",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-05-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2611,
+            "name": "Boris Radunović",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-05-26",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 130428,
+            "name": "Giuseppe Ciocci",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-01-24",
+            "nationality": "Italy"
+        },
+        {
+            "id": 148992,
+            "name": "Alen Sherri",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-12-15",
+            "nationality": "Albania"
+        },
+        {
+            "id": 202717,
+            "name": "Velizar Iliev",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-07-20",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 177111,
+            "name": "Luigi Palomba",
+            "position": "Defence",
+            "dateOfBirth": "2003-04-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 187966,
+            "name": "Davide Veroli",
+            "position": "Defence",
+            "dateOfBirth": "2003-01-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 202360,
+            "name": "Etienne Catena",
+            "position": "Defence",
+            "dateOfBirth": "2004-01-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 277502,
+            "name": "Nicola Pintus",
+            "position": "Defence",
+            "dateOfBirth": "2005-05-25",
+            "nationality": "Italy"
+        },
+        {
+            "id": 172424,
+            "name": "Nicolo Cavuoti",
+            "position": "Midfield",
+            "dateOfBirth": "2003-04-04",
+            "nationality": "Italy"
+        },
+        {
+            "id": 151943,
+            "name": "Nik Prelec",
+            "position": "Offence",
+            "dateOfBirth": "2001-06-10",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 171122,
+            "name": "Zito Luvumbo",
+            "position": "Offence",
+            "dateOfBirth": "2002-03-09",
+            "nationality": "Angola"
+        },
+        {
+            "id": 261228,
+            "name": "Riyad Idrissi",
+            "position": "Offence",
+            "dateOfBirth": "2005-06-13",
+            "nationality": "Italy"
+        },
+        {
+            "id": 246153,
+            "name": "Kingstone Mutandwa",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-01-05",
+            "nationality": "Zambia"
+        },
+        {
+            "id": 170374,
+            "name": "Adam Obert",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-08-23",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 166329,
+            "name": "Matteo Prati",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-12-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 127143,
+            "name": "Nadir Zortea",
+            "position": "Right Midfield",
+            "dateOfBirth": "1999-06-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 114052,
+            "name": "Gabriele Zappa",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-12-22",
+            "nationality": "Italy"
+        },
+        {
+            "id": 111294,
+            "name": "Mattia Felici",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-04-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 102211,
+            "name": "Gianluca Gaetano",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-05-05",
+            "nationality": "Italy"
+        },
+        {
+            "id": 97787,
+            "name": "Alessandro Di Pardo",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-07-18",
+            "nationality": "Italy"
+        },
+        {
+            "id": 59072,
+            "name": "Mateusz Wieteska",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-02-11",
+            "nationality": "Poland"
+        },
+        {
+            "id": 9237,
+            "name": "Răzvan Marin",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1996-05-23",
+            "nationality": "Romania"
+        },
+        {
+            "id": 3728,
+            "name": "Yerry Mina",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-09-23",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 2483,
+            "name": "Sebastiano Luperto",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2098,
+            "name": "Marko Rog",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-07-19",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 1925,
+            "name": "Leonardo Pavoletti",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1988-11-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1914,
+            "name": "Alessandro Deiola",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-08-01",
+            "nationality": "Italy"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-04-09T16:20:43Z"
+}

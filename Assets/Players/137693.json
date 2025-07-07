@@ -1,0 +1,43 @@
+{
+    "id": 137693,
+    "name": "Anass Salah-Eddine",
+    "firstName": "Anass",
+    "lastName": "Salah-Eddine",
+    "dateOfBirth": "2002-01-18",
+    "nationality": "Netherlands",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 34,
+    "lastUpdated": "2025-05-15T09:42:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 100,
+        "name": "AS Roma",
+        "shortName": "Roma",
+        "tla": "ROM",
+        "crest": "https://crests.football-data.org/100.png",
+        "address": "Via di Trigoria km. 3,600 Roma 00128",
+        "website": "http://www.asroma.it",
+        "founded": 1927,
+        "clubColors": "Maroon / Orange / White",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2028-06"
+        }
+    }
+}

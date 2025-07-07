@@ -1,0 +1,239 @@
+{
+    "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+    },
+    "id": 341,
+    "name": "Leeds United FC",
+    "shortName": "Leeds United",
+    "tla": "LEE",
+    "crest": "https://crests.football-data.org/341.png",
+    "address": "Elland Road Leeds LS11 0ES",
+    "website": "http://www.leedsunited.com",
+    "founded": 1904,
+    "clubColors": "White / Blue",
+    "venue": "Elland Road",
+    "runningCompetitions": [
+        {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PL.png"
+        }
+    ],
+    "coach": {
+        "id": 11323,
+        "firstName": "Daniel",
+        "lastName": "Farke",
+        "name": "Daniel Farke",
+        "dateOfBirth": "1976-10-30",
+        "nationality": "Germany",
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 5315,
+            "name": "Alex Cairns",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-01-04",
+            "nationality": "England"
+        },
+        {
+            "id": 7913,
+            "name": "Karl Darlow",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-10-08",
+            "nationality": "England"
+        },
+        {
+            "id": 74831,
+            "name": "Illan Meslier",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-03-02",
+            "nationality": "France"
+        },
+        {
+            "id": 204504,
+            "name": "Darko Gyabi",
+            "position": "Midfield",
+            "dateOfBirth": "2004-02-18",
+            "nationality": "England"
+        },
+        {
+            "id": 250288,
+            "name": "Charlie Crewe",
+            "position": "Midfield",
+            "dateOfBirth": "2006-06-15",
+            "nationality": "Wales"
+        },
+        {
+            "id": 265196,
+            "name": "Sam Chambers",
+            "position": "Midfield",
+            "dateOfBirth": "2007-08-18",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 176281,
+            "name": "Sonny Perkins",
+            "position": "Offence",
+            "dateOfBirth": "2004-02-10",
+            "nationality": "England"
+        },
+        {
+            "id": 185178,
+            "name": "Mateo Fernandez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-10-19",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180813,
+            "name": "Wilfried Gnonto",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-11-05",
+            "nationality": "Italy"
+        },
+        {
+            "id": 157406,
+            "name": "Sam Greenwood",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-01-26",
+            "nationality": "England"
+        },
+        {
+            "id": 136349,
+            "name": "Largie Ramazani",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-02-27",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 122231,
+            "name": "Isaac Schmidt",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-12-07",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 113262,
+            "name": "Brenden Aaronson",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-10-22",
+            "nationality": "USA"
+        },
+        {
+            "id": 80761,
+            "name": "Joe Gelhardt",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-05-04",
+            "nationality": "England"
+        },
+        {
+            "id": 75284,
+            "name": "Ilia Gruev",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-05-06",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 74688,
+            "name": "Jaka Bijol",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-05",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 67978,
+            "name": "Joël Piroe",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-08-02",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 49105,
+            "name": "Ao Tanaka",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-09-10",
+            "nationality": "Japan"
+        },
+        {
+            "id": 8847,
+            "name": "Sebastiaan Bornauw",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-03-22",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 7974,
+            "name": "Daniel James",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-11-10",
+            "nationality": "Wales"
+        },
+        {
+            "id": 7892,
+            "name": "Lukas Nmecha",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-12-14",
+            "nationality": "Germany"
+        },
+        {
+            "id": 7815,
+            "name": "Ethan Ampadu",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-09-14",
+            "nationality": "Wales"
+        },
+        {
+            "id": 7562,
+            "name": "Maximilian Wöber",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-02-04",
+            "nationality": "Austria"
+        },
+        {
+            "id": 5714,
+            "name": "Joe Rodon",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-10-22",
+            "nationality": "Wales"
+        },
+        {
+            "id": 4223,
+            "name": "Patrick Bamford",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1993-09-05",
+            "nationality": "England"
+        },
+        {
+            "id": 4220,
+            "name": "Jack Harrison",
+            "position": "Right Winger",
+            "dateOfBirth": "1996-11-20",
+            "nationality": "England"
+        },
+        {
+            "id": 4184,
+            "name": "Jayden Bogle",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-07-27",
+            "nationality": "England"
+        },
+        {
+            "id": 4146,
+            "name": "Pascal Struijk",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-08-11",
+            "nationality": "Netherlands"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-10T19:27:14Z"
+}

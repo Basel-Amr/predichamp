@@ -1,0 +1,35 @@
+{
+    "id": 261866,
+    "name": "Francesco Dell'Aquila",
+    "firstName": "Francesco",
+    "lastName": "Dell'Aquila",
+    "dateOfBirth": "2004-01-10",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 77,
+    "lastUpdated": "2024-08-21T09:55:00Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 447,
+        "name": "ACR Messina",
+        "shortName": null,
+        "tla": "MES",
+        "crest": "https://crests.football-data.org/447.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 182192,
+    "name": "Diego Moreira",
+    "firstName": "",
+    "lastName": "Diego Moreira",
+    "dateOfBirth": "2004-08-06",
+    "nationality": "Portugal",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2025-02-18T17:35:58Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png",
+        "address": "12 Rue Extenwoerth Strasbourg 67000",
+        "website": "http://www.rcstrasbourgalsace.fr",
+        "founded": 1906,
+        "clubColors": "Blue / White",
+        "venue": "Stade de la Meinau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

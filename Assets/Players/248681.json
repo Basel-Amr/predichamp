@@ -1,0 +1,43 @@
+{
+    "id": 248681,
+    "name": "Gastón Valles",
+    "firstName": "Gastón",
+    "lastName": "Valles",
+    "dateOfBirth": "2001-05-10",
+    "nationality": "Uruguay",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-16T09:45:55Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 80,
+        "name": "RCD Espanyol de Barcelona",
+        "shortName": "Espanyol",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/80.png",
+        "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+        "website": "http://www.rcdespanyol.com",
+        "founded": 1900,
+        "clubColors": "Blue / White",
+        "venue": "RCDE Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

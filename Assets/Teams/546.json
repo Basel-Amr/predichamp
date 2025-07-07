@@ -1,0 +1,225 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 546,
+    "name": "Racing Club de Lens",
+    "shortName": "RC Lens",
+    "tla": "RCL",
+    "crest": "https://crests.football-data.org/546.png",
+    "address": "33 rue Arthur Lamendin Avion 62210",
+    "website": "http://www.rclens.fr",
+    "founded": 1906,
+    "clubColors": "Red / Yellow",
+    "venue": "Stade Bollaert-Delelis",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 244768,
+        "firstName": "Pierre",
+        "lastName": "Sage",
+        "name": "Pierre Sage",
+        "dateOfBirth": "1979-05-05",
+        "nationality": "France",
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 167805,
+            "name": "Yannick Pandor",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-05-01",
+            "nationality": "Comoros"
+        },
+        {
+            "id": 268900,
+            "name": "Andrija Bulatović",
+            "position": "Midfield",
+            "dateOfBirth": "2006-12-27",
+            "nationality": "Montenegro"
+        },
+        {
+            "id": 249037,
+            "name": "Jeremy Agbonifo",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-10-24",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 246160,
+            "name": "Anthony Bermont",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-02-10",
+            "nationality": "France"
+        },
+        {
+            "id": 229868,
+            "name": "Tom Pouilly",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-06-18",
+            "nationality": "France"
+        },
+        {
+            "id": 216398,
+            "name": "Nidal Čelik",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-07-17",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 204240,
+            "name": "Rémy Labeau Lascary",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-03-03",
+            "nationality": "Guadeloupe"
+        },
+        {
+            "id": 192045,
+            "name": "Hamzat Ojediran",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-11-14",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 184249,
+            "name": "Sidi Bane",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-01-14",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 170647,
+            "name": "Neil El Aynaoui",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-07-02",
+            "nationality": "France"
+        },
+        {
+            "id": 169041,
+            "name": "Jhoanner Chavez",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-04-25",
+            "nationality": "Ecuador"
+        },
+        {
+            "id": 168656,
+            "name": "Andy Diouf",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-05-17",
+            "nationality": "France"
+        },
+        {
+            "id": 152458,
+            "name": "Martin Satriano",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-02-20",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 124275,
+            "name": "Anass Zaroury",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-11-07",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 123206,
+            "name": "Salis Abdul Samed",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-03-26",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 109649,
+            "name": "Morgan Guilavogui",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-03-10",
+            "nationality": "Guinea"
+        },
+        {
+            "id": 64837,
+            "name": "Florian Sotoca",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1990-10-25",
+            "nationality": "France"
+        },
+        {
+            "id": 8913,
+            "name": "Deiver Machado",
+            "position": "Left-Back",
+            "dateOfBirth": "1993-09-02",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 8706,
+            "name": "Adrien Thomasson",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1993-12-10",
+            "nationality": "France"
+        },
+        {
+            "id": 8648,
+            "name": "Angelo Fulgini",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1996-08-20",
+            "nationality": "France"
+        },
+        {
+            "id": 8575,
+            "name": "Wesley Saïd",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1995-04-19",
+            "nationality": "France"
+        },
+        {
+            "id": 8424,
+            "name": "Malang Sarr",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-01-23",
+            "nationality": "France"
+        },
+        {
+            "id": 8372,
+            "name": "Ruben Aguilar",
+            "position": "Right-Back",
+            "dateOfBirth": "1993-04-26",
+            "nationality": "France"
+        },
+        {
+            "id": 3540,
+            "name": "Przemysław Frankowski",
+            "position": "Right Midfield",
+            "dateOfBirth": "1995-04-12",
+            "nationality": "Poland"
+        },
+        {
+            "id": 887,
+            "name": "Goduine Koyalipou",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-02-15",
+            "nationality": "Central African Republic"
+        },
+        {
+            "id": 735,
+            "name": "Jonathan Gradit",
+            "position": "Centre-Back",
+            "dateOfBirth": "1992-11-24",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:24:45Z"
+}

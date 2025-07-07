@@ -1,0 +1,43 @@
+{
+    "id": 161310,
+    "name": "Juan Jesus",
+    "firstName": "",
+    "lastName": "Juan Jesus",
+    "dateOfBirth": "1991-06-10",
+    "nationality": "Brazil",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 5,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 113,
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "tla": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+        "website": "http://www.sscnapoli.it",
+        "founded": 1904,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio San Paolo",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-08",
+            "until": "2026-06"
+        }
+    }
+}

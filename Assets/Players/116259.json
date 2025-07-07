@@ -1,0 +1,50 @@
+{
+    "id": 116259,
+    "name": "Finn Ole Becker",
+    "firstName": "Finn",
+    "lastName": "Becker",
+    "dateOfBirth": "2000-06-08",
+    "nationality": "Germany",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 20,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 2,
+        "name": "TSG 1899 Hoffenheim",
+        "shortName": "Hoffenheim",
+        "tla": "TSG",
+        "crest": "https://crests.football-data.org/2.png",
+        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+        "website": "http://www.achtzehn99.de",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "PreZero Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

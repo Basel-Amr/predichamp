@@ -1,0 +1,218 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 523,
+    "name": "Olympique Lyonnais",
+    "shortName": "Olympique Lyon",
+    "tla": "LYO",
+    "crest": "https://crests.football-data.org/523.png",
+    "address": "350 avenue Jean Jaurès Lyon 69007",
+    "website": "http://www.olweb.fr",
+    "founded": 1896,
+    "clubColors": "White / Red / Blue",
+    "venue": "Groupama Stadium",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 16490,
+        "firstName": "",
+        "lastName": "Paulo Fonseca",
+        "name": "Paulo Fonseca",
+        "dateOfBirth": "1973-03-05",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-01",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 733,
+            "name": "Rémy Descamps",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-06-25",
+            "nationality": "France"
+        },
+        {
+            "id": 1331,
+            "name": "Lucas Perri",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-12-10",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 214577,
+            "name": "Mathieu Patouillet",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-02-20",
+            "nationality": "France"
+        },
+        {
+            "id": 244704,
+            "name": "Justin Jose Bengui Joao",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-07-09",
+            "nationality": "France"
+        },
+        {
+            "id": 178964,
+            "name": "Abner Vinicius",
+            "position": "Defence",
+            "dateOfBirth": "2000-05-27",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 204235,
+            "name": "Achraf Laaziri",
+            "position": "Defence",
+            "dateOfBirth": "2003-07-08",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 270374,
+            "name": "Islamdine Halifa",
+            "position": "Midfield",
+            "dateOfBirth": "2004-12-20",
+            "nationality": "France"
+        },
+        {
+            "id": 267849,
+            "name": "Enzo Molébé",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2007-09-18",
+            "nationality": "France"
+        },
+        {
+            "id": 221812,
+            "name": "Mahamadou Diawara",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-02-17",
+            "nationality": "France"
+        },
+        {
+            "id": 187065,
+            "name": "Malick Fofana",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-03-31",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 184726,
+            "name": "Ernest Nuamah",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-11-01",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 176942,
+            "name": "Sael Kumbedi",
+            "position": "Right-Back",
+            "dateOfBirth": "2005-03-26",
+            "nationality": "France"
+        },
+        {
+            "id": 142456,
+            "name": "Tanner Tessmann",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-09-24",
+            "nationality": "USA"
+        },
+        {
+            "id": 136646,
+            "name": "Georges Mikautadze",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-10-31",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 124473,
+            "name": "Amin Sarr",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-03-11",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 81737,
+            "name": "Paul Akouokou",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-12-20",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 10206,
+            "name": "Duje Ćaleta-Car",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-17",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 9398,
+            "name": "Orel Mangala",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1998-03-18",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 8977,
+            "name": "Clinton Mata",
+            "position": "Right-Back",
+            "dateOfBirth": "1992-11-07",
+            "nationality": "Angola"
+        },
+        {
+            "id": 8723,
+            "name": "Moussa Niakhaté",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-03-08",
+            "nationality": "France"
+        },
+        {
+            "id": 7792,
+            "name": "Ainsley Maitland-Niles",
+            "position": "Right-Back",
+            "dateOfBirth": "1997-08-29",
+            "nationality": "England"
+        },
+        {
+            "id": 3438,
+            "name": "Nemanja Matić",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1988-08-01",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 1783,
+            "name": "Jordan Veretout",
+            "position": "Central Midfield",
+            "dateOfBirth": "1993-03-01",
+            "nationality": "France"
+        },
+        {
+            "id": 1409,
+            "name": "Adryelson",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-03-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 366,
+            "name": "Corentin Tolisso",
+            "position": "Central Midfield",
+            "dateOfBirth": "1994-08-03",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:19:54Z"
+}

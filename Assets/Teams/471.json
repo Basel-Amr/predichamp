@@ -1,0 +1,309 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 471,
+    "name": "US Sassuolo Calcio",
+    "shortName": "Sassuolo",
+    "tla": "SAS",
+    "crest": "https://crests.football-data.org/471.png",
+    "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+    "website": "http://www.sassuolocalcio.it",
+    "founded": 1920,
+    "clubColors": "Green / Black",
+    "venue": "Mapei Stadium - Città del Tricolore",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 40155,
+        "firstName": "Fabio",
+        "lastName": "Grosso",
+        "name": "Fabio Grosso",
+        "dateOfBirth": "1977-11-28",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2024-06",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 2178,
+            "name": "Giacomo Satalino",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-05-20",
+            "nationality": "Italy"
+        },
+        {
+            "id": 41384,
+            "name": "Stefano Turati",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-09-05",
+            "nationality": "Italy"
+        },
+        {
+            "id": 176750,
+            "name": "Gioele Zacchi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-07-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 177039,
+            "name": "Edoardo Pieragnolo",
+            "position": "Defence",
+            "dateOfBirth": "2003-01-03",
+            "nationality": "Italy"
+        },
+        {
+            "id": 179578,
+            "name": "Yeferson Paz",
+            "position": "Defence",
+            "dateOfBirth": "2002-06-13",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 212873,
+            "name": "Kevin Miranda",
+            "position": "Defence",
+            "dateOfBirth": "2003-03-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 264821,
+            "name": "Simone Cinquegrano",
+            "position": "Defence",
+            "dateOfBirth": "2004-06-25",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1920,
+            "name": "Fabrizio Caligara",
+            "position": "Midfield",
+            "dateOfBirth": "2000-04-12",
+            "nationality": "Italy"
+        },
+        {
+            "id": 119163,
+            "name": "Andrea Ghion",
+            "position": "Midfield",
+            "dateOfBirth": "2000-02-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 150821,
+            "name": "Edoardo Iannoni",
+            "position": "Midfield",
+            "dateOfBirth": "2001-04-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 175891,
+            "name": "Cristian Volpato",
+            "position": "Midfield",
+            "dateOfBirth": "2003-11-15",
+            "nationality": "Italy"
+        },
+        {
+            "id": 176880,
+            "name": "Salim Abubakar",
+            "position": "Midfield",
+            "dateOfBirth": "2003-04-06",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 176917,
+            "name": "Justin Kumi",
+            "position": "Midfield",
+            "dateOfBirth": "2004-07-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 186696,
+            "name": "Luca D'Andrea",
+            "position": "Midfield",
+            "dateOfBirth": "2004-09-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 265386,
+            "name": "Borna Knezović",
+            "position": "Midfield",
+            "dateOfBirth": "2005-07-29",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 265390,
+            "name": "Kevin Leone",
+            "position": "Midfield",
+            "dateOfBirth": "2005-03-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 274104,
+            "name": "Leonardo Cracchiolo",
+            "position": "Midfield",
+            "dateOfBirth": "2006-05-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 16208,
+            "name": "Emil Ceide",
+            "position": "Offence",
+            "dateOfBirth": "2001-09-03",
+            "nationality": "Norway"
+        },
+        {
+            "id": 111561,
+            "name": "Luca Moro",
+            "position": "Offence",
+            "dateOfBirth": "2001-01-25",
+            "nationality": "Italy"
+        },
+        {
+            "id": 141296,
+            "name": "Janis Antiste",
+            "position": "Offence",
+            "dateOfBirth": "2002-08-18",
+            "nationality": "France"
+        },
+        {
+            "id": 152114,
+            "name": "Agustín Álvarez Martínez",
+            "position": "Offence",
+            "dateOfBirth": "2001-05-19",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 156618,
+            "name": "Riccardo Ciervo",
+            "position": "Offence",
+            "dateOfBirth": "2002-04-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 245405,
+            "name": "Laurs Skjellerup",
+            "position": "Offence",
+            "dateOfBirth": "2002-08-12",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 263638,
+            "name": "Flavio Russo",
+            "position": "Offence",
+            "dateOfBirth": "2004-08-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 147020,
+            "name": "Daniel Boloca",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-12-22",
+            "nationality": "Italy"
+        },
+        {
+            "id": 131258,
+            "name": "Ruan",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-06-07",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 125523,
+            "name": "Cas Odenthal",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-09-26",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 122407,
+            "name": "Josh Doig",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-01-01",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 67704,
+            "name": "Uroš Račić",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-03-17",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 44033,
+            "name": "Kristian Thorstvedt",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-03-13",
+            "nationality": "Norway"
+        },
+        {
+            "id": 8822,
+            "name": "Armand Lauriente",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-12-04",
+            "nationality": "France"
+        },
+        {
+            "id": 2847,
+            "name": "Samuele Mulattieri",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-10-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2203,
+            "name": "Nicholas Pierini",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-08-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2202,
+            "name": "Domenico Berardi",
+            "position": "Right Winger",
+            "dateOfBirth": "1994-08-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2016,
+            "name": "Andrea Pinamonti",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-05-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 189844,
+            "name": "Luca Lipani",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2005-05-18",
+            "nationality": "Italy"
+        },
+        {
+            "id": 175837,
+            "name": "Filippo Missori",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-03-24",
+            "nationality": "Italy"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-04-09T16:20:13Z"
+}

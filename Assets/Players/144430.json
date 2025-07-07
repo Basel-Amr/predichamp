@@ -1,0 +1,43 @@
+{
+    "id": 144430,
+    "name": "Albert Gronbaek Erlykke",
+    "firstName": "Albert",
+    "lastName": "Grønbæk",
+    "dateOfBirth": "2001-05-23",
+    "nationality": "Denmark",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-10-10T09:42:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 107,
+        "name": "Genoa CFC",
+        "shortName": "Genoa",
+        "tla": "GEN",
+        "crest": "https://crests.football-data.org/107.png",
+        "address": "Via Ronchi, 67 Genova 16155",
+        "website": "http://www.genoacfc.it",
+        "founded": 1893,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Stadio Comunale Luigi Ferraris",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

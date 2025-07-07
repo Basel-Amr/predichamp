@@ -1,0 +1,50 @@
+{
+    "id": 189482,
+    "name": "Kaua",
+    "firstName": "",
+    "lastName": "Kauã Santos",
+    "dateOfBirth": "2003-04-11",
+    "nationality": "Brazil",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 40,
+    "lastUpdated": "2025-03-13T09:41:17Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 19,
+        "name": "Eintracht Frankfurt",
+        "shortName": "Frankfurt",
+        "tla": "SGE",
+        "crest": "https://crests.football-data.org/19.png",
+        "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
+        "website": "http://www.eintracht.de",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Deutsche Bank Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-09",
+            "until": "2030-06"
+        }
+    }
+}

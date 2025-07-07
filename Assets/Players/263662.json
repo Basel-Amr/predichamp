@@ -1,0 +1,43 @@
+{
+    "id": 263662,
+    "name": "Jeff Ekhator",
+    "firstName": "Jeff",
+    "lastName": "Ekhator",
+    "dateOfBirth": "2006-11-11",
+    "nationality": "Italy",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 21,
+    "lastUpdated": "2024-12-04T09:43:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 107,
+        "name": "Genoa CFC",
+        "shortName": "Genoa",
+        "tla": "GEN",
+        "crest": "https://crests.football-data.org/107.png",
+        "address": "Via Ronchi, 67 Genova 16155",
+        "website": "http://www.genoacfc.it",
+        "founded": 1893,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Stadio Comunale Luigi Ferraris",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

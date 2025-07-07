@@ -1,0 +1,246 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 7,
+    "name": "Hamburger SV",
+    "shortName": "HSV",
+    "tla": "HSV",
+    "crest": "https://crests.football-data.org/7.png",
+    "address": "Sylvesterallee 7 Hamburg 22525",
+    "website": "http://www.hsv.de",
+    "founded": 1887,
+    "clubColors": "White / Red / Blue",
+    "venue": "Volksparkstadion",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 179991,
+        "firstName": "Merlin",
+        "lastName": "Polzin",
+        "name": "Merlin Polzin",
+        "dateOfBirth": "1990-11-07",
+        "nationality": "Germany",
+        "contract": {
+            "start": "2024-11",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 10078,
+            "name": "Daniel Fernandes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-11-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 144395,
+            "name": "Matheo Raab",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-12-18",
+            "nationality": "Germany"
+        },
+        {
+            "id": 209640,
+            "name": "Hannes Hermann",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-03-23",
+            "nationality": "Germany"
+        },
+        {
+            "id": 274402,
+            "name": "Fernando Dickes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2007-10-13",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6551,
+            "name": "Jordan Torunarigha",
+            "position": "Defence",
+            "dateOfBirth": "1997-08-07",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 252883,
+            "name": "Alexander Røssing-Lelesiit",
+            "position": "Offence",
+            "dateOfBirth": "2007-01-20",
+            "nationality": "Norway"
+        },
+        {
+            "id": 249578,
+            "name": "Aboubaka Soumahoro",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-04",
+            "nationality": "France"
+        },
+        {
+            "id": 230350,
+            "name": "Bilal Yalcinkaya",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-03-30",
+            "nationality": "Germany"
+        },
+        {
+            "id": 220468,
+            "name": "Fabio Baldé",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-07-20",
+            "nationality": "Germany"
+        },
+        {
+            "id": 160442,
+            "name": "William Mikelbrencis",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-02-25",
+            "nationality": "France"
+        },
+        {
+            "id": 149995,
+            "name": "Nicolai Remberg",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-06-19",
+            "nationality": "Germany"
+        },
+        {
+            "id": 144415,
+            "name": "Immanuel Pherai",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-04-25",
+            "nationality": "Suriname"
+        },
+        {
+            "id": 137302,
+            "name": "Ransford Königsdörffer",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-09-13",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 132345,
+            "name": "Anssi Tapio Suhonen",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-01-14",
+            "nationality": "Finland"
+        },
+        {
+            "id": 125686,
+            "name": "Rayan Philippe",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-10-23",
+            "nationality": "France"
+        },
+        {
+            "id": 119063,
+            "name": "Lucas Perrin",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-11-19",
+            "nationality": "France"
+        },
+        {
+            "id": 105289,
+            "name": "Łukasz Poręba",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-03-13",
+            "nationality": "Poland"
+        },
+        {
+            "id": 99836,
+            "name": "Noah Katterbach",
+            "position": "Left-Back",
+            "dateOfBirth": "2001-04-13",
+            "nationality": "Germany"
+        },
+        {
+            "id": 85154,
+            "name": "Emir Sahiti",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-11-29",
+            "nationality": "Kosovo"
+        },
+        {
+            "id": 50215,
+            "name": "Miro Muheim",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-03-24",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 45580,
+            "name": "Sebastian Schonlau",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-08-05",
+            "nationality": "Germany"
+        },
+        {
+            "id": 43634,
+            "name": "Guilherme Ramos",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-08-11",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 31252,
+            "name": "Silvan Hefti",
+            "position": "Right-Back",
+            "dateOfBirth": "1997-10-25",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 9492,
+            "name": "Jonas Meffert",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-09-04",
+            "nationality": "Germany"
+        },
+        {
+            "id": 8597,
+            "name": "Jean-Luc Dompé",
+            "position": "Left Winger",
+            "dateOfBirth": "1995-08-12",
+            "nationality": "France"
+        },
+        {
+            "id": 7034,
+            "name": "Robert Glatzel",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-01-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6631,
+            "name": "Levin Öztunali",
+            "position": "Left Winger",
+            "dateOfBirth": "1996-03-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6539,
+            "name": "Bakery Jatta",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-06-06",
+            "nationality": "Gambia"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-02-28T07:57:55Z"
+}

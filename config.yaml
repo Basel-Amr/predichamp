@@ -1,0 +1,43 @@
+cookie:
+  expiry_days: 30
+  key: some_cookie_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    AhmedAtef:
+      email: tempp
+      name: AhmedAtef
+      password: $2b$12$ySInxGr/EJc4sj/4A7y4AeViz2hVoDXspN/ErchMlMU07A1KF7JV6
+    BaselAmr:
+      email: baselamr52@gmail.com
+      name: BaselAmr
+      password: $2b$12$bVSRaHAKXgEV./OThOmAA.SYr9bM2CzP4wW1DLI9.5x.QbXZHsmmm
+    DrToxicNagib:
+      email: omarmoh1234@gmail.com
+      name: DrToxicNagib
+      password: $2b$12$X.j67wW8nk3MlKdgXj1GU.iDvRIipgyzoOLLEgRgz13WGCBfh7xOa
+    Mohamed:
+      email: temp
+      name: Mohamed
+      password: $2b$12$7EhWOTBqRBzTRZes3PQTAeDwVbBB9OteXioi/j4LiJ6y5yGxLjAUO
+    Mostafa:
+      email: Mostafa
+      name: Mostafa
+      password: $2b$12$TGAcDodjc8dMPmgAB5jGluFhaYZi9QqXxh1k1mndlYDG7c2CWD3IC
+    Noobs:
+      email: Noobs123
+      name: Noobs
+      password: $2b$12$9GSjdjnTI.kIe8AKXFabEOJK3oUoTMkiTMywvWzTUCl/hL/7GHuvq
+    Seif:
+      email: seifessam711@yahoo.com
+      name: Seif
+      password: $2b$12$FDYhV5wNQQqapUNyJfg5G.ptkKo6ul3lyp.b/tB7HAxLLIN6KeAwe
+preauthorized:
+  emails:
+  - baselamr52@gmail.com
+  - seifessam711@yahoo.com
+  - omarmoh1234@gmail.com
+  - temp
+  - tempp
+  - Noobs123
+  - Mostafa

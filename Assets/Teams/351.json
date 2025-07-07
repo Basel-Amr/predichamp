@@ -1,0 +1,260 @@
+{
+    "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+    },
+    "id": 351,
+    "name": "Nottingham Forest FC",
+    "shortName": "Nottingham",
+    "tla": "NOT",
+    "crest": "https://crests.football-data.org/351.png",
+    "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
+    "website": "http://www.nottinghamforest.co.uk",
+    "founded": 1865,
+    "clubColors": "Red / White",
+    "venue": "The City Ground",
+    "runningCompetitions": [
+        {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PL.png"
+        }
+    ],
+    "coach": {
+        "id": 11315,
+        "firstName": "",
+        "lastName": "Nuno Espírito Santo",
+        "name": "Nuno Espírito Santo",
+        "dateOfBirth": "1974-01-25",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2023-12",
+            "until": "2028-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 3643,
+            "name": "Matz Sels",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-02-26",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 76936,
+            "name": "Matt Turner",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-06-24",
+            "nationality": "USA"
+        },
+        {
+            "id": 118029,
+            "name": "Carlos Miguel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-10-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 4266,
+            "name": "Omar Richards",
+            "position": "Defence",
+            "dateOfBirth": "1998-02-15",
+            "nationality": "England"
+        },
+        {
+            "id": 80869,
+            "name": "David Carmo",
+            "position": "Defence",
+            "dateOfBirth": "1999-07-19",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 98870,
+            "name": "Jonathan Panzo",
+            "position": "Defence",
+            "dateOfBirth": "2000-10-25",
+            "nationality": "England"
+        },
+        {
+            "id": 214425,
+            "name": "Tyler Bindon",
+            "position": "Defence",
+            "dateOfBirth": "2005-01-27",
+            "nationality": "USA"
+        },
+        {
+            "id": 156513,
+            "name": "Marko Stamenic",
+            "position": "Midfield",
+            "dateOfBirth": "2002-02-19",
+            "nationality": "New Zealand"
+        },
+        {
+            "id": 46346,
+            "name": "Nicolás Domínguez",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-28",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 9218,
+            "name": "Taiwo Awoniyi",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-08-12",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 8894,
+            "name": "Emmanuel Dennis",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-11-15",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 8307,
+            "name": "Ibrahim Sangaré",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-12-02",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 8188,
+            "name": "Lewis O'Brien",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-10-14",
+            "nationality": "England"
+        },
+        {
+            "id": 8057,
+            "name": "Chris Wood",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1991-12-07",
+            "nationality": "New Zealand"
+        },
+        {
+            "id": 7816,
+            "name": "Callum Hudson-Odoi",
+            "position": "Left Winger",
+            "dateOfBirth": "2000-11-07",
+            "nationality": "England"
+        },
+        {
+            "id": 5435,
+            "name": "Ryan Yates",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-11-21",
+            "nationality": "England"
+        },
+        {
+            "id": 4091,
+            "name": "Morgan Gibbs-White",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-01-27",
+            "nationality": "England"
+        },
+        {
+            "id": 4086,
+            "name": "Willy Boly",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-02-03",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 3386,
+            "name": "Ola Aina",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-10-08",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 1775,
+            "name": "Nikola Milenković",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-10-12",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 227007,
+            "name": "Eric da Silva Moreira",
+            "position": "Right Midfield",
+            "dateOfBirth": "2006-05-03",
+            "nationality": "Germany"
+        },
+        {
+            "id": 204483,
+            "name": "Zach Abbott",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-05-13",
+            "nationality": "England"
+        },
+        {
+            "id": 192637,
+            "name": "Murillo",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-07-04",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 166376,
+            "name": "Anthony Elanga",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-04-27",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 149704,
+            "name": "Danilo dos Santos de Oliveira",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-04-29",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 140647,
+            "name": "Ramón Sosa",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-08-31",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 136334,
+            "name": "Jota Silva",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-08-01",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 133765,
+            "name": "Neco Williams",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-04-13",
+            "nationality": "Wales"
+        },
+        {
+            "id": 122467,
+            "name": "Josh Bowler",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-03-05",
+            "nationality": "England"
+        },
+        {
+            "id": 119596,
+            "name": "Morato",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-06-30",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 107330,
+            "name": "Elliot Anderson",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-11-06",
+            "nationality": "England"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-07-26T17:53:21Z"
+}

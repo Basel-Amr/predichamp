@@ -1,0 +1,43 @@
+{
+    "id": 3357,
+    "name": "Alphonse Aréola",
+    "firstName": "Alphonse",
+    "lastName": "Aréola",
+    "dateOfBirth": "1993-02-27",
+    "nationality": "France",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 23,
+    "lastUpdated": "2023-07-30T17:01:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 563,
+        "name": "West Ham United FC",
+        "shortName": "West Ham",
+        "tla": "WHU",
+        "crest": "https://crests.football-data.org/563.png",
+        "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+        "website": "http://www.whufc.com",
+        "founded": 1895,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "London Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

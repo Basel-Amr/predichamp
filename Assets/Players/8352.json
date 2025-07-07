@@ -1,0 +1,43 @@
+{
+    "id": 8352,
+    "name": "Maxime López",
+    "firstName": "Maxime",
+    "lastName": "López",
+    "dateOfBirth": "1997-12-04",
+    "nationality": "France",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 21,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 1045,
+        "name": "Paris FC",
+        "shortName": "Paris FC",
+        "tla": "PFC",
+        "crest": "https://crests.football-data.org/1045.png",
+        "address": "17 rue Neuve Tolbiac Paris 75013",
+        "website": "http://www.parisfootballclub.com",
+        "founded": 1969,
+        "clubColors": "Navy Blue / Sky Blue",
+        "venue": "Stade Sébastien Charléty",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

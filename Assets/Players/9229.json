@@ -1,0 +1,50 @@
+{
+    "id": 9229,
+    "name": "Zinho Vanheusden",
+    "firstName": "Zinho",
+    "lastName": "Vanheusden",
+    "dateOfBirth": "1999-07-29",
+    "nationality": "Belgium",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-08-04T08:24:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 108,
+        "name": "FC Internazionale Milano",
+        "shortName": "Inter",
+        "tla": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+        "website": "http://www.inter.it",
+        "founded": 1908,
+        "clubColors": "Blue / Black",
+        "venue": "Stadio Giuseppe Meazza",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

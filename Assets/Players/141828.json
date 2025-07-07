@@ -1,0 +1,43 @@
+{
+    "id": 141828,
+    "name": "Unai Vencedor Paris",
+    "firstName": "",
+    "lastName": "Vencedor",
+    "dateOfBirth": "2000-11-15",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-05T08:21:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

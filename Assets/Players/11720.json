@@ -1,0 +1,50 @@
+{
+    "id": 11720,
+    "name": "Exequiel Palacios",
+    "firstName": "Exequiel",
+    "lastName": "Palacios",
+    "dateOfBirth": "1998-10-05",
+    "nationality": "Argentina",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 25,
+    "lastUpdated": "2024-10-09T09:41:00Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 3,
+        "name": "Bayer 04 Leverkusen",
+        "shortName": "Leverkusen",
+        "tla": "B04",
+        "crest": "https://crests.football-data.org/3.png",
+        "address": "Bismarckstr. 122-124 Leverkusen 51373",
+        "website": "http://www.bayer04.de",
+        "founded": 1904,
+        "clubColors": "Red / White / Black",
+        "venue": "BayArena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2020-01",
+            "until": "2028-06"
+        }
+    }
+}

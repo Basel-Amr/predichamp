@@ -1,0 +1,57 @@
+{
+    "id": 210468,
+    "name": "Moscardo",
+    "firstName": "",
+    "lastName": "Moscardo",
+    "dateOfBirth": "2005-09-28",
+    "nationality": "Brazil",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 20,
+    "lastUpdated": "2024-08-23T10:11:40Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 524,
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "website": "http://www.psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/esc.png"
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-06",
+            "until": "2028-06"
+        }
+    }
+}

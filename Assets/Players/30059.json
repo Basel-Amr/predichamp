@@ -1,0 +1,43 @@
+{
+    "id": 30059,
+    "name": "Vedat Muriqi",
+    "firstName": "Vedat",
+    "lastName": "Muriqi",
+    "dateOfBirth": "1994-04-24",
+    "nationality": "Kosovo",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 89,
+        "name": "RCD Mallorca",
+        "shortName": "Mallorca",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/89.png",
+        "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+        "website": "http://www.rcdmallorca.es",
+        "founded": 1916,
+        "clubColors": "Red / Black",
+        "venue": "Iberostar Estadi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2027-06"
+        }
+    }
+}

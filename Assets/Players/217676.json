@@ -1,0 +1,43 @@
+{
+    "id": 217676,
+    "name": "Luis Hasa",
+    "firstName": "Luis",
+    "lastName": "Hasa",
+    "dateOfBirth": "2004-01-06",
+    "nationality": "Italy",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 29,
+    "lastUpdated": "2025-02-18T17:35:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 113,
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "tla": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+        "website": "http://www.sscnapoli.it",
+        "founded": 1904,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio San Paolo",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2029-06"
+        }
+    }
+}

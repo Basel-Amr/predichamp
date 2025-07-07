@@ -1,0 +1,43 @@
+{
+    "id": 217850,
+    "name": "Matteo Marchisano",
+    "firstName": "Matteo",
+    "lastName": "Marchisano",
+    "dateOfBirth": "2004-10-06",
+    "nationality": "Italy",
+    "section": "Defence",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-21T09:56:07Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 113,
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "tla": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+        "website": "http://www.sscnapoli.it",
+        "founded": 1904,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio San Paolo",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

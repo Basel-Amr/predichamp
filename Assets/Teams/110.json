@@ -1,0 +1,337 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 110,
+    "name": "SS Lazio",
+    "shortName": "Lazio",
+    "tla": "LAZ",
+    "crest": "https://crests.football-data.org/110.png",
+    "address": "Via di Santa Cornelia, 1000 Formello 00060",
+    "website": "http://www.sslazio.it",
+    "founded": 1900,
+    "clubColors": "White / Sky Blue",
+    "venue": "Stadio Olimpico",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        }
+    ],
+    "coach": {
+        "id": 10983,
+        "firstName": "Maurizio",
+        "lastName": "Sarri",
+        "name": "Maurizio Sarri",
+        "dateOfBirth": "1959-01-10",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-06",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 2475,
+            "name": "Ivan Provedel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-03-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 43190,
+            "name": "Christos Mandas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-09-17",
+            "nationality": "Greece"
+        },
+        {
+            "id": 118438,
+            "name": "Alessio Furlanetto",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-02-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 192109,
+            "name": "Davide Renzetti",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-06-09",
+            "nationality": "Italy"
+        },
+        {
+            "id": 175839,
+            "name": "Romano Floriani",
+            "position": "Defence",
+            "dateOfBirth": "2003-01-27",
+            "nationality": "Italy"
+        },
+        {
+            "id": 85523,
+            "name": "Marcos Antônio",
+            "position": "Midfield",
+            "dateOfBirth": "2000-06-13",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 213185,
+            "name": "Mohamed Fares",
+            "position": "Midfield",
+            "dateOfBirth": "1996-02-15",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 213187,
+            "name": "Jean-Daniel Akpa-Akpro",
+            "position": "Midfield",
+            "dateOfBirth": "1992-10-11",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 272048,
+            "name": "Leonardo Di Tommaso",
+            "position": "Midfield",
+            "dateOfBirth": "2005-02-13",
+            "nationality": "Italy"
+        },
+        {
+            "id": 136713,
+            "name": "Gabriele Artistico",
+            "position": "Offence",
+            "dateOfBirth": "2002-07-14",
+            "nationality": "Italy"
+        },
+        {
+            "id": 217505,
+            "name": "Valerio Crespi",
+            "position": "Offence",
+            "dateOfBirth": "2004-08-04",
+            "nationality": "Italy"
+        },
+        {
+            "id": 274451,
+            "name": "Mahamadou Baldé",
+            "position": "Offence",
+            "dateOfBirth": "2004-01-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 274812,
+            "name": "Federico Serra",
+            "position": "Offence",
+            "dateOfBirth": "2006-01-03",
+            "nationality": "Italy"
+        },
+        {
+            "id": 120446,
+            "name": "Dimitrije Kamenović",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-07-16",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 98299,
+            "name": "Boulaye Dia",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-11-16",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 80459,
+            "name": "Nuno Tavares",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-01-26",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 56645,
+            "name": "Nicolò Casale",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-02-14",
+            "nationality": "Italy"
+        },
+        {
+            "id": 28416,
+            "name": "Valentín Castellanos",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-10-03",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 23703,
+            "name": "Toma Bašić",
+            "position": "Central Midfield",
+            "dateOfBirth": "1996-11-25",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 7818,
+            "name": "Pedro",
+            "position": "Right Winger",
+            "dateOfBirth": "1987-07-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 2676,
+            "name": "Gaetano Castrovilli",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-02-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2358,
+            "name": "Manuel Lazzari",
+            "position": "Right Midfield",
+            "dateOfBirth": "1993-11-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2329,
+            "name": "Danilo Cataldi",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-08-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2158,
+            "name": "Mattia Zaccagni",
+            "position": "Left Winger",
+            "dateOfBirth": "1995-06-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2088,
+            "name": "Elseid Hysaj",
+            "position": "Right-Back",
+            "dateOfBirth": "1994-02-02",
+            "nationality": "Albania"
+        },
+        {
+            "id": 2069,
+            "name": "Adam Marušić",
+            "position": "Right-Back",
+            "dateOfBirth": "1992-10-17",
+            "nationality": "Montenegro"
+        },
+        {
+            "id": 2065,
+            "name": "Patric",
+            "position": "Centre-Back",
+            "dateOfBirth": "1993-04-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 2009,
+            "name": "Matías Vecino",
+            "position": "Central Midfield",
+            "dateOfBirth": "1991-08-24",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 1740,
+            "name": "Alessio Romagnoli",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-01-12",
+            "nationality": "Italy"
+        },
+        {
+            "id": 600,
+            "name": "Mattéo Guendouzi",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-04-14",
+            "nationality": "France"
+        },
+        {
+            "id": 272768,
+            "name": "Filipe",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-06-24",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 261350,
+            "name": "Alessandro Milani",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-06-14",
+            "nationality": "Venezuela"
+        },
+        {
+            "id": 260936,
+            "name": "Cristo Muñoz",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-02-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 217916,
+            "name": "Saná Fernandes",
+            "position": "Left Winger",
+            "dateOfBirth": "2006-03-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 212456,
+            "name": "Oliver Nielsen",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-06-04",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 192110,
+            "name": "Fabio Ruggeri",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-12-13",
+            "nationality": "Italy"
+        },
+        {
+            "id": 187476,
+            "name": "Reda Belahyane",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-06-01",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 180139,
+            "name": "Gila",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-08-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 171448,
+            "name": "Tijjani Noslin",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-07-07",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 152787,
+            "name": "Matteo Cancellieri",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-02-12",
+            "nationality": "Italy"
+        },
+        {
+            "id": 147781,
+            "name": "Fisayo Dele-Bashiru",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-02-06",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 128007,
+            "name": "Gustav Isaksen",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-04-19",
+            "nationality": "Denmark"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-04-09T16:20:32Z"
+}

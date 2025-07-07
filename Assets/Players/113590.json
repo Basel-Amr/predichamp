@@ -1,0 +1,50 @@
+{
+    "id": 113590,
+    "name": "Gaby Jean",
+    "firstName": "Gaby",
+    "lastName": "Jean",
+    "dateOfBirth": "2000-02-19",
+    "nationality": "France",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 19,
+    "lastUpdated": "2024-09-02T09:38:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 5890,
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/5890.png",
+        "address": "Via Templari 11 Lecce 73100",
+        "website": "http://www.uslecce.it",
+        "founded": 1908,
+        "clubColors": "Yellow / Red / Navy Blue",
+        "venue": "Stadio Comunale Via Del Mare",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

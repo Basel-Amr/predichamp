@@ -1,0 +1,43 @@
+{
+    "id": 178718,
+    "name": "Luiz Junior",
+    "firstName": "",
+    "lastName": "Júnior Reis",
+    "dateOfBirth": "2001-01-14",
+    "nationality": "Brazil",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-10-26T09:42:57Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2030-06"
+        }
+    }
+}

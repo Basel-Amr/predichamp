@@ -1,0 +1,43 @@
+{
+    "id": 32016,
+    "name": "Aarón",
+    "firstName": "",
+    "lastName": "Aarón",
+    "dateOfBirth": "1995-09-27",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 13,
+    "lastUpdated": "2023-07-30T17:05:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 1048,
+        "name": "Real Oviedo",
+        "shortName": "Real Oviedo",
+        "tla": "OVI",
+        "crest": "https://crests.football-data.org/1048.png",
+        "address": "Ricardo Vázquez Prada, s/n Oviedo 33013",
+        "website": "http://www.realoviedo.es",
+        "founded": 1926,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Nuevo Carlos Tartiere",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 214177,
+    "name": "Xavi Grande",
+    "firstName": "",
+    "lastName": "Xavi Grande",
+    "dateOfBirth": "2005-05-28",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 31,
+    "lastUpdated": "2024-08-05T08:21:34Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2028-06"
+        }
+    }
+}

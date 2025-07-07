@@ -1,0 +1,50 @@
+{
+    "id": 72462,
+    "name": "Thomas Keller",
+    "firstName": "Thomas",
+    "lastName": "Keller",
+    "dateOfBirth": "1999-08-05",
+    "nationality": "Germany",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 27,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 44,
+        "name": "1. FC Heidenheim 1846",
+        "shortName": "Heidenheim",
+        "tla": "HEI",
+        "crest": "https://crests.football-data.org/44.png",
+        "address": "Schloßhaustraße 162 Heidenheim 89522",
+        "website": "http://www.fc-heidenheim.de",
+        "founded": 1846,
+        "clubColors": "Blue / Red / White",
+        "venue": "Voith-Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2028-06"
+        }
+    }
+}

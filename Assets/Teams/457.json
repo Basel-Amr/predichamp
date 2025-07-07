@@ -1,0 +1,337 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 457,
+    "name": "US Cremonese",
+    "shortName": "Cremonese",
+    "tla": "CRE",
+    "crest": "https://crests.football-data.org/457.png",
+    "address": "Via Persico, 19 Cremona 26100",
+    "website": "http://www.uscremonese.it",
+    "founded": 1903,
+    "clubColors": "Red / Grey",
+    "venue": "Stadio Giovanni Zin",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 166846,
+        "firstName": "Davide",
+        "lastName": "Nicola",
+        "name": "Davide Nicola",
+        "dateOfBirth": "1973-03-05",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 2957,
+            "name": "Andrea Fulignati",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-10-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 115244,
+            "name": "Gianluca Saro",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-06-25",
+            "nationality": "Italy"
+        },
+        {
+            "id": 152802,
+            "name": "Andreas Jungdal",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-02-22",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 219589,
+            "name": "Federico Agazzi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-04-18",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2145,
+            "name": "Matteo Bianchetti",
+            "position": "Defence",
+            "dateOfBirth": "1993-03-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 41923,
+            "name": "Leonardo Sernicola",
+            "position": "Defence",
+            "dateOfBirth": "1997-07-30",
+            "nationality": "Italy"
+        },
+        {
+            "id": 84509,
+            "name": "Luka Lochoshvili",
+            "position": "Defence",
+            "dateOfBirth": "1998-05-29",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 124704,
+            "name": "Tommaso Barbieri",
+            "position": "Defence",
+            "dateOfBirth": "2002-08-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 124711,
+            "name": "Giacomo Quagliata",
+            "position": "Defence",
+            "dateOfBirth": "2000-02-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 151912,
+            "name": "Luca Munaretti",
+            "position": "Defence",
+            "dateOfBirth": "2002-06-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 152455,
+            "name": "Lorenzo Moretti",
+            "position": "Defence",
+            "dateOfBirth": "2002-02-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 176377,
+            "name": "Maissa Ndiaye",
+            "position": "Defence",
+            "dateOfBirth": "2002-01-28",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 188533,
+            "name": "Francesco Folino",
+            "position": "Defence",
+            "dateOfBirth": "2002-01-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 191692,
+            "name": "Yuri Rocchetti",
+            "position": "Defence",
+            "dateOfBirth": "2003-06-15",
+            "nationality": "Italy"
+        },
+        {
+            "id": 217737,
+            "name": "Eddy Cabianca",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 217859,
+            "name": "Samuele Regazzetti",
+            "position": "Defence",
+            "dateOfBirth": "2004-07-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 218265,
+            "name": "Mattia Scaringi",
+            "position": "Defence",
+            "dateOfBirth": "2003-04-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2496,
+            "name": "Michele Castagnetti",
+            "position": "Midfield",
+            "dateOfBirth": "1989-12-27",
+            "nationality": "Italy"
+        },
+        {
+            "id": 11100,
+            "name": "Luca Zanimacchia",
+            "position": "Midfield",
+            "dateOfBirth": "1998-07-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 30876,
+            "name": "Charles Pickel",
+            "position": "Midfield",
+            "dateOfBirth": "1997-05-15",
+            "nationality": "DR Congo"
+        },
+        {
+            "id": 41859,
+            "name": "Jari Vandeputte",
+            "position": "Midfield",
+            "dateOfBirth": "1996-02-14",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 42157,
+            "name": "Michele Collocolo",
+            "position": "Midfield",
+            "dateOfBirth": "1999-11-08",
+            "nationality": "Italy"
+        },
+        {
+            "id": 153844,
+            "name": "Tommaso P. Milanese",
+            "position": "Midfield",
+            "dateOfBirth": "2002-07-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 185014,
+            "name": "Christian Acella",
+            "position": "Midfield",
+            "dateOfBirth": "2002-07-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 185017,
+            "name": "Joshua Tenkorang",
+            "position": "Midfield",
+            "dateOfBirth": "2000-05-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 188613,
+            "name": "Alessio Brambilla",
+            "position": "Midfield",
+            "dateOfBirth": "2001-06-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 261692,
+            "name": "Dachi Lordkipanidze",
+            "position": "Midfield",
+            "dateOfBirth": "2005-03-08",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 1763,
+            "name": "Frank Tsadjout",
+            "position": "Offence",
+            "dateOfBirth": "1999-07-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1889,
+            "name": "César Falletti",
+            "position": "Offence",
+            "dateOfBirth": "1992-12-02",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 11026,
+            "name": "Manuel De Luca",
+            "position": "Offence",
+            "dateOfBirth": "1998-07-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 175874,
+            "name": "Felix Afena-Gyan",
+            "position": "Offence",
+            "dateOfBirth": "2003-01-19",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 186545,
+            "name": "Marco Nasti",
+            "position": "Offence",
+            "dateOfBirth": "2003-09-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 192865,
+            "name": "Alberto Basso Ricci",
+            "position": "Offence",
+            "dateOfBirth": "2004-06-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 261223,
+            "name": "David Stückler",
+            "position": "Offence",
+            "dateOfBirth": "2004-10-07",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 264835,
+            "name": "Michele Bigonzoni",
+            "position": "Offence",
+            "dateOfBirth": "2004-05-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 270475,
+            "name": "Giacomo Gabbiani",
+            "position": "Offence",
+            "dateOfBirth": "2006-06-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 86122,
+            "name": "Paulo Dentello",
+            "position": "Left-Back",
+            "dateOfBirth": "1994-07-15",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 42179,
+            "name": "David Okereke",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-08-29",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 7573,
+            "name": "Dennis Johnsen",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-02-17",
+            "nationality": "Norway"
+        },
+        {
+            "id": 2373,
+            "name": "Federico Bonazzoli",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-05-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2213,
+            "name": "Federico Ceccherini",
+            "position": "Centre-Back",
+            "dateOfBirth": "1992-05-11",
+            "nationality": "Italy"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-03-20T17:53:13Z"
+}

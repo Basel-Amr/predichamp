@@ -1,0 +1,43 @@
+{
+    "id": 166244,
+    "name": "Dion Moise Sahi",
+    "firstName": "Moïse",
+    "lastName": "Sahi Dion",
+    "dateOfBirth": "2001-12-20",
+    "nationality": "Ivory Coast",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-10-10T09:42:55Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png",
+        "address": "12 Rue Extenwoerth Strasbourg 67000",
+        "website": "http://www.rcstrasbourgalsace.fr",
+        "founded": 1906,
+        "clubColors": "Blue / White",
+        "venue": "Stade de la Meinau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

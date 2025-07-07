@@ -1,0 +1,43 @@
+{
+    "id": 171027,
+    "name": "Jackson Tchatchoua",
+    "firstName": "Jackson",
+    "lastName": "Tchatchoua",
+    "dateOfBirth": "2002-06-22",
+    "nationality": "Cameroon",
+    "section": "Offence",
+    "position": "Defence",
+    "shirtNumber": 38,
+    "lastUpdated": "2024-06-09T09:41:16Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2027-06"
+        }
+    }
+}

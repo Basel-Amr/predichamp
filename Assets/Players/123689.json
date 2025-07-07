@@ -1,0 +1,50 @@
+{
+    "id": 123689,
+    "name": "Saúl Coco",
+    "firstName": "",
+    "lastName": "Saúl Coco",
+    "dateOfBirth": "1999-02-09",
+    "nationality": "Equatorial Guinea",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 23,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 586,
+        "name": "Torino FC",
+        "shortName": "Torino",
+        "tla": "TOR",
+        "crest": "https://crests.football-data.org/586.png",
+        "address": "Via Arcivescovado 1 Torino 10122",
+        "website": "http://www.torinofc.it",
+        "founded": 1894,
+        "clubColors": "Brown / White",
+        "venue": "Stadio Olimpico di Torino",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

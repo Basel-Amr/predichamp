@@ -1,0 +1,43 @@
+{
+    "id": 272870,
+    "name": "Joseph Mangondo",
+    "firstName": "Joseph",
+    "lastName": "Mangondo",
+    "dateOfBirth": "2005-08-06",
+    "nationality": "France",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-07-04T09:42:26Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 545,
+        "name": "FC Metz",
+        "shortName": "FC Metz",
+        "tla": "FCM",
+        "crest": "https://crests.football-data.org/545.png",
+        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
+        "website": "http://www.fcmetz.com",
+        "founded": 1919,
+        "clubColors": "Red / Blue",
+        "venue": "Stade Saint-Symphorien",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-11",
+            "until": "2028-06"
+        }
+    }
+}

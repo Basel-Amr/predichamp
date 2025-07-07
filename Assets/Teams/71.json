@@ -1,0 +1,288 @@
+{
+    "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+    },
+    "id": 71,
+    "name": "Sunderland AFC",
+    "shortName": "Sunderland",
+    "tla": "SUN",
+    "crest": "https://crests.football-data.org/71.png",
+    "address": "The Sunderland Stadium of Light Sunderland SR5 1SU",
+    "website": "http://www.safc.com",
+    "founded": 1879,
+    "clubColors": "Red / White",
+    "venue": "Stadium of Light",
+    "runningCompetitions": [
+        {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PL.png"
+        }
+    ],
+    "coach": {
+        "id": 185195,
+        "firstName": "Régis",
+        "lastName": "Le Bris",
+        "name": "Regis Le Bris",
+        "dateOfBirth": "1975-12-06",
+        "nationality": "France",
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 4292,
+            "name": "Simon Moore",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-05-19",
+            "nationality": "England"
+        },
+        {
+            "id": 5240,
+            "name": "Nathan Bishop",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-10-15",
+            "nationality": "England"
+        },
+        {
+            "id": 97249,
+            "name": "Anthony Patterson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-05-10",
+            "nationality": "England"
+        },
+        {
+            "id": 145505,
+            "name": "Blondy Noukeu",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-09-17",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 177539,
+            "name": "Nectarios Triantis",
+            "position": "Defence",
+            "dateOfBirth": "2003-05-11",
+            "nationality": "Australia"
+        },
+        {
+            "id": 179695,
+            "name": "Leo Hjelde",
+            "position": "Defence",
+            "dateOfBirth": "2003-08-26",
+            "nationality": "Norway"
+        },
+        {
+            "id": 248726,
+            "name": "Thomas Lavery",
+            "position": "Defence",
+            "dateOfBirth": "2005-12-19",
+            "nationality": "England"
+        },
+        {
+            "id": 131135,
+            "name": "Jay Matete",
+            "position": "Midfield",
+            "dateOfBirth": "2001-02-11",
+            "nationality": "England"
+        },
+        {
+            "id": 249412,
+            "name": "Harrison Jones",
+            "position": "Midfield",
+            "dateOfBirth": "2005-02-13",
+            "nationality": "England"
+        },
+        {
+            "id": 211818,
+            "name": "Luís Semedo",
+            "position": "Offence",
+            "dateOfBirth": "2003-08-11",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 213255,
+            "name": "Ian Poveda",
+            "position": "Offence",
+            "dateOfBirth": "2000-02-09",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 161270,
+            "name": "Aji Alese",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-01-17",
+            "nationality": "England"
+        },
+        {
+            "id": 157194,
+            "name": "Niall Huggins",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-12-18",
+            "nationality": "Wales"
+        },
+        {
+            "id": 154109,
+            "name": "Jenson Seelt",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-05-23",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 148288,
+            "name": "Timothee Pembele",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-09-09",
+            "nationality": "France"
+        },
+        {
+            "id": 128453,
+            "name": "Adil Aouchiche",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-07-15",
+            "nationality": "France"
+        },
+        {
+            "id": 121109,
+            "name": "Daniel Ballard",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-09-22",
+            "nationality": "Northern Ireland"
+        },
+        {
+            "id": 117687,
+            "name": "Trai Hume",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-03-18",
+            "nationality": "Northern Ireland"
+        },
+        {
+            "id": 99664,
+            "name": "Enzo Le Fée",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-02-03",
+            "nationality": "France"
+        },
+        {
+            "id": 83599,
+            "name": "Wilson Isidor",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-08-27",
+            "nationality": "France"
+        },
+        {
+            "id": 16189,
+            "name": "Nazarii Rusyn",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-10-25",
+            "nationality": "Ukraine"
+        },
+        {
+            "id": 16076,
+            "name": "Patrick Roberts",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-02-05",
+            "nationality": "England"
+        },
+        {
+            "id": 11362,
+            "name": "Alan Browne",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-04-15",
+            "nationality": "Ireland"
+        },
+        {
+            "id": 6259,
+            "name": "Luke O'Nien",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-11-21",
+            "nationality": "England"
+        },
+        {
+            "id": 268830,
+            "name": "Milan Aleksić",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-08-30",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 191889,
+            "name": "Ahmed Abdullahi",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-06-19",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 191461,
+            "name": "Joseph Anderson",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-02-06",
+            "nationality": "England"
+        },
+        {
+            "id": 190817,
+            "name": "Chris Rigg",
+            "position": "Central Midfield",
+            "dateOfBirth": "2007-06-18",
+            "nationality": "England"
+        },
+        {
+            "id": 178644,
+            "name": "Eliezer Mayenda",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-05-08",
+            "nationality": "Spain"
+        },
+        {
+            "id": 176984,
+            "name": "Pierre Ekwah",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2002-01-15",
+            "nationality": "France"
+        },
+        {
+            "id": 172275,
+            "name": "Romaine Mundle",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-04-24",
+            "nationality": "England"
+        },
+        {
+            "id": 172127,
+            "name": "Dan Neil",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-11-30",
+            "nationality": "England"
+        },
+        {
+            "id": 172123,
+            "name": "Dennis Cirkin",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-04-06",
+            "nationality": "England"
+        },
+        {
+            "id": 171876,
+            "name": "Habib Diarra",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-01-03",
+            "nationality": "France"
+        },
+        {
+            "id": 165311,
+            "name": "Abdoullah Ba",
+            "position": "Right Midfield",
+            "dateOfBirth": "2003-07-31",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T09:12:07Z"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 213221,
+    "name": "Hákon Haraldsson",
+    "firstName": "Hákon",
+    "lastName": "Haraldsson",
+    "dateOfBirth": "2003-04-10",
+    "nationality": "Iceland",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 7,
+    "lastUpdated": "2023-09-19T09:53:34Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 521,
+        "name": "Lille OSC",
+        "shortName": "Lille",
+        "tla": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+        "website": "http://www.losc.fr",
+        "founded": 1944,
+        "clubColors": "White / Red",
+        "venue": "Stade Pierre-Mauroy",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2028-06"
+        }
+    }
+}

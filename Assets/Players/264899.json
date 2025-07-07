@@ -1,0 +1,50 @@
+{
+    "id": 264899,
+    "name": "Cristian Padula",
+    "firstName": "Cristian",
+    "lastName": "Padula",
+    "dateOfBirth": "2004-08-12",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-22T09:50:34Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 586,
+        "name": "Torino FC",
+        "shortName": "Torino",
+        "tla": "TOR",
+        "crest": "https://crests.football-data.org/586.png",
+        "address": "Via Arcivescovado 1 Torino 10122",
+        "website": "http://www.torinofc.it",
+        "founded": 1894,
+        "clubColors": "Brown / White",
+        "venue": "Stadio Olimpico di Torino",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

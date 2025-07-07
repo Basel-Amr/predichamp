@@ -1,0 +1,50 @@
+{
+    "id": 2957,
+    "name": "Andrea Fulignati",
+    "firstName": "Andrea",
+    "lastName": "Fulignati",
+    "dateOfBirth": "1994-10-31",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:08:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 457,
+        "name": "US Cremonese",
+        "shortName": "Cremonese",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/457.png",
+        "address": "Via Persico, 19 Cremona 26100",
+        "website": "http://www.uscremonese.it",
+        "founded": 1903,
+        "clubColors": "Red / Grey",
+        "venue": "Stadio Giovanni Zin",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

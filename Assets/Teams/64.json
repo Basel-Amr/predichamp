@@ -1,0 +1,253 @@
+{
+    "area": {
+        "id": 2072,
+        "name": "England",
+        "code": "ENG",
+        "flag": "https://crests.football-data.org/770.svg"
+    },
+    "id": 64,
+    "name": "Liverpool FC",
+    "shortName": "Liverpool",
+    "tla": "LIV",
+    "crest": "https://crests.football-data.org/64.png",
+    "address": "Anfield Road Liverpool L4 0TH",
+    "website": "http://www.liverpoolfc.tv",
+    "founded": 1892,
+    "clubColors": "Red / White",
+    "venue": "Anfield",
+    "runningCompetitions": [
+        {
+            "id": 2056,
+            "name": "FA Community Shield",
+            "code": "COM",
+            "type": "SUPER_CUP",
+            "emblem": "https://crests.football-data.org/com.png"
+        },
+        {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PL.png"
+        }
+    ],
+    "coach": {
+        "id": 121014,
+        "firstName": "Arne",
+        "lastName": "Slot",
+        "name": "Arne Slot",
+        "dateOfBirth": "1978-09-17",
+        "nationality": "Netherlands",
+        "contract": {
+            "start": "2024-06",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 1795,
+            "name": "Alisson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-10-02",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 11629,
+            "name": "Freddie Woodman",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-03-04",
+            "nationality": "England"
+        },
+        {
+            "id": 84506,
+            "name": "Giorgi Mamardashvili",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-09-29",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 182236,
+            "name": "Armin Pecsi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-02-24",
+            "nationality": "Hungary"
+        },
+        {
+            "id": 186701,
+            "name": "Stefan Bajcetic",
+            "position": "Defence",
+            "dateOfBirth": "2004-10-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 187370,
+            "name": "Luke Chambers",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-06-24",
+            "nationality": "England"
+        },
+        {
+            "id": 176789,
+            "name": "Ben Doak",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-11-11",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 175865,
+            "name": "Conor Bradley",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-07-09",
+            "nationality": "Northern Ireland"
+        },
+        {
+            "id": 171141,
+            "name": "Milos Kerkez",
+            "position": "Left-Back",
+            "dateOfBirth": "2003-11-07",
+            "nationality": "Hungary"
+        },
+        {
+            "id": 135636,
+            "name": "Rhys Williams",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-02-03",
+            "nationality": "England"
+        },
+        {
+            "id": 128954,
+            "name": "Jeremie Frimpong",
+            "position": "Right Midfield",
+            "dateOfBirth": "2000-12-10",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 124824,
+            "name": "Harvey Elliott",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-04-04",
+            "nationality": "England"
+        },
+        {
+            "id": 124778,
+            "name": "Calvin Ramsay",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-07-31",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 81793,
+            "name": "Ryan Gravenberch",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2002-05-16",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 45681,
+            "name": "Alexis Mac Allister",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-12-24",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 28612,
+            "name": "Darwin Núñez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-06-24",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 22396,
+            "name": "Luis Díaz",
+            "position": "Left Winger",
+            "dateOfBirth": "1997-01-13",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 19334,
+            "name": "Florian Wirtz",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-05-03",
+            "nationality": "Germany"
+        },
+        {
+            "id": 16347,
+            "name": "Dominik Szoboszlai",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-10-25",
+            "nationality": "Hungary"
+        },
+        {
+            "id": 9542,
+            "name": "Ibrahima Konaté",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-05-25",
+            "nationality": "France"
+        },
+        {
+            "id": 7873,
+            "name": "Curtis Jones",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-01-30",
+            "nationality": "England"
+        },
+        {
+            "id": 7869,
+            "name": "Virgil van Dijk",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-07-08",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7868,
+            "name": "Andrew Robertson",
+            "position": "Left-Back",
+            "dateOfBirth": "1994-03-11",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 7862,
+            "name": "Joe Gomez",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-05-23",
+            "nationality": "England"
+        },
+        {
+            "id": 7459,
+            "name": "Cody Gakpo",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-05-07",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 7383,
+            "name": "Kostas Tsimikas",
+            "position": "Left-Back",
+            "dateOfBirth": "1996-05-12",
+            "nationality": "Greece"
+        },
+        {
+            "id": 3754,
+            "name": "Mohamed Salah",
+            "position": "Right Winger",
+            "dateOfBirth": "1992-06-15",
+            "nationality": "Egypt"
+        },
+        {
+            "id": 3269,
+            "name": "Wataru Endō",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1993-02-09",
+            "nationality": "Japan"
+        },
+        {
+            "id": 1780,
+            "name": "Federico Chiesa",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-10-25",
+            "nationality": "Italy"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-10T19:30:22Z"
+}

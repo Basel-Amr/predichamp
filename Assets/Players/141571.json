@@ -1,0 +1,43 @@
+{
+    "id": 141571,
+    "name": "Jon Aramburu",
+    "firstName": "Jon",
+    "lastName": "Aramburu",
+    "dateOfBirth": "2002-07-23",
+    "nationality": "Venezuela",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 9381,
+        "name": "Real Sociedad B",
+        "shortName": "Sociedad B",
+        "tla": "SAN",
+        "crest": "https://crests.football-data.org/9381.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SD.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2027-06"
+        }
+    }
+}

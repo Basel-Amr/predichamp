@@ -1,0 +1,43 @@
+{
+    "id": 176931,
+    "name": "Iker Benito",
+    "firstName": "",
+    "lastName": "Iker Benito",
+    "dateOfBirth": "2002-08-10",
+    "nationality": "Spain",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T10:11:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png",
+        "address": "Calle del Sadar, s/n Pamplona 31006",
+        "website": "http://www.osasuna.es",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Estadio El Sadar",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

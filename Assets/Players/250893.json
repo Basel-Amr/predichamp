@@ -1,0 +1,43 @@
+{
+    "id": 250893,
+    "name": "Maat Daniel Caprini",
+    "firstName": "Maat Daniel",
+    "lastName": "Caprini",
+    "dateOfBirth": "2006-02-11",
+    "nationality": "Italy",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 63,
+    "lastUpdated": "2025-03-26T09:42:59Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 99,
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "tla": "FIO",
+        "crest": "https://crests.football-data.org/99.png",
+        "address": "Viale Manfredo Fanti 4 Firenze 50137",
+        "website": "http://www.acffiorentina.it",
+        "founded": 1926,
+        "clubColors": "Purple / White",
+        "venue": "Stadio Artemio Franchi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-12",
+            "until": "2027-06"
+        }
+    }
+}

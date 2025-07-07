@@ -1,0 +1,43 @@
+{
+    "id": 3293,
+    "name": "Edson Álvarez",
+    "firstName": "Edson",
+    "lastName": "Álvarez",
+    "dateOfBirth": "1997-10-24",
+    "nationality": "Mexico",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 19,
+    "lastUpdated": "2025-04-03T09:43:11Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 563,
+        "name": "West Ham United FC",
+        "shortName": "West Ham",
+        "tla": "WHU",
+        "crest": "https://crests.football-data.org/563.png",
+        "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+        "website": "http://www.whufc.com",
+        "founded": 1895,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "London Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2028-06"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 186560,
+    "name": "Kyliane Dong",
+    "firstName": "Kyliane",
+    "lastName": "Dong",
+    "dateOfBirth": "2004-09-27",
+    "nationality": "France",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-02-27T09:48:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 16,
+        "name": "FC Augsburg",
+        "shortName": "Augsburg",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "address": "Donauwörther Straße 170 Augsburg 86154",
+        "website": "http://www.fcaugsburg.de",
+        "founded": 1907,
+        "clubColors": "Red / Green / White",
+        "venue": "WWK Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2030-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 279671,
+    "name": "Gabin Bernardeau",
+    "firstName": "Gabin",
+    "lastName": "Bernardeau",
+    "dateOfBirth": "2006-01-24",
+    "nationality": "France",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-06-30T09:45:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

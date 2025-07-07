@@ -1,0 +1,43 @@
+{
+    "id": 157210,
+    "name": "Antonio Cioffi",
+    "firstName": "Antonio",
+    "lastName": "Cioffi",
+    "dateOfBirth": "2002-12-19",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-07-30T22:13:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 113,
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "tla": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+        "website": "http://www.sscnapoli.it",
+        "founded": 1904,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio San Paolo",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

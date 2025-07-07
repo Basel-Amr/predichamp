@@ -1,0 +1,43 @@
+{
+    "id": 2071,
+    "name": "Luiz Felipe",
+    "firstName": "",
+    "lastName": "Luiz Felipe",
+    "dateOfBirth": "1997-03-22",
+    "nationality": "Italy",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 4,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 516,
+        "name": "Olympique de Marseille",
+        "shortName": "Marseille",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/516.png",
+        "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
+        "website": "http://www.om.net",
+        "founded": 1898,
+        "clubColors": "White / Blue",
+        "venue": "Orange Vélodrome",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2026-06"
+        }
+    }
+}

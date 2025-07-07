@@ -1,0 +1,253 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 521,
+    "name": "Lille OSC",
+    "shortName": "Lille",
+    "tla": "LIL",
+    "crest": "https://crests.football-data.org/521.png",
+    "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+    "website": "http://www.losc.fr",
+    "founded": 1944,
+    "clubColors": "White / Red",
+    "venue": "Stade Pierre-Mauroy",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 45101,
+        "firstName": "Bruno",
+        "lastName": "Génésio",
+        "name": "Bruno Génésio",
+        "dateOfBirth": "1966-09-01",
+        "nationality": "France",
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 8661,
+            "name": "Marc-Aurèle Caillard",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-05-12",
+            "nationality": "France"
+        },
+        {
+            "id": 9222,
+            "name": "Arnaud Bodart",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-03-11",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 147896,
+            "name": "Lucas Chevalier",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-11-06",
+            "nationality": "France"
+        },
+        {
+            "id": 170451,
+            "name": "Marius Broholm",
+            "position": "Midfield",
+            "dateOfBirth": "2004-12-26",
+            "nationality": "Norway"
+        },
+        {
+            "id": 213221,
+            "name": "Hákon Haraldsson",
+            "position": "Midfield",
+            "dateOfBirth": "2003-04-10",
+            "nationality": "Iceland"
+        },
+        {
+            "id": 250942,
+            "name": "Vincent Burlet",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-09-23",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 248780,
+            "name": "Trévis Dago",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-01-21",
+            "nationality": "France"
+        },
+        {
+            "id": 221819,
+            "name": "Ayyoub Bouaddi",
+            "position": "Central Midfield",
+            "dateOfBirth": "2007-10-02",
+            "nationality": "France"
+        },
+        {
+            "id": 218468,
+            "name": "Ethan Mbappé",
+            "position": "Central Midfield",
+            "dateOfBirth": "2006-12-29",
+            "nationality": "France"
+        },
+        {
+            "id": 216223,
+            "name": "Ousmane Touré",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-18",
+            "nationality": "France"
+        },
+        {
+            "id": 213511,
+            "name": "Matias Fernandez-Pardo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-02-03",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 192666,
+            "name": "Ngal'ayel Mukau",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-11-03",
+            "nationality": "DR Congo"
+        },
+        {
+            "id": 190846,
+            "name": "Ichem Ferrah",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-09-23",
+            "nationality": "France"
+        },
+        {
+            "id": 188087,
+            "name": "Tiago Santos",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-07-23",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 186692,
+            "name": "Rafael Fernandes",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-06-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 185196,
+            "name": "Alexsandro Ribeiro",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-08-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 177365,
+            "name": "Ugo Raghouber",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-07-13",
+            "nationality": "France"
+        },
+        {
+            "id": 150934,
+            "name": "Alan Virginius",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-01-03",
+            "nationality": "France"
+        },
+        {
+            "id": 150925,
+            "name": "Tiago Fonseca Morais",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-09-03",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 99722,
+            "name": "Osame Sahraoui",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-06-11",
+            "nationality": "Norway"
+        },
+        {
+            "id": 98745,
+            "name": "Bafodé Diakité",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-01-06",
+            "nationality": "France"
+        },
+        {
+            "id": 31531,
+            "name": "Gabriel Gudmundsson",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-04-29",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 8990,
+            "name": "Edon Zhegrova",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-03-31",
+            "nationality": "Kosovo"
+        },
+        {
+            "id": 8811,
+            "name": "Benjamin André",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1990-08-03",
+            "nationality": "France"
+        },
+        {
+            "id": 6503,
+            "name": "Nabil Bentaleb",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-11-24",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 3650,
+            "name": "Thomas Meunier",
+            "position": "Right-Back",
+            "dateOfBirth": "1991-09-12",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 3371,
+            "name": "Olivier Giroud",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1986-09-30",
+            "nationality": "France"
+        },
+        {
+            "id": 3251,
+            "name": "André Gomes",
+            "position": "Central Midfield",
+            "dateOfBirth": "1993-07-30",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 728,
+            "name": "Mohamed Bayo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1993-09-15",
+            "nationality": "Guinea"
+        },
+        {
+            "id": 19,
+            "name": "Aïssa Mandi",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-10-22",
+            "nationality": "Algeria"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:19:48Z"
+}

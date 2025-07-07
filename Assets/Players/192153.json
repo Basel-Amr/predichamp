@@ -1,0 +1,43 @@
+{
+    "id": 192153,
+    "name": "Moise Bombito",
+    "firstName": "Moïse",
+    "lastName": "Bombito",
+    "dateOfBirth": "2000-03-30",
+    "nationality": "Canada",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 64,
+    "lastUpdated": "2024-08-23T10:11:39Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2028-06"
+        }
+    }
+}

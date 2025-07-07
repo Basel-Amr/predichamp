@@ -1,0 +1,50 @@
+{
+    "id": 144715,
+    "name": "Nathan Tella",
+    "firstName": "Nathan",
+    "lastName": "Tella",
+    "dateOfBirth": "1999-07-05",
+    "nationality": "Nigeria",
+    "section": "Right Midfield",
+    "position": "Midfield",
+    "shirtNumber": 19,
+    "lastUpdated": "2025-06-10T09:41:00Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 3,
+        "name": "Bayer 04 Leverkusen",
+        "shortName": "Leverkusen",
+        "tla": "B04",
+        "crest": "https://crests.football-data.org/3.png",
+        "address": "Bismarckstr. 122-124 Leverkusen 51373",
+        "website": "http://www.bayer04.de",
+        "founded": 1904,
+        "clubColors": "Red / White / Black",
+        "venue": "BayArena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2028-06"
+        }
+    }
+}

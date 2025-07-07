@@ -1,0 +1,43 @@
+{
+    "id": 160451,
+    "name": "Harry Tyrer",
+    "firstName": "Harry",
+    "lastName": "Tyrer",
+    "dateOfBirth": "2001-12-06",
+    "nationality": "England",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T10:11:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 62,
+        "name": "Everton FC",
+        "shortName": "Everton",
+        "tla": "EVE",
+        "crest": "https://crests.football-data.org/62.png",
+        "address": "Goodison Park Liverpool L4 4EL",
+        "website": "http://www.evertonfc.com",
+        "founded": 1878,
+        "clubColors": "Blue / White",
+        "venue": "Goodison Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

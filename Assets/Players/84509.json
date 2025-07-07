@@ -1,0 +1,35 @@
+{
+    "id": 84509,
+    "name": "Luka Lochoshvili",
+    "firstName": "Luka",
+    "lastName": "Lochoshvili",
+    "dateOfBirth": "1998-05-29",
+    "nationality": "Georgia",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 47,
+    "lastUpdated": "2024-06-12T17:56:52Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 455,
+        "name": "US Salernitana 1919",
+        "shortName": "Salernitana",
+        "tla": "SAL",
+        "crest": "https://crests.football-data.org/455.png",
+        "address": "Via San Leonardo, 51 Salerno 84131",
+        "website": "http://www.ussalernitana1919.it",
+        "founded": 1919,
+        "clubColors": null,
+        "venue": "Stadio Arechi",
+        "runningCompetitions": [],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-06"
+        }
+    }
+}

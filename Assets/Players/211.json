@@ -1,0 +1,57 @@
+{
+    "id": 211,
+    "name": "Sehrou Guirassy",
+    "firstName": "Serhou",
+    "lastName": "Guirassy",
+    "dateOfBirth": "1996-03-12",
+    "nationality": "Guinea",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 4,
+        "name": "Borussia Dortmund",
+        "shortName": "Dortmund",
+        "tla": "BVB",
+        "crest": "https://crests.football-data.org/4.png",
+        "address": "Rheinlanddamm 207-209 Dortmund 44137",
+        "website": "http://www.bvb.de",
+        "founded": 1909,
+        "clubColors": "Black / Yellow",
+        "venue": "Signal Iduna Park",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2028-06"
+        }
+    }
+}

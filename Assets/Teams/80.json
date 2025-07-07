@@ -1,0 +1,239 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 80,
+    "name": "RCD Espanyol de Barcelona",
+    "shortName": "Espanyol",
+    "tla": "ESP",
+    "crest": "https://crests.football-data.org/80.png",
+    "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+    "website": "http://www.rcdespanyol.com",
+    "founded": 1900,
+    "clubColors": "Blue / White",
+    "venue": "RCDE Stadium",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        }
+    ],
+    "coach": {
+        "id": 83316,
+        "firstName": "",
+        "lastName": "Manolo González",
+        "name": "Manolo González",
+        "dateOfBirth": "1979-01-14",
+        "nationality": "Spain",
+        "contract": {
+            "start": "2024-03",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 3430,
+            "name": "Marko Dmitrović",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-01-24",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 150560,
+            "name": "Ángel Fortuño Viñas",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-10-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 249600,
+            "name": "Llorenç Serred",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-09-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 151257,
+            "name": "José Salinas",
+            "position": "Defence",
+            "dateOfBirth": "2000-09-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180108,
+            "name": "Rubén Sánchez",
+            "position": "Defence",
+            "dateOfBirth": "2001-01-09",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180164,
+            "name": "Miguel Rubio",
+            "position": "Defence",
+            "dateOfBirth": "1998-03-11",
+            "nationality": "Spain"
+        },
+        {
+            "id": 203602,
+            "name": "Hugo Pérez",
+            "position": "Defence",
+            "dateOfBirth": "2002-12-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 154714,
+            "name": "Omar El Hilali",
+            "position": "Midfield",
+            "dateOfBirth": "2003-09-12",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 179637,
+            "name": "Justin Smith",
+            "position": "Midfield",
+            "dateOfBirth": "2003-02-04",
+            "nationality": "Canada"
+        },
+        {
+            "id": 215520,
+            "name": "Coarasa",
+            "position": "Midfield",
+            "dateOfBirth": "2004-01-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 278018,
+            "name": "Marcos Fernández",
+            "position": "Offence",
+            "dateOfBirth": "2003-05-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 248681,
+            "name": "Gastón Valles",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-05-10",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 245342,
+            "name": "Ian Forns",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-02-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 215544,
+            "name": "Antoniu Roca",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-05-09",
+            "nationality": "Spain"
+        },
+        {
+            "id": 203433,
+            "name": "Kenneth",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-02-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 186564,
+            "name": "Carlos Romero",
+            "position": "Left-Back",
+            "dateOfBirth": "2001-10-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180218,
+            "name": "Roberto Fernández",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-07-03",
+            "nationality": "Spain"
+        },
+        {
+            "id": 154000,
+            "name": "RamónTerrats Espacio",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-10-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 150561,
+            "name": "Jofre Carreras Pagès",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-06-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 125210,
+            "name": "Pol Lozano",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-10-06",
+            "nationality": "Spain"
+        },
+        {
+            "id": 119094,
+            "name": "José Gragera",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-05-14",
+            "nationality": "Spain"
+        },
+        {
+            "id": 98747,
+            "name": "Pablo Ramon",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-06-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33652,
+            "name": "Edu Expósito",
+            "position": "Central Midfield",
+            "dateOfBirth": "1996-08-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33358,
+            "name": "Kike García",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1989-11-25",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32398,
+            "name": "Pere Milla",
+            "position": "Left Winger",
+            "dateOfBirth": "1992-09-23",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32362,
+            "name": "Fernando Calero",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-09-14",
+            "nationality": "Spain"
+        },
+        {
+            "id": 11040,
+            "name": "Leandro Cabrera",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-06-17",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 3873,
+            "name": "Álvaro Tejero",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-07-20",
+            "nationality": "Spain"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:09:12Z"
+}

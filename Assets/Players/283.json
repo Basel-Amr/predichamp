@@ -1,0 +1,43 @@
+{
+    "id": 283,
+    "name": "Sivera",
+    "firstName": "",
+    "lastName": "Sivera",
+    "dateOfBirth": "1996-08-11",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:49Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 263,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/263.png",
+        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+        "website": "http://www.alaves.com",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "Estadio de Mendizorroza",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2027-06"
+        }
+    }
+}

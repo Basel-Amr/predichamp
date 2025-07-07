@@ -1,0 +1,57 @@
+{
+    "id": 80890,
+    "name": "Federico Gattoni",
+    "firstName": "Federico",
+    "lastName": "Gattoni",
+    "dateOfBirth": "1999-02-16",
+    "nationality": "Argentina",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2011,
+            "name": "Argentina",
+            "code": "ARG",
+            "flag": "https://crests.football-data.org/ar.svg"
+        },
+        "id": 6667,
+        "name": "CA River Plate",
+        "shortName": "River Plate",
+        "tla": "RIV",
+        "crest": "https://crests.football-data.org/6667.png",
+        "address": "Avenida Pres. Figueroa Alcorta 7597 Buenos Aires, Buenos Aires 1424",
+        "website": "http://www.cariverplate.com.ar",
+        "founded": 1901,
+        "clubColors": "Red / White",
+        "venue": "Estadio Monumental Antonio Vespucio Liberti",
+        "runningCompetitions": [
+            {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2024,
+                "name": "Liga Profesional",
+                "code": "ASL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/LPDF.svg"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2025-06"
+        }
+    }
+}

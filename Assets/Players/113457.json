@@ -1,0 +1,50 @@
+{
+    "id": 113457,
+    "name": "Alexander Prass",
+    "firstName": "Alexander",
+    "lastName": "Prass",
+    "dateOfBirth": "2001-05-26",
+    "nationality": "Austria",
+    "section": "Midfield",
+    "position": "Defence",
+    "shirtNumber": 22,
+    "lastUpdated": "2024-06-12T17:56:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 2,
+        "name": "TSG 1899 Hoffenheim",
+        "shortName": "Hoffenheim",
+        "tla": "TSG",
+        "crest": "https://crests.football-data.org/2.png",
+        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+        "website": "http://www.achtzehn99.de",
+        "founded": 1921,
+        "clubColors": "Blue / White",
+        "venue": "PreZero Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2028-06"
+        }
+    }
+}

@@ -1,0 +1,351 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 586,
+    "name": "Torino FC",
+    "shortName": "Torino",
+    "tla": "TOR",
+    "crest": "https://crests.football-data.org/586.png",
+    "address": "Via Arcivescovado 1 Torino 10122",
+    "website": "http://www.torinofc.it",
+    "founded": 1894,
+    "clubColors": "Brown / White",
+    "venue": "Stadio Olimpico di Torino",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 11020,
+        "firstName": "Marco",
+        "lastName": "Baroni",
+        "name": "Marco Baroni",
+        "dateOfBirth": "1963-09-11",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-06",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 1734,
+            "name": "Antonio Donnarumma",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-07-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2275,
+            "name": "Vanja Milinković-Savić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-02-20",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 2684,
+            "name": "Alberto Paleari",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-08-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 140195,
+            "name": "Pietro Passador",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-02-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 169137,
+            "name": "Mihai Popa",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-10-12",
+            "nationality": "Romania"
+        },
+        {
+            "id": 204351,
+            "name": "Caumenan N'Guessan",
+            "position": "Defence",
+            "dateOfBirth": "2003-09-01",
+            "nationality": "France"
+        },
+        {
+            "id": 188547,
+            "name": "Kevin Haveri",
+            "position": "Midfield",
+            "dateOfBirth": "2001-09-18",
+            "nationality": "Albania"
+        },
+        {
+            "id": 188683,
+            "name": "Tommaso Di Marco",
+            "position": "Midfield",
+            "dateOfBirth": "2003-01-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 246638,
+            "name": "Comè Bianay Balcot",
+            "position": "Midfield",
+            "dateOfBirth": "2005-05-13",
+            "nationality": "France"
+        },
+        {
+            "id": 261866,
+            "name": "Francesco Dell'Aquila",
+            "position": "Midfield",
+            "dateOfBirth": "2004-01-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 273396,
+            "name": "Sergiu Perciun",
+            "position": "Midfield",
+            "dateOfBirth": "2006-04-23",
+            "nationality": "Moldova"
+        },
+        {
+            "id": 279753,
+            "name": "Simone Armocida",
+            "position": "Midfield",
+            "dateOfBirth": "2006-08-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 124470,
+            "name": "Nicola Rauti",
+            "position": "Offence",
+            "dateOfBirth": "2000-04-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 264899,
+            "name": "Cristian Padula",
+            "position": "Offence",
+            "dateOfBirth": "2004-08-12",
+            "nationality": "Italy"
+        },
+        {
+            "id": 271983,
+            "name": "Tommaso Gabellini",
+            "position": "Offence",
+            "dateOfBirth": "2006-10-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 273760,
+            "name": "Alessio Raballo",
+            "position": "Offence",
+            "dateOfBirth": "2006-01-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 132385,
+            "name": "Brian Bayeye",
+            "position": "Right Midfield",
+            "dateOfBirth": "2000-06-30",
+            "nationality": "France"
+        },
+        {
+            "id": 123689,
+            "name": "Saúl Coco",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-09",
+            "nationality": "Equatorial Guinea"
+        },
+        {
+            "id": 115245,
+            "name": "Samuele Ricci",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-08-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 105441,
+            "name": "Sebastian Walukiewicz",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-05",
+            "nationality": "Poland"
+        },
+        {
+            "id": 67697,
+            "name": "Ivan Ilić",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-03-17",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 53469,
+            "name": "Perr Schuurs",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-11-26",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 38548,
+            "name": "Marcus Pedersen",
+            "position": "Right Midfield",
+            "dateOfBirth": "2000-07-16",
+            "nationality": "Norway"
+        },
+        {
+            "id": 8768,
+            "name": "Pietro Pellegri",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-03-17",
+            "nationality": "Italy"
+        },
+        {
+            "id": 8438,
+            "name": "Adrien Tameze",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-02-04",
+            "nationality": "France"
+        },
+        {
+            "id": 7843,
+            "name": "Nikola Vlašić",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1997-10-04",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 6563,
+            "name": "Valentino Lazaro",
+            "position": "Left Midfield",
+            "dateOfBirth": "1996-03-24",
+            "nationality": "Austria"
+        },
+        {
+            "id": 4119,
+            "name": "Che Adams",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-07-13",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 2271,
+            "name": "Duván Zapata",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1991-04-01",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 1865,
+            "name": "Adam Masina",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-01-02",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 280,
+            "name": "Guillermo Maripán",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-05-06",
+            "nationality": "Chile"
+        },
+        {
+            "id": 14,
+            "name": "Antonio Sanabria",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-03-04",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 246508,
+            "name": "Alieu Njie",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-05-14",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 244639,
+            "name": "Jonathan Silva",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-04-24",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 226987,
+            "name": "Zannetos Savva",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-11-26",
+            "nationality": "Cyprus"
+        },
+        {
+            "id": 220113,
+            "name": "Jacopo Antolini",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-01-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 218559,
+            "name": "Alessandro Dellavalle",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-05-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 191428,
+            "name": "Aaron Ciammaglichella",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-01-26",
+            "nationality": "Italy"
+        },
+        {
+            "id": 190831,
+            "name": "Gvidas Gineitis",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-04-15",
+            "nationality": "Lithuania"
+        },
+        {
+            "id": 190793,
+            "name": "Ali Dembele",
+            "position": "Right Midfield",
+            "dateOfBirth": "2004-01-05",
+            "nationality": "France"
+        },
+        {
+            "id": 179558,
+            "name": "Cesare Casadei",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-01-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 172940,
+            "name": "Emirhan Ilkhan",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-06-01",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 161083,
+            "name": "Saba Sazonov",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-02-01",
+            "nationality": "Georgia"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-04-09T16:20:07Z"
+}

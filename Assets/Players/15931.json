@@ -1,0 +1,43 @@
+{
+    "id": 15931,
+    "name": "Carlos Fernández",
+    "firstName": "",
+    "lastName": "Carlos Fernández",
+    "dateOfBirth": "1996-05-22",
+    "nationality": "Spain",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 92,
+        "name": "Real Sociedad de Fútbol",
+        "shortName": "Real Sociedad",
+        "tla": "RSO",
+        "crest": "https://crests.football-data.org/92.png",
+        "address": "Anoeta Pasalekua, 1 San Sebastián 20014",
+        "website": "http://www.realsociedad.com",
+        "founded": 1903,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Municipal de Anoeta",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 62667,
+    "name": "Uroš Radaković",
+    "firstName": "Uroš",
+    "lastName": "Radaković",
+    "dateOfBirth": "1994-03-31",
+    "nationality": "Serbia",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 26,
+    "lastUpdated": "2023-05-01T20:09:42Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 543,
+        "name": "FC Nantes",
+        "shortName": "Nantes",
+        "tla": "NAN",
+        "crest": "https://crests.football-data.org/543.png",
+        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
+        "website": "http://www.fcnantes.com",
+        "founded": 1943,
+        "clubColors": "Green / Yellow",
+        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

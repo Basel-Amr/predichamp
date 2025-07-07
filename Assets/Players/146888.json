@@ -1,0 +1,43 @@
+{
+    "id": 146888,
+    "name": "Jiří Letáček",
+    "firstName": "Jiří",
+    "lastName": "Letáček",
+    "dateOfBirth": "1999-01-09",
+    "nationality": "Czech Republic",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2024-08-23T10:11:36Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 82,
+        "name": "Getafe CF",
+        "shortName": "Getafe",
+        "tla": "GET",
+        "crest": "https://crests.football-data.org/82.png",
+        "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+        "website": "http://www.getafecf.com",
+        "founded": 1946,
+        "clubColors": "Blue / White",
+        "venue": "Coliseum Alfonso Pérez",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

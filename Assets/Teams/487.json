@@ -1,0 +1,267 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 487,
+    "name": "AC Pisa 1909",
+    "shortName": "AC Pisa",
+    "tla": "PIS",
+    "crest": "https://crests.football-data.org/487.png",
+    "address": "Piazza della Stazione 22 (scala A) Pisa null",
+    "website": "http://www.pisachannel.tv",
+    "founded": 1909,
+    "clubColors": "Blue / Black",
+    "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 2853,
+        "firstName": "Alberto",
+        "lastName": "Gilardino",
+        "name": "Alberto Gilardino",
+        "dateOfBirth": "1982-07-05",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-06",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 23318,
+            "name": "Adrian Šemper",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-01-12",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 42186,
+            "name": "Alessandro Livieri",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-01-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 170337,
+            "name": "Johan Guadagno",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-02-21",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 2490,
+            "name": "Simone Canestrelli",
+            "position": "Defence",
+            "dateOfBirth": "2000-09-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2730,
+            "name": "Andrea Beghetto",
+            "position": "Defence",
+            "dateOfBirth": "1994-10-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 40237,
+            "name": "Pietro Beruatto",
+            "position": "Defence",
+            "dateOfBirth": "1998-12-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 63109,
+            "name": "Adrián Rus",
+            "position": "Defence",
+            "dateOfBirth": "1996-03-18",
+            "nationality": "Romania"
+        },
+        {
+            "id": 165887,
+            "name": "Samuele Angori",
+            "position": "Defence",
+            "dateOfBirth": "2003-10-07",
+            "nationality": "Italy"
+        },
+        {
+            "id": 178713,
+            "name": "Tomás Esteves",
+            "position": "Defence",
+            "dateOfBirth": "2002-04-03",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 206658,
+            "name": "Francesco Coppola",
+            "position": "Defence",
+            "dateOfBirth": "2005-04-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 420,
+            "name": "Mattéo Tramoni",
+            "position": "Midfield",
+            "dateOfBirth": "2000-01-20",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1956,
+            "name": "Mehdi Leris",
+            "position": "Midfield",
+            "dateOfBirth": "1998-05-23",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 42626,
+            "name": "Edgaras Dubickas",
+            "position": "Midfield",
+            "dateOfBirth": "1998-07-09",
+            "nationality": "Lithuania"
+        },
+        {
+            "id": 56647,
+            "name": "Marius Mihai Marin",
+            "position": "Midfield",
+            "dateOfBirth": "1998-08-30",
+            "nationality": "Romania"
+        },
+        {
+            "id": 130695,
+            "name": "Malthe Hojholt",
+            "position": "Midfield",
+            "dateOfBirth": "2001-04-16",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 189289,
+            "name": "Miha Trdan",
+            "position": "Midfield",
+            "dateOfBirth": "2005-04-12",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 191583,
+            "name": "Gabriele Piccinini",
+            "position": "Midfield",
+            "dateOfBirth": "2001-04-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 218147,
+            "name": "Mattia Leonici",
+            "position": "Midfield",
+            "dateOfBirth": "2004-11-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 261851,
+            "name": "Žan Jevšenak",
+            "position": "Midfield",
+            "dateOfBirth": "2003-05-15",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 40606,
+            "name": "Elia Giani",
+            "position": "Offence",
+            "dateOfBirth": "2000-12-20",
+            "nationality": "Italy"
+        },
+        {
+            "id": 56853,
+            "name": "Idrissa Touré",
+            "position": "Offence",
+            "dateOfBirth": "1998-04-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 57775,
+            "name": "Jan Mlakar",
+            "position": "Offence",
+            "dateOfBirth": "1998-10-23",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 130431,
+            "name": "Alessandro Arena",
+            "position": "Offence",
+            "dateOfBirth": "2000-08-03",
+            "nationality": "Italy"
+        },
+        {
+            "id": 136752,
+            "name": "Alexander Lind Rasmussen",
+            "position": "Offence",
+            "dateOfBirth": "2002-01-01",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 152810,
+            "name": "Nicholas Bonfanti",
+            "position": "Offence",
+            "dateOfBirth": "2002-03-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 246736,
+            "name": "Adrian Raychev",
+            "position": "Offence",
+            "dateOfBirth": "2006-04-19",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 1955,
+            "name": "Emanuel Vignato",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-04-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 213819,
+            "name": "Henrik Meister",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-11-17",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 203839,
+            "name": "Mateus Lusuardi",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-01-08",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 188117,
+            "name": "Isak Vural",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-05-28",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 136090,
+            "name": "Lisandru Tramoni",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-04-18",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-21T18:51:34Z"
+}

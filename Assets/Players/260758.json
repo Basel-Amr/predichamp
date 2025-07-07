@@ -1,0 +1,50 @@
+{
+    "id": 260758,
+    "name": "Noah Fenyö",
+    "firstName": "Noah",
+    "lastName": "Fenyö",
+    "dateOfBirth": "2006-01-30",
+    "nationality": "Hungary",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 47,
+    "lastUpdated": "2024-11-28T14:28:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 19,
+        "name": "Eintracht Frankfurt",
+        "shortName": "Frankfurt",
+        "tla": "SGE",
+        "crest": "https://crests.football-data.org/19.png",
+        "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
+        "website": "http://www.eintracht.de",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Deutsche Bank Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

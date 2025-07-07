@@ -1,0 +1,43 @@
+{
+    "id": 178445,
+    "name": "Daniel Mosquera",
+    "firstName": "Daniel",
+    "lastName": "Mosquera",
+    "dateOfBirth": "1999-10-20",
+    "nationality": "Colombia",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 35,
+    "lastUpdated": "2024-08-23T10:11:38Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

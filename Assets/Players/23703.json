@@ -1,0 +1,43 @@
+{
+    "id": 23703,
+    "name": "Toma Bašić",
+    "firstName": "Toma",
+    "lastName": "Bašić",
+    "dateOfBirth": "1996-11-25",
+    "nationality": "Croatia",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 26,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png",
+        "address": "Via di Santa Cornelia, 1000 Formello 00060",
+        "website": "http://www.sslazio.it",
+        "founded": 1900,
+        "clubColors": "White / Sky Blue",
+        "venue": "Stadio Olimpico",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

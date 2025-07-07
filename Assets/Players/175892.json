@@ -1,0 +1,43 @@
+{
+    "id": 175892,
+    "name": "Hugo Gonzalez",
+    "firstName": "",
+    "lastName": "Hugo González",
+    "dateOfBirth": "2003-02-07",
+    "nationality": "Spain",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-02-28T09:42:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png",
+        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+        "website": "http://www.valenciacf.com",
+        "founded": 1919,
+        "clubColors": "White / Orange / Black",
+        "venue": "Estadio de Mestalla",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

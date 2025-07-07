@@ -1,0 +1,43 @@
+{
+    "id": 105447,
+    "name": "Adrian Benedyczak",
+    "firstName": "Adrian",
+    "lastName": "Benedyczak",
+    "dateOfBirth": "2000-11-24",
+    "nationality": "Poland",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 112,
+        "name": "Parma Calcio 1913",
+        "shortName": "Parma",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/112.png",
+        "address": "Strada Carlo Pisacane, 4 Parma 43121",
+        "website": "http://www.parmacalcio1913.com",
+        "founded": 1913,
+        "clubColors": "White / Black",
+        "venue": "Stadio Ennio Tardini",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2028-06"
+        }
+    }
+}

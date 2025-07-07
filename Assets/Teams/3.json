@@ -1,0 +1,253 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 3,
+    "name": "Bayer 04 Leverkusen",
+    "shortName": "Leverkusen",
+    "tla": "B04",
+    "crest": "https://crests.football-data.org/3.png",
+    "address": "Bismarckstr. 122-124 Leverkusen 51373",
+    "website": "http://www.bayer04.de",
+    "founded": 1904,
+    "clubColors": "Red / White / Black",
+    "venue": "BayArena",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 9584,
+        "firstName": "Erik",
+        "lastName": "ten Hag",
+        "name": "Erik ten Hag",
+        "dateOfBirth": "1970-02-02",
+        "nationality": "Netherlands",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 165,
+            "name": "Niklas Lomb",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-07-28",
+            "nationality": "Germany"
+        },
+        {
+            "id": 6696,
+            "name": "Lukáš Hrádecký",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-11-24",
+            "nationality": "Finland"
+        },
+        {
+            "id": 9923,
+            "name": "Mark Flekken",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-06-13",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 136350,
+            "name": "Matej Kovar",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-05-17",
+            "nationality": "Czech Republic"
+        },
+        {
+            "id": 278461,
+            "name": "Simeon Rapsch",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2008-02-09",
+            "nationality": "Germany"
+        },
+        {
+            "id": 273033,
+            "name": "Ben Hawighorst",
+            "position": "Defence",
+            "dateOfBirth": "2008-03-01",
+            "nationality": "Germany"
+        },
+        {
+            "id": 274021,
+            "name": "Andrea Natali",
+            "position": "Defence",
+            "dateOfBirth": "2008-01-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 220601,
+            "name": "Abdoulaye Faye",
+            "position": "Midfield",
+            "dateOfBirth": "2005-01-01",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 272949,
+            "name": "Axel Tape",
+            "position": "Midfield",
+            "dateOfBirth": "2007-08-10",
+            "nationality": "France"
+        },
+        {
+            "id": 250453,
+            "name": "Alejo Sarco",
+            "position": "Offence",
+            "dateOfBirth": "2006-01-06",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 244862,
+            "name": "Ken Izekor",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2007-05-24",
+            "nationality": "Germany"
+        },
+        {
+            "id": 202532,
+            "name": "Ibrahim Maza",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-11-24",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 191421,
+            "name": "Gustavo Puerta",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-07-23",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 178860,
+            "name": "Arthur Augusto",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-03-17",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 177037,
+            "name": "Jeanuel Belocian",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-17",
+            "nationality": "France"
+        },
+        {
+            "id": 176718,
+            "name": "Jarell Quansah",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-01-29",
+            "nationality": "England"
+        },
+        {
+            "id": 144715,
+            "name": "Nathan Tella",
+            "position": "Right Midfield",
+            "dateOfBirth": "1999-07-05",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 137047,
+            "name": "Amine Adli",
+            "position": "Left Winger",
+            "dateOfBirth": "2000-05-10",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 130811,
+            "name": "Victor Boniface",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-12-23",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 125674,
+            "name": "Piero Hincapié",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-01-09",
+            "nationality": "Ecuador"
+        },
+        {
+            "id": 64713,
+            "name": "Edmond Tapsoba",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-02",
+            "nationality": "Burkina Faso"
+        },
+        {
+            "id": 45611,
+            "name": "Robert Andrich",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-09-22",
+            "nationality": "Germany"
+        },
+        {
+            "id": 33524,
+            "name": "Aleix García",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-06-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 16739,
+            "name": "Alejandro Grimaldo",
+            "position": "Left-Back",
+            "dateOfBirth": "1995-09-20",
+            "nationality": "Spain"
+        },
+        {
+            "id": 11720,
+            "name": "Exequiel Palacios",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-10-05",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 8797,
+            "name": "Martin Terrier",
+            "position": "Left Winger",
+            "dateOfBirth": "1997-03-04",
+            "nationality": "France"
+        },
+        {
+            "id": 6681,
+            "name": "Jonas Hofmann",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1992-07-14",
+            "nationality": "Germany"
+        },
+        {
+            "id": 3477,
+            "name": "Granit Xhaka",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1992-09-27",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 1826,
+            "name": "Patrik Schick",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-01-24",
+            "nationality": "Czech Republic"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-25T16:43:07Z"
+}

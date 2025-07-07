@@ -1,0 +1,43 @@
+{
+    "id": 32581,
+    "name": "Iñigo Lekue",
+    "firstName": "",
+    "lastName": "Iñigo Lekue",
+    "dateOfBirth": "1993-05-04",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 15,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2016-07",
+            "until": "2026-06"
+        }
+    }
+}

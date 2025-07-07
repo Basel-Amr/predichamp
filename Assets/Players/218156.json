@@ -1,0 +1,43 @@
+{
+    "id": 218156,
+    "name": "Daniel Fossati",
+    "firstName": "Daniel",
+    "lastName": "Fossati",
+    "dateOfBirth": "2003-07-22",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-19T09:50:52Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 107,
+        "name": "Genoa CFC",
+        "shortName": "Genoa",
+        "tla": "GEN",
+        "crest": "https://crests.football-data.org/107.png",
+        "address": "Via Ronchi, 67 Genova 16155",
+        "website": "http://www.genoacfc.it",
+        "founded": 1893,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Stadio Comunale Luigi Ferraris",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

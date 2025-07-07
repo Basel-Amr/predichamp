@@ -1,0 +1,43 @@
+{
+    "id": 137985,
+    "name": "Chiquinho",
+    "firstName": "",
+    "lastName": "Chiquinho",
+    "dateOfBirth": "2000-02-05",
+    "nationality": "Portugal",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 20,
+    "lastUpdated": "2024-08-23T10:11:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 89,
+        "name": "RCD Mallorca",
+        "shortName": "Mallorca",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/89.png",
+        "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+        "website": "http://www.rcdmallorca.es",
+        "founded": 1916,
+        "clubColors": "Red / Black",
+        "venue": "Iberostar Estadi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2025-06"
+        }
+    }
+}

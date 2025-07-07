@@ -1,0 +1,183 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 12,
+    "name": "SV Werder Bremen",
+    "shortName": "Bremen",
+    "tla": "SVW",
+    "crest": "https://crests.football-data.org/12.png",
+    "address": "Franz-Böhmert-Str. 1c Bremen 28205",
+    "website": "http://www.werder.de",
+    "founded": 1899,
+    "clubColors": "Green / White",
+    "venue": "Weserstadion",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 57683,
+        "firstName": "Horst",
+        "lastName": "Steffen",
+        "name": "Horst Steffen",
+        "dateOfBirth": "1969-03-03",
+        "nationality": "Germany",
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 9438,
+            "name": "Michael Zetterer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-07-12",
+            "nationality": "Germany"
+        },
+        {
+            "id": 45596,
+            "name": "Markus Kolke",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-08-18",
+            "nationality": "Germany"
+        },
+        {
+            "id": 179984,
+            "name": "Mio Backhaus",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-04-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 176650,
+            "name": "Dikeni Salifou",
+            "position": "Midfield",
+            "dateOfBirth": "2003-06-08",
+            "nationality": "Togo"
+        },
+        {
+            "id": 176637,
+            "name": "Keke Topp",
+            "position": "Offence",
+            "dateOfBirth": "2004-03-25",
+            "nationality": "Germany"
+        },
+        {
+            "id": 178648,
+            "name": "Skelly Alvero",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-05-04",
+            "nationality": "France"
+        },
+        {
+            "id": 145276,
+            "name": "Isak Hansen-Aarøen",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2004-08-22",
+            "nationality": "Norway"
+        },
+        {
+            "id": 122949,
+            "name": "Justin Njinmah",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-11-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 93320,
+            "name": "Olivier Deman",
+            "position": "Left Midfield",
+            "dateOfBirth": "2000-04-06",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 66095,
+            "name": "Amos Pieper",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-01-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 23925,
+            "name": "Jens Stage",
+            "position": "Central Midfield",
+            "dateOfBirth": "1996-11-08",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 10559,
+            "name": "Felix Agu",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-09-27",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 9765,
+            "name": "Senne Lynen",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-02-19",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 9447,
+            "name": "Marco Friedl",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-03-16",
+            "nationality": "Austria"
+        },
+        {
+            "id": 7562,
+            "name": "Maximilian Wöber",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-02-04",
+            "nationality": "Austria"
+        },
+        {
+            "id": 6557,
+            "name": "Niklas Stark",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-04-14",
+            "nationality": "Germany"
+        },
+        {
+            "id": 2263,
+            "name": "Dawid Kownacki",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-03-14",
+            "nationality": "Poland"
+        },
+        {
+            "id": 226,
+            "name": "Marvin Ducksch",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-03-07",
+            "nationality": "Germany"
+        },
+        {
+            "id": 199,
+            "name": "Leonardo Bittencourt",
+            "position": "Central Midfield",
+            "dateOfBirth": "1993-12-19",
+            "nationality": "Germany"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:13:29Z"
+}

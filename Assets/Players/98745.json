@@ -1,0 +1,43 @@
+{
+    "id": 98745,
+    "name": "Bafodé Diakité",
+    "firstName": "Bafodé",
+    "lastName": "Diakité",
+    "dateOfBirth": "2001-01-06",
+    "nationality": "France",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 18,
+    "lastUpdated": "2024-08-12T11:57:17Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 521,
+        "name": "Lille OSC",
+        "shortName": "Lille",
+        "tla": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+        "website": "http://www.losc.fr",
+        "founded": 1944,
+        "clubColors": "White / Red",
+        "venue": "Stade Pierre-Mauroy",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-08",
+            "until": "2028-06"
+        }
+    }
+}

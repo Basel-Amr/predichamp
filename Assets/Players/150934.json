@@ -1,0 +1,43 @@
+{
+    "id": 150934,
+    "name": "Alan Virginius",
+    "firstName": "Alan",
+    "lastName": "Virginius",
+    "dateOfBirth": "2003-01-03",
+    "nationality": "France",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-03-13T09:41:12Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 521,
+        "name": "Lille OSC",
+        "shortName": "Lille",
+        "tla": "LIL",
+        "crest": "https://crests.football-data.org/521.png",
+        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
+        "website": "http://www.losc.fr",
+        "founded": 1944,
+        "clubColors": "White / Red",
+        "venue": "Stade Pierre-Mauroy",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

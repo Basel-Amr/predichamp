@@ -1,0 +1,43 @@
+{
+    "id": 189237,
+    "name": "Nathan Buayi-Kiala",
+    "firstName": "Nathan",
+    "lastName": "Buayi-Kiala",
+    "dateOfBirth": "2004-02-29",
+    "nationality": "France",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 8,
+    "lastUpdated": "2024-09-02T09:38:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 519,
+        "name": "AJ Auxerre",
+        "shortName": "Auxerre",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/519.png",
+        "address": "Route de Vaux BP 349 Auxerre 89006",
+        "website": "http://www.aja.fr",
+        "founded": 1905,
+        "clubColors": "White / Blue",
+        "venue": "Stade de l'Abbé Deschamps",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

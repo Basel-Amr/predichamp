@@ -1,0 +1,50 @@
+{
+    "id": 2505,
+    "name": "Ismael Bennacer",
+    "firstName": "Ismaël",
+    "lastName": "Bennacer",
+    "dateOfBirth": "1997-12-01",
+    "nationality": "Algeria",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 98,
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "tla": "MIL",
+        "crest": "https://crests.football-data.org/98.png",
+        "address": "Via Filippo Turati 3 Milano 20121",
+        "website": "http://www.acmilan.com",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Giuseppe Meazza",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

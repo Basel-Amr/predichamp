@@ -1,0 +1,43 @@
+{
+    "id": 272764,
+    "name": "Mohamed Meïté",
+    "firstName": "Mohamed",
+    "lastName": "Meïté",
+    "dateOfBirth": "2007-10-11",
+    "nationality": "France",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 62,
+    "lastUpdated": "2025-03-06T09:42:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 529,
+        "name": "Stade Rennais FC 1901",
+        "shortName": "Stade Rennais",
+        "tla": "REN",
+        "crest": "https://crests.football-data.org/529.png",
+        "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+        "website": "http://www.staderennais.com",
+        "founded": 1901,
+        "clubColors": "Red / Black",
+        "venue": "Roazhon Park",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-11",
+            "until": "2028-06"
+        }
+    }
+}

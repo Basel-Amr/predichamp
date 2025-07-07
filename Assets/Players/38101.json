@@ -1,0 +1,50 @@
+{
+    "id": 38101,
+    "name": "Erling Haaland",
+    "firstName": "Erling",
+    "lastName": "Haaland",
+    "dateOfBirth": "2000-07-21",
+    "nationality": "Norway",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2025-04-02T09:41:03Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 65,
+        "name": "Manchester City FC",
+        "shortName": "Man City",
+        "tla": "MCI",
+        "crest": "https://crests.football-data.org/65.png",
+        "address": "SportCity Manchester M11 3FF",
+        "website": "https://www.mancity.com",
+        "founded": 1880,
+        "clubColors": "Sky Blue / White",
+        "venue": "Etihad Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2034-06"
+        }
+    }
+}

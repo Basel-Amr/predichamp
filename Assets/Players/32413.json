@@ -1,0 +1,43 @@
+{
+    "id": 32413,
+    "name": "Álex Remiro",
+    "firstName": "",
+    "lastName": "Remiro",
+    "dateOfBirth": "1995-03-24",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:47Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 92,
+        "name": "Real Sociedad de Fútbol",
+        "shortName": "Real Sociedad",
+        "tla": "RSO",
+        "crest": "https://crests.football-data.org/92.png",
+        "address": "Anoeta Pasalekua, 1 San Sebastián 20014",
+        "website": "http://www.realsociedad.com",
+        "founded": 1903,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Municipal de Anoeta",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2019-07",
+            "until": "2027-06"
+        }
+    }
+}

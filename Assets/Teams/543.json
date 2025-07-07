@@ -1,0 +1,197 @@
+{
+    "area": {
+        "id": 2081,
+        "name": "France",
+        "code": "FRA",
+        "flag": "https://crests.football-data.org/773.svg"
+    },
+    "id": 543,
+    "name": "FC Nantes",
+    "shortName": "Nantes",
+    "tla": "NAN",
+    "crest": "https://crests.football-data.org/543.png",
+    "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
+    "website": "http://www.fcnantes.com",
+    "founded": 1943,
+    "clubColors": "Green / Yellow",
+    "venue": "Stade de la Beaujoire - Louis Fonteneau",
+    "runningCompetitions": [
+        {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/FL1.png"
+        }
+    ],
+    "coach": {
+        "id": 128034,
+        "firstName": "",
+        "lastName": "Luís Castro",
+        "name": "Luís Castro",
+        "dateOfBirth": "1980-05-07",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 3240,
+            "name": "Anthony Lopes",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-10-01",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 8292,
+            "name": "Alban Lafont",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-01-23",
+            "nationality": "France"
+        },
+        {
+            "id": 30633,
+            "name": "Patrik Carlgren",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-01-08",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 188030,
+            "name": "Alexis Mirbach",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-03-04",
+            "nationality": "France"
+        },
+        {
+            "id": 62667,
+            "name": "Uroš Radaković",
+            "position": "Defence",
+            "dateOfBirth": "1994-03-31",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 147889,
+            "name": "Yassine Benhattab",
+            "position": "Midfield",
+            "dateOfBirth": "2002-11-18",
+            "nationality": "France"
+        },
+        {
+            "id": 264406,
+            "name": "Herba Guirassy",
+            "position": "Left Winger",
+            "dateOfBirth": "2006-08-29",
+            "nationality": "Guinea"
+        },
+        {
+            "id": 264404,
+            "name": "Louis Leroux",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-01-23",
+            "nationality": "France"
+        },
+        {
+            "id": 246193,
+            "name": "Dehmaine Assoumani",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-04-17",
+            "nationality": "France"
+        },
+        {
+            "id": 204248,
+            "name": "Nathan Zézé",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-06-18",
+            "nationality": "France"
+        },
+        {
+            "id": 170412,
+            "name": "Matthis Abline",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-03-28",
+            "nationality": "France"
+        },
+        {
+            "id": 149044,
+            "name": "Johann Lepenant",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2002-10-22",
+            "nationality": "France"
+        },
+        {
+            "id": 120980,
+            "name": "Lamine Diack",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-11-15",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 114672,
+            "name": "Mostafa Mohamed",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-11-28",
+            "nationality": "Egypt"
+        },
+        {
+            "id": 31071,
+            "name": "Tinotenda Kadewere",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-01-05",
+            "nationality": "Zimbabwe"
+        },
+        {
+            "id": 11572,
+            "name": "Francis Coquelin",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1991-05-13",
+            "nationality": "France"
+        },
+        {
+            "id": 8447,
+            "name": "Ignatius Ganago",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-02-16",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 8295,
+            "name": "Kelvin Amian Adou",
+            "position": "Right-Back",
+            "dateOfBirth": "1998-02-08",
+            "nationality": "France"
+        },
+        {
+            "id": 1076,
+            "name": "Douglas Augusto",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-01-13",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 776,
+            "name": "Jean-Kevin Duverne",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-08-12",
+            "nationality": "France"
+        },
+        {
+            "id": 724,
+            "name": "Fabien Centonze",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-01-16",
+            "nationality": "France"
+        },
+        {
+            "id": 444,
+            "name": "Jean-Charles Castelletto",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-01-26",
+            "nationality": "Cameroon"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-06-14T15:27:19Z"
+}

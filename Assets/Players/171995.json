@@ -1,0 +1,43 @@
+{
+    "id": 171995,
+    "name": "Thierno Barry",
+    "firstName": "Thierno",
+    "lastName": "Barry",
+    "dateOfBirth": "2000-01-12",
+    "nationality": "France",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 15,
+    "lastUpdated": "2025-07-03T09:42:29Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 150797,
+    "name": "Charlie Cresswell",
+    "firstName": "Charlie",
+    "lastName": "Cresswell",
+    "dateOfBirth": "2002-12-07",
+    "nationality": "England",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 4,
+    "lastUpdated": "2024-10-10T09:42:49Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 511,
+        "name": "Toulouse FC",
+        "shortName": "Toulouse",
+        "tla": "TOU",
+        "crest": "https://crests.football-data.org/511.png",
+        "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+        "website": "http://www.tfc.info",
+        "founded": 1937,
+        "clubColors": "Violet / White",
+        "venue": "Stadium Municipal",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

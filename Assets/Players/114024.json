@@ -1,0 +1,43 @@
+{
+    "id": 114024,
+    "name": "Amadou Onana",
+    "firstName": "Amadou",
+    "lastName": "Onana",
+    "dateOfBirth": "2001-08-16",
+    "nationality": "Belgium",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 24,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png",
+        "address": "Villa Park Birmingham B6 6HE",
+        "website": "http://www.avfc.co.uk",
+        "founded": 1872,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "Villa Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

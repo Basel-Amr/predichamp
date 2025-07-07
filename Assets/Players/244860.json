@@ -1,0 +1,43 @@
+{
+    "id": 244860,
+    "name": "Willy Kambwala",
+    "firstName": "Willy",
+    "lastName": "Kambwala",
+    "dateOfBirth": "2004-08-25",
+    "nationality": "DR Congo",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 5,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

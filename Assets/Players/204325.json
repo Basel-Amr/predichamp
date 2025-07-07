@@ -1,0 +1,43 @@
+{
+    "id": 204325,
+    "name": "Joseph N'Duquidi",
+    "firstName": "Joseph",
+    "lastName": "N'Duquidi",
+    "dateOfBirth": "2004-10-31",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2024-09-30T09:48:25Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 545,
+        "name": "FC Metz",
+        "shortName": "FC Metz",
+        "tla": "FCM",
+        "crest": "https://crests.football-data.org/545.png",
+        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
+        "website": "http://www.fcmetz.com",
+        "founded": 1919,
+        "clubColors": "Red / Blue",
+        "venue": "Stade Saint-Symphorien",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

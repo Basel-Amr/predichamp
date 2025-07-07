@@ -1,0 +1,57 @@
+{
+    "id": 53,
+    "name": "Achraf Hakimi",
+    "firstName": "Achraf",
+    "lastName": "Hakimi",
+    "dateOfBirth": "1998-11-04",
+    "nationality": "Morocco",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 524,
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "website": "http://www.psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/esc.png"
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-07",
+            "until": "2029-06"
+        }
+    }
+}

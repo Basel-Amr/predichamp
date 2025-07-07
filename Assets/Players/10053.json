@@ -1,0 +1,50 @@
+{
+    "id": 10053,
+    "name": "Leart Paqarada",
+    "firstName": "Leart",
+    "lastName": "Paçarada",
+    "dateOfBirth": "1994-10-08",
+    "nationality": "Kosovo",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 17,
+    "lastUpdated": "2024-10-14T09:41:31Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 1,
+        "name": "1. FC Köln",
+        "shortName": "1. FC Köln",
+        "tla": "KOE",
+        "crest": "https://crests.football-data.org/1.png",
+        "address": "Franz-Kremer-Allee 1 Köln 50937",
+        "website": "http://www.fc-koeln.de",
+        "founded": 1948,
+        "clubColors": "Red / White",
+        "venue": "RheinEnergieSTADION",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 81973,
+    "name": "Jesper Lindstrøm",
+    "firstName": "Jesper",
+    "lastName": "Lindstrøm",
+    "dateOfBirth": "2000-02-29",
+    "nationality": "Denmark",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-11-28T13:36:10Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 113,
+        "name": "SSC Napoli",
+        "shortName": "Napoli",
+        "tla": "NAP",
+        "crest": "https://crests.football-data.org/113.png",
+        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+        "website": "http://www.sscnapoli.it",
+        "founded": 1904,
+        "clubColors": "Sky Blue / White",
+        "venue": "Stadio San Paolo",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

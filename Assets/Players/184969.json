@@ -1,0 +1,50 @@
+{
+    "id": 184969,
+    "name": "Henri Koudossou",
+    "firstName": "Henri",
+    "lastName": "Koudossou",
+    "dateOfBirth": "1999-09-03",
+    "nationality": "Germany",
+    "section": "Midfield",
+    "position": "Defence",
+    "shirtNumber": 44,
+    "lastUpdated": "2023-05-01T19:26:03Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 16,
+        "name": "FC Augsburg",
+        "shortName": "Augsburg",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "address": "Donauwörther Straße 170 Augsburg 86154",
+        "website": "http://www.fcaugsburg.de",
+        "founded": 1907,
+        "clubColors": "Red / Green / White",
+        "venue": "WWK Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

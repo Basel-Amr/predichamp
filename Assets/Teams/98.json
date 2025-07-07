@@ -1,0 +1,274 @@
+{
+    "area": {
+        "id": 2114,
+        "name": "Italy",
+        "code": "ITA",
+        "flag": "https://crests.football-data.org/784.svg"
+    },
+    "id": 98,
+    "name": "AC Milan",
+    "shortName": "Milan",
+    "tla": "MIL",
+    "crest": "https://crests.football-data.org/98.png",
+    "address": "Via Filippo Turati 3 Milano 20121",
+    "website": "http://www.acmilan.com",
+    "founded": 1899,
+    "clubColors": "Red / Black",
+    "venue": "Stadio Giuseppe Meazza",
+    "runningCompetitions": [
+        {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2122,
+            "name": "Coppa Italia",
+            "code": "CIT",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/CIT.png"
+        }
+    ],
+    "coach": {
+        "id": 10975,
+        "firstName": "Massimiliano",
+        "lastName": "Allegri",
+        "name": "Massimiliano Allegri",
+        "dateOfBirth": "1967-08-11",
+        "nationality": "Italy",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 1767,
+            "name": "Marco Sportiello",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-05-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 8390,
+            "name": "Mike Maignan",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-07-03",
+            "nationality": "France"
+        },
+        {
+            "id": 176943,
+            "name": "Lapo Nava",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-01-22",
+            "nationality": "Italy"
+        },
+        {
+            "id": 185551,
+            "name": "Noah Raveyre",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-06-22",
+            "nationality": "France"
+        },
+        {
+            "id": 191127,
+            "name": "Devis Vásquez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2026-06-30",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 251128,
+            "name": "Lorenzo Torriani",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-01-31",
+            "nationality": "Italy"
+        },
+        {
+            "id": 188876,
+            "name": "Andrei Coubis",
+            "position": "Defence",
+            "dateOfBirth": "2003-09-29",
+            "nationality": "Romania"
+        },
+        {
+            "id": 171029,
+            "name": "Marko Lazetic",
+            "position": "Offence",
+            "dateOfBirth": "2004-01-22",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 39635,
+            "name": "Santiago Giménez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-04-18",
+            "nationality": "Mexico"
+        },
+        {
+            "id": 33124,
+            "name": "Samuel Chukwueze",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-05-22",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 16058,
+            "name": "Noah Okafor",
+            "position": "Left Winger",
+            "dateOfBirth": "2000-05-24",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 15892,
+            "name": "Rafael Leão",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-06-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 11528,
+            "name": "Fikayo Tomori",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-12-19",
+            "nationality": "England"
+        },
+        {
+            "id": 8858,
+            "name": "Alexis Saelemaekers",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-06-27",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 8489,
+            "name": "Yacine Adli",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-07-29",
+            "nationality": "France"
+        },
+        {
+            "id": 8159,
+            "name": "Ruben Loftus-Cheek",
+            "position": "Central Midfield",
+            "dateOfBirth": "1996-01-23",
+            "nationality": "England"
+        },
+        {
+            "id": 2505,
+            "name": "Ismael Bennacer",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-12-01",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 1753,
+            "name": "Matteo Gabbia",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-10-21",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1738,
+            "name": "Davide Calabria",
+            "position": "Right-Back",
+            "dateOfBirth": "1996-12-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1131,
+            "name": "Emerson Royal",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-01-14",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 145,
+            "name": "Christian Pulisic",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-09-18",
+            "nationality": "USA"
+        },
+        {
+            "id": 71,
+            "name": "Theo Hernández",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-10-06",
+            "nationality": "France"
+        },
+        {
+            "id": 242550,
+            "name": "Francesco Camarda",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2008-03-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 227048,
+            "name": "Álex Jiménez",
+            "position": "Right-Back",
+            "dateOfBirth": "2005-05-08",
+            "nationality": "Spain"
+        },
+        {
+            "id": 215616,
+            "name": "Davide Bartesaghi",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-12-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 156527,
+            "name": "Warren Bondo",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-09-15",
+            "nationality": "France"
+        },
+        {
+            "id": 150669,
+            "name": "Yunus Musah",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-11-29",
+            "nationality": "USA"
+        },
+        {
+            "id": 144950,
+            "name": "Filippo Terracciano",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-02-08",
+            "nationality": "Italy"
+        },
+        {
+            "id": 144566,
+            "name": "Lorenzo Colombo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-03-08",
+            "nationality": "Italy"
+        },
+        {
+            "id": 142732,
+            "name": "Malick Thiaw",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-08-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 112969,
+            "name": "Strahinja Pavlović",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-05-24",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 81299,
+            "name": "Youssouf Fofana",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-01-10",
+            "nationality": "France"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-04-09T16:20:58Z"
+}

@@ -1,0 +1,50 @@
+{
+    "id": 165887,
+    "name": "Samuele Angori",
+    "firstName": "Samuele",
+    "lastName": "Angori",
+    "dateOfBirth": "2003-10-07",
+    "nationality": "Italy",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 3,
+    "lastUpdated": "2024-12-20T09:47:21Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 487,
+        "name": "AC Pisa 1909",
+        "shortName": "AC Pisa",
+        "tla": "PIS",
+        "crest": "https://crests.football-data.org/487.png",
+        "address": "Piazza della Stazione 22 (scala A) Pisa null",
+        "website": "http://www.pisachannel.tv",
+        "founded": 1909,
+        "clubColors": "Blue / Black",
+        "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

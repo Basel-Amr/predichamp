@@ -1,0 +1,50 @@
+{
+    "id": 220468,
+    "name": "Fabio Baldé",
+    "firstName": "Fabio",
+    "lastName": "Baldé",
+    "dateOfBirth": "2005-07-20",
+    "nationality": "Germany",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 45,
+    "lastUpdated": "2024-12-12T09:41:28Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 7,
+        "name": "Hamburger SV",
+        "shortName": "HSV",
+        "tla": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "address": "Sylvesterallee 7 Hamburg 22525",
+        "website": "http://www.hsv.de",
+        "founded": 1887,
+        "clubColors": "White / Red / Blue",
+        "venue": "Volksparkstadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2029-06"
+        }
+    }
+}

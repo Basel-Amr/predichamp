@@ -1,0 +1,155 @@
+{
+    "area": {
+        "id": 2224,
+        "name": "Spain",
+        "code": "ESP",
+        "flag": "https://crests.football-data.org/760.svg"
+    },
+    "id": 88,
+    "name": "Levante UD",
+    "shortName": "Levante",
+    "tla": "LEV",
+    "crest": "https://crests.football-data.org/88.png",
+    "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+    "website": "http://www.levanteud.com",
+    "founded": 1909,
+    "clubColors": "Crimson / Blue",
+    "venue": "Estadio Ciudad de Valencia",
+    "runningCompetitions": [
+        {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/laliga.png"
+        }
+    ],
+    "coach": {
+        "id": 159905,
+        "firstName": "",
+        "lastName": "Julián Calero",
+        "name": "Julián Calero",
+        "dateOfBirth": "1970-10-26",
+        "nationality": "Spain",
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 137015,
+            "name": "Alfonso Pastor",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-10-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 165167,
+            "name": "Pablo Cuñat",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-04-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264125,
+            "name": "Daniel Martín",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-09-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33633,
+            "name": "Diego Pampín",
+            "position": "Defence",
+            "dateOfBirth": "2000-03-15",
+            "nationality": "Spain"
+        },
+        {
+            "id": 98741,
+            "name": "Adrián de la Fuente",
+            "position": "Defence",
+            "dateOfBirth": "1999-02-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 125223,
+            "name": "Manuel Sánchez",
+            "position": "Defence",
+            "dateOfBirth": "1996-03-24",
+            "nationality": "Spain"
+        },
+        {
+            "id": 214177,
+            "name": "Xavi Grande",
+            "position": "Defence",
+            "dateOfBirth": "2005-05-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 249065,
+            "name": "Jorge Cabello",
+            "position": "Defence",
+            "dateOfBirth": "2004-04-25",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32830,
+            "name": "Pablo Martínez",
+            "position": "Midfield",
+            "dateOfBirth": "1998-02-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33122,
+            "name": "Sergio Lozano",
+            "position": "Midfield",
+            "dateOfBirth": "1999-03-24",
+            "nationality": "Spain"
+        },
+        {
+            "id": 137981,
+            "name": "Óscar Clemente",
+            "position": "Midfield",
+            "dateOfBirth": "1999-03-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 156525,
+            "name": "Carlos Álvarez",
+            "position": "Midfield",
+            "dateOfBirth": "2003-08-06",
+            "nationality": "Spain"
+        },
+        {
+            "id": 177772,
+            "name": "Kervin Arriaga",
+            "position": "Midfield",
+            "dateOfBirth": "1998-01-05",
+            "nationality": "Honduras"
+        },
+        {
+            "id": 156746,
+            "name": "Iván Romero",
+            "position": "Offence",
+            "dateOfBirth": "2001-04-10",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180282,
+            "name": "Brugui",
+            "position": "Offence",
+            "dateOfBirth": "1996-11-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 247061,
+            "name": "Carlos Espí",
+            "position": "Offence",
+            "dateOfBirth": "2005-07-24",
+            "nationality": "Spain"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-07-29T17:11:36Z"
+}

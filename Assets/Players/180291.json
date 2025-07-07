@@ -1,0 +1,43 @@
+{
+    "id": 180291,
+    "name": "Javi Martón",
+    "firstName": "",
+    "lastName": "Javi Martón",
+    "dateOfBirth": "1999-05-06",
+    "nationality": "Spain",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 19,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

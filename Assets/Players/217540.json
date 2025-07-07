@@ -1,0 +1,43 @@
+{
+    "id": 217540,
+    "name": "Pau Cubarsí",
+    "firstName": "",
+    "lastName": "Pau Cubarsí",
+    "dateOfBirth": "2007-01-22",
+    "nationality": "Spain",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "website": "http://www.fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 245050,
+    "name": "Diego Pugno",
+    "firstName": "Diego",
+    "lastName": "Pugno",
+    "dateOfBirth": "2006-07-07",
+    "nationality": "Italy",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 44,
+    "lastUpdated": "2025-02-06T09:41:05Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 109,
+        "name": "Juventus FC",
+        "shortName": "Juventus",
+        "tla": "JUV",
+        "crest": "https://crests.football-data.org/109.png",
+        "address": "Corso Galileo Ferraris, 32 Torino 10128",
+        "website": "http://www.juventus.com",
+        "founded": 1897,
+        "clubColors": "White / Black",
+        "venue": "Allianz Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-12",
+            "until": "2025-06"
+        }
+    }
+}

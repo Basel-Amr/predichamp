@@ -1,0 +1,43 @@
+{
+    "id": 188481,
+    "name": "Christian Mawissa",
+    "firstName": "Christian",
+    "lastName": "Mawissa",
+    "dateOfBirth": "2005-04-18",
+    "nationality": "France",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 13,
+    "lastUpdated": "2025-02-07T09:41:07Z",
+    "currentTeam": {
+        "area": {
+            "id": 2152,
+            "name": "Monaco",
+            "code": "MCO",
+            "flag": null
+        },
+        "id": 548,
+        "name": "AS Monaco FC",
+        "shortName": "Monaco",
+        "tla": "ASM",
+        "crest": "https://crests.football-data.org/548.png",
+        "address": "Avenue des Castellans Monaco 98000",
+        "website": "http://www.asmonaco.com",
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Stade Louis II.",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2029-06"
+        }
+    }
+}

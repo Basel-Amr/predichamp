@@ -1,0 +1,43 @@
+{
+    "id": 3173,
+    "name": "Marc-André ter Stegen",
+    "firstName": "Marc-André",
+    "lastName": "ter Stegen",
+    "dateOfBirth": "1992-04-30",
+    "nationality": "Germany",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 1,
+    "lastUpdated": "2023-07-30T17:05:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "website": "http://www.fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2014-07",
+            "until": "2028-06"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 211796,
+    "name": "Tidiam Gomis",
+    "firstName": "Tidiam",
+    "lastName": "Gomis",
+    "dateOfBirth": "2006-08-08",
+    "nationality": "France",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 27,
+    "lastUpdated": "2024-09-02T09:59:11Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 721,
+        "name": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "tla": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "address": "Neumarkt 29-33 Leipzig 04109",
+        "website": "http://www.dierotenbullen.com",
+        "founded": 2009,
+        "clubColors": "White / Red",
+        "venue": "Red Bull Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2029-06"
+        }
+    }
+}

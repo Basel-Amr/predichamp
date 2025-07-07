@@ -1,0 +1,50 @@
+{
+    "id": 270273,
+    "name": "Chema Andrés",
+    "firstName": "",
+    "lastName": "Chema Andrés",
+    "dateOfBirth": "2005-04-25",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 36,
+    "lastUpdated": "2024-09-14T09:42:40Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 86,
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "address": "Avenida Concha Espina, 1 Madrid 28036",
+        "website": "http://www.realmadrid.com",
+        "founded": 1902,
+        "clubColors": "White / Purple",
+        "venue": "Estadio Santiago Bernabéu",
+        "runningCompetitions": [
+            {
+                "id": 2178,
+                "name": "FIFA Club World Cup",
+                "code": "FCWC",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2025-06"
+        }
+    }
+}

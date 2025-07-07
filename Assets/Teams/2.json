@@ -1,0 +1,316 @@
+{
+    "area": {
+        "id": 2088,
+        "name": "Germany",
+        "code": "DEU",
+        "flag": "https://crests.football-data.org/759.svg"
+    },
+    "id": 2,
+    "name": "TSG 1899 Hoffenheim",
+    "shortName": "Hoffenheim",
+    "tla": "TSG",
+    "crest": "https://crests.football-data.org/2.png",
+    "address": "Horrenberger Straße 58 Zuzenhausen 74939",
+    "website": "http://www.achtzehn99.de",
+    "founded": 1921,
+    "clubColors": "Blue / White",
+    "venue": "PreZero Arena",
+    "runningCompetitions": [
+        {
+            "id": 2011,
+            "name": "DFB-Pokal",
+            "code": "DFB",
+            "type": "CUP",
+            "emblem": "https://crests.football-data.org/DFB_CUP.png"
+        },
+        {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/BL1.png"
+        }
+    ],
+    "coach": {
+        "id": 60281,
+        "firstName": "Christian",
+        "lastName": "Ilzer",
+        "name": "Christian Ilzer",
+        "dateOfBirth": "1977-10-21",
+        "nationality": "Austria",
+        "contract": {
+            "start": "2024-11",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 316,
+            "name": "Oliver Baumann",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-06-02",
+            "nationality": "Germany"
+        },
+        {
+            "id": 75703,
+            "name": "Luca Philipp",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-11-28",
+            "nationality": "Germany"
+        },
+        {
+            "id": 169319,
+            "name": "Nahuel Noll",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-03-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 220259,
+            "name": "Lukas Petersson",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-02-09",
+            "nationality": "Iceland"
+        },
+        {
+            "id": 49031,
+            "name": "Koki Machida",
+            "position": "Defence",
+            "dateOfBirth": "1997-08-25",
+            "nationality": "Japan"
+        },
+        {
+            "id": 188239,
+            "name": "Robin Hranac",
+            "position": "Defence",
+            "dateOfBirth": "2000-01-29",
+            "nationality": "Czech Republic"
+        },
+        {
+            "id": 261382,
+            "name": "Hennes Behrens",
+            "position": "Defence",
+            "dateOfBirth": "2005-01-19",
+            "nationality": "Germany"
+        },
+        {
+            "id": 113457,
+            "name": "Alexander Prass",
+            "position": "Midfield",
+            "dateOfBirth": "2001-05-26",
+            "nationality": "Austria"
+        },
+        {
+            "id": 182245,
+            "name": "Umut Tohumcu",
+            "position": "Midfield",
+            "dateOfBirth": "2004-08-11",
+            "nationality": "Germany"
+        },
+        {
+            "id": 206319,
+            "name": "Leon Avdullahu",
+            "position": "Midfield",
+            "dateOfBirth": "1991-03-20",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 220226,
+            "name": "Luka Đurić",
+            "position": "Midfield",
+            "dateOfBirth": "2003-06-18",
+            "nationality": "Germany"
+        },
+        {
+            "id": 249312,
+            "name": "Bazoumana Touré",
+            "position": "Midfield",
+            "dateOfBirth": "2006-03-02",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 261437,
+            "name": "Florian Micheler",
+            "position": "Midfield",
+            "dateOfBirth": "2005-05-17",
+            "nationality": "Austria"
+        },
+        {
+            "id": 63218,
+            "name": "Haris Tabaković",
+            "position": "Offence",
+            "dateOfBirth": "1994-06-20",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 99042,
+            "name": "Adam Hložek",
+            "position": "Offence",
+            "dateOfBirth": "2002-07-25",
+            "nationality": "Czech Republic"
+        },
+        {
+            "id": 126867,
+            "name": "Erencan Yardimci",
+            "position": "Offence",
+            "dateOfBirth": "2002-02-04",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 213737,
+            "name": "David Mokwa Ntusu",
+            "position": "Offence",
+            "dateOfBirth": "2004-05-03",
+            "nationality": "France"
+        },
+        {
+            "id": 116259,
+            "name": "Finn Ole Becker",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-06-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 65843,
+            "name": "Anton Stach",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-11-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 65441,
+            "name": "Marius Bülter",
+            "position": "Left Winger",
+            "dateOfBirth": "1993-03-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 63207,
+            "name": "Attila Szalai",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-01-20",
+            "nationality": "Hungary"
+        },
+        {
+            "id": 30548,
+            "name": "Ozan Kabak",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-03-25",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 10724,
+            "name": "Mërgim Berisha",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-05-11",
+            "nationality": "Germany"
+        },
+        {
+            "id": 9540,
+            "name": "Bernardo",
+            "position": "Left-Back",
+            "dateOfBirth": "1995-05-14",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 6836,
+            "name": "Grischa Prömel",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-01-09",
+            "nationality": "Germany"
+        },
+        {
+            "id": 404,
+            "name": "Florian Grillitsch",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-08-07",
+            "nationality": "Austria"
+        },
+        {
+            "id": 399,
+            "name": "Dennis Geiger",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-10",
+            "nationality": "Germany"
+        },
+        {
+            "id": 326,
+            "name": "Ihlas Bebou",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-04-23",
+            "nationality": "Togo"
+        },
+        {
+            "id": 318,
+            "name": "Andrej Kramarić",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1991-06-19",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 315,
+            "name": "Kevin Akpoguma",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-04-19",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 248657,
+            "name": "Max Moerstedt",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2006-01-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 213739,
+            "name": "Tim Drexler",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-03-06",
+            "nationality": "Germany"
+        },
+        {
+            "id": 212122,
+            "name": "Luka Hyryläinen",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-08-25",
+            "nationality": "Finland"
+        },
+        {
+            "id": 203039,
+            "name": "Stanley N'Soki",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-04-09",
+            "nationality": "France"
+        },
+        {
+            "id": 191892,
+            "name": "Gift Orban",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-07-17",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 186086,
+            "name": "Muhammed Damar",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2004-04-09",
+            "nationality": "Germany"
+        },
+        {
+            "id": 145562,
+            "name": "Fisnik Asllani",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-08-08",
+            "nationality": "Kosovo"
+        },
+        {
+            "id": 144433,
+            "name": "Tim Lemperle",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-02-05",
+            "nationality": "Germany"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-25T16:49:58Z"
+}

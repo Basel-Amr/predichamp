@@ -1,0 +1,12 @@
+﻿streamlit
+streamlit-lottie
+requests
+python-dotenv
+bcrypt
+pyjwt
+pandas
+numpy
+streamlit-option-menu
+streamlit_cropper
+streamlit_autorefresh
+streamlit_extras

@@ -1,0 +1,50 @@
+{
+    "id": 125523,
+    "name": "Cas Odenthal",
+    "firstName": "Cas",
+    "lastName": "Odenthal",
+    "dateOfBirth": "2000-09-26",
+    "nationality": "Netherlands",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 26,
+    "lastUpdated": "2024-08-23T09:25:23Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 471,
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "tla": "SAS",
+        "crest": "https://crests.football-data.org/471.png",
+        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+        "website": "http://www.sassuolocalcio.it",
+        "founded": 1920,
+        "clubColors": "Green / Black",
+        "venue": "Mapei Stadium - Città del Tricolore",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

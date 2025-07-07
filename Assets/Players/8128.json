@@ -1,0 +1,43 @@
+{
+    "id": 8128,
+    "name": "Dodi Lukebakio",
+    "firstName": "Dodi",
+    "lastName": "Lukébakio",
+    "dateOfBirth": "1997-09-24",
+    "nationality": "Belgium",
+    "section": "Right Winger",
+    "position": "Offence",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png",
+        "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+        "website": "http://www.sevillafc.es",
+        "founded": 1905,
+        "clubColors": "White / Red",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-08",
+            "until": "2028-06"
+        }
+    }
+}

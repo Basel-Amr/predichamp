@@ -1,0 +1,43 @@
+{
+    "id": 171984,
+    "name": "Jose Angel Carmona",
+    "firstName": "",
+    "lastName": "José Ángel",
+    "dateOfBirth": "2002-01-29",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png",
+        "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+        "website": "http://www.sevillafc.es",
+        "founded": 1905,
+        "clubColors": "White / Red",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2028-06"
+        }
+    }
+}

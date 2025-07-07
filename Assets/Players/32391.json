@@ -1,0 +1,43 @@
+{
+    "id": 32391,
+    "name": "Aitor Fernández",
+    "firstName": "",
+    "lastName": "Aitor Fernández",
+    "dateOfBirth": "1991-05-03",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 13,
+    "lastUpdated": "2023-07-30T17:05:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png",
+        "address": "Calle del Sadar, s/n Pamplona 31006",
+        "website": "http://www.osasuna.es",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Estadio El Sadar",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

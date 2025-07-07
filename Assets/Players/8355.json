@@ -1,0 +1,43 @@
+{
+    "id": 8355,
+    "name": "Morgan Sanson",
+    "firstName": "Morgan",
+    "lastName": "Sanson",
+    "dateOfBirth": "1994-08-18",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-08-12T11:57:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "id": 2178,
+    "name": "Giacomo Satalino",
+    "firstName": "Giacomo",
+    "lastName": "Satalino",
+    "dateOfBirth": "1999-05-20",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 12,
+    "lastUpdated": "2023-07-30T17:08:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 471,
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "tla": "SAS",
+        "crest": "https://crests.football-data.org/471.png",
+        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+        "website": "http://www.sassuolocalcio.it",
+        "founded": 1920,
+        "clubColors": "Green / Black",
+        "venue": "Mapei Stadium - Città del Tricolore",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

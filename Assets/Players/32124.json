@@ -1,0 +1,43 @@
+{
+    "id": 32124,
+    "name": "Unai López",
+    "firstName": "",
+    "lastName": "Unai López",
+    "dateOfBirth": "1995-10-30",
+    "nationality": "Spain",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 17,
+    "lastUpdated": "2024-08-12T11:57:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 87,
+        "name": "Rayo Vallecano de Madrid",
+        "shortName": "Rayo Vallecano",
+        "tla": "RAY",
+        "crest": "https://crests.football-data.org/87.png",
+        "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+        "website": "http://www.rayovallecano.es",
+        "founded": 1924,
+        "clubColors": "White / Red",
+        "venue": "Estadio del Rayo Vallecano",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}
