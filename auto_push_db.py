@@ -13,8 +13,8 @@ def auto_push_db():
         GITHUB_TOKEN = os.getenv("GH_TOKEN") or st.secrets["GH_TOKEN"]
         GITHUB_USER = "Basel-Amr"
         GITHUB_REPO = "predichamp"
-        DB_FILE = "Others\game_database.db"
-
+        DB_FILE = "Others/game_database.db"
+        st.text(f"Checking DB file at: {os.path.abspath(DB_FILE)}")
         if not os.path.exists(DB_FILE):
             st.error("❌ Database file not found.")
             return
