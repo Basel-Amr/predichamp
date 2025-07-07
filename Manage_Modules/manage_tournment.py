@@ -5,7 +5,7 @@ from Controllers.utils import fetch_all
 from Controllers.predictions_controller import get_next_round_info
 from Controllers.api_controller import update_all_teams, update_all_players, fetch_all_target_leagues
 import Manage_Controllers.manage_tournment_controller as manage
-
+from auto_push_db import auto_push_db
 
 def manage_tournment():
     # 💠 Header
@@ -65,7 +65,7 @@ def manage_tournment():
 
             if st.button("📤 Push Data to DB", help="Sync latest data with the database", type="primary"):
                 with st.spinner("🔄 Syncing with database..."):
-                    # auto_push_db()  # Uncomment when implemented
+                    auto_push_db()  # Uncomment when implemented
                     st.success("✅ Data pushed to database successfully!")
 
             if st.button("📧 Send Reminder Emails", help="Notify users of upcoming rounds", type="primary"):
