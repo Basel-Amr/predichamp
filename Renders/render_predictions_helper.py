@@ -9,7 +9,7 @@ import re
 from Controllers.fixtures_controller import get_league_dates, calculate_league_progress
 from Controllers.predictions_controller import get_existing_prediction
 import uuid
-from datetime import timezone
+import tzlocal  # <--- get user's OS timezone (for local dev)
 
 # 🎨 Optional: Unique colors per league
 LEAGUE_COLORS = {
@@ -747,10 +747,23 @@ def render_prediction_result(match, player_id,can_predict=True):
 
 
 def get_user_local_time(match_utc_str):
-    utc_dt = datetime.fromisoformat(match_utc_str.replace("Z", "")).replace(tzinfo=timezone.utc)
-    offset_minutes = st.session_state.get("tz_offset", 0)
-    local_dt = utc_dt + timedelta(minutes=offset_minutes)
-    return local_dt, local_dt.strftime('%I:%M %p'), local_dt.strftime('%a %d %b %Y')
+    # Parse UTC datetime from DB
+    utc_dt = datetime.fromisoformat(match_utc_str.replace("Z", "")).replace(tzinfo=pytz.UTC)
+
+    # Try getting the local timezone
+    try:
+        user_tz = tzlocal.get_localzone()  # 'Africa/Cairo' locally, e.g.
+    except:
+        user_tz = pytz.UTC  # fallback to UTC
+
+    # Convert to local timezone
+    local_dt = utc_dt.astimezone(user_tz)
+
+    # Format time strings
+    time_str = local_dt.strftime('%I:%M %p')
+    date_friendly = local_dt.strftime('%a %d %b %Y')
+
+    return local_dt, time_str, date_friendly
 
 def render_match_card(match: dict, player_id=None, can_predict=True):
     # Inject JS to get timezone offset (only once)
