@@ -3,7 +3,7 @@ from datetime import datetime
 from Controllers import fixtures_controller as ctrl
 from Renders.render_helpers import render_league_banner, render_match_card
 
-def render_fixtures():
+def render_fixtures(player_id):
     # 🌟 Title
     st.markdown("""
         <div style="text-align: center; padding: 15px 0; margin-bottom: 20px;">
@@ -43,4 +43,4 @@ def render_fixtures():
     for league_name, matches in fixtures_by_date[selected_date].items():
         render_league_banner(league_name, ctrl.get_logo_path_from_league(league_name))
         for match in matches:
-            render_match_card(match)
+            render_match_card(match, player_id)

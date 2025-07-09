@@ -291,6 +291,44 @@ STATUS_MAP = {
 }
 
 # === Round Helper ===
+def fix_all_prediction_deadlines():
+    conn = get_connection()
+    cur = conn.cursor()
+
+    # Get all round IDs
+    cur.execute("SELECT id, name FROM rounds")
+    rounds = cur.fetchall()
+
+    updated = 0
+    for round_id, round_name in rounds:
+        # Find the earliest match in that round
+        cur.execute("""
+            SELECT MIN(match_datetime)
+            FROM matches
+            WHERE round_id = ?
+        """, (round_id,))
+        result = cur.fetchone()
+        earliest_match_dt = result[0]
+
+        if earliest_match_dt:
+            earliest_dt = datetime.fromisoformat(earliest_match_dt)
+            deadline = earliest_dt - timedelta(hours=2)
+
+            # Update the deadline in the round
+            cur.execute("""
+                UPDATE rounds
+                SET prediction_deadline = ?
+                WHERE id = ?
+            """, (deadline.isoformat(), round_id))
+            updated += 1
+            log_message(f"✅ Updated deadline for {round_name} → {deadline.strftime('%Y-%m-%d %H:%M')}")
+
+    conn.commit()
+    conn.close()
+
+    st.success(f"✅ Prediction deadlines updated for {updated} rounds.")
+
+
 def get_or_create_round_by_week(conn, match_datetime):
     weekday = match_datetime.weekday()  # Monday=0, Sunday=6
     days_to_friday = (weekday - 4) % 7
@@ -456,4 +494,5 @@ def fetch_all_target_leagues(target_league_codes):
 
     st.success(f"✅ Done! {counters['success']} leagues inserted. ❌ {counters['failed']} failed.")
     st.balloons()
+    fix_all_prediction_deadlines()
     log_message("🎯 All leagues fetched and saved.")

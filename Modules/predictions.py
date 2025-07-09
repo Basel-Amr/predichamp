@@ -11,7 +11,8 @@ import pytz
 
 def render(player_id):
     # 🌍 Get user's local timezone
-    local_tz = ctrl.get_localzone()
+    local_tz = ctrl.get_localzone_for_player(player_id)
+    print("Player timezone:", local_tz.zone)  # Optional debug
     now_local = datetime.now(local_tz)
 
     # 🌟 Title
@@ -69,6 +70,7 @@ def render(player_id):
         })
 
     # 🎯 Select default round
+    now_local = datetime.now(local_tz)
     default_index = next(
         (i for i, opt in enumerate(options) if opt["deadline_local"] > now_local),
         len(options) - 1

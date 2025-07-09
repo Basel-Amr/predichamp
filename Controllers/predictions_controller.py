@@ -8,17 +8,23 @@ import pytz
 from tzlocal import get_localzone_name
 from Controllers.db_controller import get_connection
 
-def get_localzone():
+def get_localzone_for_player(player_id: int):
     """
-    Returns the user's local time zone as a `pytz.timezone` object.
+    Returns the player's timezone as a pytz.timezone object
+    based on the `timezone` field in the `players` table.
+    
+    Raises:
+        RuntimeError: if timezone is not found or invalid.
+    """
+    row = fetch_one("SELECT timezone FROM players WHERE id = ?", (player_id,))
+    
+    if not row or not row["timezone"]:
+        raise RuntimeError("⚠️ Timezone not found for this player in the database.")
 
-    Example: Africa/Cairo, America/New_York, Europe/London
-    """
     try:
-        local_tz_name = get_localzone_name()
-        return pytz.timezone(local_tz_name)
-    except Exception as e:
-        raise RuntimeError("Unable to detect local timezone.") from e
+        return pytz.timezone(row["timezone"])
+    except pytz.UnknownTimeZoneError:
+        raise RuntimeError(f"❌ Invalid timezone: {row['timezone']}")
     
 
 def get_upcoming_predictable_fixtures_grouped_by_round():

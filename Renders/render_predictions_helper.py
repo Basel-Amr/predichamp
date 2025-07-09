@@ -11,6 +11,7 @@ from Controllers.predictions_controller import get_existing_prediction
 import uuid
 import tzlocal  # <--- get user's OS timezone (for local dev)
 from datetime import datetime, timedelta, timezone
+from Controllers import predictions_controller as ctrl
 
 # 🎨 Optional: Unique colors per league
 LEAGUE_COLORS = {
@@ -747,42 +748,32 @@ def render_prediction_result(match, player_id,can_predict=True):
     return html
 
 
-def get_user_local_time(match_utc_str):
-    # Convert to UTC datetime (aware)
-    utc_dt = datetime.fromisoformat(match_utc_str.replace("Z", "")).replace(tzinfo=timezone.utc)
+def get_user_local_time(match_utc_str: str, player_id: int):
+    """
+    Converts a UTC datetime string (from DB) to user's local time using their saved timezone.
+    Returns: (localized datetime object, formatted time string, formatted date string)
+    """
+    import pytz
+    from datetime import datetime
 
-    # Get browser's timezone offset (in minutes) from session state
-    offset_minutes = st.session_state.get("tz_offset", 0)
+    # Parse UTC datetime from DB
+    utc_dt = datetime.fromisoformat(match_utc_str.replace("Z", "")).replace(tzinfo=pytz.UTC)
 
-    # Apply manual shift
-    local_dt = utc_dt + timedelta(minutes=offset_minutes)
+    # Get user timezone
+    local_tz = ctrl.get_localzone_for_player(player_id)
 
+    # Convert to local time
+    local_dt = utc_dt.astimezone(local_tz)
+
+    # Format results
     time_str = local_dt.strftime('%I:%M %p')
-    date_str = local_dt.strftime('%a %d %b %Y')
+    date_friendly = local_dt.strftime('%a %d %b %Y')
 
-    return local_dt, time_str, date_str
+    return local_dt, time_str, date_friendly
+
 
 def render_match_card(match: dict, player_id=None, can_predict=True):
-    # Inject JS to get timezone offset (only once)
-    if "tz_offset" not in st.session_state:
-        st.session_state["tz_offset"] = 0
-
-        st.markdown("""
-        <script>
-            const offset = new Date().getTimezoneOffset();  // in minutes
-            const currentUrl = new URL(window.location.href);
-            currentUrl.searchParams.set("tz_offset", -offset);  // Store negative to match Python timedelta
-            window.history.replaceState({}, "", currentUrl);
-        </script>
-        """, unsafe_allow_html=True)
-
-    # Handle timezone offset from frontend
-    query_params = st.query_params
-    if "tz_offset" in query_params:
-        try:
-            st.session_state["tz_offset"] = int(query_params["tz_offset"])
-        except:
-            st.session_state["tz_offset"] = 0
+    local_tz = ctrl.get_localzone_for_player(player_id)
     home = match['home_team']
     away = match['away_team']
     home_score = match.get("home_score","-")
@@ -790,9 +781,7 @@ def render_match_card(match: dict, player_id=None, can_predict=True):
     home_color = match.get("home_color","-")
     away_color = match.get("away_color","-")
     # Convert UTC to local
-    #utc_dt = datetime.fromisoformat(match['match_datetime'].replace("Z", ""))
-    #local_dt = pytz.utc.localize(utc_dt).astimezone(get_localzone())
-    local_dt, time_str, date_friendly = get_user_local_time(match["match_datetime"])
+    local_dt, time_str, date_friendly = get_user_local_time(match["match_datetime"], player_id)
 
     # Countdown block & status
     countdown_html, status = render_countdown_block(local_dt)

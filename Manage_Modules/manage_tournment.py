@@ -3,7 +3,7 @@ from Controllers.send_email import send_reminder_email_to_all
 from Controllers.utils_prediction import update_scores_for_match
 from Controllers.utils import fetch_all
 from Controllers.predictions_controller import get_next_round_info
-from Controllers.api_controller import update_all_teams, update_all_players, fetch_all_target_leagues
+from Controllers.api_controller import update_all_teams, update_all_players, fetch_all_target_leagues, fix_all_prediction_deadlines
 import Manage_Controllers.manage_tournment_controller as manage
 from auto_push_db import auto_push_db
 
@@ -142,3 +142,7 @@ def manage_tournment():
                 st.success("✅ Match data fetched successfully!")
         else:
             st.warning("⚠️ Please select at least one league.")
+            
+    if st.button("🔄 Fix Round Deadlines"):
+        fix_all_prediction_deadlines()
+

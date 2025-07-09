@@ -4,6 +4,7 @@ import streamlit as st
 from dotenv import load_dotenv
 from Controllers.utils import execute_query, fetch_one, hash_password, verify_password
 import datetime
+from pytz import all_timezones
 
 load_dotenv()
 ADMIN_SECRET_CODE = os.getenv("ADMIN_SECRET_CODE", "")
@@ -14,10 +15,13 @@ def get_user_by_username(username):
 
 
 
-def create_user(username, email, password, role="player"):
+def create_user(username, email, password, role="player", timezone="Africa/Cairo"):
     hashed = hash_password(password)
-    query = "INSERT INTO players (username, email, password_hash, role) VALUES (?, ?, ?, ?)"
-    execute_query(query, (username, email, hashed, role))
+    query = """
+        INSERT INTO players (username, email, password_hash, role, timezone)
+        VALUES (?, ?, ?, ?, ?)
+    """
+    execute_query(query, (username, email, hashed, role, timezone))
     return True
 
 def update_last_login(username):
@@ -56,39 +60,48 @@ def login():
 
 def signup():
     st.markdown("<h1 style='text-align: center;'>📝 Sign Up</h1>", unsafe_allow_html=True)
-    st.markdown("---")
-    
-    st.markdown("✍️ **Fill the form below to create a new account**")
+    st.markdown("----")
+    st.markdown("✍️ **Fill in the details to join PrediChamp!**")
 
-    username = st.text_input("🧑 Username", key="signup_username")
-    email = st.text_input("📧 Email", key="signup_email")
-    password = st.text_input("🔑 Password", type="password", key="signup_password")
-    password_confirm = st.text_input("🔁 Confirm Password", type="password", key="signup_confirm_password")
-    admin_code_input = st.text_input("🛡️ Admin Code (optional)", type="password", key="admin_code")
+    with st.form("signup_form"):
+        username = st.text_input("🧑 Username", help="Pick a unique name you'll be identified by.")
+        email = st.text_input("📧 Email", help="We'll send notifications and results here.")
+        password = st.text_input("🔑 Password", type="password")
+        password_confirm = st.text_input("🔁 Confirm Password", type="password")
 
-    if st.button("🎯 Register"):
+        # 🌍 Timezone selection
+        timezones = sorted(all_timezones)
+        default_tz = "Africa/Cairo"
+        timezone = st.selectbox("🌍 Your Timezone", options=timezones, index=timezones.index(default_tz), help="Used to show match times in your local zone")
+
+        # 🛡️ Admin role code (optional)
+        admin_code_input = st.text_input("🛡️ Admin Code", type="password", help="Only fill if you're authorized to be admin (optional)")
+
+        submitted = st.form_submit_button("🎯 Register")
+
+    if submitted:
         if not username or not email or not password or not password_confirm:
             st.warning("⚠️ All fields except admin code are required.")
             return
 
         if password != password_confirm:
-            st.error("🔁 Passwords do not match!")
+            st.error("❌ Passwords do not match!")
             return
 
         if get_user_by_username(username):
-            st.error("⚠️ Username already exists. Try something else.")
+            st.error("⚠️ Username already taken. Try a different one.")
             return
 
-        if fetch_one("SELECT 1 FROM players WHERE email =?", (email,)):
-            st.error("📧 Email already registered. Please log in.")
+        if fetch_one("SELECT 1 FROM players WHERE email = ?", (email,)):
+            st.error("📧 Email already registered. Try logging in instead.")
             return
 
-        role = "admin" if admin_code_input and admin_code_input == ADMIN_SECRET_CODE else "player"
+        role = "admin" if admin_code_input == ADMIN_SECRET_CODE else "player"
 
         with st.spinner("Creating your account..."):
-            create_user(username, email, password, role)
+            create_user(username, email, password, role, timezone)
 
-        st.success(f"🎉 Account created successfully as **{role}**! You can now log in.")
+        st.success(f"🎉 Welcome aboard **{username}**! Your account has been created as a **{role}**.")
         st.balloons()
 
 

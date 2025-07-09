@@ -6,6 +6,9 @@ from tzlocal import get_localzone
 import pytz
 import os
 from Controllers.fixtures_controller import get_league_dates, calculate_league_progress
+from datetime import datetime, timedelta, timezone
+from Controllers import predictions_controller as ctrl
+
 import uuid
 # 🎨 Optional: Unique colors per league
 LEAGUE_COLORS = {
@@ -211,7 +214,8 @@ def render_league_banner(league_name, logo_path=None):
     """, unsafe_allow_html=True)
     
 def calculate_countdown(local_dt):
-    now = datetime.now(get_localzone())
+    # Ensure `now` uses the same tzinfo as `local_dt`
+    now = datetime.now(local_dt.tzinfo)
 
     if now < local_dt:
         # Match hasn't started yet
@@ -555,10 +559,31 @@ def render_countdown_block(local_dt):
     else:
         return "", status
 
+def get_user_local_time(match_utc_str: str, player_id: int):
+    """
+    Converts a UTC datetime string (from DB) to user's local time using their saved timezone.
+    Returns: (localized datetime object, formatted time string, formatted date string)
+    """
+    import pytz
+    from datetime import datetime
+
+    # Parse UTC datetime from DB
+    utc_dt = datetime.fromisoformat(match_utc_str.replace("Z", "")).replace(tzinfo=pytz.UTC)
+
+    # Get user timezone
+    local_tz = ctrl.get_localzone_for_player(player_id)
+
+    # Convert to local time
+    local_dt = utc_dt.astimezone(local_tz)
+
+    # Format results
+    time_str = local_dt.strftime('%I:%M %p')
+    date_friendly = local_dt.strftime('%a %d %b %Y')
+
+    return local_dt, time_str, date_friendly
 
 
-
-def render_match_card(match: dict):
+def render_match_card(match: dict, player_id):
     # Extract info
     home = match['home_team']
     away = match['away_team']
@@ -567,10 +592,7 @@ def render_match_card(match: dict):
     home_color = match.get("home_color","-")
     away_color = match.get("away_color","-")
     # Convert UTC to local
-    utc_dt = datetime.fromisoformat(match['match_datetime'].replace("Z", ""))
-    local_dt = pytz.utc.localize(utc_dt).astimezone(get_localzone())
-    date_friendly = local_dt.strftime('%a %d %b %Y')
-    time_str = local_dt.strftime('%I:%M %p') 
+    local_dt, time_str, date_friendly = get_user_local_time(match["match_datetime"], player_id)
     # Countdown block & status
     countdown_html, status = render_countdown_block(local_dt)
     status =match.get("status")

@@ -191,7 +191,7 @@ def main_page():
             </div>
         """, unsafe_allow_html=True)
         st_autorefresh(interval=3000, limit=None, key="refresh")
-        fixtures.render_fixtures()
+        fixtures.render_fixtures(player_id)
     elif selected_tab == "Leaderboard":
         leaderboard.render(player_id)
     elif selected_tab == "Achievement":
