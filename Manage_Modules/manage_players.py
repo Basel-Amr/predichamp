@@ -77,6 +77,15 @@ def manage_players():
                     st.success("✅ Player info updated!")
                 else:
                     st.warning("⚠️ No changes or update failed.")
+            if st.button(f"🗑️ Delete Player", key=f"delete_{p['id']}"):
+                confirmed = st.warning("Are you sure you want to delete this player? This action cannot be undone.")
+                if st.button(f"✅ Confirm Delete {p['id']}", key=f"confirm_delete_{p['id']}"):
+                    deleted = ctrl.delete_player(p['id'])
+                    if deleted:
+                        st.success(f"✅ Player {p['username']} deleted successfully.")
+                        st.experimental_rerun()
+                    else:
+                        st.error("❌ Failed to delete the player.")
 
             st.markdown("""<hr style='margin:20px 0;'>""", unsafe_allow_html=True)
             st.markdown("<div class='section-title'>📅 Predictions (Next Round)</div>", unsafe_allow_html=True)
