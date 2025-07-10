@@ -5,7 +5,7 @@
 
 Welcome to **Match Predictor**, a fun and competitive Premier League match prediction platform. Predict upcoming games, compete with friends, and climb the leaderboard as the season unfolds!
 
-🌐 **Live App**: [matchpredictor.streamlit.app](https://matchpredictor.streamlit.app/)
+🌐 **Live App**: [matchpredictor.streamlit.app](https://predichamp.streamlit.app/)
 
 ---
 
