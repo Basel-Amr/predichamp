@@ -279,3 +279,11 @@ def update_player_info(player):
     execute_query("UPDATE players SET score = ? WHERE id = ?", (total_score, player['id']))
 
     return True
+
+def delete_player(player_id):
+    try:
+        execute_query("DELETE FROM players WHERE id = ?", (player_id,))
+        return True
+    except Exception as e:
+        print(f"Error deleting player: {e}")
+        return False
