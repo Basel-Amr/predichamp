@@ -6,23 +6,37 @@ from Manage_Modules.manage_leagues import manage_leagues
 from Manage_Modules.manage_teams import manage_teams
 from Manage_Modules.manage_matches import manage_matches
 from Manage_Modules.manage_tournment import manage_tournment
+from Manage_Modules.manage_players import manage_players 
 DB_PATH = "Others/game_database.db"
 
 
 
 def render(player_id):
-
     player_name = get_player_info(player_id)['username']
-    st.title(f"👋 Welcome, {player_name}")
+    
+    st.markdown(f"""
+        <div style='
+            text-align: center;
+            padding: 30px 10px;
+            background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+        '>
+            <h1 style='color: white; font-size: 2.5rem; margin-bottom: 0;'>👋 Welcome, {player_name}!</h1>
+            <p style='color: #e0e7ff; font-size: 1.2rem;'>Administrator Control Panel — Manage your football universe</p>
+        </div>
+    """, unsafe_allow_html=True)
 
     show_tabs = [
+        "Manage Players",
+        "Manage Predictions", 
         "Manage Leagues", 
         "Manage Teams", 
         "Manage Matches", 
-        "Manage Predictions", 
         "Manage Tournament"
     ]
-    icons = ["trophy", "people", "calendar-week", "pencil-square", "bullseye"]
+    icons = ["person-lines-fill", "pencil-square", "trophy", "people", "calendar-week", "bullseye"]
 
     selected_tab = option_menu(
         menu_title=None,
@@ -31,26 +45,26 @@ def render(player_id):
         orientation="horizontal",
         styles={
             "container": {
-                "padding": "10px",
+                "padding": "12px",
                 "background-color": "#ffffff",
-                "border-radius": "10px",
-                "box-shadow": "0 4px 12px rgba(0, 0, 0, 0.1)"
+                "border-radius": "12px",
+                "box-shadow": "0 6px 18px rgba(0, 0, 0, 0.08)"
             },
             "nav-link": {
-                "font-size": "18px",
+                "font-size": "16.5px",
                 "font-weight": "600",
+                "color": "#1e293b",
                 "text-align": "center",
-                "color": "#1f2937",
-                "margin": "0px 10px",
+                "margin": "0px 6px",
                 "border-radius": "8px",
                 "transition": "all 0.3s ease",
-                "padding": "10px 18px",
+                "padding": "10px 16px",
             },
             "nav-link-selected": {
                 "background": "linear-gradient(135deg, #3b82f6, #60a5fa)",
                 "color": "white",
                 "font-weight": "bold",
-                "box-shadow": "0 0 10px rgba(59, 130, 246, 0.4)",
+                "box-shadow": "0 0 12px rgba(59, 130, 246, 0.5)",
             }
         }
     )
@@ -65,10 +79,14 @@ def render(player_id):
         manage_matches()
 
     elif selected_tab == "Manage Predictions":
-        st.header("📝 Manage Predictions")
-        st.info("Review or evaluate player predictions.")
+        st.markdown("### 📝 Manage Player Predictions")
+        st.info("Review, update, or evaluate match predictions submitted by players. Filter by round, accuracy, or time.")
 
     elif selected_tab == "Manage Tournament":
-        st.header("🎯 Manage Tournament")
-        st.info("Handle rounds, knockout stages, and rules.")
+        st.markdown("### 🏆 Manage Tournament Structure")
         manage_tournment()
+
+    elif selected_tab == "Manage Players":
+        st.markdown("### 👤 Manage Registered Players")
+        st.info("Edit player roles, reset passwords, view stats, and deactivate accounts.")
+        manage_players()

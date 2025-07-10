@@ -181,7 +181,7 @@ def main_page():
     if selected_tab == "Profile":
         profile.render(player_id)
     elif selected_tab == "Predictions":
-        st_autorefresh(interval=3000, limit=None, key="refresh")
+        st_autorefresh(interval=1000, limit=None, key="refresh")
         predictions.render(player_id)
     elif selected_tab == "Fixtures":
         st.markdown("""
@@ -190,7 +190,7 @@ def main_page():
                 <p style='margin:0; font-size:15px; color:#444;'>Review and control upcoming matches grouped by league and round.</p>
             </div>
         """, unsafe_allow_html=True)
-        st_autorefresh(interval=3000, limit=None, key="refresh")
+        st_autorefresh(interval=1000, limit=None, key="refresh")
         fixtures.render_fixtures(player_id)
     elif selected_tab == "Leaderboard":
         leaderboard.render(player_id)
