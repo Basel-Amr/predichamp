@@ -23,6 +23,20 @@ os.makedirs(TEAMS_DIR, exist_ok=True)
 os.makedirs(PLAYERS_DIR, exist_ok=True)
 os.makedirs(LOG_DIR, exist_ok=True)
 os.makedirs(MATCHES_DIR, exist_ok=True)
+# === Status Mapping ===
+STATUS_MAP = {
+    "SCHEDULED": "upcoming",
+    "TIMED": "upcoming",
+    "POSTPONED": "upcoming",     # still upcoming until rescheduled
+    "CANCELLED": "cancelled",
+    "CANCELED": "cancelled",     # in case of US spelling
+    "SUSPENDED": "cancelled",
+    "IN_PLAY": "live",
+    "PAUSED": "live",
+    "LIVE": "live",
+    "FINISHED": "finished",
+    "AWARDED": "finished"
+}
 
 def get_logo_base64(path):
     with open(path, "rb") as f:
@@ -305,7 +319,7 @@ def fix_all_prediction_deadlines():
         cur.execute("""
             SELECT MIN(match_datetime)
             FROM matches
-            WHERE round_id = ?
+            WHERE round_id = ? AND is_predictable = 1
         """, (round_id,))
         result = cur.fetchone()
         earliest_match_dt = result[0]
@@ -366,7 +380,7 @@ def insert_match_with_score(conn, match, league_id):
     cur = conn.cursor()
     dt = datetime.fromisoformat(match['utcDate'].replace("Z", ""))
 
-    # Check duplicate
+    # Duplicate check
     cur.execute("""
         SELECT id FROM matches
         WHERE home_team_id = ? AND away_team_id = ? AND match_datetime = ?
@@ -393,8 +407,12 @@ def insert_match_with_score(conn, match, league_id):
     venue_row = cur.fetchone()
     venue_name = venue_row[0] if venue_row and venue_row[0] else 'Unknown'
 
-    # Match status
-    status = STATUS_MAP.get(match.get("status"), "upcoming")
+    # --- FIX: Normalize status safely ---
+    raw_status = str(match.get("status", "SCHEDULED")).upper()
+    status = STATUS_MAP.get(raw_status, "upcoming")
+    if status not in ("upcoming", "live", "finished", "cancelled"):
+        status = "upcoming"   # force fallback
+
     is_predictable = int(
         league_id == 2021 or
         match['homeTeam']['id'] in (81, 86) or
@@ -460,7 +478,7 @@ def fetch_league_matches(league_code, counters, total):
                 "awayTeam": m["awayTeam"],
                 "score": m.get("score")
             }
-            inserted = insert_match_with_score(conn, match_obj, league_id)
+            inserted = insert_or_update_match_with_score(conn, match_obj, league_id)
             if inserted:
                 inserted_matches.append(match_obj)
 
@@ -496,3 +514,128 @@ def fetch_all_target_leagues(target_league_codes):
     st.balloons()
     fix_all_prediction_deadlines()
     log_message("🎯 All leagues fetched and saved.")
+    
+
+from datetime import datetime, timedelta, timezone
+
+def update_all_match_statuses(conn):
+    """
+    Recalculate and update the status of all matches in the database
+    based on match_datetime, scores, and time elapsed.
+    """
+    cur = conn.cursor()
+    now = datetime.now(timezone.utc)
+
+    cur.execute("SELECT id, match_datetime, home_score, away_score, status FROM matches")
+    rows = cur.fetchall()
+
+    for match_id, match_dt, home_score, away_score, old_status in rows:
+        # Ensure datetime is timezone-aware
+        if isinstance(match_dt, str):
+            match_dt = datetime.fromisoformat(match_dt)
+        if match_dt.tzinfo is None:
+            match_dt = match_dt.replace(tzinfo=timezone.utc)
+
+        # --- Determine new status ---
+        if old_status == "cancelled":
+            new_status = "cancelled"
+        elif home_score is not None or away_score is not None:
+            new_status = "finished"
+        elif now < match_dt:
+            new_status = "upcoming"
+        elif match_dt <= now <= match_dt + timedelta(hours=2):
+            new_status = "live"
+        else:
+            new_status = "finished"
+
+        # --- Update if status changed ---
+        if new_status != old_status:
+            cur.execute("""
+                UPDATE matches
+                SET status = ?, updated_at = CURRENT_TIMESTAMP
+                WHERE id = ?
+            """, (new_status, match_id))
+
+    conn.commit()
+    
+
+def insert_or_update_match_with_score(conn, match, league_id):
+    cur = conn.cursor()
+    dt = datetime.fromisoformat(match['utcDate'].replace("Z", ""))
+
+    # Round link
+    round_id = get_or_create_round_by_week(conn, dt)
+
+    # Stage
+    stage_name = match.get('stage', 'REGULAR_SEASON').upper()
+    cur.execute("SELECT id FROM stages WHERE name = ? AND league_id = ?", (stage_name, league_id))
+    row = cur.fetchone()
+    if row:
+        stage_id = row[0]
+    else:
+        cur.execute("INSERT INTO stages (name, league_id) VALUES (?, ?)", (stage_name, league_id))
+        stage_id = cur.lastrowid
+        conn.commit()
+
+    # Venue
+    cur.execute("SELECT Venue_name FROM teams WHERE id = ?", (match['homeTeam']['id'],))
+    venue_row = cur.fetchone()
+    venue_name = venue_row[0] if venue_row and venue_row[0] else 'Unknown'
+
+    # Normalize status
+    raw_status = str(match.get("status", "SCHEDULED")).upper()
+    status = STATUS_MAP.get(raw_status, "upcoming")
+    if status not in ("upcoming", "live", "finished", "cancelled"):
+        status = "upcoming"
+
+    is_predictable = int(
+        league_id == 2021 or
+        match['homeTeam']['id'] in (81, 86) or
+        match['awayTeam']['id'] in (81, 86)
+    )
+
+    # Scores
+    full_time = match.get("score", {}).get("fullTime", {})
+    home_score = full_time.get("home")
+    away_score = full_time.get("away")
+
+    api_match_id = match.get("id")
+
+    # --- Check if match already exists by api_match_id ---
+    cur.execute("SELECT id FROM matches WHERE api_match_id = ?", (api_match_id,))
+    row = cur.fetchone()
+
+    if row:
+        # --- Update existing match ---
+        cur.execute("""
+            UPDATE matches
+            SET match_datetime = ?, status = ?, home_score = ?, away_score = ?,
+                stage_id = ?, Venue_name = ?, updated_at = CURRENT_TIMESTAMP
+            WHERE api_match_id = ?
+        """, (
+            dt.isoformat(), status, home_score, away_score,
+            stage_id, venue_name, api_match_id
+        ))
+        action = "updated"
+    else:
+        # --- Insert new match ---
+        cur.execute("""
+            INSERT INTO matches (
+                round_id, league_id, home_team_id, away_team_id,
+                match_datetime, status, matchday, api_match_id,
+                stage_id, is_predictable, Venue_name,
+                home_score, away_score
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (
+            round_id, league_id,
+            match['homeTeam']['id'], match['awayTeam']['id'],
+            dt.isoformat(), status, match.get("matchday", 0), api_match_id,
+            stage_id, is_predictable, venue_name,
+            home_score, away_score
+        ))
+        action = "inserted"
+
+    conn.commit()
+    # --- Sync statuses for all matches ---
+    update_all_match_statuses(conn)
+    return action
