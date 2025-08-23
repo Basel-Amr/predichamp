@@ -12,7 +12,7 @@ import pytz
 def render(player_id):
     # 🌍 Get user's local timezone
     local_tz = ctrl.get_localzone_for_player(player_id)
-    print("Player timezone:", local_tz.zone)  # Optional debug
+    #print("Player timezone:", local_tz.zone)  # Optional debug
     now_local = datetime.now(local_tz)
 
     # 🌟 Title
