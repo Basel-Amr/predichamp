@@ -7,7 +7,7 @@
     "nationality": "Turkey",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 20,
+    "shirtNumber": 42,
     "lastUpdated": "2024-11-04T17:17:22Z",
     "currentTeam": {
         "area": {
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2029-06"
         }
     }

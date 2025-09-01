@@ -1,0 +1,43 @@
+{
+    "id": 149744,
+    "name": "Cédric Teguia",
+    "firstName": "",
+    "lastName": "Cédric Teguia",
+    "dateOfBirth": "2001-10-01",
+    "nationality": "Spain",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-07-12T09:45:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png",
+        "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+        "website": "http://www.moreirensefc.pt",
+        "founded": 1938,
+        "clubColors": "Green / White",
+        "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

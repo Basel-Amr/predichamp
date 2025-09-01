@@ -7,7 +7,7 @@
     "nationality": "Gambia",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 16,
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-23T10:11:39Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 7397,
-        "name": "Como 1907",
-        "shortName": "Como 1907",
-        "tla": "COM",
-        "crest": "https://crests.football-data.org/7397.png",
-        "address": "Viale Sinigaglia 2 Como 22100",
-        "website": "http://www.como1907.net/",
-        "founded": 1907,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio Giuseppe Sinigaglia",
+        "id": 471,
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "tla": "SAS",
+        "crest": "https://crests.football-data.org/471.png",
+        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+        "website": "http://www.sassuolocalcio.it",
+        "founded": 1920,
+        "clubColors": "Green / Black",
+        "venue": "Mapei Stadium - Città del Tricolore",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

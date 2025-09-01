@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-22T09:49:49Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 590,
+        "name": "FC Pro Vercelli 1892",
+        "shortName": "Pro Vercelli",
+        "tla": "PRO",
+        "crest": "https://crests.football-data.org/590.png",
+        "address": "Via Massaua, 1 Vercelli 13100",
+        "website": "http://www.fcprovercelli.it",
+        "founded": 1892,
+        "clubColors": null,
+        "venue": "Stadio Silvio Piola",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-07",
+            "until": "2025-06"
         }
     }
 }

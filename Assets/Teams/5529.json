@@ -1,0 +1,267 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 5529,
+    "name": "CD Nacional",
+    "shortName": "CD Nacional",
+    "tla": "CDN",
+    "crest": "https://crests.football-data.org/5529.png",
+    "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+    "website": "http://www.cdnacional.pt",
+    "founded": 1910,
+    "clubColors": "Black / White",
+    "venue": "Estádio da Madeira",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 136489,
+        "firstName": "",
+        "lastName": "Tiago Margarido",
+        "name": "Tiago Margarido",
+        "dateOfBirth": "1989-01-02",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 1232,
+            "name": "Lucas França",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-01-19",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 178927,
+            "name": "Kaique",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-04-16",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 229282,
+            "name": "Cesar Augusto",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-08-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 249175,
+            "name": "Kevyn",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-07-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 1437,
+            "name": "Léo Santos",
+            "position": "Defence",
+            "dateOfBirth": "1998-12-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 37727,
+            "name": "Ivanildo Fernandes",
+            "position": "Defence",
+            "dateOfBirth": "1996-03-26",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 169570,
+            "name": "Zé Vitor",
+            "position": "Defence",
+            "dateOfBirth": "2001-02-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 181512,
+            "name": "Ulisses",
+            "position": "Defence",
+            "dateOfBirth": "1999-09-28",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 183093,
+            "name": "Alan Nunez",
+            "position": "Defence",
+            "dateOfBirth": "2004-10-01",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 231219,
+            "name": "Francisco Gonçalves",
+            "position": "Defence",
+            "dateOfBirth": "2004-03-05",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 243604,
+            "name": "José Gomes",
+            "position": "Defence",
+            "dateOfBirth": "1996-07-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 37447,
+            "name": "João Aurélio",
+            "position": "Midfield",
+            "dateOfBirth": "1988-08-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 45304,
+            "name": "André Sousa",
+            "position": "Midfield",
+            "dateOfBirth": "1990-07-09",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 147456,
+            "name": "Miguel Baeza",
+            "position": "Midfield",
+            "dateOfBirth": "2000-03-27",
+            "nationality": "Spain"
+        },
+        {
+            "id": 169258,
+            "name": "Paulinho Bóia",
+            "position": "Midfield",
+            "dateOfBirth": "1998-06-26",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 179837,
+            "name": "Matheus Dias",
+            "position": "Midfield",
+            "dateOfBirth": "2002-05-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 226998,
+            "name": "Josué Souza",
+            "position": "Midfield",
+            "dateOfBirth": "2005-04-25",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 242472,
+            "name": "Martim Watts",
+            "position": "Midfield",
+            "dateOfBirth": "2005-07-14",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 243581,
+            "name": "Festim Shatri",
+            "position": "Midfield",
+            "dateOfBirth": "2003-11-28",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 243620,
+            "name": "Jota Garcês",
+            "position": "Midfield",
+            "dateOfBirth": "1993-03-07",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 246141,
+            "name": "Mootaz Nourani",
+            "position": "Midfield",
+            "dateOfBirth": null,
+            "nationality": "Tunisia"
+        },
+        {
+            "id": 270035,
+            "name": "Chiheb Labidi",
+            "position": "Midfield",
+            "dateOfBirth": "2001-06-01",
+            "nationality": "Tunisia"
+        },
+        {
+            "id": 280035,
+            "name": "Deivison",
+            "position": "Midfield",
+            "dateOfBirth": "2006-05-04",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 280036,
+            "name": "Douglas Nathan",
+            "position": "Midfield",
+            "dateOfBirth": "2002-08-04",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 1362,
+            "name": "Liziero",
+            "position": "Offence",
+            "dateOfBirth": "1998-02-07",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 11541,
+            "name": "Lucas João",
+            "position": "Offence",
+            "dateOfBirth": "1993-09-04",
+            "nationality": "Angola"
+        },
+        {
+            "id": 37194,
+            "name": "Witi",
+            "position": "Offence",
+            "dateOfBirth": "1996-08-26",
+            "nationality": "Mozambique"
+        },
+        {
+            "id": 188085,
+            "name": "Chuchu",
+            "position": "Offence",
+            "dateOfBirth": "1998-05-04",
+            "nationality": "Venezuela"
+        },
+        {
+            "id": 218644,
+            "name": "Pablo Ruan",
+            "position": "Offence",
+            "dateOfBirth": "2003-02-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 43565,
+            "name": "Filipe Soares",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-05-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 809,
+            "name": "Lenny Vallier",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-04-24",
+            "nationality": "France"
+        },
+        {
+            "id": 188089,
+            "name": "Joel Silva",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-02-11",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-06-02T09:42:46Z"
+}

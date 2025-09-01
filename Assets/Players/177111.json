@@ -7,8 +7,8 @@
     "nationality": "Italy",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": null,
-    "lastUpdated": "2023-05-01T10:17:14Z",
+    "shirtNumber": 2,
+    "lastUpdated": "2025-07-08T09:46:41Z",
     "currentTeam": {
         "area": {
             "id": 2114,
@@ -16,23 +16,30 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 104,
-        "name": "Cagliari Calcio",
-        "shortName": "Cagliari",
-        "tla": "CAG",
-        "crest": "https://crests.football-data.org/104.png",
-        "address": "Viale la Plaia 15 Cagliari 09123",
-        "website": "http://www.cagliaricalcio.net",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue / White",
-        "venue": "Sardegna Arena",
+        "id": 747,
+        "name": "ACD Virtus Entella",
+        "shortName": "Virtus Entella",
+        "tla": "ENT",
+        "crest": "https://crests.football-data.org/747.png",
+        "address": "via Aldo Gastaldi 22 Chiavari 16043",
+        "website": "http://www.entella.it",
+        "founded": 1914,
+        "clubColors": "White / Light Blue",
+        "venue": "Stadio Comunale Chiavari",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {

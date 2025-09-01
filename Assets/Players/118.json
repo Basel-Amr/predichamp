@@ -11,40 +11,40 @@
     "lastUpdated": "2024-08-12T11:57:14Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
         },
-        "id": 78,
-        "name": "Club Atlético de Madrid",
-        "shortName": "Atleti",
-        "tla": "ATL",
-        "crest": "https://crests.football-data.org/78.png",
-        "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
-        "website": "http://www.clubatleticodemadrid.com",
-        "founded": 1903,
-        "clubColors": "Red / White / Blue",
-        "venue": "Estadio Wanda Metropolitano",
+        "id": 1783,
+        "name": "CR Flamengo",
+        "shortName": "Flamengo",
+        "tla": "FLA",
+        "crest": "https://crests.football-data.org/1783.png",
+        "address": "null Rio de Janeiro, RJ null",
+        "website": "https://www.flamengo.com.br/pagina-inicial-basquete",
+        "founded": 1919,
+        "clubColors": "Red / Black / White",
+        "venue": "Estadio Jornalista Mário Filho",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
                 "type": "CUP",
-                "emblem": null
+                "emblem": "https://crests.football-data.org/CLI.svg"
             },
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/bsa.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

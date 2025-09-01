@@ -33,6 +33,13 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {

@@ -7,37 +7,37 @@
     "nationality": "South Korea",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 36,
+    "shirtNumber": 5,
     "lastUpdated": "2025-04-01T09:43:10Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 402,
-        "name": "Brentford FC",
-        "shortName": "Brentford",
-        "tla": "BRE",
-        "crest": "https://crests.football-data.org/402.png",
-        "address": "Braemar Road Brentford TW8 0NT",
-        "website": "http://www.brentfordfc.co.uk",
-        "founded": 1889,
-        "clubColors": "Red / White / Black",
-        "venue": "Griffin Park",
+        "id": 13,
+        "name": "1. FC Kaiserslautern",
+        "shortName": "Kaiserslautern",
+        "tla": "FCK",
+        "crest": "https://crests.football-data.org/13.png",
+        "address": "Fritz-Walter-Straße 1 Kaiserslautern 67663",
+        "website": "http://www.fck.de",
+        "founded": 1900,
+        "clubColors": "Red / White",
+        "venue": "Fritz-Walter-Stadion",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

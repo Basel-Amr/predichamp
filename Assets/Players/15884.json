@@ -7,58 +7,44 @@
     "nationality": "Portugal",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 16,
+    "shirtNumber": 6,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 5,
-        "name": "FC Bayern München",
-        "shortName": "Bayern",
-        "tla": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "address": "Säbenerstr. 51 München 81547",
-        "website": "http://www.fcbayern.de",
-        "founded": 1900,
-        "clubColors": "Red / White / Blue",
-        "venue": "Allianz Arena",
+        "id": 73,
+        "name": "Tottenham Hotspur FC",
+        "shortName": "Tottenham",
+        "tla": "TOT",
+        "crest": "https://crests.football-data.org/73.png",
+        "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
+        "website": "http://www.tottenhamhotspur.com",
+        "founded": 1882,
+        "clubColors": "Navy Blue / White",
+        "venue": "Tottenham Hotspur Stadium",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
                 "type": "CUP",
-                "emblem": null
+                "emblem": "https://crests.football-data.org/esc.png"
             },
             {
-                "id": 2134,
-                "name": "DFL Super Cup",
-                "code": "GSC",
-                "type": "SUPER_CUP",
-                "emblem": null
-            },
-            {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/PL.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

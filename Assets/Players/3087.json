@@ -7,7 +7,7 @@
     "nationality": "Indonesia",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2025-05-17T09:47:28Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 7397,
-        "name": "Como 1907",
-        "shortName": "Como 1907",
-        "tla": "COM",
-        "crest": "https://crests.football-data.org/7397.png",
-        "address": "Viale Sinigaglia 2 Como 22100",
-        "website": "http://www.como1907.net/",
-        "founded": 1907,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio Giuseppe Sinigaglia",
+        "id": 457,
+        "name": "US Cremonese",
+        "shortName": "Cremonese",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/457.png",
+        "address": "Via Persico, 19 Cremona 26100",
+        "website": "http://www.uscremonese.it",
+        "founded": 1903,
+        "clubColors": "Red / Grey",
+        "venue": "Stadio Giovanni Zin",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -44,7 +44,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

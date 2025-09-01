@@ -7,7 +7,7 @@
     "nationality": "Austria",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 27,
+    "shirtNumber": null,
     "lastUpdated": "2024-12-02T09:43:14Z",
     "currentTeam": {
         "area": {
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 7397,
-        "name": "Como 1907",
-        "shortName": "Como 1907",
-        "tla": "COM",
-        "crest": "https://crests.football-data.org/7397.png",
-        "address": "Viale Sinigaglia 2 Como 22100",
-        "website": "http://www.como1907.net/",
-        "founded": 1907,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio Giuseppe Sinigaglia",
+        "id": 431,
+        "name": "SSC Bari",
+        "shortName": "Bari",
+        "tla": "BAR",
+        "crest": "https://crests.football-data.org/431.png",
+        "address": "via Sparano da Bari 162 Bari 70124",
+        "website": "http://www.fcbari1908.club",
+        "founded": 1908,
+        "clubColors": "White / Red",
+        "venue": "Stadio Comunale San Nicola",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-01",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

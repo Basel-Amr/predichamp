@@ -1,0 +1,225 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 712,
+    "name": "FC Arouca",
+    "shortName": "Arouca",
+    "tla": "FCA",
+    "crest": "https://crests.football-data.org/712.png",
+    "address": "Rua Doutor Ângelo Miranda Arouca 4540-140",
+    "website": "http://www.fcarouca.eu",
+    "founded": 1952,
+    "clubColors": "Yellow / Blue",
+    "venue": "Estádio Municipal de Arouca",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 178728,
+        "firstName": "",
+        "lastName": "Vasco Seabra",
+        "name": "Vasco Seabra",
+        "dateOfBirth": "1983-09-15",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2024-10",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 10345,
+            "name": "Nico Mantl",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-02-06",
+            "nationality": "Germany"
+        },
+        {
+            "id": 102210,
+            "name": "João Valido",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-03-03",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 202404,
+            "name": "Jakub Vinarčík",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-07-11",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 131240,
+            "name": "Amadou Dante",
+            "position": "Defence",
+            "dateOfBirth": "2000-10-07",
+            "nationality": "Mali"
+        },
+        {
+            "id": 140169,
+            "name": "José Fontán",
+            "position": "Defence",
+            "dateOfBirth": "2000-02-11",
+            "nationality": "Spain"
+        },
+        {
+            "id": 151938,
+            "name": "Boris Popović",
+            "position": "Defence",
+            "dateOfBirth": "2000-02-26",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 157101,
+            "name": "Diogo Monteiro",
+            "position": "Defence",
+            "dateOfBirth": "2005-01-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 184995,
+            "name": "Arnau Solà",
+            "position": "Defence",
+            "dateOfBirth": "2003-04-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 281963,
+            "name": "Ricardo",
+            "position": "Midfield",
+            "dateOfBirth": "2007-07-27",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 81391,
+            "name": "Barbero",
+            "position": "Offence",
+            "dateOfBirth": "1998-08-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 161005,
+            "name": "Dylan Nandín",
+            "position": "Offence",
+            "dateOfBirth": "2002-02-28",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 178782,
+            "name": "Brian Mansilla",
+            "position": "Offence",
+            "dateOfBirth": "2002-05-14",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 281961,
+            "name": "Batata",
+            "position": "Offence",
+            "dateOfBirth": "2007-04-15",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 270595,
+            "name": "Mateo Flores",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-04-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 192545,
+            "name": "Vladislav Morozov",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-10-12",
+            "nationality": "Belarus"
+        },
+        {
+            "id": 191142,
+            "name": "Pedro Santos",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-10-12",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 182405,
+            "name": "Hyun-Ju Lee",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-02-07",
+            "nationality": "South Korea"
+        },
+        {
+            "id": 180178,
+            "name": "Puche",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-04-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 169128,
+            "name": "Taichi Fukui",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-07-15",
+            "nationality": "Japan"
+        },
+        {
+            "id": 153734,
+            "name": "Matí­as Rocha",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-02-13",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 143641,
+            "name": "Alfonso Trezza",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-06-22",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 136929,
+            "name": "Pablo Gozalbez",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-04-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 92089,
+            "name": "Naïs Djouahra",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-11-23",
+            "nationality": "France"
+        },
+        {
+            "id": 53121,
+            "name": "Tiago Esgaio",
+            "position": "Right-Back",
+            "dateOfBirth": "1995-08-01",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 37562,
+            "name": "Alex Pinto",
+            "position": "Right-Back",
+            "dateOfBirth": "1998-07-08",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 21132,
+            "name": "David Simão",
+            "position": "Central Midfield",
+            "dateOfBirth": "1990-05-15",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-25T16:58:25Z"
+}

@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 95,
-        "name": "Valencia CF",
-        "shortName": "Valencia",
-        "tla": "VAL",
-        "crest": "https://crests.football-data.org/95.png",
-        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
-        "website": "http://www.valenciacf.com",
-        "founded": 1919,
-        "clubColors": "White / Orange / Black",
-        "venue": "Estadio de Mestalla",
+        "id": 558,
+        "name": "RC Celta de Vigo",
+        "shortName": "Celta",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/558.png",
+        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
+        "website": "http://www.celtavigo.net",
+        "founded": 1923,
+        "clubColors": "Sky Blue / White",
+        "venue": "Estadio de Balaídos",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2028-06"
         }
     }
 }

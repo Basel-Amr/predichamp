@@ -1,0 +1,50 @@
+{
+    "id": 221564,
+    "name": "Edney",
+    "firstName": "",
+    "lastName": "Edney",
+    "dateOfBirth": "2004-07-26",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": "Defence",
+    "shirtNumber": 22,
+    "lastUpdated": "2025-05-16T09:42:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5530,
+        "name": "CD Santa Clara",
+        "shortName": "Santa Clara",
+        "tla": "CD ",
+        "crest": "https://crests.football-data.org/5530.png",
+        "address": "Rua Comandante Jaime de Sousa, 21 Ponta Delgada 9500",
+        "website": "http://www.cdsantaclara.pt",
+        "founded": 1921,
+        "clubColors": "Red / White",
+        "venue": "Cidade do Futebol",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2027-06"
+        }
+    }
+}

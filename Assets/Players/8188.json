@@ -7,37 +7,44 @@
     "nationality": "England",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 27,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2264,
+            "name": "Wales",
+            "code": "WAL",
+            "flag": "https://crests.football-data.org/833.svg"
         },
-        "id": 351,
-        "name": "Nottingham Forest FC",
-        "shortName": "Nottingham",
-        "tla": "NOT",
-        "crest": "https://crests.football-data.org/351.png",
-        "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
-        "website": "http://www.nottinghamforest.co.uk",
-        "founded": 1865,
+        "id": 404,
+        "name": "Wrexham AFC",
+        "shortName": "Wrexham",
+        "tla": "WRE",
+        "crest": "https://crests.football-data.org/404.png",
+        "address": "Racecourse Ground, Mold Road Wrexham LL11 2AH",
+        "website": "http://www.wrexhamafc.co.uk",
+        "founded": 1864,
         "clubColors": "Red / White",
-        "venue": "The City Ground",
+        "venue": "Racecourse Ground",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

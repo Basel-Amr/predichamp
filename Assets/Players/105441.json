@@ -7,7 +7,7 @@
     "nationality": "Poland",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 4,
+    "shirtNumber": 6,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 471,
+        "name": "US Sassuolo Calcio",
+        "shortName": "Sassuolo",
+        "tla": "SAS",
+        "crest": "https://crests.football-data.org/471.png",
+        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
+        "website": "http://www.sassuolocalcio.it",
+        "founded": 1920,
+        "clubColors": "Green / Black",
+        "venue": "Mapei Stadium - Città del Tricolore",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

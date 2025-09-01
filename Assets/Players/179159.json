@@ -7,44 +7,44 @@
     "nationality": "Argentina",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 23,
     "lastUpdated": "2024-12-02T09:43:14Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 65,
-        "name": "Manchester City FC",
-        "shortName": "Man City",
-        "tla": "MCI",
-        "crest": "https://crests.football-data.org/65.png",
-        "address": "SportCity Manchester M11 3FF",
-        "website": "https://www.mancity.com",
-        "founded": 1880,
+        "id": 7397,
+        "name": "Como 1907",
+        "shortName": "Como 1907",
+        "tla": "COM",
+        "crest": "https://crests.football-data.org/7397.png",
+        "address": "Viale Sinigaglia 2 Como 22100",
+        "website": "http://www.como1907.net/",
+        "founded": 1907,
         "clubColors": "Sky Blue / White",
-        "venue": "Etihad Stadium",
+        "venue": "Stadio Giuseppe Sinigaglia",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
             },
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2029-06"
         }
     }
 }

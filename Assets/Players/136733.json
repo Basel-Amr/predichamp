@@ -7,7 +7,7 @@
     "nationality": "USA",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 7,
+    "shirtNumber": 21,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -28,13 +28,6 @@
         "venue": "Signal Iduna Park",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
                 "id": 2011,
                 "name": "DFB-Pokal",
                 "code": "DFB",
@@ -50,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

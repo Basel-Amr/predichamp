@@ -1,0 +1,43 @@
+{
+    "id": 75224,
+    "name": "Daniele Sommariva",
+    "firstName": "Daniele",
+    "lastName": "Sommariva",
+    "dateOfBirth": "1997-07-18",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 39,
+    "lastUpdated": "2024-03-23T09:43:36Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 107,
+        "name": "Genoa CFC",
+        "shortName": "Genoa",
+        "tla": "GEN",
+        "crest": "https://crests.football-data.org/107.png",
+        "address": "Via Ronchi, 67 Genova 16155",
+        "website": "http://www.genoacfc.it",
+        "founded": 1893,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Stadio Comunale Luigi Ferraris",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

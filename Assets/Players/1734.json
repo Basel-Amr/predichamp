@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 17,
+    "shirtNumber": null,
     "lastUpdated": "2023-09-19T09:49:39Z",
     "currentTeam": {
         "area": {
@@ -16,34 +16,27 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 455,
+        "name": "US Salernitana 1919",
+        "shortName": "Salernitana",
+        "tla": "SAL",
+        "crest": "https://crests.football-data.org/455.png",
+        "address": "Via San Leonardo, 51 Salerno 84131",
+        "website": "http://www.ussalernitana1919.it",
+        "founded": 1919,
+        "clubColors": null,
+        "venue": "Stadio Arechi",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

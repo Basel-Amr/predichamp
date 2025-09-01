@@ -7,37 +7,37 @@
     "nationality": "Brazil",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 6,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2195,
+            "name": "Russia",
+            "code": "RUS",
+            "flag": "https://crests.football-data.org/808.svg"
         },
-        "id": 543,
-        "name": "FC Nantes",
-        "shortName": "Nantes",
-        "tla": "NAN",
-        "crest": "https://crests.football-data.org/543.png",
-        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
-        "website": "http://www.fcnantes.com",
-        "founded": 1943,
-        "clubColors": "Green / Yellow",
-        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "id": 5452,
+        "name": "FK Krasnodar",
+        "shortName": "Krasnodar",
+        "tla": "KRA",
+        "crest": "https://crests.football-data.org/5452.png",
+        "address": "114 ul.Zhloby Krasnodar 350901",
+        "website": "http://www.fckrasnodar.ru",
+        "founded": 2008,
+        "clubColors": "Black / Green",
+        "venue": "Stadion Akademii FK Krasnodar",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2137,
+                "name": "RFPL",
+                "code": "RFPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2023-08",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

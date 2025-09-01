@@ -1,0 +1,288 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 1903,
+    "name": "Sport Lisboa e Benfica",
+    "shortName": "SL Benfica",
+    "tla": "BEN",
+    "crest": "https://crests.football-data.org/1903.png",
+    "address": "Avenida General Norton de Matos 1500 Lissabon null",
+    "website": "https://www.slbenfica.pt",
+    "founded": 1904,
+    "clubColors": null,
+    "venue": "Estádio do Sport Lisboa e Benfica",
+    "runningCompetitions": [
+        {
+            "id": 2174,
+            "name": "Champions League Qualification",
+            "code": "CLQ",
+            "type": "CUP",
+            "emblem": null
+        },
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        },
+        {
+            "id": 2177,
+            "name": "Taça da Liga",
+            "code": "TDL",
+            "type": "CUP",
+            "emblem": null
+        }
+    ],
+    "coach": {
+        "id": 80460,
+        "firstName": "",
+        "lastName": "Bruno Lage",
+        "name": "Bruno Lage",
+        "dateOfBirth": "1976-05-12",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2024-09",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 111481,
+            "name": "Anatolii Trubin",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-08-01",
+            "nationality": "Ukraine"
+        },
+        {
+            "id": 153846,
+            "name": "Samuel Soares",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-06-15",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 273525,
+            "name": "Diogo Ferreira",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2007-02-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 281949,
+            "name": "Gonçalo Sobral",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-06-11",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 262714,
+            "name": "Joshua Wynder",
+            "position": "Defence",
+            "dateOfBirth": "2005-05-02",
+            "nationality": "USA"
+        },
+        {
+            "id": 262856,
+            "name": "Gonçalo Oliveira",
+            "position": "Defence",
+            "dateOfBirth": "2006-07-04",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 263709,
+            "name": "Leandro Santos",
+            "position": "Defence",
+            "dateOfBirth": "2005-09-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 265154,
+            "name": "Rafa Obrador",
+            "position": "Defence",
+            "dateOfBirth": "2004-02-24",
+            "nationality": "Spain"
+        },
+        {
+            "id": 149737,
+            "name": "Muhammed Kerem Aktürkoğlu",
+            "position": "Midfield",
+            "dateOfBirth": "1998-10-21",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 157796,
+            "name": "Andreas Schjelderup",
+            "position": "Midfield",
+            "dateOfBirth": "2004-06-01",
+            "nationality": "Norway"
+        },
+        {
+            "id": 170657,
+            "name": "Richard Rios",
+            "position": "Midfield",
+            "dateOfBirth": "2000-06-02",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 183643,
+            "name": "Franjo Ivanovic",
+            "position": "Midfield",
+            "dateOfBirth": "2003-10-01",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 246194,
+            "name": "Diogo Prioste",
+            "position": "Midfield",
+            "dateOfBirth": "2004-03-26",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 262628,
+            "name": "Nuno Félix",
+            "position": "Midfield",
+            "dateOfBirth": "2004-03-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 262645,
+            "name": "João Veloso",
+            "position": "Midfield",
+            "dateOfBirth": "2005-06-26",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 262705,
+            "name": "Rafael Luís",
+            "position": "Midfield",
+            "dateOfBirth": "2005-02-18",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 67299,
+            "name": "Vangelis Pavlidis",
+            "position": "Offence",
+            "dateOfBirth": "1998-11-21",
+            "nationality": "Greece"
+        },
+        {
+            "id": 251296,
+            "name": "João Rêgo",
+            "position": "Offence",
+            "dateOfBirth": "2005-06-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 175753,
+            "name": "Samuel Dahl",
+            "position": "Left-Back",
+            "dateOfBirth": "2003-03-04",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 158894,
+            "name": "Enzo Barrenechea",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-05-22",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 133573,
+            "name": "Tiago Gouveia",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-06-18",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 82403,
+            "name": "Leandro Barreiro Martins",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-01-03",
+            "nationality": "Luxembourg"
+        },
+        {
+            "id": 81816,
+            "name": "Amar Dedić",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-08-18",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 70583,
+            "name": "Alexander Bah",
+            "position": "Right-Back",
+            "dateOfBirth": "1997-12-09",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 38088,
+            "name": "Fredrik Aursnes",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-12-10",
+            "nationality": "Norway"
+        },
+        {
+            "id": 37560,
+            "name": "Florentino",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-08-19",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 9553,
+            "name": "Bruma",
+            "position": "Left Winger",
+            "dateOfBirth": "1994-10-24",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 3205,
+            "name": "Nicolás Otamendi",
+            "position": "Centre-Back",
+            "dateOfBirth": "1988-02-12",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 194008,
+            "name": "Manu Silva",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-06-12",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 185610,
+            "name": "Antonio Silva",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-10-31",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 182123,
+            "name": "Gianluca Prestianni",
+            "position": "Right Winger",
+            "dateOfBirth": "2006-01-31",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 177842,
+            "name": "Tomas Araujo",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-05-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 177322,
+            "name": "Henrique Araujo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-01-19",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-11-06T20:07:52Z"
+}

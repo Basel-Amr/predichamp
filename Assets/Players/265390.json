@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": 21,
+    "shirtNumber": 10,
     "lastUpdated": "2025-01-04T09:46:52Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 5877,
+        "name": "Casertana FC",
+        "shortName": "Casertana",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/5877.png",
+        "address": "Via Medaglie d’Oro, c/o Stadio A. Pinto Caserta 81100",
+        "website": "http://www.casertanafc.it",
+        "founded": 1908,
+        "clubColors": "Navy Blue / Red",
+        "venue": "Stadio Comunale Alberto Pinto",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

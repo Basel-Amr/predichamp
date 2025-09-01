@@ -7,58 +7,37 @@
     "nationality": "Germany",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 25,
+    "shirtNumber": null,
     "lastUpdated": "2023-07-30T16:25:22Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2040,
+            "name": "Canada",
+            "code": "CAN",
+            "flag": null
         },
-        "id": 5,
-        "name": "FC Bayern München",
-        "shortName": "Bayern",
-        "tla": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "address": "Säbenerstr. 51 München 81547",
-        "website": "http://www.fcbayern.de",
-        "founded": 1900,
-        "clubColors": "Red / White / Blue",
-        "venue": "Allianz Arena",
+        "id": 4406,
+        "name": "Vancouver Whitecaps FC",
+        "shortName": "Whitecaps",
+        "tla": "VAN",
+        "crest": "https://crests.football-data.org/4406.png",
+        "address": "375 Water Street, Suite 550 Vancouver, BC V6B 5C6",
+        "website": "http://www.whitecapsfc.com",
+        "founded": 1974,
+        "clubColors": "Blue / White",
+        "venue": "Providence Park",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
-                "id": 2134,
-                "name": "DFL Super Cup",
-                "code": "GSC",
-                "type": "SUPER_CUP",
-                "emblem": null
-            },
-            {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2145,
+                "name": "MLS",
+                "code": "MLS",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/MLS.png"
             }
         ],
         "contract": {
-            "start": "2008-07",
-            "until": "2025-07"
+            "start": "2025-08",
+            "until": "2025-12"
         }
     }
 }

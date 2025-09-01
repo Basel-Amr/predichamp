@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 28,
     "lastUpdated": "2023-07-30T16:25:28Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 721,
-        "name": "RB Leipzig",
-        "shortName": "RB Leipzig",
-        "tla": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "address": "Neumarkt 29-33 Leipzig 04109",
-        "website": "http://www.dierotenbullen.com",
-        "founded": 2009,
-        "clubColors": "White / Red",
-        "venue": "Red Bull Arena",
+        "id": 3,
+        "name": "Bayer 04 Leverkusen",
+        "shortName": "Leverkusen",
+        "tla": "B04",
+        "crest": "https://crests.football-data.org/3.png",
+        "address": "Bismarckstr. 122-124 Leverkusen 51373",
+        "website": "http://www.bayer04.de",
+        "founded": 1904,
+        "clubColors": "Red / White / Black",
+        "venue": "BayArena",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

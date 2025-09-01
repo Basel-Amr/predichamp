@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 50,
+    "shirtNumber": 6,
     "lastUpdated": "2024-08-12T11:57:14Z",
     "currentTeam": {
         "area": {
@@ -16,24 +16,17 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 86,
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "tla": "RMA",
-        "crest": "https://crests.football-data.org/86.png",
-        "address": "Avenida Concha Espina, 1 Madrid 28036",
-        "website": "http://www.realmadrid.com",
-        "founded": 1902,
-        "clubColors": "White / Purple",
-        "venue": "Estadio Santiago Bernabéu",
+        "id": 82,
+        "name": "Getafe CF",
+        "shortName": "Getafe",
+        "tla": "GET",
+        "crest": "https://crests.football-data.org/82.png",
+        "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+        "website": "http://www.getafecf.com",
+        "founded": 1946,
+        "clubColors": "Blue / White",
+        "venue": "Coliseum Alfonso Pérez",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2014,
                 "name": "Primera Division",
@@ -43,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-06",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

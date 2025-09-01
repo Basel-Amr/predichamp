@@ -7,44 +7,37 @@
     "nationality": "Uruguay",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 9,
+    "shirtNumber": 19,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2257,
+            "name": "Uruguay",
+            "code": "URY",
+            "flag": null
         },
-        "id": 64,
-        "name": "Liverpool FC",
-        "shortName": "Liverpool",
-        "tla": "LIV",
-        "crest": "https://crests.football-data.org/64.png",
-        "address": "Anfield Road Liverpool L4 0TH",
-        "website": "http://www.liverpoolfc.tv",
-        "founded": 1892,
-        "clubColors": "Red / White",
-        "venue": "Anfield",
+        "id": 758,
+        "name": "Uruguay",
+        "shortName": "Uruguay",
+        "tla": "URU",
+        "crest": "https://crests.football-data.org/758.svg",
+        "address": "Guayaybo 1531 Montevideo 11200",
+        "website": "http://www.auf.org.uy",
+        "founded": 1900,
+        "clubColors": "Sky Blue / White / Black",
+        "venue": "Estadio Centenario",
         "runningCompetitions": [
             {
-                "id": 2056,
-                "name": "FA Community Shield",
-                "code": "COM",
-                "type": "SUPER_CUP",
-                "emblem": "https://crests.football-data.org/com.png"
-            },
-            {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "id": 2082,
+                "name": "WC Qualification CONMEBOL",
+                "code": "QCBL",
+                "type": "CUP",
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2028-06"
+            "start": "2019-10",
+            "until": null
         }
     }
 }

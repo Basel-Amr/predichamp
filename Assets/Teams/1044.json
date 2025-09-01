@@ -38,18 +38,11 @@
     },
     "squad": [
         {
-            "id": 3221,
-            "name": "Neto",
+            "id": 121765,
+            "name": "Đorđe Petrović",
             "position": "Goalkeeper",
-            "dateOfBirth": "1989-07-19",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 82135,
-            "name": "Mark Travers",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1999-05-18",
-            "nationality": "Ireland"
+            "dateOfBirth": "1999-10-08",
+            "nationality": "Serbia"
         },
         {
             "id": 131127,
@@ -66,6 +59,13 @@
             "nationality": "New Zealand"
         },
         {
+            "id": 281590,
+            "name": "Harold William",
+            "position": "Defence",
+            "dateOfBirth": null,
+            "nationality": "England"
+        },
+        {
             "id": 261158,
             "name": "Charlie Osbourne",
             "position": "Midfield",
@@ -73,46 +73,18 @@
             "nationality": "England"
         },
         {
-            "id": 204241,
-            "name": "Eli Kroupi",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2006-06-23",
-            "nationality": "France"
-        },
-        {
-            "id": 177305,
-            "name": "Dango Ouattara",
-            "position": "Left Winger",
-            "dateOfBirth": "2002-02-11",
-            "nationality": "Burkina Faso"
-        },
-        {
-            "id": 161088,
-            "name": "Alex Scott",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-08-21",
+            "id": 273152,
+            "name": "Ben Winterburn",
+            "position": "Midfield",
+            "dateOfBirth": null,
             "nationality": "England"
         },
         {
-            "id": 150778,
-            "name": "Jaidon Anthony",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-12-01",
+            "id": 273757,
+            "name": "Remy Rees-Dottin",
+            "position": "Offence",
+            "dateOfBirth": "2006-03-06",
             "nationality": "England"
-        },
-        {
-            "id": 143573,
-            "name": "Illia Zabarnyi",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-09-01",
-            "nationality": "Ukraine"
-        },
-        {
-            "id": 135482,
-            "name": "Adrien Truffert",
-            "position": "Left-Back",
-            "dateOfBirth": "2001-11-20",
-            "nationality": "France"
         },
         {
             "id": 113335,
@@ -120,6 +92,13 @@
             "position": "Right-Back",
             "dateOfBirth": "2001-08-13",
             "nationality": "Mexico"
+        },
+        {
+            "id": 98745,
+            "name": "Bafodé Diakité",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-01-06",
+            "nationality": "France"
         },
         {
             "id": 82145,
@@ -155,6 +134,13 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1997-05-10",
             "nationality": "Turkey"
+        },
+        {
+            "id": 22040,
+            "name": "Luis Sinisterra",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-06-17",
+            "nationality": "Colombia"
         },
         {
             "id": 8762,
@@ -225,6 +211,48 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "2000-02-16",
             "nationality": "Ivory Coast"
+        },
+        {
+            "id": 204241,
+            "name": "Eli Kroupi",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2006-06-23",
+            "nationality": "France"
+        },
+        {
+            "id": 183583,
+            "name": "Julio Soler",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-02-16",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 177305,
+            "name": "Dango Ouattara",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-02-11",
+            "nationality": "Burkina Faso"
+        },
+        {
+            "id": 161088,
+            "name": "Alex Scott",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-08-21",
+            "nationality": "England"
+        },
+        {
+            "id": 135482,
+            "name": "Adrien Truffert",
+            "position": "Left-Back",
+            "dateOfBirth": "2001-11-20",
+            "nationality": "France"
+        },
+        {
+            "id": 131260,
+            "name": "Evanilson",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-10-06",
+            "nationality": "Brazil"
         }
     ],
     "staff": [],

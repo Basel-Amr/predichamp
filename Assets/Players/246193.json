@@ -2,13 +2,13 @@
     "id": 246193,
     "name": "Dehmaine Assoumani",
     "firstName": "Dehmaine",
-    "lastName": "Assoumani",
+    "lastName": "Tabibou",
     "dateOfBirth": "2005-04-17",
     "nationality": "France",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 59,
-    "lastUpdated": "2024-08-12T11:57:19Z",
+    "shirtNumber": 17,
+    "lastUpdated": "2025-07-25T09:42:29Z",
     "currentTeam": {
         "area": {
             "id": 2081,
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-01",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 112,
-        "name": "Parma Calcio 1913",
-        "shortName": "Parma",
-        "tla": "PAR",
-        "crest": "https://crests.football-data.org/112.png",
-        "address": "Strada Carlo Pisacane, 4 Parma 43121",
-        "website": "http://www.parmacalcio1913.com",
-        "founded": 1913,
+        "id": 488,
+        "name": "Spezia Calcio",
+        "shortName": "Spezia Calcio",
+        "tla": "SPE",
+        "crest": "https://crests.football-data.org/488.png",
+        "address": "Via Dei Pioppi, ingresso 1 La Spezia 19123",
+        "website": "http://www.acspezia.com",
+        "founded": 1906,
         "clubColors": "White / Black",
-        "venue": "Stadio Ennio Tardini",
+        "venue": "Stadio Alberto Picco",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

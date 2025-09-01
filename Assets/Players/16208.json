@@ -7,44 +7,37 @@
     "nationality": "Norway",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 35,
     "lastUpdated": "2023-07-30T16:42:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2173,
+            "name": "Norway",
+            "code": "NOR",
+            "flag": "https://crests.football-data.org/813.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 889,
+        "name": "Rosenborg BK",
+        "shortName": "Rosenborg",
+        "tla": "RBK",
+        "crest": "https://crests.football-data.org/889.png",
+        "address": "Postboks 6390, Sluppen Trondheim 7492",
+        "website": "http://www.rbk.no",
+        "founded": 1917,
+        "clubColors": "Black / White",
+        "venue": "Lerkendal Stadion",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2106,
+                "name": "Tippeligaen",
+                "code": "TIP",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-08",
+            "until": "2025-12"
         }
     }
 }

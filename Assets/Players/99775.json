@@ -6,7 +6,7 @@
     "dateOfBirth": "2002-05-27",
     "nationality": "Belgium",
     "section": "Left Winger",
-    "position": "Offence",
+    "position": "Midfield",
     "shirtNumber": 11,
     "lastUpdated": "2025-04-02T09:41:03Z",
     "currentTeam": {
@@ -27,13 +27,6 @@
         "clubColors": "Sky Blue / White",
         "venue": "Etihad Stadium",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2021,
                 "name": "Premier League",

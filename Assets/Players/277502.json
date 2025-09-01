@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 36,
+    "shirtNumber": 23,
     "lastUpdated": "2025-05-17T09:42:52Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-03",
+            "start": "2025-07",
             "until": "2027-06"
         }
     }

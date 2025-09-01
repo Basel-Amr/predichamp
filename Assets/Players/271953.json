@@ -1,0 +1,43 @@
+{
+    "id": 271953,
+    "name": "Enric García",
+    "firstName": "",
+    "lastName": "Enric García",
+    "dateOfBirth": "2006-02-28",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 30,
+    "lastUpdated": "2024-10-20T09:41:07Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 298,
+        "name": "Girona FC",
+        "shortName": "Girona",
+        "tla": "GIR",
+        "crest": "https://crests.football-data.org/298.png",
+        "address": "Avinguda de Montilivi, 141 Girona 17003",
+        "website": "http://www.gironafc.cat",
+        "founded": 1930,
+        "clubColors": "Red / White / Blue",
+        "venue": "Estadi Municipal de Montilivi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-10",
+            "until": "2028-06"
+        }
+    }
+}

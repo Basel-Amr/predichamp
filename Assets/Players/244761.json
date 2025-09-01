@@ -1,0 +1,43 @@
+{
+    "id": 244761,
+    "name": "Pol Tristán",
+    "firstName": "",
+    "lastName": "Pol Tristán",
+    "dateOfBirth": "2002-03-18",
+    "nationality": "Spain",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 38,
+    "lastUpdated": "2024-08-05T08:21:33Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 80,
+        "name": "RCD Espanyol de Barcelona",
+        "shortName": "Espanyol",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/80.png",
+        "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
+        "website": "http://www.rcdespanyol.com",
+        "founded": 1900,
+        "clubColors": "Blue / White",
+        "venue": "RCDE Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-11",
+            "until": "2026-06"
+        }
+    }
+}

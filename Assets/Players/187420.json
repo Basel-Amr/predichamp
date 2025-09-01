@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 20,
+    "shirtNumber": 22,
     "lastUpdated": "2024-08-04T23:09:43Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 525,
-        "name": "FC Lorient",
-        "shortName": "Lorient",
-        "tla": "FCL",
-        "crest": "https://crests.football-data.org/525.png",
-        "address": "Tade Yves Allainmat<br>Rue Du Tour Des Portes, BP 404 Lorient 56104",
-        "website": "http://www.fclweb.fr",
-        "founded": 1926,
-        "clubColors": "Orange / Black",
-        "venue": "Stade Yves Allainmat - Le Moustoir",
+        "id": 567,
+        "name": "Red Star FC",
+        "shortName": "Red Star",
+        "tla": "RST",
+        "crest": "https://crests.football-data.org/567.png",
+        "address": "92, rue du Docteur Bauer Saint-Ouen 93400",
+        "website": "http://www.redstar.fr",
+        "founded": 1897,
+        "clubColors": "Green / White",
+        "venue": "Stade de Paris",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

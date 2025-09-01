@@ -7,7 +7,7 @@
     "nationality": "Austria",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": 28,
+    "shirtNumber": 20,
     "lastUpdated": "2024-10-09T09:41:17Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 2,
-        "name": "TSG 1899 Hoffenheim",
-        "shortName": "Hoffenheim",
-        "tla": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
-        "website": "http://www.achtzehn99.de",
-        "founded": 1921,
-        "clubColors": "Blue / White",
-        "venue": "PreZero Arena",
+        "id": 38,
+        "name": "Arminia Bielefeld",
+        "shortName": "Bielefeld",
+        "tla": "BIE",
+        "crest": "https://crests.football-data.org/38.png",
+        "address": "Melanchthonstraße 31a Bielefeld 33615",
+        "website": "http://www.arminia-bielefeld.de",
+        "founded": 1905,
+        "clubColors": "Black / White / Blue",
+        "venue": "SchücoArena Kunstrasenplatz",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,15 +35,15 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

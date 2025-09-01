@@ -59,10 +59,24 @@
             "nationality": "Italy"
         },
         {
+            "id": 81179,
+            "name": "Arijanet Muric",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-11-07",
+            "nationality": "Kosovo"
+        },
+        {
             "id": 176750,
             "name": "Gioele Zacchi",
             "position": "Goalkeeper",
             "dateOfBirth": "2003-07-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 1902,
+            "name": "Filippo Romagna",
+            "position": "Defence",
+            "dateOfBirth": "1997-05-26",
             "nationality": "Italy"
         },
         {
@@ -78,20 +92,6 @@
             "position": "Defence",
             "dateOfBirth": "2002-06-13",
             "nationality": "Colombia"
-        },
-        {
-            "id": 212873,
-            "name": "Kevin Miranda",
-            "position": "Defence",
-            "dateOfBirth": "2003-03-10",
-            "nationality": "Italy"
-        },
-        {
-            "id": 264821,
-            "name": "Simone Cinquegrano",
-            "position": "Defence",
-            "dateOfBirth": "2004-06-25",
-            "nationality": "Italy"
         },
         {
             "id": 1920,
@@ -115,6 +115,13 @@
             "nationality": "Italy"
         },
         {
+            "id": 172183,
+            "name": "Ismael Kone",
+            "position": "Midfield",
+            "dateOfBirth": "2002-06-06",
+            "nationality": "Canada"
+        },
+        {
             "id": 175891,
             "name": "Cristian Volpato",
             "position": "Midfield",
@@ -129,32 +136,11 @@
             "nationality": "Ghana"
         },
         {
-            "id": 176917,
-            "name": "Justin Kumi",
-            "position": "Midfield",
-            "dateOfBirth": "2004-07-16",
-            "nationality": "Italy"
-        },
-        {
-            "id": 186696,
-            "name": "Luca D'Andrea",
-            "position": "Midfield",
-            "dateOfBirth": "2004-09-06",
-            "nationality": "Italy"
-        },
-        {
             "id": 265386,
             "name": "Borna Knezović",
             "position": "Midfield",
             "dateOfBirth": "2005-07-29",
             "nationality": "Croatia"
-        },
-        {
-            "id": 265390,
-            "name": "Kevin Leone",
-            "position": "Midfield",
-            "dateOfBirth": "2005-03-28",
-            "nationality": "Italy"
         },
         {
             "id": 274104,
@@ -164,25 +150,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 16208,
-            "name": "Emil Ceide",
-            "position": "Offence",
-            "dateOfBirth": "2001-09-03",
-            "nationality": "Norway"
-        },
-        {
             "id": 111561,
             "name": "Luca Moro",
             "position": "Offence",
             "dateOfBirth": "2001-01-25",
             "nationality": "Italy"
-        },
-        {
-            "id": 141296,
-            "name": "Janis Antiste",
-            "position": "Offence",
-            "dateOfBirth": "2002-08-18",
-            "nationality": "France"
         },
         {
             "id": 152114,
@@ -192,46 +164,11 @@
             "nationality": "Uruguay"
         },
         {
-            "id": 156618,
-            "name": "Riccardo Ciervo",
-            "position": "Offence",
-            "dateOfBirth": "2002-04-01",
-            "nationality": "Italy"
-        },
-        {
             "id": 245405,
             "name": "Laurs Skjellerup",
             "position": "Offence",
             "dateOfBirth": "2002-08-12",
             "nationality": "Denmark"
-        },
-        {
-            "id": 263638,
-            "name": "Flavio Russo",
-            "position": "Offence",
-            "dateOfBirth": "2004-08-31",
-            "nationality": "Italy"
-        },
-        {
-            "id": 147020,
-            "name": "Daniel Boloca",
-            "position": "Central Midfield",
-            "dateOfBirth": "1998-12-22",
-            "nationality": "Italy"
-        },
-        {
-            "id": 131258,
-            "name": "Ruan",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-06-07",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 125523,
-            "name": "Cas Odenthal",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-09-26",
-            "nationality": "Netherlands"
         },
         {
             "id": 122407,
@@ -241,11 +178,25 @@
             "nationality": "Scotland"
         },
         {
-            "id": 67704,
-            "name": "Uroš Račić",
-            "position": "Central Midfield",
-            "dateOfBirth": "1998-03-17",
-            "nationality": "Serbia"
+            "id": 117370,
+            "name": "Fali Candé",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-01-24",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 105441,
+            "name": "Sebastian Walukiewicz",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-05",
+            "nationality": "Poland"
+        },
+        {
+            "id": 53403,
+            "name": "Jay Idzes",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-06-02",
+            "nationality": "Indonesia"
         },
         {
             "id": 44033,
@@ -290,6 +241,13 @@
             "nationality": "Italy"
         },
         {
+            "id": 192659,
+            "name": "Alieu Fadera",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-11-03",
+            "nationality": "Gambia"
+        },
+        {
             "id": 189844,
             "name": "Luca Lipani",
             "position": "Defensive Midfield",
@@ -297,11 +255,39 @@
             "nationality": "Italy"
         },
         {
+            "id": 189153,
+            "name": "Tarik Muharemović",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-02-28",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
             "id": 175837,
             "name": "Filippo Missori",
             "position": "Right-Back",
             "dateOfBirth": "2004-03-24",
             "nationality": "Italy"
+        },
+        {
+            "id": 147020,
+            "name": "Daniel Boloca",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-12-22",
+            "nationality": "Italy"
+        },
+        {
+            "id": 131258,
+            "name": "Ruan",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-06-07",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 125523,
+            "name": "Cas Odenthal",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-09-26",
+            "nationality": "Netherlands"
         }
     ],
     "staff": [],

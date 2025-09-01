@@ -45,18 +45,25 @@
             "nationality": "Argentina"
         },
         {
-            "id": 81871,
-            "name": "Joe Gauci",
+            "id": 7675,
+            "name": "Marco Bizot",
             "position": "Goalkeeper",
-            "dateOfBirth": "2000-07-04",
-            "nationality": "Australia"
+            "dateOfBirth": "1991-03-10",
+            "nationality": "Netherlands"
         },
         {
-            "id": 210679,
-            "name": "Filip Marshall",
+            "id": 204460,
+            "name": "James Wright",
             "position": "Goalkeeper",
-            "dateOfBirth": "2003-04-24",
-            "nationality": "Poland"
+            "dateOfBirth": "2004-12-02",
+            "nationality": "England"
+        },
+        {
+            "id": 270633,
+            "name": "Jamaldeen Jimoh",
+            "position": "Midfield",
+            "dateOfBirth": "2006-10-02",
+            "nationality": "England"
         },
         {
             "id": 182274,
@@ -73,11 +80,11 @@
             "nationality": "Netherlands"
         },
         {
-            "id": 217929,
-            "name": "Kosta Nedeljković",
+            "id": 203594,
+            "name": "Andrés Garcia",
             "position": "Right-Back",
-            "dateOfBirth": "2005-12-16",
-            "nationality": "Serbia"
+            "dateOfBirth": "2003-02-07",
+            "nationality": "Spain"
         },
         {
             "id": 188471,
@@ -94,11 +101,11 @@
             "nationality": "England"
         },
         {
-            "id": 158894,
-            "name": "Enzo Barrenechea",
+            "id": 172899,
+            "name": "Lamare Bogarde",
             "position": "Defensive Midfield",
-            "dateOfBirth": "2001-05-22",
-            "nationality": "Argentina"
+            "dateOfBirth": "2004-01-05",
+            "nationality": "Netherlands"
         },
         {
             "id": 131120,
@@ -108,18 +115,18 @@
             "nationality": "Netherlands"
         },
         {
+            "id": 128710,
+            "name": "Evann Guessand",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-07-01",
+            "nationality": "France"
+        },
+        {
             "id": 114024,
             "name": "Amadou Onana",
             "position": "Defensive Midfield",
             "dateOfBirth": "2001-08-16",
             "nationality": "Belgium"
-        },
-        {
-            "id": 111437,
-            "name": "Jacob Ramsey",
-            "position": "Left Midfield",
-            "dateOfBirth": "2001-05-28",
-            "nationality": "England"
         },
         {
             "id": 82140,
@@ -185,6 +192,13 @@
             "nationality": "England"
         },
         {
+            "id": 7457,
+            "name": "Donyell Malen",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-01-19",
+            "nationality": "Netherlands"
+        },
+        {
             "id": 6317,
             "name": "Ezri Konsa",
             "position": "Centre-Back",
@@ -218,13 +232,6 @@
             "position": "Left-Back",
             "dateOfBirth": "1993-07-20",
             "nationality": "France"
-        },
-        {
-            "id": 3228,
-            "name": "Philippe Coutinho",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1992-06-12",
-            "nationality": "Brazil"
         },
         {
             "id": 157,

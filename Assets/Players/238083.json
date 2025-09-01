@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 34,
+    "shirtNumber": 3,
     "lastUpdated": "2025-02-18T02:40:49Z",
     "currentTeam": {
         "area": {
@@ -16,30 +16,23 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 20,
-        "name": "FC St. Pauli 1910",
-        "shortName": "St. Pauli",
-        "tla": "STP",
-        "crest": "https://crests.football-data.org/20.png",
+        "id": 5979,
+        "name": "FC St. Pauli 1910 II",
+        "shortName": "St. Pauli II",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/5979.png",
         "address": "Auf dem Heiligengeistfeld Hamburg 20359",
         "website": "http://www.fcstpauli.de",
         "founded": 1910,
         "clubColors": "Brown / White",
-        "venue": "Millerntor-Stadion",
+        "venue": "Edmund-Plambeck-Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2172,
+                "name": "Regionalliga Nord",
+                "code": "RLN",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {

@@ -6,8 +6,8 @@
     "dateOfBirth": "1996-03-15",
     "nationality": "Germany",
     "section": "Left Winger",
-    "position": "Offence",
-    "shirtNumber": null,
+    "position": "Midfield",
+    "shirtNumber": 7,
     "lastUpdated": "2024-09-02T09:59:02Z",
     "currentTeam": {
         "area": {
@@ -16,30 +16,23 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 7,
-        "name": "Hamburger SV",
-        "shortName": "HSV",
+        "id": 5988,
+        "name": "Hamburger SV II",
+        "shortName": "HSV II",
         "tla": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
+        "crest": "https://crests.football-data.org/5988.png",
         "address": "Sylvesterallee 7 Hamburg 22525",
         "website": "http://www.hsv.de",
         "founded": 1887,
         "clubColors": "White / Red / Blue",
-        "venue": "Volksparkstadion",
+        "venue": "Wolfgang-Meyer-Sportanlage",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2172,
+                "name": "Regionalliga Nord",
+                "code": "RLN",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {

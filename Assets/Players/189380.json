@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 12,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 558,
-        "name": "RC Celta de Vigo",
-        "shortName": "Celta",
-        "tla": "CEL",
-        "crest": "https://crests.football-data.org/558.png",
-        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
-        "website": "http://www.celtavigo.net",
-        "founded": 1923,
-        "clubColors": "Sky Blue / White",
-        "venue": "Estadio de Balaídos",
+        "id": 84,
+        "name": "Málaga CF",
+        "shortName": "Málaga",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/84.png",
+        "address": "Paseo de Martiricos, s/n Málaga 29011",
+        "website": "http://www.malagacf.es",
+        "founded": 1933,
+        "clubColors": "Blue / White",
+        "venue": "Estadio La Rosaleda",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

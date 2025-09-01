@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 9,
     "lastUpdated": "2024-11-29T09:43:21Z",
     "currentTeam": {
         "area": {
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 445,
+        "name": "Empoli FC",
+        "shortName": "Empoli",
+        "tla": "EMP",
+        "crest": "https://crests.football-data.org/445.png",
+        "address": "Piazza Matteotti Empoli 50053",
+        "website": "http://www.empolicalcio.net",
+        "founded": 1920,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Carlo Castellani",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2024-08",
             "until": "2026-06"
         }
     }

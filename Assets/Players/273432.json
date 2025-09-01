@@ -1,0 +1,50 @@
+{
+    "id": 273432,
+    "name": "Bernard Jordan Nguene",
+    "firstName": "Bernard",
+    "lastName": "Nguene",
+    "dateOfBirth": "2006-08-04",
+    "nationality": "Cameroon",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 49,
+    "lastUpdated": "2024-12-16T09:43:00Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-12",
+            "until": "2026-06"
+        }
+    }
+}

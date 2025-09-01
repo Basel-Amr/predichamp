@@ -52,6 +52,20 @@
             "nationality": "England"
         },
         {
+            "id": 97144,
+            "name": "Mads Hermansen",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-07-11",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 187382,
+            "name": "Krisztian Hegyi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-09-24",
+            "nationality": "Hungary"
+        },
+        {
             "id": 188295,
             "name": "Regan Clayton",
             "position": "Defence",
@@ -59,67 +73,18 @@
             "nationality": "England"
         },
         {
+            "id": 205441,
+            "name": "El Hadji Diouf",
+            "position": "Defence",
+            "dateOfBirth": "2004-12-28",
+            "nationality": "Senegal"
+        },
+        {
             "id": 219676,
             "name": "Mohamadou Kante",
             "position": "Midfield",
             "dateOfBirth": "2005-09-20",
             "nationality": "France"
-        },
-        {
-            "id": 209125,
-            "name": "Kaelan Casey",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-10-28",
-            "nationality": "England"
-        },
-        {
-            "id": 192653,
-            "name": "Luis Guilherme",
-            "position": "Right Winger",
-            "dateOfBirth": "2006-02-09",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 188900,
-            "name": "Oliver Scarles",
-            "position": "Left-Back",
-            "dateOfBirth": "2005-12-12",
-            "nationality": "England"
-        },
-        {
-            "id": 170617,
-            "name": "Andy Irving",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-05-13",
-            "nationality": "Scotland"
-        },
-        {
-            "id": 102193,
-            "name": "Crysencio Summerville",
-            "position": "Left Winger",
-            "dateOfBirth": "2001-10-30",
-            "nationality": "Netherlands"
-        },
-        {
-            "id": 81191,
-            "name": "Nayef Aguerd",
-            "position": "Centre-Back",
-            "dateOfBirth": "1996-03-30",
-            "nationality": "Morocco"
-        },
-        {
-            "id": 77399,
-            "name": "Mohammed Kudus",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-08-02",
-            "nationality": "Ghana"
-        },
-        {
-            "id": 39104,
-            "name": "Guido Rodríguez",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1994-04-12",
-            "nationality": "Argentina"
         },
         {
             "id": 25376,
@@ -150,6 +115,13 @@
             "nationality": "Ivory Coast"
         },
         {
+            "id": 8251,
+            "name": "Callum Wilson",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1992-02-27",
+            "nationality": "England"
+        },
+        {
             "id": 8158,
             "name": "Aaron Wan-Bissaka",
             "position": "Right-Back",
@@ -161,6 +133,13 @@
             "name": "James Ward-Prowse",
             "position": "Central Midfield",
             "dateOfBirth": "1994-11-01",
+            "nationality": "England"
+        },
+        {
+            "id": 7995,
+            "name": "Kyle Walker-Peters",
+            "position": "Right-Back",
+            "dateOfBirth": "1997-04-13",
             "nationality": "England"
         },
         {
@@ -204,6 +183,83 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1993-02-09",
             "nationality": "Germany"
+        },
+        {
+            "id": 248957,
+            "name": "George Earthy",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2004-09-05",
+            "nationality": "England"
+        },
+        {
+            "id": 209130,
+            "name": "Lewis Orford",
+            "position": "Central Midfield",
+            "dateOfBirth": "2006-02-18",
+            "nationality": "England"
+        },
+        {
+            "id": 207527,
+            "name": "Callum Marshall",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-11-28",
+            "nationality": "Northern Ireland"
+        },
+        {
+            "id": 192653,
+            "name": "Luis Guilherme",
+            "position": "Right Winger",
+            "dateOfBirth": "2006-02-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 188900,
+            "name": "Oliver Scarles",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-12-12",
+            "nationality": "England"
+        },
+        {
+            "id": 176597,
+            "name": "Freddie Potts",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-09-12",
+            "nationality": "England"
+        },
+        {
+            "id": 170617,
+            "name": "Andy Irving",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-05-13",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 102193,
+            "name": "Crysencio Summerville",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-10-30",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 81191,
+            "name": "Nayef Aguerd",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-03-30",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 79903,
+            "name": "Jean-Clair Todibo",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-12-30",
+            "nationality": "France"
+        },
+        {
+            "id": 39104,
+            "name": "Guido Rodríguez",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-04-12",
+            "nationality": "Argentina"
         }
     ],
     "staff": [],

@@ -87,6 +87,13 @@
             "nationality": "USA"
         },
         {
+            "id": 272836,
+            "name": "Felix Meiser",
+            "position": "Defence",
+            "dateOfBirth": "2007-01-16",
+            "nationality": "Germany"
+        },
+        {
             "id": 171132,
             "name": "Yusuf Kabadayi",
             "position": "Midfield",
@@ -94,11 +101,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 184969,
-            "name": "Henri Koudossou",
+            "id": 217893,
+            "name": "Aiman Dardari",
             "position": "Midfield",
-            "dateOfBirth": "1999-09-03",
-            "nationality": "Germany"
+            "dateOfBirth": "2005-03-21",
+            "nationality": "Luxembourg"
         },
         {
             "id": 81736,
@@ -150,18 +157,11 @@
             "nationality": "France"
         },
         {
-            "id": 141308,
-            "name": "Dion Drena Beljo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-03-01",
-            "nationality": "Croatia"
-        },
-        {
-            "id": 122475,
-            "name": "David Čolina",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-07-19",
-            "nationality": "Croatia"
+            "id": 98953,
+            "name": "Han-Noah Massengo",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-07-07",
+            "nationality": "France"
         },
         {
             "id": 72477,

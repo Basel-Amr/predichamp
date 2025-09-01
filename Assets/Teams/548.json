@@ -38,18 +38,18 @@
     },
     "squad": [
         {
+            "id": 6696,
+            "name": "Lukáš Hrádecký",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-11-24",
+            "nationality": "Finland"
+        },
+        {
             "id": 9535,
             "name": "Philipp Köhn",
             "position": "Goalkeeper",
             "dateOfBirth": "1998-04-02",
             "nationality": "Switzerland"
-        },
-        {
-            "id": 63855,
-            "name": "Radosław Majecki",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1999-11-16",
-            "nationality": "Poland"
         },
         {
             "id": 172431,
@@ -71,6 +71,13 @@
             "position": "Midfield",
             "dateOfBirth": "2005-02-16",
             "nationality": "Morocco"
+        },
+        {
+            "id": 272943,
+            "name": "Aladji Bamba",
+            "position": "Midfield",
+            "dateOfBirth": "2006-07-14",
+            "nationality": "France"
         },
         {
             "id": 113375,
@@ -183,13 +190,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "2004-01-01",
             "nationality": "Senegal"
-        },
-        {
-            "id": 204238,
-            "name": "Edan Diop",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-08-28",
-            "nationality": "France"
         },
         {
             "id": 191000,

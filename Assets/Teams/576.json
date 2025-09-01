@@ -38,11 +38,11 @@
     },
     "squad": [
         {
-            "id": 188389,
-            "name": "Robin Risser",
+            "id": 191068,
+            "name": "Mike Penders",
             "position": "Goalkeeper",
-            "dateOfBirth": "2004-12-02",
-            "nationality": "France"
+            "dateOfBirth": "2005-07-31",
+            "nationality": "Belgium"
         },
         {
             "id": 205508,
@@ -59,6 +59,13 @@
             "nationality": "France"
         },
         {
+            "id": 205551,
+            "name": "Lucas Høgsberg",
+            "position": "Defence",
+            "dateOfBirth": "2006-06-23",
+            "nationality": "Denmark"
+        },
+        {
             "id": 192686,
             "name": "Pape Diop",
             "position": "Midfield",
@@ -66,11 +73,25 @@
             "nationality": "Senegal"
         },
         {
-            "id": 166244,
-            "name": "Dion Moise Sahi",
-            "position": "Offence",
-            "dateOfBirth": "2001-12-20",
-            "nationality": "Ivory Coast"
+            "id": 205684,
+            "name": "Ray Paez",
+            "position": "Midfield",
+            "dateOfBirth": "2007-05-04",
+            "nationality": "Ecuador"
+        },
+        {
+            "id": 210644,
+            "name": "Maximillian Oyedele",
+            "position": "Midfield",
+            "dateOfBirth": "2004-11-07",
+            "nationality": "Poland"
+        },
+        {
+            "id": 189625,
+            "name": "Ishe Samuels-Smith",
+            "position": "Left-Back",
+            "dateOfBirth": "2006-06-05",
+            "nationality": "England"
         },
         {
             "id": 182441,
@@ -113,6 +134,13 @@
             "position": "Left-Back",
             "dateOfBirth": "2004-07-23",
             "nationality": "Argentina"
+        },
+        {
+            "id": 170075,
+            "name": "Soumaïla Coulibaly",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-10-14",
+            "nationality": "France"
         },
         {
             "id": 151552,
@@ -185,31 +213,10 @@
             "nationality": "Ivory Coast"
         },
         {
-            "id": 261041,
-            "name": "Pape Diong",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2006-06-15",
-            "nationality": "Senegal"
-        },
-        {
             "id": 252873,
             "name": "Tidiane Diallo",
             "position": "Attacking Midfield",
             "dateOfBirth": "2006-05-28",
-            "nationality": "France"
-        },
-        {
-            "id": 252843,
-            "name": "Vignon Ouotro",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-09-13",
-            "nationality": "Ivory Coast"
-        },
-        {
-            "id": 249100,
-            "name": "Aboubacar Ali",
-            "position": "Left Winger",
-            "dateOfBirth": "2006-04-02",
             "nationality": "France"
         },
         {
@@ -220,13 +227,6 @@
             "nationality": "France"
         },
         {
-            "id": 246110,
-            "name": "Milos Lukovic",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-11-18",
-            "nationality": "Serbia"
-        },
-        {
             "id": 245388,
             "name": "Mohamed Bechikh",
             "position": "Centre-Forward",
@@ -234,17 +234,17 @@
             "nationality": "France"
         },
         {
-            "id": 229415,
-            "name": "Jérémy Sebas",
-            "position": "Left Winger",
-            "dateOfBirth": "2003-04-14",
-            "nationality": "Martinique"
+            "id": 244929,
+            "name": "Samir El Mourabet",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-10-06",
+            "nationality": "Morocco"
         },
         {
-            "id": 212863,
-            "name": "Steven Baseya",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-01-14",
+            "id": 244750,
+            "name": "Mathis Amougou",
+            "position": "Central Midfield",
+            "dateOfBirth": "2006-01-18",
             "nationality": "France"
         },
         {
@@ -255,10 +255,17 @@
             "nationality": "England"
         },
         {
-            "id": 204280,
-            "name": "Yoni Gomis",
+            "id": 203561,
+            "name": "Joaquín Panichelli",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-10-07",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 190866,
+            "name": "Mamadou Sarr",
             "position": "Centre-Back",
-            "dateOfBirth": "2005-09-23",
+            "dateOfBirth": "2005-08-29",
             "nationality": "France"
         }
     ],

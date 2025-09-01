@@ -1,0 +1,43 @@
+{
+    "id": 169237,
+    "name": "Alanzinho",
+    "firstName": "",
+    "lastName": "Alan",
+    "dateOfBirth": "2000-03-08",
+    "nationality": "Brazil",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": 11,
+    "lastUpdated": "2025-05-20T09:42:33Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png",
+        "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+        "website": "http://www.moreirensefc.pt",
+        "founded": 1938,
+        "clubColors": "Green / White",
+        "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-08",
+            "until": "2026-06"
+        }
+    }
+}

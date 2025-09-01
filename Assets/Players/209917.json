@@ -1,0 +1,50 @@
+{
+    "id": 209917,
+    "name": "Louis Oppie",
+    "firstName": "Louis",
+    "lastName": "Oppie",
+    "dateOfBirth": "2002-05-17",
+    "nationality": "Germany",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 23,
+    "lastUpdated": "2024-06-06T13:14:19Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 20,
+        "name": "FC St. Pauli 1910",
+        "shortName": "St. Pauli",
+        "tla": "STP",
+        "crest": "https://crests.football-data.org/20.png",
+        "address": "Auf dem Heiligengeistfeld Hamburg 20359",
+        "website": "http://www.fcstpauli.de",
+        "founded": 1910,
+        "clubColors": "Brown / White",
+        "venue": "Millerntor-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -7,7 +7,7 @@
     "nationality": "South Korea",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 11,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,24 +16,17 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 10,
-        "name": "VfB Stuttgart",
-        "shortName": "Stuttgart",
-        "tla": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "address": "Mercedesstraße 109 Stuttgart 70372",
-        "website": "http://www.vfb.de",
-        "founded": 1893,
-        "clubColors": "White / Red",
-        "venue": "Mercedes-Benz Arena",
+        "id": 28,
+        "name": "1. FC Union Berlin",
+        "shortName": "Union Berlin",
+        "tla": "UNB",
+        "crest": "https://crests.football-data.org/28.png",
+        "address": "An der Wuhlheide 263 Berlin 12555",
+        "website": "http://www.fc-union-berlin.de",
+        "founded": 1906,
+        "clubColors": "Red / White",
+        "venue": "Stadion An der Alten Försterei",
         "runningCompetitions": [
-            {
-                "id": 2134,
-                "name": "DFL Super Cup",
-                "code": "GSC",
-                "type": "SUPER_CUP",
-                "emblem": null
-            },
             {
                 "id": 2011,
                 "name": "DFB-Pokal",
@@ -50,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2024-08",
             "until": "2026-06"
         }
     }

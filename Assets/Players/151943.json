@@ -7,36 +7,43 @@
     "nationality": "Slovenia",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 16,
     "lastUpdated": "2023-08-06T08:27:08Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 104,
-        "name": "Cagliari Calcio",
-        "shortName": "Cagliari",
-        "tla": "CAG",
-        "crest": "https://crests.football-data.org/104.png",
-        "address": "Viale la Plaia 15 Cagliari 09123",
-        "website": "http://www.cagliaricalcio.net",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue / White",
-        "venue": "Sardegna Arena",
+        "id": 1082,
+        "name": "Oxford United FC",
+        "shortName": "Oxford United",
+        "tla": "OXF",
+        "crest": "https://crests.football-data.org/1082.png",
+        "address": "Grenoble Road Oxford OX4 4XP",
+        "website": "http://www.oufc.co.uk",
+        "founded": 1893,
+        "clubColors": "Yellow / Blue",
+        "venue": "The Kassam Stadium",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

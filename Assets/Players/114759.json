@@ -7,39 +7,32 @@
     "nationality": "Denmark",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 29,
     "lastUpdated": "2024-10-14T09:41:31Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2065,
+            "name": "Denmark",
+            "code": "DNK",
+            "flag": "https://crests.football-data.org/782.svg"
         },
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "address": "Franz-Kremer-Allee 1 Köln 50937",
-        "website": "http://www.fc-koeln.de",
-        "founded": 1948,
-        "clubColors": "Red / White",
-        "venue": "RheinEnergieSTADION",
+        "id": 4481,
+        "name": "Aarhus GF",
+        "shortName": "Aarhus",
+        "tla": "AGF",
+        "crest": "https://crests.football-data.org/4481.png",
+        "address": "Stadion Allé 70, Idrættens Hus Vest Aarhus 8000",
+        "website": "https://www.agf.dk/",
+        "founded": 1880,
+        "clubColors": "White / Navy Blue",
+        "venue": "Ceres Park",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2050,
+                "name": "Superliga",
+                "code": "DSU",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {

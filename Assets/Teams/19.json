@@ -66,67 +66,11 @@
             "nationality": "Brazil"
         },
         {
-            "id": 220272,
-            "name": "Yurij Obert",
+            "id": 273124,
+            "name": "Amil Siljevic",
             "position": "Goalkeeper",
-            "dateOfBirth": "2005-09-30",
+            "dateOfBirth": "2007-01-19",
             "nationality": "Germany"
-        },
-        {
-            "id": 230048,
-            "name": "Nils Ramming",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2007-03-28",
-            "nationality": "Sweden"
-        },
-        {
-            "id": 273161,
-            "name": "Eba İş",
-            "position": "Midfield",
-            "dateOfBirth": "2008-10-01",
-            "nationality": "Germany"
-        },
-        {
-            "id": 260910,
-            "name": "Junior Awusi",
-            "position": "Offence",
-            "dateOfBirth": "2006-01-17",
-            "nationality": "Spain"
-        },
-        {
-            "id": 156629,
-            "name": "Igor Matanovic",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-03-31",
-            "nationality": "Croatia"
-        },
-        {
-            "id": 152454,
-            "name": "Hugo Ekitike",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-06-20",
-            "nationality": "France"
-        },
-        {
-            "id": 150860,
-            "name": "Ansgar Knauff",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-01-10",
-            "nationality": "Germany"
-        },
-        {
-            "id": 145893,
-            "name": "Arthur Theate",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-05-25",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 133292,
-            "name": "Niels Nkounkou",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-11-01",
-            "nationality": "France"
         },
         {
             "id": 123049,
@@ -148,13 +92,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2000-08-17",
             "nationality": "Croatia"
-        },
-        {
-            "id": 99357,
-            "name": "Tuta",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-07-04",
-            "nationality": "Brazil"
         },
         {
             "id": 82404,
@@ -183,6 +120,13 @@
             "position": "Right-Back",
             "dateOfBirth": "1997-07-11",
             "nationality": "Denmark"
+        },
+        {
+            "id": 7531,
+            "name": "Ritsu Doan",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-06-16",
+            "nationality": "Japan"
         },
         {
             "id": 6701,
@@ -220,25 +164,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 260758,
-            "name": "Noah Fenyö",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2006-01-30",
-            "nationality": "Hungary"
-        },
-        {
             "id": 213880,
             "name": "Elias Baum",
             "position": "Right-Back",
             "dateOfBirth": "2005-10-26",
             "nationality": "Germany"
-        },
-        {
-            "id": 205610,
-            "name": "Davis Bautista",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-02-16",
-            "nationality": "Ecuador"
         },
         {
             "id": 205537,
@@ -255,13 +185,6 @@
             "nationality": "Turkey"
         },
         {
-            "id": 189601,
-            "name": "Nacho Ferri",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-10-05",
-            "nationality": "Spain"
-        },
-        {
             "id": 185882,
             "name": "Jean Bahoya",
             "position": "Left Winger",
@@ -274,13 +197,6 @@
             "position": "Left-Back",
             "dateOfBirth": "2003-06-16",
             "nationality": "Germany"
-        },
-        {
-            "id": 182170,
-            "name": "Krisztian Lisztes",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-05-06",
-            "nationality": "Hungary"
         },
         {
             "id": 180563,
@@ -322,6 +238,27 @@
             "name": "Sepe Elye Wahi",
             "position": "Centre-Forward",
             "dateOfBirth": "2003-01-02",
+            "nationality": "France"
+        },
+        {
+            "id": 150860,
+            "name": "Ansgar Knauff",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-01-10",
+            "nationality": "Germany"
+        },
+        {
+            "id": 145893,
+            "name": "Arthur Theate",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-05-25",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 133292,
+            "name": "Niels Nkounkou",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-11-01",
             "nationality": "France"
         }
     ],

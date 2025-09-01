@@ -7,7 +7,7 @@
     "nationality": "Turkey",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 42,
+    "shirtNumber": 15,
     "lastUpdated": "2025-06-30T09:41:05Z",
     "currentTeam": {
         "area": {
@@ -16,34 +16,27 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 16,
-        "name": "FC Augsburg",
-        "shortName": "Augsburg",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
+        "id": 5973,
+        "name": "FC Augsburg II",
+        "shortName": "Augsburg II",
+        "tla": "AUG",
+        "crest": "https://crests.football-data.org/5973.png",
         "address": "Donauwörther Straße 170 Augsburg 86154",
         "website": "http://www.fcaugsburg.de",
         "founded": 1907,
         "clubColors": "Red / Green / White",
-        "venue": "WWK Arena",
+        "venue": "Rosenaustadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2159,
+                "name": "Regionalliga Bayern",
+                "code": "RBY",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-05",
+            "start": "2022-07",
             "until": "2027-06"
         }
     }

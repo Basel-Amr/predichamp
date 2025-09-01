@@ -1,0 +1,50 @@
+{
+    "id": 187404,
+    "name": "Lennon Miller",
+    "firstName": "Lennon",
+    "lastName": "Miller",
+    "dateOfBirth": "2006-08-25",
+    "nationality": "Scotland",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2023-09-18T09:02:55Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 115,
+        "name": "Udinese Calcio",
+        "shortName": "Udinese",
+        "tla": "UDI",
+        "crest": "https://crests.football-data.org/115.png",
+        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
+        "website": "http://www.udinese.it",
+        "founded": 1896,
+        "clubColors": "White / Black",
+        "venue": "Dacia Arena",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2030-06"
+        }
+    }
+}

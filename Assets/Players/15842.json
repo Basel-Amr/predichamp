@@ -7,37 +7,37 @@
     "nationality": "Argentina",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 20,
     "lastUpdated": "2023-08-22T20:04:20Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2011,
+            "name": "Argentina",
+            "code": "ARG",
+            "flag": "https://crests.football-data.org/ar.svg"
         },
-        "id": 285,
-        "name": "Elche CF",
-        "shortName": "Elche",
-        "tla": "ELC",
-        "crest": "https://crests.football-data.org/285.png",
-        "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
-        "website": "http://www.elchecf.es",
-        "founded": 1923,
-        "clubColors": "White / Green",
-        "venue": "Estadio Manuel Martínez Valero",
+        "id": 2070,
+        "name": "CA Rosario Central",
+        "shortName": "Rosario",
+        "tla": "ROS",
+        "crest": "https://crests.football-data.org/2070.png",
+        "address": "Calle General Mitre 853 Rosario, Santa Fe 2000",
+        "website": "http://www.rosariocentral.com",
+        "founded": 1889,
+        "clubColors": "Dark Blue / Yellow",
+        "venue": "Estadio Dr. Lisandro de la Torre",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2024,
+                "name": "Liga Profesional",
+                "code": "ASL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/LPDF.svg"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2023-08",
+            "until": "2025-06"
         }
     }
 }

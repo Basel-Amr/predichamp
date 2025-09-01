@@ -1,0 +1,50 @@
+{
+    "id": 168871,
+    "name": "Elias Manoel",
+    "firstName": "",
+    "lastName": "Elias Manoel",
+    "dateOfBirth": "2001-11-30",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 33,
+    "lastUpdated": "2023-05-01T13:16:33Z",
+    "currentTeam": {
+        "area": {
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
+        },
+        "id": 1770,
+        "name": "Botafogo FR",
+        "shortName": "Botafogo",
+        "tla": "BOT",
+        "crest": "https://crests.football-data.org/1770.png",
+        "address": "Avenida Venceslau Brás 72, Bairro Botafago Rio de Janeiro, RJ 22290-140",
+        "website": "http://www.botafogo.com.br",
+        "founded": 1904,
+        "clubColors": "Black / White",
+        "venue": "Estádio Nilton Santos",
+        "runningCompetitions": [
+            {
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2027-12"
+        }
+    }
+}

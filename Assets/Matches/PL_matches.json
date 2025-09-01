@@ -3,7 +3,7 @@
         "id": 537785,
         "matchday": 1,
         "utcDate": "2025-08-15T19:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 64,
@@ -20,15 +20,15 @@
             "crest": "https://crests.football-data.org/bournemouth.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 2
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             }
         }
     },
@@ -36,7 +36,7 @@
         "id": 537786,
         "matchday": 1,
         "utcDate": "2025-08-16T11:30:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 58,
@@ -53,15 +53,15 @@
             "crest": "https://crests.football-data.org/67.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
@@ -69,7 +69,7 @@
         "id": 537787,
         "matchday": 1,
         "utcDate": "2025-08-16T14:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 397,
@@ -86,48 +86,15 @@
             "crest": "https://crests.football-data.org/63.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537788,
-        "matchday": 1,
-        "utcDate": "2025-08-16T14:00:00Z",
-        "status": "TIMED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
-        },
-        "awayTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
@@ -135,7 +102,7 @@
         "id": 537789,
         "matchday": 1,
         "utcDate": "2025-08-16T14:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 71,
@@ -152,15 +119,15 @@
             "crest": "https://crests.football-data.org/563.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
@@ -168,7 +135,7 @@
         "id": 537790,
         "matchday": 1,
         "utcDate": "2025-08-16T14:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 73,
@@ -185,15 +152,15 @@
             "crest": "https://crests.football-data.org/328.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             }
         }
     },
@@ -201,7 +168,7 @@
         "id": 537791,
         "matchday": 1,
         "utcDate": "2025-08-16T16:30:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 76,
@@ -218,15 +185,48 @@
             "crest": "https://crests.football-data.org/65.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 4
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
+            }
+        }
+    },
+    {
+        "id": 537788,
+        "matchday": 1,
+        "utcDate": "2025-08-17T13:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
+        },
+        "awayTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 3,
+                "away": 0
             }
         }
     },
@@ -234,7 +234,7 @@
         "id": 537792,
         "matchday": 1,
         "utcDate": "2025-08-17T13:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 61,
@@ -251,15 +251,15 @@
             "crest": "https://crests.football-data.org/354.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
@@ -267,7 +267,7 @@
         "id": 537793,
         "matchday": 1,
         "utcDate": "2025-08-17T15:30:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 66,
@@ -284,15 +284,15 @@
             "crest": "https://crests.football-data.org/57.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             }
         }
     },
@@ -300,7 +300,7 @@
         "id": 537794,
         "matchday": 1,
         "utcDate": "2025-08-18T19:00:00Z",
-        "status": "TIMED",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 341,
@@ -317,320 +317,23 @@
             "crest": "https://crests.football-data.org/62.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537795,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 1044,
-            "name": "AFC Bournemouth",
-            "shortName": "Bournemouth",
-            "tla": "BOU",
-            "crest": "https://crests.football-data.org/bournemouth.png"
-        },
-        "awayTeam": {
-            "id": 76,
-            "name": "Wolverhampton Wanderers FC",
-            "shortName": "Wolverhampton",
-            "tla": "WOL",
-            "crest": "https://crests.football-data.org/76.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537796,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortName": "Crystal Palace",
-            "tla": "CRY",
-            "crest": "https://crests.football-data.org/354.png"
-        },
-        "awayTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537797,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "awayTeam": {
-            "id": 341,
-            "name": "Leeds United FC",
-            "shortName": "Leeds United",
-            "tla": "LEE",
-            "crest": "https://crests.football-data.org/341.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537798,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "awayTeam": {
-            "id": 58,
-            "name": "Aston Villa FC",
-            "shortName": "Aston Villa",
-            "tla": "AVL",
-            "crest": "https://crests.football-data.org/58.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537799,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 328,
-            "name": "Burnley FC",
-            "shortName": "Burnley",
-            "tla": "BUR",
-            "crest": "https://crests.football-data.org/328.png"
-        },
-        "awayTeam": {
-            "id": 71,
-            "name": "Sunderland AFC",
-            "shortName": "Sunderland",
-            "tla": "SUN",
-            "crest": "https://crests.football-data.org/71.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537800,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 62,
-            "name": "Everton FC",
-            "shortName": "Everton",
-            "tla": "EVE",
-            "crest": "https://crests.football-data.org/62.png"
-        },
-        "awayTeam": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537801,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 63,
-            "name": "Fulham FC",
-            "shortName": "Fulham",
-            "tla": "FUL",
-            "crest": "https://crests.football-data.org/63.png"
-        },
-        "awayTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537802,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 65,
-            "name": "Manchester City FC",
-            "shortName": "Man City",
-            "tla": "MCI",
-            "crest": "https://crests.football-data.org/65.png"
-        },
-        "awayTeam": {
-            "id": 73,
-            "name": "Tottenham Hotspur FC",
-            "shortName": "Tottenham",
-            "tla": "TOT",
-            "crest": "https://crests.football-data.org/73.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537803,
-        "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-        },
-        "awayTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
     {
         "id": 537804,
         "matchday": 2,
-        "utcDate": "2025-08-23T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-22T19:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 563,
@@ -647,122 +350,320 @@
             "crest": "https://crests.football-data.org/61.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 5
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 3
             }
         }
     },
     {
-        "id": 537805,
-        "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 537802,
+        "matchday": 2,
+        "utcDate": "2025-08-23T11:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 71,
-            "name": "Sunderland AFC",
-            "shortName": "Sunderland",
-            "tla": "SUN",
-            "crest": "https://crests.football-data.org/71.png"
-        },
-        "awayTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537806,
-        "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 58,
-            "name": "Aston Villa FC",
-            "shortName": "Aston Villa",
-            "tla": "AVL",
-            "crest": "https://crests.football-data.org/58.png"
-        },
-        "awayTeam": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortName": "Crystal Palace",
-            "tla": "CRY",
-            "crest": "https://crests.football-data.org/354.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537807,
-        "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-        },
-        "awayTeam": {
             "id": 65,
             "name": "Manchester City FC",
             "shortName": "Man City",
             "tla": "MCI",
             "crest": "https://crests.football-data.org/65.png"
         },
+        "awayTeam": {
+            "id": 73,
+            "name": "Tottenham Hotspur FC",
+            "shortName": "Tottenham",
+            "tla": "TOT",
+            "crest": "https://crests.football-data.org/73.png"
+        },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
+            }
+        }
+    },
+    {
+        "id": 537795,
+        "matchday": 2,
+        "utcDate": "2025-08-23T14:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 1044,
+            "name": "AFC Bournemouth",
+            "shortName": "Bournemouth",
+            "tla": "BOU",
+            "crest": "https://crests.football-data.org/bournemouth.png"
+        },
+        "awayTeam": {
+            "id": 76,
+            "name": "Wolverhampton Wanderers FC",
+            "shortName": "Wolverhampton",
+            "tla": "WOL",
+            "crest": "https://crests.football-data.org/76.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537798,
+        "matchday": 2,
+        "utcDate": "2025-08-23T14:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "awayTeam": {
+            "id": 58,
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AVL",
+            "crest": "https://crests.football-data.org/58.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537799,
+        "matchday": 2,
+        "utcDate": "2025-08-23T14:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 328,
+            "name": "Burnley FC",
+            "shortName": "Burnley",
+            "tla": "BUR",
+            "crest": "https://crests.football-data.org/328.png"
+        },
+        "awayTeam": {
+            "id": 71,
+            "name": "Sunderland AFC",
+            "shortName": "Sunderland",
+            "tla": "SUN",
+            "crest": "https://crests.football-data.org/71.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537797,
+        "matchday": 2,
+        "utcDate": "2025-08-23T16:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "awayTeam": {
+            "id": 341,
+            "name": "Leeds United FC",
+            "shortName": "Leeds United",
+            "tla": "LEE",
+            "crest": "https://crests.football-data.org/341.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 5,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537796,
+        "matchday": 2,
+        "utcDate": "2025-08-24T13:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https://crests.football-data.org/354.png"
+        },
+        "awayTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537800,
+        "matchday": 2,
+        "utcDate": "2025-08-24T13:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 62,
+            "name": "Everton FC",
+            "shortName": "Everton",
+            "tla": "EVE",
+            "crest": "https://crests.football-data.org/62.png"
+        },
+        "awayTeam": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537801,
+        "matchday": 2,
+        "utcDate": "2025-08-24T15:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortName": "Fulham",
+            "tla": "FUL",
+            "crest": "https://crests.football-data.org/63.png"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537803,
+        "matchday": 2,
+        "utcDate": "2025-08-25T19:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+        },
+        "awayTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
         "id": 537808,
         "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T11:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 61,
@@ -779,89 +680,56 @@
             "crest": "https://crests.football-data.org/63.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             }
         }
     },
     {
-        "id": 537809,
+        "id": 537805,
         "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T14:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
+            "id": 71,
+            "name": "Sunderland AFC",
+            "shortName": "Sunderland",
+            "tla": "SUN",
+            "crest": "https://crests.football-data.org/71.png"
         },
         "awayTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537810,
-        "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 341,
-            "name": "Leeds United FC",
-            "shortName": "Leeds United",
-            "tla": "LEE",
-            "crest": "https://crests.football-data.org/341.png"
-        },
-        "awayTeam": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
     {
         "id": 537811,
         "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T14:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 66,
@@ -878,56 +746,23 @@
             "crest": "https://crests.football-data.org/328.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537812,
-        "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
-        },
-        "awayTeam": {
-            "id": 563,
-            "name": "West Ham United FC",
-            "shortName": "West Ham",
-            "tla": "WHU",
-            "crest": "https://crests.football-data.org/563.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             }
         }
     },
     {
         "id": 537813,
         "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T14:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 73,
@@ -944,23 +779,23 @@
             "crest": "https://crests.football-data.org/bournemouth.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
         "id": 537814,
         "matchday": 3,
-        "utcDate": "2025-08-30T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T14:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 76,
@@ -975,6 +810,252 @@
             "shortName": "Everton",
             "tla": "EVE",
             "crest": "https://crests.football-data.org/62.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 2
+            }
+        }
+    },
+    {
+        "id": 537810,
+        "matchday": 3,
+        "utcDate": "2025-08-30T16:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 341,
+            "name": "Leeds United FC",
+            "shortName": "Leeds United",
+            "tla": "LEE",
+            "crest": "https://crests.football-data.org/341.png"
+        },
+        "awayTeam": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537807,
+        "matchday": 3,
+        "utcDate": "2025-08-31T13:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MCI",
+            "crest": "https://crests.football-data.org/65.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537812,
+        "matchday": 3,
+        "utcDate": "2025-08-31T13:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
+        },
+        "awayTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https://crests.football-data.org/563.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537809,
+        "matchday": 3,
+        "utcDate": "2025-08-31T15:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537806,
+        "matchday": 3,
+        "utcDate": "2025-08-31T18:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 58,
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AVL",
+            "crest": "https://crests.football-data.org/58.png"
+        },
+        "awayTeam": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https://crests.football-data.org/354.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 537817,
+        "matchday": 4,
+        "utcDate": "2025-09-13T11:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "awayTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
         },
         "score": {
             "winner": null,
@@ -992,8 +1073,8 @@
     {
         "id": 537815,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 1044,
@@ -1025,8 +1106,8 @@
     {
         "id": 537816,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 354,
@@ -1056,109 +1137,10 @@
         }
     },
     {
-        "id": 537817,
-        "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "awayTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537818,
-        "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "awayTeam": {
-            "id": 61,
-            "name": "Chelsea FC",
-            "shortName": "Chelsea",
-            "tla": "CHE",
-            "crest": "https://crests.football-data.org/61.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537819,
-        "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 328,
-            "name": "Burnley FC",
-            "shortName": "Burnley",
-            "tla": "BUR",
-            "crest": "https://crests.football-data.org/328.png"
-        },
-        "awayTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537820,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 62,
@@ -1190,8 +1172,8 @@
     {
         "id": 537821,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 63,
@@ -1221,43 +1203,10 @@
         }
     },
     {
-        "id": 537822,
-        "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 65,
-            "name": "Manchester City FC",
-            "shortName": "Man City",
-            "tla": "MCI",
-            "crest": "https://crests.football-data.org/65.png"
-        },
-        "awayTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537823,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 67,
@@ -1289,8 +1238,8 @@
     {
         "id": 537824,
         "matchday": 4,
-        "utcDate": "2025-09-13T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-13T16:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 563,
@@ -1320,24 +1269,24 @@
         }
     },
     {
-        "id": 537825,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 537818,
+        "matchday": 4,
+        "utcDate": "2025-09-13T19:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 1044,
-            "name": "AFC Bournemouth",
-            "shortName": "Bournemouth",
-            "tla": "BOU",
-            "crest": "https://crests.football-data.org/bournemouth.png"
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
         },
         "awayTeam": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
+            "id": 61,
+            "name": "Chelsea FC",
+            "shortName": "Chelsea",
+            "tla": "CHE",
+            "crest": "https://crests.football-data.org/61.png"
         },
         "score": {
             "winner": null,
@@ -1353,109 +1302,10 @@
         }
     },
     {
-        "id": 537826,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 71,
-            "name": "Sunderland AFC",
-            "shortName": "Sunderland",
-            "tla": "SUN",
-            "crest": "https://crests.football-data.org/71.png"
-        },
-        "awayTeam": {
-            "id": 58,
-            "name": "Aston Villa FC",
-            "shortName": "Aston Villa",
-            "tla": "AVL",
-            "crest": "https://crests.football-data.org/58.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537827,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-        },
-        "awayTeam": {
-            "id": 73,
-            "name": "Tottenham Hotspur FC",
-            "shortName": "Tottenham",
-            "tla": "TOT",
-            "crest": "https://crests.football-data.org/73.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537828,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "awayTeam": {
-            "id": 65,
-            "name": "Manchester City FC",
-            "shortName": "Man City",
-            "tla": "MCI",
-            "crest": "https://crests.football-data.org/65.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537829,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 537819,
+        "matchday": 4,
+        "utcDate": "2025-09-14T13:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 328,
@@ -1465,11 +1315,11 @@
             "crest": "https://crests.football-data.org/328.png"
         },
         "awayTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
         },
         "score": {
             "winner": null,
@@ -1485,24 +1335,24 @@
         }
     },
     {
-        "id": 537830,
-        "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 537822,
+        "matchday": 4,
+        "utcDate": "2025-09-14T15:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 63,
-            "name": "Fulham FC",
-            "shortName": "Fulham",
-            "tla": "FUL",
-            "crest": "https://crests.football-data.org/63.png"
+            "id": 65,
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MCI",
+            "crest": "https://crests.football-data.org/65.png"
         },
         "awayTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
         },
         "score": {
             "winner": null,
@@ -1520,8 +1370,8 @@
     {
         "id": 537831,
         "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-20T11:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 64,
@@ -1551,24 +1401,90 @@
         }
     },
     {
-        "id": 537832,
+        "id": 537825,
         "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-20T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
+            "id": 1044,
+            "name": "AFC Bournemouth",
+            "shortName": "Bournemouth",
+            "tla": "BOU",
+            "crest": "https://crests.football-data.org/bournemouth.png"
         },
         "awayTeam": {
-            "id": 61,
-            "name": "Chelsea FC",
-            "shortName": "Chelsea",
-            "tla": "CHE",
-            "crest": "https://crests.football-data.org/61.png"
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537827,
+        "matchday": 5,
+        "utcDate": "2025-09-20T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+        },
+        "awayTeam": {
+            "id": 73,
+            "name": "Tottenham Hotspur FC",
+            "shortName": "Tottenham",
+            "tla": "TOT",
+            "crest": "https://crests.football-data.org/73.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537829,
+        "matchday": 5,
+        "utcDate": "2025-09-20T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 328,
+            "name": "Burnley FC",
+            "shortName": "Burnley",
+            "tla": "BUR",
+            "crest": "https://crests.football-data.org/328.png"
+        },
+        "awayTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
         },
         "score": {
             "winner": null,
@@ -1586,8 +1502,8 @@
     {
         "id": 537833,
         "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-20T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 563,
@@ -1619,8 +1535,8 @@
     {
         "id": 537834,
         "matchday": 5,
-        "utcDate": "2025-09-20T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-20T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 76,
@@ -1650,10 +1566,175 @@
         }
     },
     {
+        "id": 537832,
+        "matchday": 5,
+        "utcDate": "2025-09-20T16:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+        },
+        "awayTeam": {
+            "id": 61,
+            "name": "Chelsea FC",
+            "shortName": "Chelsea",
+            "tla": "CHE",
+            "crest": "https://crests.football-data.org/61.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537830,
+        "matchday": 5,
+        "utcDate": "2025-09-20T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortName": "Fulham",
+            "tla": "FUL",
+            "crest": "https://crests.football-data.org/63.png"
+        },
+        "awayTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537826,
+        "matchday": 5,
+        "utcDate": "2025-09-21T13:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 71,
+            "name": "Sunderland AFC",
+            "shortName": "Sunderland",
+            "tla": "SUN",
+            "crest": "https://crests.football-data.org/71.png"
+        },
+        "awayTeam": {
+            "id": 58,
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AVL",
+            "crest": "https://crests.football-data.org/58.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537828,
+        "matchday": 5,
+        "utcDate": "2025-09-21T15:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MCI",
+            "crest": "https://crests.football-data.org/65.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537837,
+        "matchday": 6,
+        "utcDate": "2025-09-27T11:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537835,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 58,
@@ -1685,8 +1766,8 @@
     {
         "id": 537836,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 354,
@@ -1716,43 +1797,10 @@
         }
     },
     {
-        "id": 537837,
-        "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "awayTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537838,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 61,
@@ -1782,43 +1830,10 @@
         }
     },
     {
-        "id": 537839,
-        "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 62,
-            "name": "Everton FC",
-            "shortName": "Everton",
-            "tla": "EVE",
-            "crest": "https://crests.football-data.org/62.png"
-        },
-        "awayTeam": {
-            "id": 563,
-            "name": "West Ham United FC",
-            "shortName": "West Ham",
-            "tla": "WHU",
-            "crest": "https://crests.football-data.org/563.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537840,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 341,
@@ -1850,8 +1865,8 @@
     {
         "id": 537841,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 65,
@@ -1881,43 +1896,10 @@
         }
     },
     {
-        "id": 537842,
-        "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-        },
-        "awayTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537843,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-27T16:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 351,
@@ -1949,8 +1931,8 @@
     {
         "id": 537844,
         "matchday": 6,
-        "utcDate": "2025-09-27T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-28T13:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 73,
@@ -1980,10 +1962,76 @@
         }
     },
     {
+        "id": 537842,
+        "matchday": 6,
+        "utcDate": "2025-09-28T15:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537839,
+        "matchday": 6,
+        "utcDate": "2025-09-29T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 62,
+            "name": "Everton FC",
+            "shortName": "Everton",
+            "tla": "EVE",
+            "crest": "https://crests.football-data.org/62.png"
+        },
+        "awayTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https://crests.football-data.org/563.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537845,
         "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-03T19:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 1044,
@@ -2013,175 +2061,10 @@
         }
     },
     {
-        "id": 537846,
-        "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 58,
-            "name": "Aston Villa FC",
-            "shortName": "Aston Villa",
-            "tla": "AVL",
-            "crest": "https://crests.football-data.org/58.png"
-        },
-        "awayTeam": {
-            "id": 328,
-            "name": "Burnley FC",
-            "shortName": "Burnley",
-            "tla": "BUR",
-            "crest": "https://crests.football-data.org/328.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537847,
-        "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "awayTeam": {
-            "id": 563,
-            "name": "West Ham United FC",
-            "shortName": "West Ham",
-            "tla": "WHU",
-            "crest": "https://crests.football-data.org/563.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537848,
-        "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "awayTeam": {
-            "id": 65,
-            "name": "Manchester City FC",
-            "shortName": "Man City",
-            "tla": "MCI",
-            "crest": "https://crests.football-data.org/65.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537849,
-        "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 61,
-            "name": "Chelsea FC",
-            "shortName": "Chelsea",
-            "tla": "CHE",
-            "crest": "https://crests.football-data.org/61.png"
-        },
-        "awayTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537850,
-        "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 62,
-            "name": "Everton FC",
-            "shortName": "Everton",
-            "tla": "EVE",
-            "crest": "https://crests.football-data.org/62.png"
-        },
-        "awayTeam": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortName": "Crystal Palace",
-            "tla": "CRY",
-            "crest": "https://crests.football-data.org/354.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537851,
         "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-04T11:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 341,
@@ -2211,10 +2094,76 @@
         }
     },
     {
+        "id": 537847,
+        "matchday": 7,
+        "utcDate": "2025-10-04T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "awayTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https://crests.football-data.org/563.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537850,
+        "matchday": 7,
+        "utcDate": "2025-10-04T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 62,
+            "name": "Everton FC",
+            "shortName": "Everton",
+            "tla": "EVE",
+            "crest": "https://crests.football-data.org/62.png"
+        },
+        "awayTeam": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https://crests.football-data.org/354.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537852,
         "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-04T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 66,
@@ -2244,10 +2193,76 @@
         }
     },
     {
+        "id": 537849,
+        "matchday": 7,
+        "utcDate": "2025-10-04T16:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 61,
+            "name": "Chelsea FC",
+            "shortName": "Chelsea",
+            "tla": "CHE",
+            "crest": "https://crests.football-data.org/61.png"
+        },
+        "awayTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537846,
+        "matchday": 7,
+        "utcDate": "2025-10-05T13:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 58,
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AVL",
+            "crest": "https://crests.football-data.org/58.png"
+        },
+        "awayTeam": {
+            "id": 328,
+            "name": "Burnley FC",
+            "shortName": "Burnley",
+            "tla": "BUR",
+            "crest": "https://crests.football-data.org/328.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537853,
         "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-05T13:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 67,
@@ -2279,8 +2294,8 @@
     {
         "id": 537854,
         "matchday": 7,
-        "utcDate": "2025-10-04T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-05T13:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 76,
@@ -2310,10 +2325,76 @@
         }
     },
     {
+        "id": 537848,
+        "matchday": 7,
+        "utcDate": "2025-10-05T15:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC",
+            "shortName": "Man City",
+            "tla": "MCI",
+            "crest": "https://crests.football-data.org/65.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537862,
+        "matchday": 8,
+        "utcDate": "2025-10-18T11:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https://crests.football-data.org/351.png"
+        },
+        "awayTeam": {
+            "id": 61,
+            "name": "Chelsea FC",
+            "shortName": "Chelsea",
+            "tla": "CHE",
+            "crest": "https://crests.football-data.org/61.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537856,
         "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-18T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 397,
@@ -2345,8 +2426,8 @@
     {
         "id": 537857,
         "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-18T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 354,
@@ -2378,8 +2459,8 @@
     {
         "id": 537858,
         "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-18T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 328,
@@ -2409,76 +2490,10 @@
         }
     },
     {
-        "id": 537859,
-        "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 63,
-            "name": "Fulham FC",
-            "shortName": "Fulham",
-            "tla": "FUL",
-            "crest": "https://crests.football-data.org/63.png"
-        },
-        "awayTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537860,
-        "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-        },
-        "awayTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537861,
         "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-18T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 65,
@@ -2508,109 +2523,10 @@
         }
     },
     {
-        "id": 537862,
-        "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 351,
-            "name": "Nottingham Forest FC",
-            "shortName": "Nottingham",
-            "tla": "NOT",
-            "crest": "https://crests.football-data.org/351.png"
-        },
-        "awayTeam": {
-            "id": 61,
-            "name": "Chelsea FC",
-            "shortName": "Chelsea",
-            "tla": "CHE",
-            "crest": "https://crests.football-data.org/61.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537863,
-        "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 73,
-            "name": "Tottenham Hotspur FC",
-            "shortName": "Tottenham",
-            "tla": "TOT",
-            "crest": "https://crests.football-data.org/73.png"
-        },
-        "awayTeam": {
-            "id": 58,
-            "name": "Aston Villa FC",
-            "shortName": "Aston Villa",
-            "tla": "AVL",
-            "crest": "https://crests.football-data.org/58.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537864,
-        "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 563,
-            "name": "West Ham United FC",
-            "shortName": "West Ham",
-            "tla": "WHU",
-            "crest": "https://crests.football-data.org/563.png"
-        },
-        "awayTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 537855,
         "matchday": 8,
-        "utcDate": "2025-10-18T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-18T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 71,
@@ -2640,10 +2556,340 @@
         }
     },
     {
+        "id": 537859,
+        "matchday": 8,
+        "utcDate": "2025-10-18T16:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortName": "Fulham",
+            "tla": "FUL",
+            "crest": "https://crests.football-data.org/63.png"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537863,
+        "matchday": 8,
+        "utcDate": "2025-10-19T13:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 73,
+            "name": "Tottenham Hotspur FC",
+            "shortName": "Tottenham",
+            "tla": "TOT",
+            "crest": "https://crests.football-data.org/73.png"
+        },
+        "awayTeam": {
+            "id": 58,
+            "name": "Aston Villa FC",
+            "shortName": "Aston Villa",
+            "tla": "AVL",
+            "crest": "https://crests.football-data.org/58.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537860,
+        "matchday": 8,
+        "utcDate": "2025-10-19T15:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537864,
+        "matchday": 8,
+        "utcDate": "2025-10-20T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https://crests.football-data.org/563.png"
+        },
+        "awayTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537871,
+        "matchday": 9,
+        "utcDate": "2025-10-24T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 341,
+            "name": "Leeds United FC",
+            "shortName": "Leeds United",
+            "tla": "LEE",
+            "crest": "https://crests.football-data.org/341.png"
+        },
+        "awayTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https://crests.football-data.org/563.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537868,
+        "matchday": 9,
+        "utcDate": "2025-10-25T11:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+        },
+        "awayTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537867,
+        "matchday": 9,
+        "utcDate": "2025-10-25T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https://crests.football-data.org/57.png"
+        },
+        "awayTeam": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https://crests.football-data.org/354.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537869,
+        "matchday": 9,
+        "utcDate": "2025-10-25T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 61,
+            "name": "Chelsea FC",
+            "shortName": "Chelsea",
+            "tla": "CHE",
+            "crest": "https://crests.football-data.org/61.png"
+        },
+        "awayTeam": {
+            "id": 71,
+            "name": "Sunderland AFC",
+            "shortName": "Sunderland",
+            "tla": "SUN",
+            "crest": "https://crests.football-data.org/71.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537873,
+        "matchday": 9,
+        "utcDate": "2025-10-25T14:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+        },
+        "awayTeam": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortName": "Fulham",
+            "tla": "FUL",
+            "crest": "https://crests.football-data.org/63.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 537872,
+        "matchday": 9,
+        "utcDate": "2025-10-25T16:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+        },
+        "awayTeam": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
         "id": 537865,
         "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-26T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 1044,
@@ -2675,8 +2921,8 @@
     {
         "id": 537866,
         "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-26T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 58,
@@ -2706,90 +2952,24 @@
         }
     },
     {
-        "id": 537867,
+        "id": 537874,
         "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-26T14:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 57,
-            "name": "Arsenal FC",
-            "shortName": "Arsenal",
-            "tla": "ARS",
-            "crest": "https://crests.football-data.org/57.png"
+            "id": 76,
+            "name": "Wolverhampton Wanderers FC",
+            "shortName": "Wolverhampton",
+            "tla": "WOL",
+            "crest": "https://crests.football-data.org/76.png"
         },
         "awayTeam": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortName": "Crystal Palace",
-            "tla": "CRY",
-            "crest": "https://crests.football-data.org/354.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537868,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-        },
-        "awayTeam": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537869,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 61,
-            "name": "Chelsea FC",
-            "shortName": "Chelsea",
-            "tla": "CHE",
-            "crest": "https://crests.football-data.org/61.png"
-        },
-        "awayTeam": {
-            "id": 71,
-            "name": "Sunderland AFC",
-            "shortName": "Sunderland",
-            "tla": "SUN",
-            "crest": "https://crests.football-data.org/71.png"
+            "id": 328,
+            "name": "Burnley FC",
+            "shortName": "Burnley",
+            "tla": "BUR",
+            "crest": "https://crests.football-data.org/328.png"
         },
         "score": {
             "winner": null,
@@ -2807,8 +2987,8 @@
     {
         "id": 537870,
         "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-10-26T16:30:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 62,
@@ -2823,138 +3003,6 @@
             "shortName": "Tottenham",
             "tla": "TOT",
             "crest": "https://crests.football-data.org/73.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537871,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 341,
-            "name": "Leeds United FC",
-            "shortName": "Leeds United",
-            "tla": "LEE",
-            "crest": "https://crests.football-data.org/341.png"
-        },
-        "awayTeam": {
-            "id": 563,
-            "name": "West Ham United FC",
-            "shortName": "West Ham",
-            "tla": "WHU",
-            "crest": "https://crests.football-data.org/563.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537872,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-        },
-        "awayTeam": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537873,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-        },
-        "awayTeam": {
-            "id": 63,
-            "name": "Fulham FC",
-            "shortName": "Fulham",
-            "tla": "FUL",
-            "crest": "https://crests.football-data.org/63.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 537874,
-        "matchday": 9,
-        "utcDate": "2025-10-25T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 76,
-            "name": "Wolverhampton Wanderers FC",
-            "shortName": "Wolverhampton",
-            "tla": "WOL",
-            "crest": "https://crests.football-data.org/76.png"
-        },
-        "awayTeam": {
-            "id": 328,
-            "name": "Burnley FC",
-            "shortName": "Burnley",
-            "tla": "BUR",
-            "crest": "https://crests.football-data.org/328.png"
         },
         "score": {
             "winner": null,

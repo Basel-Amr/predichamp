@@ -7,7 +7,7 @@
     "nationality": "Belgium",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 11,
+    "shirtNumber": 9,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -33,10 +33,17 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-07",
             "until": "2027-06"
         }
     }

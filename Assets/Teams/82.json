@@ -59,6 +59,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 256157,
+            "name": "Davinchi",
+            "position": "Defence",
+            "dateOfBirth": null,
+            "nationality": "Spain"
+        },
+        {
             "id": 274175,
             "name": "Ismael Bekhoucha",
             "position": "Defence",
@@ -66,17 +73,17 @@
             "nationality": "Morocco"
         },
         {
+            "id": 283796,
+            "name": "Marc Vilaplana",
+            "position": "Defence",
+            "dateOfBirth": "2003-01-20",
+            "nationality": "Spain"
+        },
+        {
             "id": 211825,
             "name": "Alejandro Sancris",
             "position": "Midfield",
             "dateOfBirth": "1997-01-18",
-            "nationality": "Spain"
-        },
-        {
-            "id": 213262,
-            "name": "Carles Aleñá",
-            "position": "Midfield",
-            "dateOfBirth": "1998-01-05",
             "nationality": "Spain"
         },
         {
@@ -115,6 +122,20 @@
             "nationality": "Spain"
         },
         {
+            "id": 229070,
+            "name": "Joselu Pérez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-03-12",
+            "nationality": "Spain"
+        },
+        {
+            "id": 191064,
+            "name": "Mario Martin",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-03-05",
+            "nationality": "Spain"
+        },
+        {
             "id": 186707,
             "name": "Gorka Rivera",
             "position": "Left-Back",
@@ -150,11 +171,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 46491,
-            "name": "Omar Alderete",
+            "id": 81187,
+            "name": "Abdelkabir Abqar",
             "position": "Centre-Back",
-            "dateOfBirth": "1996-12-26",
-            "nationality": "Paraguay"
+            "dateOfBirth": "1999-03-10",
+            "nationality": "Morocco"
         },
         {
             "id": 45472,
@@ -162,13 +183,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1995-03-10",
             "nationality": "Portugal"
-        },
-        {
-            "id": 33073,
-            "name": "Juan Berrocal",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-02-05",
-            "nationality": "Spain"
         },
         {
             "id": 32758,
@@ -182,6 +196,13 @@
             "name": "Luis Milla",
             "position": "Central Midfield",
             "dateOfBirth": "1994-10-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 31969,
+            "name": "Javi Muñoz",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-02-28",
             "nationality": "Spain"
         },
         {

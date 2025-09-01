@@ -7,37 +7,37 @@
     "nationality": "Germany",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 22,
     "lastUpdated": "2024-10-04T09:45:28Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 5250,
+        "name": "Göztepe SK",
+        "shortName": "Göztepe SK",
+        "tla": "GÖZ",
+        "crest": "https://crests.football-data.org/5250.png",
+        "address": "Mithatpaşa Caddesi 1170 İzmir 35290",
+        "website": "http://www.goztepe.org.tr",
+        "founded": 1925,
+        "clubColors": "Yellow / Red",
+        "venue": "Gürsel Aksel Stadyumu",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-07",
+            "until": "2025-06"
         }
     }
 }

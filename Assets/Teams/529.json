@@ -80,13 +80,6 @@
             "nationality": "Ghana"
         },
         {
-            "id": 135467,
-            "name": "Warmed Omari",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-04-23",
-            "nationality": "France"
-        },
-        {
             "id": 130668,
             "name": "Arnaud Kalimuendo",
             "position": "Centre-Forward",
@@ -129,20 +122,6 @@
             "nationality": "Japan"
         },
         {
-            "id": 44345,
-            "name": "Kyogo Furuhashi",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1995-01-20",
-            "nationality": "Japan"
-        },
-        {
-            "id": 44032,
-            "name": "Leo Østigård",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-11-28",
-            "nationality": "Norway"
-        },
-        {
             "id": 34522,
             "name": "Glen Kamara",
             "position": "Central Midfield",
@@ -150,25 +129,25 @@
             "nationality": "Finland"
         },
         {
-            "id": 8693,
-            "name": "Nicolas Pallois",
-            "position": "Centre-Back",
-            "dateOfBirth": "1987-09-19",
+            "id": 8695,
+            "name": "Valentin Rongier",
+            "position": "Central Midfield",
+            "dateOfBirth": "1994-12-07",
             "nationality": "France"
         },
         {
-            "id": 8646,
-            "name": "Baptiste Santamaria",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1995-03-09",
+            "id": 8542,
+            "name": "Mahdi Camara",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-30",
             "nationality": "France"
         },
         {
-            "id": 7566,
-            "name": "Azor Matusiwa",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1998-04-28",
-            "nationality": "Netherlands"
+            "id": 3540,
+            "name": "Przemysław Frankowski",
+            "position": "Right Midfield",
+            "dateOfBirth": "1995-04-12",
+            "nationality": "Poland"
         },
         {
             "id": 2126,
@@ -190,13 +169,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2006-04-16",
             "nationality": "Morocco"
-        },
-        {
-            "id": 261257,
-            "name": "Wilson Samaké",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-03-30",
-            "nationality": "Mali"
         },
         {
             "id": 250296,
@@ -227,13 +199,6 @@
             "nationality": "Cameroon"
         },
         {
-            "id": 217537,
-            "name": "Mohamed Jaouab",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-05-14",
-            "nationality": "Morocco"
-        },
-        {
             "id": 212872,
             "name": "Ayanda Sishuba",
             "position": "Attacking Midfield",
@@ -248,25 +213,11 @@
             "nationality": "France"
         },
         {
-            "id": 191429,
-            "name": "Alan Do Marcolino",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-03-19",
-            "nationality": "Gabon"
-        },
-        {
             "id": 187098,
             "name": "Ibrahim Salah",
             "position": "Left Winger",
             "dateOfBirth": "2001-08-30",
             "nationality": "Morocco"
-        },
-        {
-            "id": 179666,
-            "name": "Kazeem Olaigbe",
-            "position": "Left Winger",
-            "dateOfBirth": "2003-01-02",
-            "nationality": "Belgium"
         },
         {
             "id": 175979,
@@ -281,6 +232,13 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2002-07-12",
             "nationality": "Turkey"
+        },
+        {
+            "id": 160410,
+            "name": "Quentin Merlin",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-05-16",
+            "nationality": "France"
         },
         {
             "id": 152692,

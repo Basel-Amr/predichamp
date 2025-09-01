@@ -7,7 +7,7 @@
     "nationality": "England",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 14,
     "lastUpdated": "2024-08-23T09:25:16Z",
     "currentTeam": {
         "area": {
@@ -16,23 +16,30 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 402,
-        "name": "Brentford FC",
-        "shortName": "Brentford",
-        "tla": "BRE",
-        "crest": "https://crests.football-data.org/402.png",
-        "address": "Braemar Road Brentford TW8 0NT",
-        "website": "http://www.brentfordfc.co.uk",
-        "founded": 1889,
-        "clubColors": "Red / White / Black",
-        "venue": "Griffin Park",
+        "id": 75,
+        "name": "Wigan Athletic FC",
+        "shortName": "Wigan Athletic",
+        "tla": "WIG",
+        "crest": "https://crests.football-data.org/75.png",
+        "address": "Loire Drive Wigan WN5 0UZ",
+        "website": "http://www.wiganlatics.co.uk",
+        "founded": 1932,
+        "clubColors": "Blue / White",
+        "venue": "The Brick Community Stadium",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {

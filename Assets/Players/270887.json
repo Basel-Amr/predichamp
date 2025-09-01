@@ -1,0 +1,43 @@
+{
+    "id": 270887,
+    "name": "Sekou Doucouré",
+    "firstName": "Sekou",
+    "lastName": "Doucouré",
+    "dateOfBirth": "2005-04-26",
+    "nationality": "France",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 72,
+    "lastUpdated": "2024-10-09T09:42:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 543,
+        "name": "FC Nantes",
+        "shortName": "Nantes",
+        "tla": "NAN",
+        "crest": "https://crests.football-data.org/543.png",
+        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
+        "website": "http://www.fcnantes.com",
+        "founded": 1943,
+        "clubColors": "Green / Yellow",
+        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2027-06"
+        }
+    }
+}

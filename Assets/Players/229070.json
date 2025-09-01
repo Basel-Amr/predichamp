@@ -1,0 +1,43 @@
+{
+    "id": 229070,
+    "name": "Joselu Pérez",
+    "firstName": "",
+    "lastName": "Joselu Pérez",
+    "dateOfBirth": "2004-03-12",
+    "nationality": "Spain",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 37,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 82,
+        "name": "Getafe CF",
+        "shortName": "Getafe",
+        "tla": "GET",
+        "crest": "https://crests.football-data.org/82.png",
+        "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
+        "website": "http://www.getafecf.com",
+        "founded": 1946,
+        "clubColors": "Blue / White",
+        "venue": "Coliseum Alfonso Pérez",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

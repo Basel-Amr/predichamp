@@ -45,6 +45,13 @@
     },
     "squad": [
         {
+            "id": 6667,
+            "name": "Tobias Sippel",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-03-22",
+            "nationality": "Germany"
+        },
+        {
             "id": 6668,
             "name": "Moritz Nicolas",
             "position": "Goalkeeper",
@@ -59,6 +66,13 @@
             "nationality": "Switzerland"
         },
         {
+            "id": 192494,
+            "name": "Tiago Pereira Cardoso",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-04-07",
+            "nationality": "Luxembourg"
+        },
+        {
             "id": 7464,
             "name": "Kevin Diks",
             "position": "Defence",
@@ -66,18 +80,32 @@
             "nationality": "Indonesia"
         },
         {
-            "id": 212854,
-            "name": "Ibrahim Digberekou",
-            "position": "Defence",
-            "dateOfBirth": "2005-02-22",
-            "nationality": "Belgium"
-        },
-        {
             "id": 270638,
             "name": "Niklas Swider",
             "position": "Midfield",
             "dateOfBirth": "2007-01-05",
             "nationality": "Germany"
+        },
+        {
+            "id": 282450,
+            "name": "Wael Mohya",
+            "position": "Midfield",
+            "dateOfBirth": "2008-12-31",
+            "nationality": "Germany"
+        },
+        {
+            "id": 48988,
+            "name": "Shuto Machino",
+            "position": "Offence",
+            "dateOfBirth": "1999-09-30",
+            "nationality": "Japan"
+        },
+        {
+            "id": 63218,
+            "name": "Haris Tabaković",
+            "position": "Offence",
+            "dateOfBirth": "1994-06-20",
+            "nationality": "Bosnia-Herzegovina"
         },
         {
             "id": 260909,
@@ -94,25 +122,11 @@
             "nationality": "Japan"
         },
         {
-            "id": 191106,
-            "name": "Simon Walde",
-            "position": "Right-Back",
-            "dateOfBirth": "2026-06-30",
-            "nationality": "Germany"
-        },
-        {
             "id": 187273,
             "name": "Lukas Ullrich",
             "position": "Left-Back",
             "dateOfBirth": "2004-03-16",
             "nationality": "Germany"
-        },
-        {
-            "id": 184974,
-            "name": "Yvandro Borges Sanches",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-05-24",
-            "nationality": "Luxembourg"
         },
         {
             "id": 183637,
@@ -178,20 +192,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 62913,
-            "name": "Tomáš Čvančara",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2000-08-13",
-            "nationality": "Czech Republic"
-        },
-        {
-            "id": 48902,
-            "name": "Ko Itakura",
-            "position": "Centre-Back",
-            "dateOfBirth": "1997-01-27",
-            "nationality": "Japan"
-        },
-        {
             "id": 9999,
             "name": "Kevin Stöger",
             "position": "Attacking Midfield",
@@ -211,13 +211,6 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1995-08-31",
             "nationality": "Germany"
-        },
-        {
-            "id": 8443,
-            "name": "Alassane Pléa",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1993-03-10",
-            "nationality": "France"
         },
         {
             "id": 6825,

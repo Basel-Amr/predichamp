@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 34,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 586,
+        "name": "Torino FC",
+        "shortName": "Torino",
+        "tla": "TOR",
+        "crest": "https://crests.football-data.org/586.png",
+        "address": "Via Arcivescovado 1 Torino 10122",
+        "website": "http://www.torinofc.it",
+        "founded": 1894,
+        "clubColors": "Brown / White",
+        "venue": "Stadio Olimpico di Torino",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,10 +33,17 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-02",
             "until": "2026-06"
         }
     }

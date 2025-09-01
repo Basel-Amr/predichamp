@@ -45,18 +45,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 123682,
-            "name": "Jesús Owono",
+            "id": 32911,
+            "name": "Raúl Fernández",
             "position": "Goalkeeper",
-            "dateOfBirth": "2001-03-01",
-            "nationality": "Equatorial Guinea"
-        },
-        {
-            "id": 142453,
-            "name": "Adrian Rodriguez",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2000-12-12",
-            "nationality": "Argentina"
+            "dateOfBirth": "1988-03-13",
+            "nationality": "Spain"
         },
         {
             "id": 202315,
@@ -64,6 +57,34 @@
             "position": "Goalkeeper",
             "dateOfBirth": "2005-10-05",
             "nationality": "Canada"
+        },
+        {
+            "id": 273343,
+            "name": "Yusi",
+            "position": "Defence",
+            "dateOfBirth": "2005-10-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 146350,
+            "name": "Calebe",
+            "position": "Midfield",
+            "dateOfBirth": "2000-04-30",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 213262,
+            "name": "Carles Aleñá",
+            "position": "Midfield",
+            "dateOfBirth": "1998-01-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 278561,
+            "name": "Lander Pinillos",
+            "position": "Offence",
+            "dateOfBirth": "2003-10-06",
+            "nationality": "Spain"
         },
         {
             "id": 244942,
@@ -80,32 +101,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 212858,
-            "name": "Santiago Mouriño",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-02-13",
-            "nationality": "Uruguay"
-        },
-        {
-            "id": 203561,
-            "name": "Joaquín Panichelli",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-10-07",
-            "nationality": "Argentina"
-        },
-        {
             "id": 184988,
             "name": "Abde Rebbach",
             "position": "Left Winger",
             "dateOfBirth": "1998-08-11",
             "nationality": "Algeria"
-        },
-        {
-            "id": 176854,
-            "name": "Tomas Mendes",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-11-21",
-            "nationality": "Spain"
         },
         {
             "id": 173617,
@@ -150,13 +150,6 @@
             "nationality": "Argentina"
         },
         {
-            "id": 46070,
-            "name": "Tomás Conechny",
-            "position": "Left Winger",
-            "dateOfBirth": "1998-03-30",
-            "nationality": "Argentina"
-        },
-        {
             "id": 45831,
             "name": "Facundo Garcés",
             "position": "Centre-Back",
@@ -169,13 +162,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1995-12-19",
             "nationality": "Serbia"
-        },
-        {
-            "id": 33777,
-            "name": "Asier Villalibre",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-09-30",
-            "nationality": "Spain"
         },
         {
             "id": 33622,
@@ -211,6 +197,13 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1997-06-30",
             "nationality": "Spain"
+        },
+        {
+            "id": 8474,
+            "name": "Mariano Díaz",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1993-08-01",
+            "nationality": "Dominican Republic"
         }
     ],
     "staff": [],

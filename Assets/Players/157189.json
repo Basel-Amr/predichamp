@@ -16,35 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 5890,
-        "name": "US Lecce",
-        "shortName": "Lecce",
-        "tla": "USL",
-        "crest": "https://crests.football-data.org/5890.png",
-        "address": "Via Templari 11 Lecce 73100",
-        "website": "http://www.uslecce.it",
-        "founded": 1908,
-        "clubColors": "Yellow / Red / Navy Blue",
-        "venue": "Stadio Comunale Via Del Mare",
+        "id": 1822,
+        "name": "Foggia Calcio",
+        "shortName": "Foggia",
+        "tla": "FOG",
+        "crest": "https://crests.football-data.org/1822.png",
+        "address": "Via V. Gioberti, 1 Foggia 71121",
+        "website": "http://www.foggiacalcio1920.it",
+        "founded": 1920,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Comunale Pino Zaccheria",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

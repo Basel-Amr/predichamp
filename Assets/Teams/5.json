@@ -17,13 +17,6 @@
     "venue": "Allianz Arena",
     "runningCompetitions": [
         {
-            "id": 2178,
-            "name": "FIFA Club World Cup",
-            "code": "FCWC",
-            "type": "CUP",
-            "emblem": null
-        },
-        {
             "id": 2134,
             "name": "DFL Super Cup",
             "code": "GSC",
@@ -66,24 +59,17 @@
             "nationality": "Germany"
         },
         {
-            "id": 113105,
-            "name": "Daniel Peretz",
+            "id": 342,
+            "name": "Sven Ulreich",
             "position": "Goalkeeper",
-            "dateOfBirth": "2000-07-10",
-            "nationality": "Israel"
+            "dateOfBirth": "1988-08-03",
+            "nationality": "Germany"
         },
         {
             "id": 172342,
             "name": "Jonas Urbig",
             "position": "Goalkeeper",
             "dateOfBirth": "2003-08-08",
-            "nationality": "Germany"
-        },
-        {
-            "id": 202603,
-            "name": "Tom Hülsmann",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2004-04-11",
             "nationality": "Germany"
         },
         {
@@ -94,24 +80,10 @@
             "nationality": "Germany"
         },
         {
-            "id": 247302,
-            "name": "Gibson Adu",
-            "position": "Defence",
-            "dateOfBirth": "2008-02-14",
-            "nationality": "Germany"
-        },
-        {
             "id": 279064,
             "name": "Cassiano Kiala",
             "position": "Defence",
             "dateOfBirth": "2009-01-11",
-            "nationality": "Germany"
-        },
-        {
-            "id": 176932,
-            "name": "Paul Wanner",
-            "position": "Midfield",
-            "dateOfBirth": "2005-12-23",
             "nationality": "Germany"
         },
         {
@@ -129,20 +101,6 @@
             "nationality": "Portugal"
         },
         {
-            "id": 370,
-            "name": "Thomas Müller",
-            "position": "Offence",
-            "dateOfBirth": "1989-09-13",
-            "nationality": "Germany"
-        },
-        {
-            "id": 180104,
-            "name": "Bryan Zaragoza",
-            "position": "Offence",
-            "dateOfBirth": "2001-04-25",
-            "nationality": "Spain"
-        },
-        {
             "id": 217577,
             "name": "Jonah Kusi-Asare",
             "position": "Offence",
@@ -154,6 +112,41 @@
             "name": "Wisdom Mike",
             "position": "Offence",
             "dateOfBirth": "2008-09-24",
+            "nationality": "Germany"
+        },
+        {
+            "id": 202665,
+            "name": "Aleksandar Pavlović",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-05-03",
+            "nationality": "Germany"
+        },
+        {
+            "id": 176932,
+            "name": "Paul Wanner",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-12-23",
+            "nationality": "Germany"
+        },
+        {
+            "id": 172574,
+            "name": "Tom Bischof",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-06-28",
+            "nationality": "Germany"
+        },
+        {
+            "id": 168299,
+            "name": "Min-Jae Kim",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-11-15",
+            "nationality": "South Korea"
+        },
+        {
+            "id": 144393,
+            "name": "Jamal Musiala",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-02-26",
             "nationality": "Germany"
         },
         {
@@ -185,18 +178,18 @@
             "nationality": "Japan"
         },
         {
+            "id": 22396,
+            "name": "Luis Díaz",
+            "position": "Left Winger",
+            "dateOfBirth": "1997-01-13",
+            "nationality": "Colombia"
+        },
+        {
             "id": 21288,
             "name": "Alphonso Davies",
             "position": "Left-Back",
             "dateOfBirth": "2000-11-02",
             "nationality": "Canada"
-        },
-        {
-            "id": 15884,
-            "name": "João Palhinha",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1995-07-09",
-            "nationality": "Portugal"
         },
         {
             "id": 9549,
@@ -234,13 +227,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 360,
-            "name": "Kingsley Coman",
-            "position": "Left Winger",
-            "dateOfBirth": "1996-06-13",
-            "nationality": "France"
-        },
-        {
             "id": 359,
             "name": "Joshua Kimmich",
             "position": "Right-Back",
@@ -259,55 +245,6 @@
             "name": "Jonathan Tah",
             "position": "Centre-Back",
             "dateOfBirth": "1996-02-11",
-            "nationality": "Germany"
-        },
-        {
-            "id": 246476,
-            "name": "Adam Aznou",
-            "position": "Left-Back",
-            "dateOfBirth": "2006-06-02",
-            "nationality": "Morocco"
-        },
-        {
-            "id": 212013,
-            "name": "Tarek Buchmann",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-02-28",
-            "nationality": "Germany"
-        },
-        {
-            "id": 202665,
-            "name": "Aleksandar Pavlović",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-05-03",
-            "nationality": "Germany"
-        },
-        {
-            "id": 183635,
-            "name": "Lovro Zvonarek",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-05-08",
-            "nationality": "Croatia"
-        },
-        {
-            "id": 172574,
-            "name": "Tom Bischof",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-06-28",
-            "nationality": "Germany"
-        },
-        {
-            "id": 168299,
-            "name": "Min-Jae Kim",
-            "position": "Centre-Back",
-            "dateOfBirth": "1996-11-15",
-            "nationality": "South Korea"
-        },
-        {
-            "id": 144393,
-            "name": "Jamal Musiala",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2003-02-26",
             "nationality": "Germany"
         }
     ],

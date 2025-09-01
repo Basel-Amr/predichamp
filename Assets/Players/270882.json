@@ -1,0 +1,43 @@
+{
+    "id": 270882,
+    "name": "Kevin Prieto",
+    "firstName": "Kevin",
+    "lastName": "Prieto",
+    "dateOfBirth": "2003-06-27",
+    "nationality": "Uruguay",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-12-23T09:44:29Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png",
+        "address": "Estádio Pina Manique Lisboa 1500-462",
+        "website": "http://www.casapia-ac.pt",
+        "founded": 1920,
+        "clubColors": "Black / White",
+        "venue": "Estádio Pina Manique",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2029-06"
+        }
+    }
+}

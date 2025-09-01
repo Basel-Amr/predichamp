@@ -1,0 +1,43 @@
+{
+    "id": 271981,
+    "name": "Amine Moussaoui",
+    "firstName": "Amine",
+    "lastName": "Moussaoui",
+    "dateOfBirth": "2006-12-28",
+    "nationality": "France",
+    "section": "Offence",
+    "position": "Midfield",
+    "shirtNumber": 34,
+    "lastUpdated": "2025-04-21T09:42:33Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 532,
+        "name": "Angers SCO",
+        "shortName": "Angers SCO",
+        "tla": "ANG",
+        "crest": "https://crests.football-data.org/532.png",
+        "address": "73 boulevard Jacques Portet, BP 20212 Angers 49002",
+        "website": "http://www.angers-sco.fr",
+        "founded": 1919,
+        "clubColors": "Black / White / Gold",
+        "venue": "Stade Raymond Kopa",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 113230,
+    "name": "Ayumu Seko",
+    "firstName": "Ayumu",
+    "lastName": "Seko",
+    "dateOfBirth": "2000-06-07",
+    "nationality": "Japan",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 15,
+    "lastUpdated": "2023-08-06T08:29:13Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 533,
+        "name": "Le Havre AC",
+        "shortName": "Le Havre",
+        "tla": "HAC",
+        "crest": "https://crests.football-data.org/533.png",
+        "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+        "website": "http://www.hac-foot.com",
+        "founded": 1872,
+        "clubColors": "Sky Blue / Navy Blue",
+        "venue": "Stade Océane",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

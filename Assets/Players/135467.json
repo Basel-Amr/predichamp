@@ -4,40 +4,47 @@
     "firstName": "Warmed",
     "lastName": "Omari",
     "dateOfBirth": "2000-04-23",
-    "nationality": "France",
+    "nationality": "Comoros",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
-    "lastUpdated": "2024-10-09T09:42:52Z",
+    "shirtNumber": 17,
+    "lastUpdated": "2025-08-08T09:41:02Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 529,
-        "name": "Stade Rennais FC 1901",
-        "shortName": "Stade Rennais",
-        "tla": "REN",
-        "crest": "https://crests.football-data.org/529.png",
-        "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-        "website": "http://www.staderennais.com",
-        "founded": 1901,
-        "clubColors": "Red / Black",
-        "venue": "Roazhon Park",
+        "id": 7,
+        "name": "Hamburger SV",
+        "shortName": "HSV",
+        "tla": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "address": "Sylvesterallee 7 Hamburg 22525",
+        "website": "http://www.hsv.de",
+        "founded": 1887,
+        "clubColors": "White / Red / Blue",
+        "venue": "Volksparkstadion",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/BL1.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

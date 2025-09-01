@@ -6,8 +6,8 @@
     "dateOfBirth": "2007-03-21",
     "nationality": "England",
     "section": "Attacking Midfield",
-    "position": "Offence",
-    "shirtNumber": 53,
+    "position": "Midfield",
+    "shirtNumber": 22,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2030-06"
         }
     }

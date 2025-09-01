@@ -52,6 +52,20 @@
             "nationality": "North Macedonia"
         },
         {
+            "id": 172017,
+            "name": "Julen Agirrezabala",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-12-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 30802,
+            "name": "Filip Ugrinic",
+            "position": "Midfield",
+            "dateOfBirth": "1999-01-05",
+            "nationality": "Switzerland"
+        },
+        {
             "id": 274176,
             "name": "Pablo López",
             "position": "Midfield",
@@ -73,6 +87,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 283441,
+            "name": "Aimar Blázquez",
+            "position": "Offence",
+            "dateOfBirth": "2006-03-19",
+            "nationality": "Spain"
+        },
+        {
             "id": 244743,
             "name": "David Otorbi",
             "position": "Right Winger",
@@ -80,31 +101,10 @@
             "nationality": "Spain"
         },
         {
-            "id": 221412,
-            "name": "Yarek Gasiorowski",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-01-12",
-            "nationality": "Spain"
-        },
-        {
-            "id": 214182,
-            "name": "Martin Tejón",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2004-04-12",
-            "nationality": "Spain"
-        },
-        {
             "id": 192159,
             "name": "Alberto Mari",
             "position": "Centre-Forward",
             "dateOfBirth": "2001-07-11",
-            "nationality": "Spain"
-        },
-        {
-            "id": 187117,
-            "name": "Fran Perez",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-09-09",
             "nationality": "Spain"
         },
         {
@@ -122,6 +122,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 176602,
+            "name": "Ruben Iranzo",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-03-14",
+            "nationality": "Spain"
+        },
+        {
             "id": 176041,
             "name": "Cesar Tarrega",
             "position": "Centre-Back",
@@ -129,17 +136,10 @@
             "nationality": "Spain"
         },
         {
-            "id": 175892,
-            "name": "Hugo Gonzalez",
-            "position": "Right Winger",
-            "dateOfBirth": "2003-02-07",
-            "nationality": "Spain"
-        },
-        {
-            "id": 172839,
-            "name": "Cristhian Mosquera",
+            "id": 172108,
+            "name": "Copete",
             "position": "Centre-Back",
-            "dateOfBirth": "2004-06-27",
+            "dateOfBirth": "1999-10-10",
             "nationality": "Spain"
         },
         {
@@ -150,18 +150,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 137485,
-            "name": "Germán Valera",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-03-16",
-            "nationality": "Spain"
-        },
-        {
-            "id": 127140,
-            "name": "Cenk Özkacar",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-10-06",
-            "nationality": "Turkey"
+            "id": 99811,
+            "name": "Thierry Correia",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-03-09",
+            "nationality": "Portugal"
         },
         {
             "id": 98674,
@@ -220,11 +213,25 @@
             "nationality": "Switzerland"
         },
         {
+            "id": 9870,
+            "name": "Arnaut Danjuma",
+            "position": "Left Winger",
+            "dateOfBirth": "1997-01-31",
+            "nationality": "Netherlands"
+        },
+        {
             "id": 8780,
             "name": "Dimitri Foulquier",
             "position": "Right-Back",
             "dateOfBirth": "1993-03-23",
             "nationality": "Guadeloupe"
+        },
+        {
+            "id": 8646,
+            "name": "Baptiste Santamaria",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-03-09",
+            "nationality": "France"
         },
         {
             "id": 8456,

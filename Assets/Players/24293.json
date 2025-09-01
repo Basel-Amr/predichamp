@@ -26,7 +26,15 @@
         "founded": 1919,
         "clubColors": null,
         "venue": "Stadio Arechi",
-        "runningCompetitions": [],
+        "runningCompetitions": [
+            {
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
         "contract": {
             "start": "2025-01",
             "until": "2025-06"

@@ -1,0 +1,218 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 583,
+    "name": "Moreirense FC",
+    "shortName": "Moreirense",
+    "tla": "MOR",
+    "crest": "https://crests.football-data.org/583.png",
+    "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+    "website": "http://www.moreirensefc.pt",
+    "founded": 1938,
+    "clubColors": "Green / White",
+    "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 243663,
+        "firstName": "Vasco",
+        "lastName": "Botelho Da Costa",
+        "name": "Vasco Botelho Da Costa",
+        "dateOfBirth": "1989-03-02",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 45260,
+            "name": "Caio Secco",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-12-22",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 52791,
+            "name": "André Ferreira",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1996-05-29",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 79821,
+            "name": "Mika",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1991-03-08",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 179028,
+            "name": "Michel Augusto",
+            "position": "Defence",
+            "dateOfBirth": "2003-05-20",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 262652,
+            "name": "Kiko",
+            "position": "Defence",
+            "dateOfBirth": "2002-04-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 271514,
+            "name": "Álvaro Martínez",
+            "position": "Defence",
+            "dateOfBirth": "2002-05-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 281957,
+            "name": "Pedro Jesus",
+            "position": "Defence",
+            "dateOfBirth": "2007-12-25",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 74795,
+            "name": "Bernardo Martins",
+            "position": "Midfield",
+            "dateOfBirth": "1997-12-04",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 159709,
+            "name": "Joel Jorquera",
+            "position": "Midfield",
+            "dateOfBirth": "2000-08-19",
+            "nationality": "Spain"
+        },
+        {
+            "id": 169637,
+            "name": "Guilherme Liberato",
+            "position": "Midfield",
+            "dateOfBirth": "2001-06-16",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 191408,
+            "name": "Rodri Alonso",
+            "position": "Midfield",
+            "dateOfBirth": "2003-01-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 191985,
+            "name": "Mateja Stjepanovic",
+            "position": "Midfield",
+            "dateOfBirth": "2004-02-20",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 270448,
+            "name": "Jimi Gower",
+            "position": "Midfield",
+            "dateOfBirth": "2004-10-01",
+            "nationality": "England"
+        },
+        {
+            "id": 274500,
+            "name": "Afonso Assis",
+            "position": "Midfield",
+            "dateOfBirth": "2006-07-15",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 37636,
+            "name": "Guilherme Schettine",
+            "position": "Offence",
+            "dateOfBirth": "1995-10-10",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 105208,
+            "name": "Kiko Bondoso",
+            "position": "Offence",
+            "dateOfBirth": "1995-11-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 149744,
+            "name": "Cédric Teguia",
+            "position": "Offence",
+            "dateOfBirth": "2001-10-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 275027,
+            "name": "Yan Maranhão",
+            "position": "Offence",
+            "dateOfBirth": "2002-09-13",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 246222,
+            "name": "Miguel Rebelo",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-09-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 213097,
+            "name": "Gilberto Batista",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-12-29",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 188084,
+            "name": "Dinis Pinto",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-08-24",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 169237,
+            "name": "Alanzinho",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-03-08",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 45440,
+            "name": "Marcelo",
+            "position": "Centre-Back",
+            "dateOfBirth": "1989-07-27",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 39959,
+            "name": "Lawrence Ofori",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-06-28",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 13839,
+            "name": "Maracás",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-04-27",
+            "nationality": "Brazil"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2023-03-05T07:40:05Z"
+}

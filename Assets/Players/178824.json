@@ -1,0 +1,43 @@
+{
+    "id": 178824,
+    "name": "Leonardo Rivas",
+    "firstName": "Daniel",
+    "lastName": "Rivas",
+    "dateOfBirth": "2001-12-06",
+    "nationality": "Paraguay",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-07-09T09:45:57Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 10340,
+        "name": "AVS",
+        "shortName": "AVS",
+        "tla": "AVS",
+        "crest": "https://crests.football-data.org/10340.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio do CD Aves",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

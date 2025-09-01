@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 36,
+    "shirtNumber": 26,
     "lastUpdated": "2023-07-30T17:05:51Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 558,
-        "name": "RC Celta de Vigo",
-        "shortName": "Celta",
-        "tla": "CEL",
-        "crest": "https://crests.football-data.org/558.png",
-        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
-        "website": "http://www.celtavigo.net",
-        "founded": 1923,
-        "clubColors": "Sky Blue / White",
-        "venue": "Estadio de Balaídos",
+        "id": 7446,
+        "name": "CD Castellón",
+        "shortName": "Castellón",
+        "tla": "CDC",
+        "crest": "https://crests.football-data.org/7446.png",
+        "address": "Calle Huesca, s/n Castellón 12004",
+        "website": "http://www.cdcastellon.com",
+        "founded": 1922,
+        "clubColors": "White / Black",
+        "venue": "Nou Estadi Castalia",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2024-01",
-            "until": "2025-12"
+            "start": "2025-08",
+            "until": "2029-06"
         }
     }
 }

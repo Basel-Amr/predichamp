@@ -1,0 +1,43 @@
+{
+    "id": 153884,
+    "name": "Martin Turk",
+    "firstName": "Martin",
+    "lastName": "Turk",
+    "dateOfBirth": "2003-08-21",
+    "nationality": "Slovenia",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2023-07-30T17:08:52Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 582,
+        "name": "GD Estoril Praia",
+        "shortName": "Estoril Praia",
+        "tla": "EST",
+        "crest": "https://crests.football-data.org/582.png",
+        "address": "Estádio António Coimbra da Mota Estoril 2765",
+        "website": "http://www.estorilpraia.pt",
+        "founded": 1939,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estádio António Coimbra da Mota",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

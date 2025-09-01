@@ -1,0 +1,43 @@
+{
+    "id": 262628,
+    "name": "Nuno Félix",
+    "firstName": "",
+    "lastName": "Nuno Félix",
+    "dateOfBirth": "2004-03-16",
+    "nationality": "Portugal",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 60,
+    "lastUpdated": "2024-08-10T09:46:22Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5537,
+        "name": "Sport Lisboa e Benfica B",
+        "shortName": "SL Benfica B",
+        "tla": "SLB",
+        "crest": "https://crests.football-data.org/5537.png",
+        "address": "Av. General Norton de Matos 1500, Apartado Nº 4100 Lisboa 1501-805",
+        "website": "http://www.slbenfica.pt",
+        "founded": 1904,
+        "clubColors": "Red / White",
+        "venue": "Caixa Futebol Campus",
+        "runningCompetitions": [
+            {
+                "id": 2096,
+                "name": "Liga2 Cabovisão",
+                "code": "PSL",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2023-02",
+            "until": "2026-06"
+        }
+    }
+}

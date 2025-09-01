@@ -1,0 +1,50 @@
+{
+    "id": 245387,
+    "name": "Renato Marin",
+    "firstName": "Renato",
+    "lastName": "Marin",
+    "dateOfBirth": "2006-07-10",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 89,
+    "lastUpdated": "2024-11-16T09:43:05Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 524,
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "website": "http://www.psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
+        "runningCompetitions": [
+            {
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/esc.png"
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2030-06"
+        }
+    }
+}

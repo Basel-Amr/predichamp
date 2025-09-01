@@ -59,74 +59,39 @@
             "nationality": "France"
         },
         {
-            "id": 264394,
-            "name": "Victor Mayela",
+            "id": 255520,
+            "name": "Louis Mezerette",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-08-30",
+            "nationality": "France"
+        },
+        {
+            "id": 277960,
+            "name": "Telli Siwe",
             "position": "Defence",
-            "dateOfBirth": "2004-04-22",
+            "dateOfBirth": "2004-12-14",
             "nationality": "France"
         },
         {
-            "id": 276935,
-            "name": "Marvyn Muzungu",
+            "id": 281100,
+            "name": "Elikya Legros",
             "position": "Defence",
-            "dateOfBirth": "2007-11-28",
+            "dateOfBirth": "2008-06-06",
             "nationality": "France"
         },
         {
-            "id": 270290,
-            "name": "Aristide Zossou",
-            "position": "Left Winger",
-            "dateOfBirth": "2005-06-14",
-            "nationality": "Ivory Coast"
-        },
-        {
-            "id": 264392,
-            "name": "Ben Viadère",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-09-02",
+            "id": 277673,
+            "name": "Rudy Matondo",
+            "position": "Midfield",
+            "dateOfBirth": "2008-03-13",
             "nationality": "France"
         },
         {
-            "id": 189237,
-            "name": "Nathan Buayi-Kiala",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-02-29",
+            "id": 281104,
+            "name": "Tidiane Devernois",
+            "position": "Midfield",
+            "dateOfBirth": "2007-10-18",
             "nationality": "France"
-        },
-        {
-            "id": 185194,
-            "name": "Clement Akpa",
-            "position": "Left-Back",
-            "dateOfBirth": "2001-11-24",
-            "nationality": "Ivory Coast"
-        },
-        {
-            "id": 177412,
-            "name": "Lamine Sy",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-08-10",
-            "nationality": "France"
-        },
-        {
-            "id": 175724,
-            "name": "Kevin Danois",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-06-28",
-            "nationality": "France"
-        },
-        {
-            "id": 170623,
-            "name": "Paul Joly",
-            "position": "Right-Back",
-            "dateOfBirth": "2000-06-07",
-            "nationality": "France"
-        },
-        {
-            "id": 170396,
-            "name": "Lasso Coulibaly",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-10-19",
-            "nationality": "Ivory Coast"
         },
         {
             "id": 154108,
@@ -178,6 +143,13 @@
             "nationality": "Netherlands"
         },
         {
+            "id": 46751,
+            "name": "Gabriel Osho",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-08-14",
+            "nationality": "England"
+        },
+        {
             "id": 44114,
             "name": "Ado Onaiwu",
             "position": "Centre-Forward",
@@ -213,13 +185,6 @@
             "nationality": "Chile"
         },
         {
-            "id": 914,
-            "name": "Gaëtan Perrin",
-            "position": "Right Winger",
-            "dateOfBirth": "1996-06-07",
-            "nationality": "France"
-        },
-        {
             "id": 552,
             "name": "Lassine Sinayoko",
             "position": "Left Winger",
@@ -227,11 +192,67 @@
             "nationality": "France"
         },
         {
-            "id": 547,
-            "name": "Florian Ayé",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-01-19",
+            "id": 245451,
+            "name": "Rayan Mandengue",
+            "position": "Left Winger",
+            "dateOfBirth": "2006-01-06",
+            "nationality": "Cameroon"
+        },
+        {
+            "id": 205531,
+            "name": "Ibrahim Osman",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-12-14",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 189237,
+            "name": "Nathan Buayi-Kiala",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-02-29",
             "nationality": "France"
+        },
+        {
+            "id": 185194,
+            "name": "Clement Akpa",
+            "position": "Left-Back",
+            "dateOfBirth": "2001-11-24",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 177412,
+            "name": "Lamine Sy",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-08-10",
+            "nationality": "France"
+        },
+        {
+            "id": 175724,
+            "name": "Kevin Danois",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-06-28",
+            "nationality": "France"
+        },
+        {
+            "id": 171286,
+            "name": "Oussama El Azzouzi",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-05-29",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 170623,
+            "name": "Paul Joly",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-06-07",
+            "nationality": "France"
+        },
+        {
+            "id": 170396,
+            "name": "Lasso Coulibaly",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-10-19",
+            "nationality": "Ivory Coast"
         }
     ],
     "staff": [],

@@ -16,23 +16,30 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 103,
-        "name": "Bologna FC 1909",
-        "shortName": "Bologna",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/103.png",
-        "address": "Via Casteldebole 10 Bologna 40132",
-        "website": "http://www.bolognafc.it",
-        "founded": 1909,
-        "clubColors": "Red / Blue / White",
-        "venue": "Stadio Renato Dall'Ara",
+        "id": 460,
+        "name": "Modena FC 2018",
+        "shortName": "Modena",
+        "tla": "MOD",
+        "crest": "https://crests.football-data.org/460.png",
+        "address": "Piazzale Monte Kosika, 130 Modena 41100",
+        "website": "http://www.modenafc.net",
+        "founded": 1912,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Alberto Braglia",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {

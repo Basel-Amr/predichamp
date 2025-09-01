@@ -7,37 +7,37 @@
     "nationality": "France",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 2,
     "lastUpdated": "2024-08-12T11:57:17Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 516,
-        "name": "Olympique de Marseille",
-        "shortName": "Marseille",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/516.png",
-        "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
-        "website": "http://www.om.net",
-        "founded": 1898,
-        "clubColors": "White / Blue",
-        "venue": "Orange Vélodrome",
+        "id": 110,
+        "name": "SS Lazio",
+        "shortName": "Lazio",
+        "tla": "LAZ",
+        "crest": "https://crests.football-data.org/110.png",
+        "address": "Via di Santa Cornelia, 1000 Formello 00060",
+        "website": "http://www.sslazio.it",
+        "founded": 1900,
+        "clubColors": "White / Sky Blue",
+        "venue": "Stadio Olimpico",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/SA.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-08",
+            "until": "2027-06"
         }
     }
 }

@@ -1,0 +1,43 @@
+{
+    "id": 8487,
+    "name": "Antoine Bernede",
+    "firstName": "Antoine",
+    "lastName": "Bernede",
+    "dateOfBirth": "1999-05-26",
+    "nationality": "France",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 24,
+    "lastUpdated": "2025-02-18T17:35:56Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2026-06"
+        }
+    }
+}

@@ -7,37 +7,44 @@
     "nationality": "Serbia",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 19,
     "lastUpdated": "2024-08-23T10:11:34Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 58,
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "tla": "AVL",
-        "crest": "https://crests.football-data.org/58.png",
-        "address": "Villa Park Birmingham B6 6HE",
-        "website": "http://www.avfc.co.uk",
-        "founded": 1872,
-        "clubColors": "Claret / Sky Blue",
-        "venue": "Villa Park",
+        "id": 721,
+        "name": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "tla": "RBL",
+        "crest": "https://crests.football-data.org/721.png",
+        "address": "Neumarkt 29-33 Leipzig 04109",
+        "website": "http://www.dierotenbullen.com",
+        "founded": 2009,
+        "clubColors": "White / Red",
+        "venue": "Red Bull Arena",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/BL1.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2029-06"
+            "until": "2026-06"
         }
     }
 }

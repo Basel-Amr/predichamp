@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 23,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 15,
-        "name": "1. FSV Mainz 05",
-        "shortName": "Mainz",
-        "tla": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
-        "website": "http://www.mainz05.de",
-        "founded": 1905,
-        "clubColors": "Red / White",
-        "venue": "Opel Arena",
+        "id": 55,
+        "name": "SV Darmstadt 98",
+        "shortName": "Darmstadt",
+        "tla": "SVD",
+        "crest": "https://crests.football-data.org/55.png",
+        "address": "Nieder-Ramstädter-Straße 170 Darmstadt 64285",
+        "website": "http://www.sv98.de",
+        "founded": 1898,
+        "clubColors": "Blue / White",
+        "venue": "Merck-Stadion am Böllenfalltor",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,16 +35,16 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

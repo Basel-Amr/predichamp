@@ -80,13 +80,6 @@
             "nationality": "Denmark"
         },
         {
-            "id": 46451,
-            "name": "Lisandro Martínez",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-01-18",
-            "nationality": "Argentina"
-        },
-        {
             "id": 30842,
             "name": "Matheus Cunha",
             "position": "Centre-Forward",
@@ -106,6 +99,13 @@
             "position": "Right-Back",
             "dateOfBirth": "1999-03-18",
             "nationality": "Portugal"
+        },
+        {
+            "id": 8626,
+            "name": "Bryan Mbeumo",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-08-07",
+            "nationality": "Cameroon"
         },
         {
             "id": 7898,
@@ -143,13 +143,6 @@
             "nationality": "Netherlands"
         },
         {
-            "id": 3331,
-            "name": "Marcus Rashford",
-            "position": "Left Winger",
-            "dateOfBirth": "1997-10-31",
-            "nationality": "England"
-        },
-        {
             "id": 3326,
             "name": "Harry Maguire",
             "position": "Centre-Back",
@@ -178,31 +171,10 @@
             "nationality": "England"
         },
         {
-            "id": 250421,
-            "name": "Ethan Wheatley",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2006-01-20",
-            "nationality": "England"
-        },
-        {
-            "id": 248734,
-            "name": "Toby Collyer",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-01-03",
-            "nationality": "England"
-        },
-        {
             "id": 247644,
             "name": "Ayden Heaven",
             "position": "Centre-Back",
             "dateOfBirth": "2006-09-22",
-            "nationality": "England"
-        },
-        {
-            "id": 217491,
-            "name": "Daniel Gore",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-09-26",
             "nationality": "England"
         },
         {
@@ -255,6 +227,13 @@
             "nationality": "Ivory Coast"
         },
         {
+            "id": 124244,
+            "name": "Benjamin Šeško",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-05-31",
+            "nationality": "Slovenia"
+        },
+        {
             "id": 99731,
             "name": "Joshua Zirkzee",
             "position": "Centre-Forward",
@@ -267,6 +246,13 @@
             "position": "Right Winger",
             "dateOfBirth": "2000-02-24",
             "nationality": "Brazil"
+        },
+        {
+            "id": 46451,
+            "name": "Lisandro Martínez",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-01-18",
+            "nationality": "Argentina"
         }
     ],
     "staff": [],

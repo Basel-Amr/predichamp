@@ -1,0 +1,43 @@
+{
+    "id": 116150,
+    "name": "Samir Chergui",
+    "firstName": "Samir",
+    "lastName": "Chergui",
+    "dateOfBirth": "1999-02-06",
+    "nationality": "France",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 31,
+    "lastUpdated": "2024-09-02T09:59:12Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 1045,
+        "name": "Paris FC",
+        "shortName": "Paris FC",
+        "tla": "PFC",
+        "crest": "https://crests.football-data.org/1045.png",
+        "address": "17 rue Neuve Tolbiac Paris 75013",
+        "website": "http://www.parisfootballclub.com",
+        "founded": 1969,
+        "clubColors": "Navy Blue / Sky Blue",
+        "venue": "Stade Sébastien Charléty",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-01",
+            "until": "2026-06"
+        }
+    }
+}

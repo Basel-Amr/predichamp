@@ -16,31 +16,17 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 5,
-        "name": "FC Bayern München",
-        "shortName": "Bayern",
-        "tla": "FCB",
-        "crest": "https://crests.football-data.org/5.png",
-        "address": "Säbenerstr. 51 München 81547",
-        "website": "http://www.fcbayern.de",
+        "id": 14,
+        "name": "1. FC Nürnberg",
+        "shortName": "Nürnberg",
+        "tla": "FCN",
+        "crest": "https://crests.football-data.org/14.png",
+        "address": "Valznerweiherstraße 200 Nürnberg 90480",
+        "website": "http://www.fcn.de",
         "founded": 1900,
-        "clubColors": "Red / White / Blue",
-        "venue": "Allianz Arena",
+        "clubColors": "Red / White",
+        "venue": "Max-Morlock-Stadion",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
-                "id": 2134,
-                "name": "DFL Super Cup",
-                "code": "GSC",
-                "type": "SUPER_CUP",
-                "emblem": null
-            },
             {
                 "id": 2011,
                 "name": "DFB-Pokal",
@@ -49,15 +35,15 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

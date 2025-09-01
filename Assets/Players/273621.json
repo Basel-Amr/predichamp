@@ -1,0 +1,43 @@
+{
+    "id": 273621,
+    "name": "Elia Plicco",
+    "firstName": "Elia",
+    "lastName": "Plicco",
+    "dateOfBirth": "2007-02-01",
+    "nationality": "Italy",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 65,
+    "lastUpdated": "2025-06-01T09:43:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 112,
+        "name": "Parma Calcio 1913",
+        "shortName": "Parma",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/112.png",
+        "address": "Strada Carlo Pisacane, 4 Parma 43121",
+        "website": "http://www.parmacalcio1913.com",
+        "founded": 1913,
+        "clubColors": "White / Black",
+        "venue": "Stadio Ennio Tardini",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-12",
+            "until": "2026-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 8403,
+    "name": "Fodé Ballo-Touré",
+    "firstName": "Fodé",
+    "lastName": "Ballo-Touré",
+    "dateOfBirth": "1997-01-03",
+    "nationality": "Senegal",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 97,
+    "lastUpdated": "2024-08-23T09:25:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 533,
+        "name": "Le Havre AC",
+        "shortName": "Le Havre",
+        "tla": "HAC",
+        "crest": "https://crests.football-data.org/533.png",
+        "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+        "website": "http://www.hac-foot.com",
+        "founded": 1872,
+        "clubColors": "Sky Blue / Navy Blue",
+        "venue": "Stade Océane",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2026-06"
+        }
+    }
+}

@@ -28,13 +28,6 @@
         "venue": "Allianz Arena",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
                 "id": 2134,
                 "name": "DFL Super Cup",
                 "code": "GSC",
@@ -58,7 +51,7 @@
         ],
         "contract": {
             "start": "2024-12",
-            "until": "2025-07"
+            "until": "2026-06"
         }
     }
 }

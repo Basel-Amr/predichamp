@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 23,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 558,
-        "name": "RC Celta de Vigo",
-        "shortName": "Celta",
-        "tla": "CEL",
-        "crest": "https://crests.football-data.org/558.png",
-        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
-        "website": "http://www.celtavigo.net",
-        "founded": 1923,
-        "clubColors": "Sky Blue / White",
-        "venue": "Estadio de Balaídos",
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

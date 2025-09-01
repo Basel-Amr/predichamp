@@ -7,7 +7,7 @@
     "nationality": "Switzerland",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 20,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 103,
-        "name": "Bologna FC 1909",
-        "shortName": "Bologna",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/103.png",
-        "address": "Via Casteldebole 10 Bologna 40132",
-        "website": "http://www.bolognafc.it",
+        "id": 487,
+        "name": "AC Pisa 1909",
+        "shortName": "AC Pisa",
+        "tla": "PIS",
+        "crest": "https://crests.football-data.org/487.png",
+        "address": "Piazza della Stazione 22 (scala A) Pisa null",
+        "website": "http://www.pisachannel.tv",
         "founded": 1909,
-        "clubColors": "Red / Blue / White",
-        "venue": "Stadio Renato Dall'Ara",
+        "clubColors": "Blue / Black",
+        "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,11 +33,18 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2022-01",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

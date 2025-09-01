@@ -7,37 +7,44 @@
     "nationality": "Ukraine",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 27,
+    "shirtNumber": 6,
     "lastUpdated": "2025-04-01T09:43:11Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 1044,
-        "name": "AFC Bournemouth",
-        "shortName": "Bournemouth",
-        "tla": "BOU",
-        "crest": "https://crests.football-data.org/bournemouth.png",
-        "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
-        "website": "http://www.afcb.co.uk",
-        "founded": 1890,
-        "clubColors": "Red / Black",
-        "venue": "Vitality Stadium",
+        "id": 524,
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "website": "http://www.psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/esc.png"
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2023-01",
-            "until": "2029-06"
+            "start": "2025-08",
+            "until": "2030-06"
         }
     }
 }

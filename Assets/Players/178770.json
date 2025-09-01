@@ -1,0 +1,43 @@
+{
+    "id": 178770,
+    "name": "Diego Calai",
+    "firstName": "",
+    "lastName": "Diego Callai",
+    "dateOfBirth": "2004-07-18",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 41,
+    "lastUpdated": "2023-10-27T09:42:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5539,
+        "name": "Sporting Clube de Portugal B",
+        "shortName": "SC Portugal B",
+        "tla": null,
+        "crest": null,
+        "address": "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801",
+        "website": "http://www.sporting.pt",
+        "founded": 1906,
+        "clubColors": "Green / White",
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2096,
+                "name": "Liga2 Cabovisão",
+                "code": "PSL",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

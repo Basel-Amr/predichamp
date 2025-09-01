@@ -38,10 +38,24 @@
     },
     "squad": [
         {
+            "id": 30590,
+            "name": "Rémy Riou",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1987-08-06",
+            "nationality": "France"
+        },
+        {
             "id": 138022,
             "name": "Obed Nkambadio",
             "position": "Goalkeeper",
             "dateOfBirth": "2003-02-07",
+            "nationality": "France"
+        },
+        {
+            "id": 161354,
+            "name": "Thomas Himeur",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-01-17",
             "nationality": "France"
         },
         {
@@ -52,10 +66,122 @@
             "nationality": "France"
         },
         {
+            "id": 245822,
+            "name": "El Hadary Raheriniaina",
+            "position": "Midfield",
+            "dateOfBirth": "2006-08-19",
+            "nationality": "Madagascar"
+        },
+        {
             "id": 219655,
             "name": "Omar Sissoko",
             "position": "Offence",
             "dateOfBirth": "2006-08-18",
+            "nationality": "France"
+        },
+        {
+            "id": 108987,
+            "name": "Lamine Gueye",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-03-13",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 108520,
+            "name": "Ilan Kebbal",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1998-07-10",
+            "nationality": "France"
+        },
+        {
+            "id": 106896,
+            "name": "Jean-Philippe Krasso",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-07-17",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 94034,
+            "name": "Tuomas Ollila",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-04-24",
+            "nationality": "Finland"
+        },
+        {
+            "id": 40000,
+            "name": "Timothée Kolodziejczak",
+            "position": "Centre-Back",
+            "dateOfBirth": "1991-10-01",
+            "nationality": "France"
+        },
+        {
+            "id": 11313,
+            "name": "Nouha Dicko",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1992-05-14",
+            "nationality": "Mali"
+        },
+        {
+            "id": 8900,
+            "name": "Thibault De Smet",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-06-05",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 8352,
+            "name": "Maxime López",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-12-04",
+            "nationality": "France"
+        },
+        {
+            "id": 3398,
+            "name": "Moses Simon",
+            "position": "Left Winger",
+            "dateOfBirth": "1995-07-12",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 941,
+            "name": "Julien López Baila",
+            "position": "Left Winger",
+            "dateOfBirth": "1992-03-01",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 854,
+            "name": "Sofiane Alakouch",
+            "position": "Right-Back",
+            "dateOfBirth": "1998-07-29",
+            "nationality": "France"
+        },
+        {
+            "id": 823,
+            "name": "Mathieu Cafaro",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-03-25",
+            "nationality": "France"
+        },
+        {
+            "id": 638,
+            "name": "Alimami Gory",
+            "position": "Left Winger",
+            "dateOfBirth": "1996-08-30",
+            "nationality": "France"
+        },
+        {
+            "id": 609,
+            "name": "Pierre-Yves Hamel",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-02-03",
+            "nationality": "France"
+        },
+        {
+            "id": 565,
+            "name": "Vincent Marchetti",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-07-04",
             "nationality": "France"
         },
         {
@@ -64,13 +190,6 @@
             "position": "Left-Back",
             "dateOfBirth": "2006-02-27",
             "nationality": "France"
-        },
-        {
-            "id": 204319,
-            "name": "Yaloungou Bissé",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-05-21",
-            "nationality": "Central African Republic"
         },
         {
             "id": 192249,
@@ -108,6 +227,13 @@
             "nationality": "France"
         },
         {
+            "id": 151363,
+            "name": "Otavio Ataide",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-04-21",
+            "nationality": "Brazil"
+        },
+        {
             "id": 151129,
             "name": "Andy Pembélé",
             "position": "Right Winger",
@@ -122,94 +248,10 @@
             "nationality": "France"
         },
         {
-            "id": 108987,
-            "name": "Lamine Gueye",
-            "position": "Right Winger",
-            "dateOfBirth": "1998-03-13",
-            "nationality": "Senegal"
-        },
-        {
-            "id": 108520,
-            "name": "Ilan Kebbal",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1998-07-10",
-            "nationality": "France"
-        },
-        {
-            "id": 106896,
-            "name": "Jean-Philippe Krasso",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-07-17",
-            "nationality": "Ivory Coast"
-        },
-        {
-            "id": 94034,
-            "name": "Tuomas Ollila",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-04-24",
-            "nationality": "Finland"
-        },
-        {
-            "id": 8900,
-            "name": "Thibault De Smet",
-            "position": "Left-Back",
-            "dateOfBirth": "1998-06-05",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 8352,
-            "name": "Maxime López",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1997-12-04",
-            "nationality": "France"
-        },
-        {
-            "id": 3398,
-            "name": "Moses Simon",
-            "position": "Left Winger",
-            "dateOfBirth": "1995-07-12",
-            "nationality": "Nigeria"
-        },
-        {
-            "id": 854,
-            "name": "Sofiane Alakouch",
-            "position": "Right-Back",
-            "dateOfBirth": "1998-07-29",
-            "nationality": "France"
-        },
-        {
-            "id": 823,
-            "name": "Mathieu Cafaro",
-            "position": "Right Winger",
-            "dateOfBirth": "1997-03-25",
-            "nationality": "France"
-        },
-        {
-            "id": 661,
-            "name": "Yoann Kherbache",
-            "position": "Left Winger",
-            "dateOfBirth": "2000-07-21",
-            "nationality": "France"
-        },
-        {
-            "id": 638,
-            "name": "Alimami Gory",
-            "position": "Left Winger",
-            "dateOfBirth": "1996-08-30",
-            "nationality": "France"
-        },
-        {
-            "id": 609,
-            "name": "Pierre-Yves Hamel",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-02-03",
-            "nationality": "France"
-        },
-        {
-            "id": 565,
-            "name": "Vincent Marchetti",
-            "position": "Central Midfield",
-            "dateOfBirth": "1997-07-04",
+            "id": 116150,
+            "name": "Samir Chergui",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-02-06",
             "nationality": "France"
         }
     ],

@@ -22,6 +22,13 @@
             "code": "SA",
             "type": "LEAGUE",
             "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2124,
+            "name": "Supercoppa",
+            "code": "ISC",
+            "type": "SUPER_CUP",
+            "emblem": "https://crests.football-data.org/isc.png"
         }
     ],
     "coach": {
@@ -45,24 +52,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 82004,
-            "name": "Elia Caprile",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2001-08-25",
-            "nationality": "Italy"
-        },
-        {
             "id": 179579,
             "name": "Valerio Boffeli",
             "position": "Goalkeeper",
             "dateOfBirth": "2004-09-04",
-            "nationality": "Italy"
-        },
-        {
-            "id": 217850,
-            "name": "Matteo Marchisano",
-            "position": "Defence",
-            "dateOfBirth": "2004-10-06",
             "nationality": "Italy"
         },
         {
@@ -73,38 +66,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 158936,
-            "name": "Lorenzo Sgarbi",
-            "position": "Midfield",
-            "dateOfBirth": "2001-03-24",
-            "nationality": "Italy"
-        },
-        {
             "id": 176944,
             "name": "Antonio Vergara",
             "position": "Midfield",
             "dateOfBirth": "2003-01-16",
-            "nationality": "Italy"
-        },
-        {
-            "id": 114117,
-            "name": "Giacomo Raspadori",
-            "position": "Offence",
-            "dateOfBirth": "2000-02-18",
-            "nationality": "Italy"
-        },
-        {
-            "id": 157210,
-            "name": "Antonio Cioffi",
-            "position": "Offence",
-            "dateOfBirth": "2002-12-19",
-            "nationality": "Italy"
-        },
-        {
-            "id": 160851,
-            "name": "Giuseppe D'Agostino",
-            "position": "Offence",
-            "dateOfBirth": "2003-05-11",
             "nationality": "Italy"
         },
         {
@@ -129,34 +94,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 264876,
-            "name": "Gianluca Vigliotti",
-            "position": "Offence",
-            "dateOfBirth": "2005-02-24",
-            "nationality": "Italy"
-        },
-        {
-            "id": 81973,
-            "name": "Jesper Lindstrøm",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-02-29",
-            "nationality": "Denmark"
-        },
-        {
-            "id": 42760,
-            "name": "Michael Folorunsho",
-            "position": "Central Midfield",
-            "dateOfBirth": "1998-02-07",
-            "nationality": "Italy"
-        },
-        {
-            "id": 33628,
-            "name": "Stanislav Lobotka",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1994-11-25",
-            "nationality": "Slovakia"
-        },
-        {
             "id": 32754,
             "name": "Mathías Olivera",
             "position": "Left-Back",
@@ -164,25 +101,11 @@
             "nationality": "Uruguay"
         },
         {
-            "id": 31676,
-            "name": "Jens Cajuste",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1999-08-10",
-            "nationality": "Sweden"
-        },
-        {
             "id": 23127,
             "name": "Amir Rrahmani",
             "position": "Centre-Back",
             "dateOfBirth": "1994-02-24",
             "nationality": "Kosovo"
-        },
-        {
-            "id": 9434,
-            "name": "Victor Osimhen",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1998-12-29",
-            "nationality": "Nigeria"
         },
         {
             "id": 8354,
@@ -204,6 +127,13 @@
             "position": "Right Winger",
             "dateOfBirth": "1997-03-03",
             "nationality": "Brazil"
+        },
+        {
+            "id": 7565,
+            "name": "Noa Lang",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-06-17",
+            "nationality": "Netherlands"
         },
         {
             "id": 3662,
@@ -255,32 +185,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 2107,
-            "name": "Alessio Zerbin",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-03-03",
-            "nationality": "Italy"
-        },
-        {
             "id": 1842,
             "name": "Leonardo Spinazzola",
             "position": "Left-Back",
             "dateOfBirth": "1993-03-25",
             "nationality": "Italy"
-        },
-        {
-            "id": 1789,
-            "name": "Giovanni Simeone",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1995-07-05",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 246552,
-            "name": "Matija Popović",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2006-01-08",
-            "nationality": "Serbia"
         },
         {
             "id": 221253,
@@ -304,25 +213,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 217548,
-            "name": "Lorenzo Russo",
-            "position": "Central Midfield",
-            "dateOfBirth": "2005-04-19",
-            "nationality": "Italy"
-        },
-        {
             "id": 214546,
             "name": "Luca Marianucci",
             "position": "Centre-Back",
             "dateOfBirth": "2004-07-23",
             "nationality": "Italy"
-        },
-        {
-            "id": 176758,
-            "name": "Rafa Marin",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-05-19",
-            "nationality": "Spain"
         },
         {
             "id": 161310,
@@ -346,11 +241,25 @@
             "nationality": "Scotland"
         },
         {
-            "id": 99859,
-            "name": "Cyril Ngonge",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-05-26",
-            "nationality": "Belgium"
+            "id": 53281,
+            "name": "Sam Beukema",
+            "position": "Centre-Back",
+            "dateOfBirth": "1998-11-17",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 40305,
+            "name": "Lorenzo Lucca",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-09-10",
+            "nationality": "Italy"
+        },
+        {
+            "id": 33628,
+            "name": "Stanislav Lobotka",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-11-25",
+            "nationality": "Slovakia"
         }
     ],
     "staff": [],

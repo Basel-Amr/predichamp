@@ -7,44 +7,51 @@
     "nationality": "Spain",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": 36,
+    "shirtNumber": 30,
     "lastUpdated": "2024-09-14T09:42:40Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 86,
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "tla": "RMA",
-        "crest": "https://crests.football-data.org/86.png",
-        "address": "Avenida Concha Espina, 1 Madrid 28036",
-        "website": "http://www.realmadrid.com",
-        "founded": 1902,
-        "clubColors": "White / Purple",
-        "venue": "Estadio Santiago Bernabéu",
+        "id": 10,
+        "name": "VfB Stuttgart",
+        "shortName": "Stuttgart",
+        "tla": "VFB",
+        "crest": "https://crests.football-data.org/10.png",
+        "address": "Mercedesstraße 109 Stuttgart 70372",
+        "website": "http://www.vfb.de",
+        "founded": 1893,
+        "clubColors": "White / Red",
+        "venue": "Mercedes-Benz Arena",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
+                "id": 2134,
+                "name": "DFL Super Cup",
+                "code": "GSC",
+                "type": "SUPER_CUP",
                 "emblem": null
             },
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/BL1.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

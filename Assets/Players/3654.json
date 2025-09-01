@@ -7,7 +7,7 @@
     "nationality": "Belgium",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 11,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -33,6 +33,13 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {

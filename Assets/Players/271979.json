@@ -7,8 +7,8 @@
     "nationality": "France",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 33,
-    "lastUpdated": "2025-07-02T09:42:21Z",
+    "shirtNumber": 20,
+    "lastUpdated": "2025-08-15T09:42:30Z",
     "currentTeam": {
         "area": {
             "id": 2081,
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-10",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

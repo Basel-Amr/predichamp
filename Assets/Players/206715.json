@@ -7,7 +7,7 @@
     "nationality": "Nigeria",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 15,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 584,
-        "name": "UC Sampdoria",
-        "shortName": "Sampdoria",
-        "tla": "SAM",
-        "crest": "https://crests.football-data.org/584.png",
-        "address": "Piazza Borgo Pila, 39 Genova 16129",
-        "website": "http://www.sampdoria.it",
-        "founded": 1946,
-        "clubColors": "Blue / White / Red",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 108,
+        "name": "FC Internazionale Milano",
+        "shortName": "Inter",
+        "tla": "INT",
+        "crest": "https://crests.football-data.org/108.png",
+        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+        "website": "http://www.inter.it",
+        "founded": 1908,
+        "clubColors": "Blue / Black",
+        "venue": "Stadio Giuseppe Meazza",
         "runningCompetitions": [
             {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

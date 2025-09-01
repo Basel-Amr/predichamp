@@ -52,11 +52,11 @@
             "nationality": "Portugal"
         },
         {
-            "id": 144395,
-            "name": "Matheo Raab",
+            "id": 113105,
+            "name": "Daniel Peretz",
             "position": "Goalkeeper",
-            "dateOfBirth": "1998-12-18",
-            "nationality": "Germany"
+            "dateOfBirth": "2000-07-10",
+            "nationality": "Israel"
         },
         {
             "id": 209640,
@@ -80,6 +80,34 @@
             "nationality": "Nigeria"
         },
         {
+            "id": 145650,
+            "name": "Giorgi Gocholeishvili",
+            "position": "Defence",
+            "dateOfBirth": "2001-02-14",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 209715,
+            "name": "Joel Agyekum",
+            "position": "Defence",
+            "dateOfBirth": "2005-03-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 102974,
+            "name": "Nicolás Capaldo",
+            "position": "Midfield",
+            "dateOfBirth": "1997-09-14",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 228008,
+            "name": "Otto Stange",
+            "position": "Offence",
+            "dateOfBirth": "2007-02-09",
+            "nationality": "Germany"
+        },
+        {
             "id": 252883,
             "name": "Alexander Røssing-Lelesiit",
             "position": "Offence",
@@ -87,81 +115,11 @@
             "nationality": "Norway"
         },
         {
-            "id": 249578,
-            "name": "Aboubaka Soumahoro",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-02-04",
-            "nationality": "France"
-        },
-        {
-            "id": 230350,
-            "name": "Bilal Yalcinkaya",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2006-03-30",
-            "nationality": "Germany"
-        },
-        {
-            "id": 220468,
-            "name": "Fabio Baldé",
-            "position": "Left Winger",
-            "dateOfBirth": "2005-07-20",
-            "nationality": "Germany"
-        },
-        {
-            "id": 160442,
-            "name": "William Mikelbrencis",
-            "position": "Right-Back",
-            "dateOfBirth": "2004-02-25",
-            "nationality": "France"
-        },
-        {
-            "id": 149995,
-            "name": "Nicolai Remberg",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-06-19",
-            "nationality": "Germany"
-        },
-        {
-            "id": 144415,
-            "name": "Immanuel Pherai",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2001-04-25",
-            "nationality": "Suriname"
-        },
-        {
-            "id": 137302,
-            "name": "Ransford Königsdörffer",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-09-13",
-            "nationality": "Ghana"
-        },
-        {
-            "id": 132345,
-            "name": "Anssi Tapio Suhonen",
-            "position": "Central Midfield",
-            "dateOfBirth": "2001-01-14",
-            "nationality": "Finland"
-        },
-        {
             "id": 125686,
             "name": "Rayan Philippe",
             "position": "Centre-Forward",
             "dateOfBirth": "2000-10-23",
             "nationality": "France"
-        },
-        {
-            "id": 119063,
-            "name": "Lucas Perrin",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-11-19",
-            "nationality": "France"
-        },
-        {
-            "id": 105289,
-            "name": "Łukasz Poręba",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-03-13",
-            "nationality": "Poland"
         },
         {
             "id": 99836,
@@ -227,18 +185,81 @@
             "nationality": "Germany"
         },
         {
-            "id": 6631,
-            "name": "Levin Öztunali",
-            "position": "Left Winger",
-            "dateOfBirth": "1996-03-15",
-            "nationality": "Germany"
-        },
-        {
             "id": 6539,
             "name": "Bakery Jatta",
             "position": "Right Winger",
             "dateOfBirth": "1998-06-06",
             "nationality": "Gambia"
+        },
+        {
+            "id": 3466,
+            "name": "Yussuf Poulsen",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1994-06-16",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 249578,
+            "name": "Aboubaka Soumahoro",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-04",
+            "nationality": "France"
+        },
+        {
+            "id": 230350,
+            "name": "Bilal Yalcinkaya",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2006-03-30",
+            "nationality": "Germany"
+        },
+        {
+            "id": 220468,
+            "name": "Fabio Baldé",
+            "position": "Left Winger",
+            "dateOfBirth": "2005-07-20",
+            "nationality": "Germany"
+        },
+        {
+            "id": 183356,
+            "name": "Daniel Elfadli",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-04-06",
+            "nationality": "Libya"
+        },
+        {
+            "id": 160442,
+            "name": "William Mikelbrencis",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-02-25",
+            "nationality": "France"
+        },
+        {
+            "id": 149995,
+            "name": "Nicolai Remberg",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-06-19",
+            "nationality": "Germany"
+        },
+        {
+            "id": 144415,
+            "name": "Immanuel Pherai",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-04-25",
+            "nationality": "Suriname"
+        },
+        {
+            "id": 137302,
+            "name": "Ransford Königsdörffer",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-09-13",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 135467,
+            "name": "Warmed Omari",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-23",
+            "nationality": "Comoros"
         }
     ],
     "staff": [],

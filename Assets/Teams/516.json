@@ -45,13 +45,6 @@
             "nationality": "Argentina"
         },
         {
-            "id": 32695,
-            "name": "Pau López",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1994-12-13",
-            "nationality": "Spain"
-        },
-        {
             "id": 33614,
             "name": "Rubén Blanco",
             "position": "Goalkeeper",
@@ -66,18 +59,25 @@
             "nationality": "Netherlands"
         },
         {
-            "id": 137322,
-            "name": "Simon Ngapandouetnbu",
+            "id": 178114,
+            "name": "Jelle Van Neck",
             "position": "Goalkeeper",
-            "dateOfBirth": "2003-12-04",
-            "nationality": "Cameroon"
+            "dateOfBirth": "2004-03-07",
+            "nationality": "Belgium"
         },
         {
-            "id": 172183,
-            "name": "Ismael Kone",
-            "position": "Midfield",
-            "dateOfBirth": "2002-06-06",
-            "nationality": "Canada"
+            "id": 213033,
+            "name": "Robinio Vaz",
+            "position": "Offence",
+            "dateOfBirth": "2007-02-17",
+            "nationality": "France"
+        },
+        {
+            "id": 82020,
+            "name": "Leonardo Balerdi",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-01-26",
+            "nationality": "Argentina"
         },
         {
             "id": 46125,
@@ -94,18 +94,11 @@
             "nationality": "Central African Republic"
         },
         {
-            "id": 8912,
-            "name": "Samuel Gigot",
-            "position": "Centre-Back",
-            "dateOfBirth": "1993-10-12",
-            "nationality": "France"
-        },
-        {
-            "id": 8695,
-            "name": "Valentin Rongier",
-            "position": "Central Midfield",
-            "dateOfBirth": "1994-12-07",
-            "nationality": "France"
+            "id": 8492,
+            "name": "Tim Weah",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-02-22",
+            "nationality": "USA"
         },
         {
             "id": 8476,
@@ -127,6 +120,13 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "2000-08-31",
             "nationality": "England"
+        },
+        {
+            "id": 7801,
+            "name": "Pierre-Emerick Aubameyang",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1989-06-18",
+            "nationality": "Gabon"
         },
         {
             "id": 4443,
@@ -157,13 +157,6 @@
             "nationality": "Spain"
         },
         {
-            "id": 2071,
-            "name": "Luiz Felipe",
-            "position": "Centre-Back",
-            "dateOfBirth": "1997-03-22",
-            "nationality": "Italy"
-        },
-        {
             "id": 238,
             "name": "Ulisses Garcia",
             "position": "Left-Back",
@@ -171,10 +164,17 @@
             "nationality": "Switzerland"
         },
         {
-            "id": 250853,
-            "name": "Gaël Lafont",
-            "position": "Central Midfield",
-            "dateOfBirth": "2006-06-07",
+            "id": 275600,
+            "name": "Yanis Sellami",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2007-01-04",
+            "nationality": "France"
+        },
+        {
+            "id": 250948,
+            "name": "Darryl Bakola",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2007-11-30",
             "nationality": "France"
         },
         {
@@ -227,13 +227,6 @@
             "nationality": "France"
         },
         {
-            "id": 160410,
-            "name": "Quentin Merlin",
-            "position": "Left-Back",
-            "dateOfBirth": "2002-05-16",
-            "nationality": "France"
-        },
-        {
             "id": 144651,
             "name": "Faris Moumbagna",
             "position": "Centre-Forward",
@@ -248,6 +241,13 @@
             "nationality": "Morocco"
         },
         {
+            "id": 119703,
+            "name": "Igor Paixão",
+            "position": "Left Winger",
+            "dateOfBirth": "2000-06-28",
+            "nationality": "Brazil"
+        },
+        {
             "id": 113228,
             "name": "Derek Cornelius",
             "position": "Centre-Back",
@@ -260,13 +260,6 @@
             "position": "Right Winger",
             "dateOfBirth": "2001-10-01",
             "nationality": "England"
-        },
-        {
-            "id": 82020,
-            "name": "Leonardo Balerdi",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-01-26",
-            "nationality": "Argentina"
         }
     ],
     "staff": [],

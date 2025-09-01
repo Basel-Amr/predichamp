@@ -1,0 +1,43 @@
+{
+    "id": 184995,
+    "name": "Arnau Solà",
+    "firstName": "",
+    "lastName": "Arnau Solà",
+    "dateOfBirth": "2003-04-04",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-05T08:21:36Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 267,
+        "name": "UD Almería",
+        "shortName": "Almería",
+        "tla": "ALM",
+        "crest": "https://crests.football-data.org/267.png",
+        "address": "Calle Alcalde Santiago Martínez Cabrejas, 5 Almería 04007",
+        "website": "http://www.udalmeriasad.com",
+        "founded": 1989,
+        "clubColors": "Red / White",
+        "venue": "Estadio de los Juegos Mediterráneos",
+        "runningCompetitions": [
+            {
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SD.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

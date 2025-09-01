@@ -7,37 +7,37 @@
     "nationality": "Chile",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": 17,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:17Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 511,
-        "name": "Toulouse FC",
-        "shortName": "Toulouse",
-        "tla": "TOU",
-        "crest": "https://crests.football-data.org/511.png",
-        "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
-        "website": "http://www.tfc.info",
-        "founded": 1937,
-        "clubColors": "Violet / White",
-        "venue": "Stadium Municipal",
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png",
+        "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+        "website": "http://www.sevillafc.es",
+        "founded": 1905,
+        "clubColors": "White / Red",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 113,
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "tla": "NAP",
-        "crest": "https://crests.football-data.org/113.png",
-        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-        "website": "http://www.sscnapoli.it",
-        "founded": 1904,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio San Paolo",
+        "id": 10106,
+        "name": "Giugliano",
+        "shortName": "Giugliano",
+        "tla": "GIU",
+        "crest": "https://crests.football-data.org/10106.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {

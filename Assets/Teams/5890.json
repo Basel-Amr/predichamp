@@ -52,13 +52,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 2751,
-            "name": "Marco Bleve",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1995-10-18",
-            "nationality": "Italy"
-        },
-        {
             "id": 56649,
             "name": "Wladimiro Falcone",
             "position": "Goalkeeper",
@@ -73,11 +66,11 @@
             "nationality": "Finland"
         },
         {
-            "id": 157189,
-            "name": "Alexandru Borbei",
+            "id": 283194,
+            "name": "Plamen Penev",
             "position": "Goalkeeper",
-            "dateOfBirth": "2003-06-27",
-            "nationality": "Romania"
+            "dateOfBirth": "2008-04-22",
+            "nationality": "Bulgaria"
         },
         {
             "id": 274043,
@@ -87,6 +80,13 @@
             "nationality": "Bulgaria"
         },
         {
+            "id": 226967,
+            "name": "Olaf Gorter",
+            "position": "Midfield",
+            "dateOfBirth": "2005-01-31",
+            "nationality": "Netherlands"
+        },
+        {
             "id": 245366,
             "name": "Henri Salomaa",
             "position": "Midfield",
@@ -94,25 +94,11 @@
             "nationality": "Finland"
         },
         {
-            "id": 152220,
-            "name": "Pablo Rodríguez Delgado",
-            "position": "Offence",
-            "dateOfBirth": "2001-08-04",
-            "nationality": "Spain"
-        },
-        {
             "id": 279756,
             "name": "Gabriele Perricci",
             "position": "Offence",
             "dateOfBirth": "2006-03-22",
             "nationality": "Italy"
-        },
-        {
-            "id": 129319,
-            "name": "Hamza Rafia",
-            "position": "Central Midfield",
-            "dateOfBirth": "1999-04-02",
-            "nationality": "Tunisia"
         },
         {
             "id": 121808,
@@ -127,6 +113,13 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2000-04-05",
             "nationality": "Montenegro"
+        },
+        {
+            "id": 117369,
+            "name": "Corrie Ndaba",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-12-25",
+            "nationality": "Ireland"
         },
         {
             "id": 116223,
@@ -148,13 +141,6 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "2002-01-10",
             "nationality": "Poland"
-        },
-        {
-            "id": 86045,
-            "name": "Federico Baschirotto",
-            "position": "Centre-Back",
-            "dateOfBirth": "1996-09-20",
-            "nationality": "Italy"
         },
         {
             "id": 77469,
@@ -206,6 +192,13 @@
             "nationality": "France"
         },
         {
+            "id": 1792,
+            "name": "Riccardo Sottil",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-06-03",
+            "nationality": "Italy"
+        },
+        {
             "id": 818,
             "name": "Rémi Oudin",
             "position": "Attacking Midfield",
@@ -218,6 +211,13 @@
             "position": "Left-Back",
             "dateOfBirth": "2005-05-24",
             "nationality": "Netherlands"
+        },
+        {
+            "id": 264208,
+            "name": "Christ-Owen Kouassi Bathele",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-04-15",
+            "nationality": "France"
         },
         {
             "id": 263220,
@@ -234,6 +234,13 @@
             "nationality": "Portugal"
         },
         {
+            "id": 242550,
+            "name": "Francesco Camarda",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2008-03-10",
+            "nationality": "Italy"
+        },
+        {
             "id": 213073,
             "name": "Kialonda Gaspar",
             "position": "Centre-Back",
@@ -248,46 +255,11 @@
             "nationality": "Albania"
         },
         {
-            "id": 187532,
-            "name": "Giacomo Faticanti",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-07-31",
-            "nationality": "Italy"
-        },
-        {
             "id": 185129,
             "name": "Danilo Veiga",
             "position": "Right-Back",
             "dateOfBirth": "2002-09-25",
             "nationality": "Portugal"
-        },
-        {
-            "id": 185022,
-            "name": "Mats Lemmens",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-03-10",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 177170,
-            "name": "Joel Persson",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-01-15",
-            "nationality": "Sweden"
-        },
-        {
-            "id": 172414,
-            "name": "Rares Burnete",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-01-31",
-            "nationality": "Romania"
-        },
-        {
-            "id": 171573,
-            "name": "Daniel Samek",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-02-19",
-            "nationality": "Czech Republic"
         },
         {
             "id": 170915,
@@ -309,6 +281,13 @@
             "position": "Defensive Midfield",
             "dateOfBirth": "2000-05-15",
             "nationality": "France"
+        },
+        {
+            "id": 129319,
+            "name": "Hamza Rafia",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-04-02",
+            "nationality": "Tunisia"
         }
     ],
     "staff": [],

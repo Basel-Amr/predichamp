@@ -7,37 +7,44 @@
     "nationality": "Spain",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 30,
+    "shirtNumber": 16,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
         },
-        "id": 263,
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "tla": "ALA",
-        "crest": "https://crests.football-data.org/263.png",
-        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
-        "website": "http://www.alaves.com",
-        "founded": 1921,
-        "clubColors": "Blue / White",
-        "venue": "Estadio de Mendizorroza",
+        "id": 7822,
+        "name": "FC Alverca",
+        "shortName": "Alverca",
+        "tla": "ALV",
+        "crest": "https://crests.football-data.org/7822.png",
+        "address": "null Alverca do Ribatejo null",
+        "website": "http://www.fcalverca.pt/",
+        "founded": 1939,
+        "clubColors": null,
+        "venue": "Campo Futebol Clube Alverca",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2021-11",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

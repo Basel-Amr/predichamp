@@ -1,0 +1,57 @@
+{
+    "id": 265490,
+    "name": "Matteo Pittarella",
+    "firstName": "Matteo",
+    "lastName": "Pittarella",
+    "dateOfBirth": "2008-05-26",
+    "nationality": "Italy",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-28T09:50:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 98,
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "tla": "MIL",
+        "crest": "https://crests.football-data.org/98.png",
+        "address": "Via Filippo Turati 3 Milano 20121",
+        "website": "http://www.acmilan.com",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Giuseppe Meazza",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

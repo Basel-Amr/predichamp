@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 21,
+    "shirtNumber": 27,
     "lastUpdated": "2024-09-02T09:59:02Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "address": "Franz-Kremer-Allee 1 Köln 50937",
-        "website": "http://www.fc-koeln.de",
-        "founded": 1948,
-        "clubColors": "Red / White",
-        "venue": "RheinEnergieSTADION",
+        "id": 29,
+        "name": "SC Paderborn 07",
+        "shortName": "SC Paderborn",
+        "tla": "SCP",
+        "crest": "https://crests.football-data.org/29.png",
+        "address": "Paderborner Str. 89 Paderborn 33104",
+        "website": "http://www.scpaderborn07.de",
+        "founded": 1985,
+        "clubColors": "Black / Blue",
+        "venue": "Benteler-Arena",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,15 +35,15 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2022-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

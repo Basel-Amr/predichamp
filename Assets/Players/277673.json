@@ -1,0 +1,43 @@
+{
+    "id": 277673,
+    "name": "Rudy Matondo",
+    "firstName": "Rudy",
+    "lastName": "Matondo",
+    "dateOfBirth": "2008-03-13",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 34,
+    "lastUpdated": "2025-05-20T09:42:27Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 519,
+        "name": "AJ Auxerre",
+        "shortName": "Auxerre",
+        "tla": "AJA",
+        "crest": "https://crests.football-data.org/519.png",
+        "address": "Route de Vaux BP 349 Auxerre 89006",
+        "website": "http://www.aja.fr",
+        "founded": 1905,
+        "clubColors": "White / Blue",
+        "venue": "Stade de l'Abbé Deschamps",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-04",
+            "until": "2026-06"
+        }
+    }
+}

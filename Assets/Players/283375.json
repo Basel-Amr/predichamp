@@ -1,0 +1,43 @@
+{
+    "id": 283375,
+    "name": "Seung-soo Park",
+    "firstName": "Seung-soo",
+    "lastName": "Park",
+    "dateOfBirth": "2007-03-17",
+    "nationality": "South Korea",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 64,
+    "lastUpdated": "2025-08-17T09:43:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
+        },
+        "id": 67,
+        "name": "Newcastle United FC",
+        "shortName": "Newcastle",
+        "tla": "NEW",
+        "crest": "https://crests.football-data.org/67.png",
+        "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+        "website": "http://www.nufc.co.uk",
+        "founded": 1881,
+        "clubColors": "Black / White",
+        "venue": "St. James' Park",
+        "runningCompetitions": [
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

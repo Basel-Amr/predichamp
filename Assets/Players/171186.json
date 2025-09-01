@@ -1,0 +1,43 @@
+{
+    "id": 171186,
+    "name": "Jordy Makengo",
+    "firstName": "Jordy",
+    "lastName": "Makengo",
+    "dateOfBirth": "2001-08-03",
+    "nationality": "France",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": 34,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 5993,
+        "name": "SC Freiburg II",
+        "shortName": "SC Freiburg II",
+        "tla": "FRE",
+        "crest": "https://crests.football-data.org/5993.png",
+        "address": "Schwarzwaldstraße 193 Freiburg 79117",
+        "website": "http://www.scfreiburg.com",
+        "founded": 1912,
+        "clubColors": "Red / White",
+        "venue": "Möslestadion",
+        "runningCompetitions": [
+            {
+                "id": 2160,
+                "name": "Regionalliga Südwest",
+                "code": "RSW",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

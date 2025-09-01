@@ -59,11 +59,53 @@
             "nationality": "France"
         },
         {
+            "id": 283248,
+            "name": "Naime Said Mchindra",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-05-28",
+            "nationality": "France"
+        },
+        {
             "id": 260271,
             "name": "Jaydee Canvot",
             "position": "Defence",
             "dateOfBirth": "2006-07-29",
             "nationality": "France"
+        },
+        {
+            "id": 264401,
+            "name": "Dayann Methalie",
+            "position": "Defence",
+            "dateOfBirth": "2006-02-15",
+            "nationality": "France"
+        },
+        {
+            "id": 283243,
+            "name": "Gaëtan Bakhouche Piernas",
+            "position": "Defence",
+            "dateOfBirth": "2005-02-14",
+            "nationality": "France"
+        },
+        {
+            "id": 283250,
+            "name": "Frédéric Efuele Ngoyala",
+            "position": "Defence",
+            "dateOfBirth": "2005-02-20",
+            "nationality": "DR Congo"
+        },
+        {
+            "id": 283252,
+            "name": "Seny Koumbassa",
+            "position": "Defence",
+            "dateOfBirth": "2007-06-20",
+            "nationality": "France"
+        },
+        {
+            "id": 121896,
+            "name": "Francis Abu",
+            "position": "Midfield",
+            "dateOfBirth": "2001-04-27",
+            "nationality": "Ghana"
         },
         {
             "id": 216718,
@@ -80,25 +122,46 @@
             "nationality": "France"
         },
         {
-            "id": 191225,
-            "name": "Saïd Hamulic",
+            "id": 278193,
+            "name": "Ilyas Azizi",
+            "position": "Midfield",
+            "dateOfBirth": "2008-04-13",
+            "nationality": "France"
+        },
+        {
+            "id": 283253,
+            "name": "Darris Zema",
+            "position": "Midfield",
+            "dateOfBirth": "2007-05-20",
+            "nationality": "France"
+        },
+        {
+            "id": 283443,
+            "name": "Alexis Vossah",
+            "position": "Midfield",
+            "dateOfBirth": "2008-03-11",
+            "nationality": "France"
+        },
+        {
+            "id": 283444,
+            "name": "Thibaud-Dorian Garondo",
+            "position": "Midfield",
+            "dateOfBirth": "2006-01-12",
+            "nationality": "France"
+        },
+        {
+            "id": 191371,
+            "name": "Santiago Hidalgo",
             "position": "Offence",
-            "dateOfBirth": "2000-11-12",
-            "nationality": "Bosnia-Herzegovina"
+            "dateOfBirth": "2005-02-17",
+            "nationality": "Argentina"
         },
         {
-            "id": 250994,
-            "name": "Rafik Messali",
-            "position": "Right Midfield",
-            "dateOfBirth": "2003-04-28",
-            "nationality": "Algeria"
-        },
-        {
-            "id": 212589,
-            "name": "Shavy Warren Babicka",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-06-01",
-            "nationality": "Gabon"
+            "id": 283251,
+            "name": "Enzo Faty",
+            "position": "Offence",
+            "dateOfBirth": "2007-03-09",
+            "nationality": "France"
         },
         {
             "id": 204253,
@@ -129,13 +192,6 @@
             "nationality": "France"
         },
         {
-            "id": 171438,
-            "name": "Ibrahim Cissoko",
-            "position": "Left Winger",
-            "dateOfBirth": "2003-03-26",
-            "nationality": "Netherlands"
-        },
-        {
             "id": 150797,
             "name": "Charlie Cresswell",
             "position": "Centre-Back",
@@ -148,13 +204,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "2000-01-20",
             "nationality": "Venezuela"
-        },
-        {
-            "id": 81085,
-            "name": "Zakaria Aboukhlal",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-02-18",
-            "nationality": "Morocco"
         },
         {
             "id": 80175,
@@ -171,11 +220,11 @@
             "nationality": "USA"
         },
         {
-            "id": 21385,
-            "name": "Gabriel Suazo",
-            "position": "Left-Back",
-            "dateOfBirth": "1997-08-09",
-            "nationality": "Chile"
+            "id": 24190,
+            "name": "Rasmus Nicolaisen",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-03-16",
+            "nationality": "Denmark"
         },
         {
             "id": 9490,
@@ -190,6 +239,41 @@
             "position": "Central Midfield",
             "dateOfBirth": "1998-03-01",
             "nationality": "Germany"
+        },
+        {
+            "id": 3362,
+            "name": "Djibril Sidibé",
+            "position": "Right-Back",
+            "dateOfBirth": "1992-07-29",
+            "nationality": "France"
+        },
+        {
+            "id": 250994,
+            "name": "Rafik Messali",
+            "position": "Right Midfield",
+            "dateOfBirth": "2003-04-28",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 246113,
+            "name": "Nicolas Wasbauer",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-07-04",
+            "nationality": "France"
+        },
+        {
+            "id": 212975,
+            "name": "Noah Edjouma",
+            "position": "Right Winger",
+            "dateOfBirth": "2005-10-04",
+            "nationality": "France"
+        },
+        {
+            "id": 212934,
+            "name": "Noah Lahmadi",
+            "position": "Central Midfield",
+            "dateOfBirth": "2005-01-05",
+            "nationality": "France"
         }
     ],
     "staff": [],

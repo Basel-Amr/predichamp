@@ -66,13 +66,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 184976,
-            "name": "Philipp Schulz",
-            "position": "Defence",
-            "dateOfBirth": "2005-05-25",
-            "nationality": "Germany"
-        },
-        {
             "id": 217349,
             "name": "Konstantin Schopp",
             "position": "Defence",
@@ -84,6 +77,13 @@
             "name": "Kaishu Sano",
             "position": "Midfield",
             "dateOfBirth": "2000-12-30",
+            "nationality": "Japan"
+        },
+        {
+            "id": 147832,
+            "name": "Sota Kawasaki",
+            "position": "Midfield",
+            "dateOfBirth": "2001-07-30",
             "nationality": "Japan"
         },
         {
@@ -115,20 +115,6 @@
             "nationality": "South Korea"
         },
         {
-            "id": 180775,
-            "name": "Hyun-seok Hong",
-            "position": "Midfield",
-            "dateOfBirth": "1999-06-16",
-            "nationality": "South Korea"
-        },
-        {
-            "id": 250164,
-            "name": "Daniel Gleiber",
-            "position": "Midfield",
-            "dateOfBirth": "2005-02-01",
-            "nationality": "Germany"
-        },
-        {
             "id": 151458,
             "name": "Armindo Sieb",
             "position": "Offence",
@@ -141,6 +127,34 @@
             "position": "Offence",
             "dateOfBirth": null,
             "nationality": "Australia"
+        },
+        {
+            "id": 248678,
+            "name": "Maxim Dal",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-01-26",
+            "nationality": "Germany"
+        },
+        {
+            "id": 184973,
+            "name": "Nelson Weiper",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-03-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 150647,
+            "name": "Benedict Hollerbach",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-05-17",
+            "nationality": "Germany"
+        },
+        {
+            "id": 150433,
+            "name": "Niklas Tauer",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-02-17",
+            "nationality": "Germany"
         },
         {
             "id": 38394,
@@ -164,13 +178,6 @@
             "nationality": "France"
         },
         {
-            "id": 8220,
-            "name": "Edimilson Fernandes",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1996-04-15",
-            "nationality": "Switzerland"
-        },
-        {
             "id": 6826,
             "name": "Lennart Maloney",
             "position": "Defensive Midfield",
@@ -182,13 +189,6 @@
             "name": "Danny da Costa",
             "position": "Right-Back",
             "dateOfBirth": "1993-07-13",
-            "nationality": "Germany"
-        },
-        {
-            "id": 6664,
-            "name": "Marco Richter",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1997-11-24",
             "nationality": "Germany"
         },
         {
@@ -231,34 +231,6 @@
             "name": "Dominik Kohr",
             "position": "Defensive Midfield",
             "dateOfBirth": "1994-01-31",
-            "nationality": "Germany"
-        },
-        {
-            "id": 248678,
-            "name": "Maxim Dal",
-            "position": "Centre-Back",
-            "dateOfBirth": "2006-01-26",
-            "nationality": "Germany"
-        },
-        {
-            "id": 150647,
-            "name": "Benedict Hollerbach",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-05-17",
-            "nationality": "Germany"
-        },
-        {
-            "id": 150433,
-            "name": "Niklas Tauer",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-02-17",
-            "nationality": "Germany"
-        },
-        {
-            "id": 99812,
-            "name": "Tom Krauß",
-            "position": "Central Midfield",
-            "dateOfBirth": "2001-06-22",
             "nationality": "Germany"
         }
     ],

@@ -7,7 +7,7 @@
     "nationality": "Senegal",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 9,
+    "shirtNumber": 23,
     "lastUpdated": "2024-09-02T09:59:12Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

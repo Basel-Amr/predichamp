@@ -25,38 +25,24 @@
         }
     ],
     "coach": {
-        "id": null,
-        "firstName": null,
-        "lastName": null,
-        "name": null,
-        "dateOfBirth": null,
-        "nationality": null,
+        "id": 10998,
+        "firstName": "Stefano",
+        "lastName": "Pioli",
+        "name": "Stefano Pioli",
+        "dateOfBirth": "1965-10-20",
+        "nationality": "Italy",
         "contract": {
-            "start": null,
-            "until": null
+            "start": "2025-07",
+            "until": "2028-06"
         }
     },
     "squad": [
-        {
-            "id": 2476,
-            "name": "Pietro Terracciano",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1990-03-08",
-            "nationality": "Italy"
-        },
         {
             "id": 3188,
             "name": "David De Gea",
             "position": "Goalkeeper",
             "dateOfBirth": "1990-11-07",
             "nationality": "Spain"
-        },
-        {
-            "id": 24293,
-            "name": "Oliver Christensen",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1999-03-22",
-            "nationality": "Denmark"
         },
         {
             "id": 189622,
@@ -94,24 +80,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 264777,
-            "name": "Lorenzo Vigiani",
-            "position": "Defence",
-            "dateOfBirth": "2004-01-06",
-            "nationality": "Italy"
-        },
-        {
             "id": 267944,
             "name": "Eddy Kouadio",
             "position": "Defence",
             "dateOfBirth": "2006-05-07",
-            "nationality": "Italy"
-        },
-        {
-            "id": 188308,
-            "name": "Costantino Favasuli",
-            "position": "Midfield",
-            "dateOfBirth": "2004-04-26",
             "nationality": "Italy"
         },
         {
@@ -129,11 +101,11 @@
             "nationality": "Bosnia-Herzegovina"
         },
         {
-            "id": 137875,
-            "name": "Eljon Toci",
+            "id": 3851,
+            "name": "Albert Guðmundsson",
             "position": "Offence",
-            "dateOfBirth": "2003-01-09",
-            "nationality": "Albania"
+            "dateOfBirth": "1997-06-15",
+            "nationality": "Iceland"
         },
         {
             "id": 151461,
@@ -143,52 +115,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 161370,
-            "name": "M'Bala Nzola",
-            "position": "Offence",
-            "dateOfBirth": "1996-08-18",
-            "nationality": "Angola"
-        },
-        {
-            "id": 179584,
-            "name": "Filippo Distefano",
-            "position": "Offence",
-            "dateOfBirth": "2003-08-28",
-            "nationality": "Italy"
-        },
-        {
             "id": 188590,
             "name": "Filippo Guidobaldi",
             "position": "Offence",
             "dateOfBirth": "2004-10-05",
-            "nationality": "Italy"
-        },
-        {
-            "id": 272056,
-            "name": "Tommaso Rubino",
-            "position": "Offence",
-            "dateOfBirth": "2006-11-10",
-            "nationality": "Italy"
-        },
-        {
-            "id": 157246,
-            "name": "Dimo Krastev",
-            "position": "Centre-Back",
-            "dateOfBirth": "2003-02-10",
-            "nationality": "Bulgaria"
-        },
-        {
-            "id": 153979,
-            "name": "Gino Infantino",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-05-19",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 136628,
-            "name": "Mattia Viti",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-01-24",
             "nationality": "Italy"
         },
         {
@@ -204,6 +134,13 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "2001-06-23",
             "nationality": "Argentina"
+        },
+        {
+            "id": 97879,
+            "name": "Nicolò Fagioli",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-02-12",
+            "nationality": "Italy"
         },
         {
             "id": 16474,
@@ -283,24 +220,10 @@
             "nationality": "Germany"
         },
         {
-            "id": 1792,
-            "name": "Riccardo Sottil",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-06-03",
-            "nationality": "Italy"
-        },
-        {
             "id": 1778,
             "name": "Luca Ranieri",
             "position": "Centre-Back",
             "dateOfBirth": "1999-04-23",
-            "nationality": "Italy"
-        },
-        {
-            "id": 1776,
-            "name": "Cristiano Biraghi",
-            "position": "Left-Back",
-            "dateOfBirth": "1992-09-01",
             "nationality": "Italy"
         },
         {
@@ -311,25 +234,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 250893,
-            "name": "Maat Daniel Caprini",
-            "position": "Left Winger",
-            "dateOfBirth": "2006-02-11",
-            "nationality": "Italy"
-        },
-        {
             "id": 250887,
             "name": "Fallou Sene",
             "position": "Centre-Forward",
             "dateOfBirth": "2004-08-21",
             "nationality": "Senegal"
-        },
-        {
-            "id": 250867,
-            "name": "Christian Biagetti",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-03-10",
-            "nationality": "Italy"
         },
         {
             "id": 217391,
@@ -339,31 +248,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 210811,
-            "name": "Matias Moreno",
-            "position": "Centre-Back",
-            "dateOfBirth": "2003-09-24",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 204348,
-            "name": "Michael Kayode",
-            "position": "Right-Back",
-            "dateOfBirth": "2004-07-10",
-            "nationality": "Italy"
-        },
-        {
             "id": 192307,
             "name": "Cher Ndour",
             "position": "Central Midfield",
             "dateOfBirth": "2004-07-27",
-            "nationality": "Italy"
-        },
-        {
-            "id": 190825,
-            "name": "Lorenzo Amatucci",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-02-05",
             "nationality": "Italy"
         },
         {
@@ -381,17 +269,31 @@
             "nationality": "Morocco"
         },
         {
-            "id": 169089,
-            "name": "Nicolas Valentini",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-04-06",
-            "nationality": "Argentina"
-        },
-        {
             "id": 157799,
             "name": "Alessandro Bianco",
             "position": "Central Midfield",
             "dateOfBirth": "2002-10-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 157246,
+            "name": "Dimo Krastev",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-02-10",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 153979,
+            "name": "Gino Infantino",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-05-19",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 136628,
+            "name": "Mattia Viti",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-01-24",
             "nationality": "Italy"
         }
     ],

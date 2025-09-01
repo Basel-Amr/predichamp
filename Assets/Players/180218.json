@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 2,
+    "shirtNumber": 9,
     "lastUpdated": "2025-02-18T17:35:53Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-01",
+            "start": "2025-07",
             "until": "2031-06"
         }
     }

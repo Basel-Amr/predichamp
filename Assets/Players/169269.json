@@ -11,40 +11,33 @@
     "lastUpdated": "2024-11-06T09:43:12Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 115,
-        "name": "Udinese Calcio",
-        "shortName": "Udinese",
-        "tla": "UDI",
-        "crest": "https://crests.football-data.org/115.png",
-        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
-        "website": "http://www.udinese.it",
-        "founded": 1896,
-        "clubColors": "White / Black",
-        "venue": "Dacia Arena",
+        "id": 605,
+        "name": "Fraport-TAV Antalyaspor",
+        "shortName": "Antalyaspor",
+        "tla": "ANT",
+        "crest": "https://crests.football-data.org/605.png",
+        "address": "Meltem Mahallesi, 3802 Sokak No. 4, Hasan Subaşı Tesisleri Antalya 07030",
+        "website": "http://www.antalyaspor.com.tr",
+        "founded": 1966,
+        "clubColors": "Red / White",
+        "venue": "Antalya 100.yıl Stadyumu",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-01",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2027-06"
         }
     }
 }

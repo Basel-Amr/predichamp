@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 10,
+    "shirtNumber": 63,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

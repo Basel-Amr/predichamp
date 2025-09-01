@@ -45,10 +45,24 @@
             "nationality": "Norway"
         },
         {
+            "id": 42871,
+            "name": "Odisseas Vlachodimos",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-04-26",
+            "nationality": "Greece"
+        },
+        {
             "id": 79533,
             "name": "Álvaro Fernández",
             "position": "Goalkeeper",
             "dateOfBirth": "1998-04-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 161304,
+            "name": "Rafa Romero",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-08-07",
             "nationality": "Spain"
         },
         {
@@ -80,10 +94,31 @@
             "nationality": "Spain"
         },
         {
+            "id": 213279,
+            "name": "Manuel Bueno",
+            "position": "Midfield",
+            "dateOfBirth": "2004-07-27",
+            "nationality": "Spain"
+        },
+        {
+            "id": 226950,
+            "name": "Miguel Ángel Sierra",
+            "position": "Midfield",
+            "dateOfBirth": "2004-07-14",
+            "nationality": "Spain"
+        },
+        {
             "id": 264218,
             "name": "Pablo Rivera",
             "position": "Midfield",
             "dateOfBirth": "2004-01-11",
+            "nationality": "Spain"
+        },
+        {
+            "id": 283816,
+            "name": "Eduardo Altozano",
+            "position": "Midfield",
+            "dateOfBirth": "2006-10-17",
             "nationality": "Spain"
         },
         {
@@ -92,6 +127,97 @@
             "position": "Offence",
             "dateOfBirth": "2002-10-04",
             "nationality": "Spain"
+        },
+        {
+            "id": 98223,
+            "name": "Lucien Agoume",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2002-02-09",
+            "nationality": "France"
+        },
+        {
+            "id": 82132,
+            "name": "Akor Adams",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-01-29",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 45449,
+            "name": "Marcão",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-06-05",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 38625,
+            "name": "Chidera Ejuke",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-01-02",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 32324,
+            "name": "Alfonso González",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-05-04",
+            "nationality": "Spain"
+        },
+        {
+            "id": 31913,
+            "name": "Ruben Vargas",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-08-05",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 21410,
+            "name": "Nemanja Gudelj",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1991-11-16",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 21385,
+            "name": "Gabriel Suazo",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-08-09",
+            "nationality": "Chile"
+        },
+        {
+            "id": 16275,
+            "name": "Djibril Sow",
+            "position": "Central Midfield",
+            "dateOfBirth": "1997-02-06",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 10210,
+            "name": "Adnan Januzaj",
+            "position": "Right Winger",
+            "dateOfBirth": "1995-02-05",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 8128,
+            "name": "Dodi Lukebakio",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-09-24",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 4098,
+            "name": "Rafael Mir",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1997-06-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 3400,
+            "name": "Kelechi Iheanacho",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-10-03",
+            "nationality": "Nigeria"
         },
         {
             "id": 221295,
@@ -141,97 +267,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2002-06-07",
             "nationality": "France"
-        },
-        {
-            "id": 98223,
-            "name": "Lucien Agoume",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2002-02-09",
-            "nationality": "France"
-        },
-        {
-            "id": 82132,
-            "name": "Akor Adams",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2000-01-29",
-            "nationality": "Nigeria"
-        },
-        {
-            "id": 80890,
-            "name": "Federico Gattoni",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-02-16",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 45449,
-            "name": "Marcão",
-            "position": "Centre-Back",
-            "dateOfBirth": "1996-06-05",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 38625,
-            "name": "Chidera Ejuke",
-            "position": "Left Winger",
-            "dateOfBirth": "1998-01-02",
-            "nationality": "Nigeria"
-        },
-        {
-            "id": 32324,
-            "name": "Alfonso González",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-05-04",
-            "nationality": "Spain"
-        },
-        {
-            "id": 31913,
-            "name": "Ruben Vargas",
-            "position": "Left Winger",
-            "dateOfBirth": "1998-08-05",
-            "nationality": "Switzerland"
-        },
-        {
-            "id": 21410,
-            "name": "Nemanja Gudelj",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1991-11-16",
-            "nationality": "Serbia"
-        },
-        {
-            "id": 16275,
-            "name": "Djibril Sow",
-            "position": "Central Midfield",
-            "dateOfBirth": "1997-02-06",
-            "nationality": "Switzerland"
-        },
-        {
-            "id": 10210,
-            "name": "Adnan Januzaj",
-            "position": "Right Winger",
-            "dateOfBirth": "1995-02-05",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 8128,
-            "name": "Dodi Lukebakio",
-            "position": "Right Winger",
-            "dateOfBirth": "1997-09-24",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 4098,
-            "name": "Rafael Mir",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-06-18",
-            "nationality": "Spain"
-        },
-        {
-            "id": 3400,
-            "name": "Kelechi Iheanacho",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1996-10-03",
-            "nationality": "Nigeria"
         }
     ],
     "staff": [],

@@ -7,37 +7,37 @@
     "nationality": "Norway",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 5,
     "lastUpdated": "2024-10-10T09:42:53Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 529,
-        "name": "Stade Rennais FC 1901",
-        "shortName": "Stade Rennais",
-        "tla": "REN",
-        "crest": "https://crests.football-data.org/529.png",
-        "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
-        "website": "http://www.staderennais.com",
-        "founded": 1901,
-        "clubColors": "Red / Black",
-        "venue": "Roazhon Park",
+        "id": 107,
+        "name": "Genoa CFC",
+        "shortName": "Genoa",
+        "tla": "GEN",
+        "crest": "https://crests.football-data.org/107.png",
+        "address": "Via Ronchi, 67 Genova 16155",
+        "website": "http://www.genoacfc.it",
+        "founded": 1893,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Stadio Comunale Luigi Ferraris",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/SA.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

@@ -11,40 +11,33 @@
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 7,
-        "name": "Hamburger SV",
-        "shortName": "HSV",
-        "tla": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "address": "Sylvesterallee 7 Hamburg 22525",
-        "website": "http://www.hsv.de",
-        "founded": 1887,
-        "clubColors": "White / Red / Blue",
-        "venue": "Volksparkstadion",
+        "id": 96,
+        "name": "Real Sporting de Gijón",
+        "shortName": "Gijón",
+        "tla": "SPO",
+        "crest": "https://crests.football-data.org/96.png",
+        "address": "Camino de Mareo a Granda, 645 Gijon 33390",
+        "website": "http://www.realsporting.com",
+        "founded": 1905,
+        "clubColors": "Red / White",
+        "venue": "Estadio Municipal El Molinón",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 103,
-        "name": "Bologna FC 1909",
-        "shortName": "Bologna",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/103.png",
-        "address": "Via Casteldebole 10 Bologna 40132",
-        "website": "http://www.bolognafc.it",
-        "founded": 1909,
-        "clubColors": "Red / Blue / White",
-        "venue": "Stadio Renato Dall'Ara",
+        "id": 7634,
+        "name": "Aurora Pro Patria 1919",
+        "shortName": "Pro Patria",
+        "tla": "PAT",
+        "crest": "https://crests.football-data.org/7634.png",
+        "address": "Via Cà Bianca 42 Busto Arsizio 21052",
+        "website": "http://www.aurorapropatria1919.com/",
+        "founded": 1919,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Carlo Speroni",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

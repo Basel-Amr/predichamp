@@ -7,7 +7,7 @@
     "nationality": "Netherlands",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 7,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 94,
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "tla": "VIL",
-        "crest": "https://crests.football-data.org/94.png",
-        "address": "Camino Miralcamp, s/n Villarreal 12540",
-        "website": "http://www.villarrealcf.es",
-        "founded": 1923,
-        "clubColors": "Yellow / Blue",
-        "venue": "Estadio de la Cerámica",
+        "id": 95,
+        "name": "Valencia CF",
+        "shortName": "Valencia",
+        "tla": "VAL",
+        "crest": "https://crests.football-data.org/95.png",
+        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
+        "website": "http://www.valenciacf.com",
+        "founded": 1919,
+        "clubColors": "White / Orange / Black",
+        "venue": "Estadio de Mestalla",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2028-06"
         }
     }
 }

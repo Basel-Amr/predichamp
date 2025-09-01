@@ -7,7 +7,7 @@
     "nationality": "Kosovo",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 23,
+    "shirtNumber": 24,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 17,
-        "name": "SC Freiburg",
-        "shortName": "Freiburg",
-        "tla": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
-        "address": "Schwarzwaldstraße 193 Freiburg 79117",
-        "website": "http://www.scfreiburg.com",
-        "founded": 1912,
+        "id": 24,
+        "name": "TSV Fortuna 95 Düsseldorf",
+        "shortName": "Düsseldorf",
+        "tla": "F95",
+        "crest": "https://crests.football-data.org/24.png",
+        "address": "Flinger Broich 87 Düsseldorf 40235",
+        "website": "http://www.f95.de",
+        "founded": 1911,
         "clubColors": "Red / White",
-        "venue": "Schwarzwald-Stadion",
+        "venue": "Merkur Spielarena",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,16 +35,16 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

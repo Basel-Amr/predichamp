@@ -1,0 +1,50 @@
+{
+    "id": 165126,
+    "name": "José Bica",
+    "firstName": "",
+    "lastName": "Bica",
+    "dateOfBirth": "2003-06-16",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2024-11-02T09:43:06Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5543,
+        "name": "Vitória SC",
+        "shortName": "Vitória SC",
+        "tla": "GUI",
+        "crest": "https://crests.football-data.org/5543.png",
+        "address": "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914",
+        "website": "http://www.vitoriasc.pt",
+        "founded": 1922,
+        "clubColors": "White / Black",
+        "venue": "Estádio Dom Afonso Henriques",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

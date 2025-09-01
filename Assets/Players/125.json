@@ -7,44 +7,37 @@
     "nationality": "Argentina",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": 10,
+    "shirtNumber": 7,
     "lastUpdated": "2024-11-28T13:36:10Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2149,
+            "name": "Mexico",
+            "code": "MEX",
+            "flag": "https://crests.football-data.org/mexico.svg"
         },
-        "id": 78,
-        "name": "Club Atlético de Madrid",
-        "shortName": "Atleti",
-        "tla": "ATL",
-        "crest": "https://crests.football-data.org/78.png",
-        "address": "Paseo Virgen del Puerto, 67 Madrid 28005",
-        "website": "http://www.clubatleticodemadrid.com",
-        "founded": 1903,
-        "clubColors": "Red / White / Blue",
-        "venue": "Estadio Wanda Metropolitano",
+        "id": 5799,
+        "name": "Tigres de la UANL",
+        "shortName": "Tigres UANL",
+        "tla": "TIG",
+        "crest": "https://crests.football-data.org/5799.png",
+        "address": "Av Alfonso Reyes s/n, Esq. Nogalar San Nicolás de los Garza 66455",
+        "website": "http://www.tigres.com.mx",
+        "founded": 1960,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio Universitario de Nuevo León",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2113,
+                "name": "Liga MX",
+                "code": "LMX",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2018-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2025-12"
         }
     }
 }

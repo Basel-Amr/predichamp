@@ -40,6 +40,13 @@
                 "code": "CIT",
                 "type": "CUP",
                 "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {

@@ -7,37 +7,44 @@
     "nationality": "France",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 1,
+    "shirtNumber": 40,
     "lastUpdated": "2024-10-09T09:42:54Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2093,
+            "name": "Greece",
+            "code": "GRC",
+            "flag": "https://crests.football-data.org/775.svg"
         },
-        "id": 543,
-        "name": "FC Nantes",
-        "shortName": "Nantes",
-        "tla": "NAN",
-        "crest": "https://crests.football-data.org/543.png",
-        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
-        "website": "http://www.fcnantes.com",
-        "founded": 1943,
-        "clubColors": "Green / Yellow",
-        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "id": 646,
+        "name": "Panathinaikos AO",
+        "shortName": "Panathinaikos",
+        "tla": "PAO",
+        "crest": "https://crests.football-data.org/646.png",
+        "address": "10 Ziridi Street, Maroussi Athína 15123",
+        "website": "http://www.pao.gr",
+        "founded": 1891,
+        "clubColors": "Green / White",
+        "venue": "Olympiako Stadio Spyros Louis",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2132,
+                "name": "Super League",
+                "code": "GSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2019-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

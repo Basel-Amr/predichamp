@@ -66,6 +66,20 @@
             "nationality": "England"
         },
         {
+            "id": 274963,
+            "name": "Julian Eyestone",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-04-21",
+            "nationality": "USA"
+        },
+        {
+            "id": 281454,
+            "name": "Reggie Rose",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-04-26",
+            "nationality": "England"
+        },
+        {
             "id": 191077,
             "name": "Romelle Donovan",
             "position": "Midfield",
@@ -78,6 +92,13 @@
             "position": "Offence",
             "dateOfBirth": "2001-06-26",
             "nationality": "Brazil"
+        },
+        {
+            "id": 123286,
+            "name": "Kevin Schade",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-11-27",
+            "nationality": "Germany"
         },
         {
             "id": 115642,
@@ -115,13 +136,6 @@
             "nationality": "Nigeria"
         },
         {
-            "id": 24102,
-            "name": "Christian Nørgaard",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1994-03-10",
-            "nationality": "Denmark"
-        },
-        {
             "id": 16068,
             "name": "Kristoffer Ajer",
             "position": "Centre-Back",
@@ -150,13 +164,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 8626,
-            "name": "Bryan Mbeumo",
-            "position": "Right Winger",
-            "dateOfBirth": "1999-08-07",
-            "nationality": "Cameroon"
-        },
-        {
             "id": 7720,
             "name": "Sepp van den Berg",
             "position": "Centre-Back",
@@ -178,6 +185,13 @@
             "nationality": "Jamaica"
         },
         {
+            "id": 3320,
+            "name": "Jordan Henderson",
+            "position": "Central Midfield",
+            "dateOfBirth": "1990-06-17",
+            "nationality": "England"
+        },
+        {
             "id": 612,
             "name": "Yoane Wissa",
             "position": "Centre-Forward",
@@ -190,13 +204,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2005-10-09",
             "nationality": "England"
-        },
-        {
-            "id": 221783,
-            "name": "Ji-soo Kim",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-12-24",
-            "nationality": "South Korea"
         },
         {
             "id": 218517,
@@ -227,11 +234,11 @@
             "nationality": "Ukraine"
         },
         {
-            "id": 188818,
-            "name": "Ryan Trevitt",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-03-12",
-            "nationality": "England"
+            "id": 204348,
+            "name": "Michael Kayode",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-07-10",
+            "nationality": "Italy"
         },
         {
             "id": 171965,
@@ -260,13 +267,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "2001-05-08",
             "nationality": "England"
-        },
-        {
-            "id": 123286,
-            "name": "Kevin Schade",
-            "position": "Left Winger",
-            "dateOfBirth": "2001-11-27",
-            "nationality": "Germany"
         }
     ],
     "staff": [],

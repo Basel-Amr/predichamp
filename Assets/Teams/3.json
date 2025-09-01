@@ -52,11 +52,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 6696,
-            "name": "Lukáš Hrádecký",
+            "id": 6931,
+            "name": "Janis Blaswich",
             "position": "Goalkeeper",
-            "dateOfBirth": "1989-11-24",
-            "nationality": "Finland"
+            "dateOfBirth": "1991-05-02",
+            "nationality": "Germany"
         },
         {
             "id": 9923,
@@ -66,46 +66,18 @@
             "nationality": "Netherlands"
         },
         {
-            "id": 136350,
-            "name": "Matej Kovar",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2000-05-17",
-            "nationality": "Czech Republic"
-        },
-        {
-            "id": 278461,
-            "name": "Simeon Rapsch",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2008-02-09",
-            "nationality": "Germany"
-        },
-        {
-            "id": 273033,
-            "name": "Ben Hawighorst",
-            "position": "Defence",
-            "dateOfBirth": "2008-03-01",
-            "nationality": "Germany"
-        },
-        {
-            "id": 274021,
-            "name": "Andrea Natali",
-            "position": "Defence",
-            "dateOfBirth": "2008-01-28",
-            "nationality": "Italy"
-        },
-        {
-            "id": 220601,
-            "name": "Abdoulaye Faye",
-            "position": "Midfield",
-            "dateOfBirth": "2005-01-01",
-            "nationality": "Senegal"
-        },
-        {
             "id": 272949,
             "name": "Axel Tape",
             "position": "Midfield",
             "dateOfBirth": "2007-08-10",
             "nationality": "France"
+        },
+        {
+            "id": 283302,
+            "name": "Jeremiah Mensah",
+            "position": "Midfield",
+            "dateOfBirth": "2008-02-21",
+            "nationality": "Germany"
         },
         {
             "id": 250453,
@@ -115,11 +87,18 @@
             "nationality": "Argentina"
         },
         {
-            "id": 244862,
-            "name": "Ken Izekor",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2007-05-24",
+            "id": 272311,
+            "name": "Farid Alfa-Ruprecht",
+            "position": "Offence",
+            "dateOfBirth": "2006-03-28",
             "nationality": "Germany"
+        },
+        {
+            "id": 274045,
+            "name": "Christian Kofane",
+            "position": "Offence",
+            "dateOfBirth": "2006-07-26",
+            "nationality": "Cameroon"
         },
         {
             "id": 202532,
@@ -127,13 +106,6 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "2005-11-24",
             "nationality": "Algeria"
-        },
-        {
-            "id": 191421,
-            "name": "Gustavo Puerta",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-07-23",
-            "nationality": "Colombia"
         },
         {
             "id": 178860,
@@ -157,11 +129,25 @@
             "nationality": "England"
         },
         {
+            "id": 167793,
+            "name": "Ernest Poku",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-01-28",
+            "nationality": "Netherlands"
+        },
+        {
             "id": 144715,
             "name": "Nathan Tella",
             "position": "Right Midfield",
             "dateOfBirth": "1999-07-05",
             "nationality": "Nigeria"
+        },
+        {
+            "id": 144470,
+            "name": "Malik Tillman",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-05-28",
+            "nationality": "USA"
         },
         {
             "id": 137047,
@@ -232,13 +218,6 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "1992-07-14",
             "nationality": "Germany"
-        },
-        {
-            "id": 3477,
-            "name": "Granit Xhaka",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1992-09-27",
-            "nationality": "Switzerland"
         },
         {
             "id": 1826,

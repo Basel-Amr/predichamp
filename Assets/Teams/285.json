@@ -38,17 +38,31 @@
     },
     "squad": [
         {
-            "id": 15842,
-            "name": "Axel Werner",
+            "id": 23810,
+            "name": "Matías Dituro",
             "position": "Goalkeeper",
-            "dateOfBirth": "1996-02-28",
+            "dateOfBirth": "1987-05-08",
             "nationality": "Argentina"
+        },
+        {
+            "id": 175982,
+            "name": "Alejandro Iturbe",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-09-02",
+            "nationality": "Spain"
         },
         {
             "id": 32453,
             "name": "Jairo Izquierdo",
             "position": "Defence",
             "dateOfBirth": "1993-10-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 33318,
+            "name": "Pedro Bigas",
+            "position": "Defence",
+            "dateOfBirth": "1990-05-15",
             "nationality": "Spain"
         },
         {
@@ -66,6 +80,13 @@
             "nationality": "Austria"
         },
         {
+            "id": 151557,
+            "name": "Víctor Chust",
+            "position": "Defence",
+            "dateOfBirth": "2000-03-05",
+            "nationality": "Spain"
+        },
+        {
             "id": 172388,
             "name": "John Chetauya",
             "position": "Defence",
@@ -73,24 +94,10 @@
             "nationality": "Spain"
         },
         {
-            "id": 203463,
-            "name": "Nicolás Fernández Marcau",
-            "position": "Defence",
-            "dateOfBirth": "2000-01-11",
-            "nationality": "Argentina"
-        },
-        {
             "id": 211835,
             "name": "Álvaro Núñez",
             "position": "Defence",
             "dateOfBirth": "2000-07-07",
-            "nationality": "Spain"
-        },
-        {
-            "id": 264422,
-            "name": "Matia Barzic",
-            "position": "Defence",
-            "dateOfBirth": "2004-05-31",
             "nationality": "Spain"
         },
         {
@@ -101,11 +108,25 @@
             "nationality": "Spain"
         },
         {
+            "id": 32281,
+            "name": "Josán Fernández",
+            "position": "Midfield",
+            "dateOfBirth": "1989-12-03",
+            "nationality": "Spain"
+        },
+        {
             "id": 159647,
             "name": "Marc Aguado",
             "position": "Midfield",
             "dateOfBirth": "2000-02-22",
             "nationality": "Spain"
+        },
+        {
+            "id": 170459,
+            "name": "Federico Redondo",
+            "position": "Midfield",
+            "dateOfBirth": "2003-01-18",
+            "nationality": "Argentina"
         },
         {
             "id": 189617,
@@ -141,6 +162,34 @@
             "position": "Left Winger",
             "dateOfBirth": "2003-04-15",
             "nationality": "Spain"
+        },
+        {
+            "id": 189369,
+            "name": "Alvaro Rodriguez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-07-14",
+            "nationality": "Spain"
+        },
+        {
+            "id": 165143,
+            "name": "Martim Neto",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-01-14",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 137485,
+            "name": "Germán Valera",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-03-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 117813,
+            "name": "Léo Pétrot",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-04-15",
+            "nationality": "France"
         }
     ],
     "staff": [],

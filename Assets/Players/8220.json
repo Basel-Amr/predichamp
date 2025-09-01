@@ -7,44 +7,37 @@
     "nationality": "Switzerland",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 6,
     "lastUpdated": "2024-11-05T12:57:18Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 15,
-        "name": "1. FSV Mainz 05",
-        "shortName": "Mainz",
-        "tla": "M05",
-        "crest": "https://crests.football-data.org/15.png",
-        "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
-        "website": "http://www.mainz05.de",
-        "founded": 1905,
-        "clubColors": "Red / White",
-        "venue": "Opel Arena",
+        "id": 1871,
+        "name": "BSC Young Boys",
+        "shortName": "Young Boys",
+        "tla": "YOB",
+        "crest": "https://crests.football-data.org/1871.png",
+        "address": "Postfach 61 Bern 3000",
+        "website": "http://www.bscyb.ch",
+        "founded": 1898,
+        "clubColors": "Yellow / Black",
+        "venue": "Wankdorfstadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

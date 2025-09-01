@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 103,
-        "name": "Bologna FC 1909",
-        "shortName": "Bologna",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/103.png",
-        "address": "Via Casteldebole 10 Bologna 40132",
-        "website": "http://www.bolognafc.it",
-        "founded": 1909,
-        "clubColors": "Red / Blue / White",
-        "venue": "Stadio Renato Dall'Ara",
+        "id": 7643,
+        "name": "SSD Potenza Calcio",
+        "shortName": "Potenza",
+        "tla": "POT",
+        "crest": "https://crests.football-data.org/7643.png",
+        "address": "Via Nazario Sauro 124 Potenza 85100",
+        "website": "http://calciopotenza.eu/",
+        "founded": 2012,
+        "clubColors": "Red / Blue",
+        "venue": "Stadio Comunale Alfredo Viviani",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2164,
+                "name": "Serie C - Girone C",
+                "code": "ISCC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {

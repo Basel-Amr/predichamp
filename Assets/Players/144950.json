@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": 42,
+    "shirtNumber": 24,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 98,
-        "name": "AC Milan",
-        "shortName": "Milan",
-        "tla": "MIL",
-        "crest": "https://crests.football-data.org/98.png",
-        "address": "Via Filippo Turati 3 Milano 20121",
-        "website": "http://www.acmilan.com",
-        "founded": 1899,
-        "clubColors": "Red / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 457,
+        "name": "US Cremonese",
+        "shortName": "Cremonese",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/457.png",
+        "address": "Via Persico, 19 Cremona 26100",
+        "website": "http://www.uscremonese.it",
+        "founded": 1903,
+        "clubColors": "Red / Grey",
+        "venue": "Stadio Giovanni Zin",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

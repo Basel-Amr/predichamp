@@ -7,7 +7,7 @@
     "nationality": "Poland",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 99,
     "lastUpdated": "2023-07-30T22:13:16Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 5902,
+        "name": "FC Südtirol",
+        "shortName": "Südtirol",
+        "tla": "SUD",
+        "crest": "https://crests.football-data.org/5902.png",
+        "address": "Via Vintler, 34 Bressanone 39042",
+        "website": "http://www.fc-suedtirol.com",
+        "founded": 1974,
+        "clubColors": "White / Red",
+        "venue": "Stadio Marco Druso",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-08",
+            "until": "2025-06"
         }
     }
 }

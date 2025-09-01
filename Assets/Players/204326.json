@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": 17,
+    "shirtNumber": 8,
     "lastUpdated": "2023-06-02T09:55:35Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 545,
-        "name": "FC Metz",
-        "shortName": "FC Metz",
-        "tla": "FCM",
-        "crest": "https://crests.football-data.org/545.png",
-        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
-        "website": "http://www.fcmetz.com",
-        "founded": 1919,
-        "clubColors": "Red / Blue",
-        "venue": "Stade Saint-Symphorien",
+        "id": 6283,
+        "name": "US Boulogne Côte d'Opale",
+        "shortName": "Boulogne",
+        "tla": "USB",
+        "crest": "https://crests.football-data.org/6283.png",
+        "address": "Complexe sportif de la Waroquerie Boulogne-sur-Mer 62206",
+        "website": "http://www.usbco.com",
+        "founded": 1898,
+        "clubColors": "Red / Black / Black",
+        "venue": "Stade de la Libération",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

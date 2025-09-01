@@ -7,44 +7,44 @@
     "nationality": "Brazil",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": 22,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
         },
-        "id": 98,
-        "name": "AC Milan",
-        "shortName": "Milan",
-        "tla": "MIL",
-        "crest": "https://crests.football-data.org/98.png",
-        "address": "Via Filippo Turati 3 Milano 20121",
-        "website": "http://www.acmilan.com",
-        "founded": 1899,
-        "clubColors": "Red / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 1783,
+        "name": "CR Flamengo",
+        "shortName": "Flamengo",
+        "tla": "FLA",
+        "crest": "https://crests.football-data.org/1783.png",
+        "address": "null Rio de Janeiro, RJ null",
+        "website": "https://www.flamengo.com.br/pagina-inicial-basquete",
+        "founded": 1919,
+        "clubColors": "Red / Black / White",
+        "venue": "Estadio Jornalista Mário Filho",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
             },
             {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2028-12"
         }
     }
 }

@@ -7,37 +7,37 @@
     "nationality": "Spain",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 4,
+    "shirtNumber": 36,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 92,
-        "name": "Real Sociedad de Fútbol",
-        "shortName": "Real Sociedad",
-        "tla": "RSO",
-        "crest": "https://crests.football-data.org/92.png",
-        "address": "Anoeta Pasalekua, 1 San Sebastián 20014",
-        "website": "http://www.realsociedad.com",
-        "founded": 1903,
-        "clubColors": "Blue / White",
-        "venue": "Estadio Municipal de Anoeta",
+        "id": 57,
+        "name": "Arsenal FC",
+        "shortName": "Arsenal",
+        "tla": "ARS",
+        "crest": "https://crests.football-data.org/57.png",
+        "address": "75 Drayton Park London N5 1BU",
+        "website": "http://www.arsenal.com",
+        "founded": 1886,
+        "clubColors": "Red / White",
+        "venue": "Emirates Stadium",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/PL.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

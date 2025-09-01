@@ -59,13 +59,6 @@
             "nationality": "Poland"
         },
         {
-            "id": 170067,
-            "name": "Philipp Schulze",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2003-01-29",
-            "nationality": "Germany"
-        },
-        {
             "id": 254719,
             "name": "Jakub Zieliński",
             "position": "Goalkeeper",
@@ -80,6 +73,20 @@
             "nationality": "Slovakia"
         },
         {
+            "id": 202533,
+            "name": "David Odogu",
+            "position": "Defence",
+            "dateOfBirth": "2006-06-03",
+            "nationality": "Germany"
+        },
+        {
+            "id": 250576,
+            "name": "Mathys Angély",
+            "position": "Defence",
+            "dateOfBirth": "2007-04-21",
+            "nationality": "France"
+        },
+        {
             "id": 24236,
             "name": "Andreas Skov Olsen",
             "position": "Midfield",
@@ -87,11 +94,11 @@
             "nationality": "Denmark"
         },
         {
-            "id": 122265,
-            "name": "Bartol Franjić",
+            "id": 212727,
+            "name": "Bence Dárdai",
             "position": "Midfield",
-            "dateOfBirth": "2000-01-14",
-            "nationality": "Croatia"
+            "dateOfBirth": "2006-01-24",
+            "nationality": "Hungary"
         },
         {
             "id": 177590,
@@ -101,11 +108,11 @@
             "nationality": "Greece"
         },
         {
-            "id": 264452,
-            "name": "Jonathan Akaegbobi",
+            "id": 180827,
+            "name": "Mohammed Amoura",
             "position": "Offence",
-            "dateOfBirth": "2006-04-25",
-            "nationality": "Germany"
+            "dateOfBirth": "2000-05-09",
+            "nationality": "Algeria"
         },
         {
             "id": 279922,
@@ -171,6 +178,20 @@
             "nationality": "Germany"
         },
         {
+            "id": 115078,
+            "name": "Vinícius Souza",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-06-17",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 81973,
+            "name": "Jesper Lindstrøm",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-02-29",
+            "nationality": "Denmark"
+        },
+        {
             "id": 23214,
             "name": "Lovro Majer",
             "position": "Attacking Midfield",
@@ -211,13 +232,6 @@
             "position": "Right-Back",
             "dateOfBirth": "1997-05-20",
             "nationality": "Denmark"
-        },
-        {
-            "id": 8373,
-            "name": "Nicolas Cozza",
-            "position": "Left-Back",
-            "dateOfBirth": "1999-01-08",
-            "nationality": "France"
         },
         {
             "id": 7568,

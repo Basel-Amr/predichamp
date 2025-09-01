@@ -7,36 +7,36 @@
     "nationality": "Italy",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 4,
+    "shirtNumber": 5,
     "lastUpdated": "2024-08-12T11:57:14Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 516,
-        "name": "Olympique de Marseille",
-        "shortName": "Marseille",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/516.png",
-        "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
-        "website": "http://www.om.net",
-        "founded": 1898,
-        "clubColors": "White / Blue",
-        "venue": "Orange Vélodrome",
+        "id": 87,
+        "name": "Rayo Vallecano de Madrid",
+        "shortName": "Rayo Vallecano",
+        "tla": "RAY",
+        "crest": "https://crests.football-data.org/87.png",
+        "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+        "website": "http://www.rayovallecano.es",
+        "founded": 1924,
+        "clubColors": "White / Red",
+        "venue": "Estadio del Rayo Vallecano",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2025-01",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

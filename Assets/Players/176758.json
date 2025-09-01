@@ -7,37 +7,37 @@
     "nationality": "Spain",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 16,
+    "shirtNumber": 4,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 113,
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "tla": "NAP",
-        "crest": "https://crests.football-data.org/113.png",
-        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-        "website": "http://www.sscnapoli.it",
-        "founded": 1904,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio San Paolo",
+        "id": 94,
+        "name": "Villarreal CF",
+        "shortName": "Villarreal",
+        "tla": "VIL",
+        "crest": "https://crests.football-data.org/94.png",
+        "address": "Camino Miralcamp, s/n Villarreal 12540",
+        "website": "http://www.villarrealcf.es",
+        "founded": 1923,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estadio de la Cerámica",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2029-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

@@ -1,0 +1,225 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 10340,
+    "name": "AVS",
+    "shortName": "AVS",
+    "tla": "AVS",
+    "crest": "https://crests.football-data.org/10340.png",
+    "address": "null null null",
+    "website": null,
+    "founded": null,
+    "clubColors": null,
+    "venue": "Estádio do CD Aves",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 43713,
+        "firstName": "",
+        "lastName": "José Mota",
+        "name": "José Mota",
+        "dateOfBirth": "1964-02-25",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-05",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 45404,
+            "name": "Pedro Trigueira",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1988-01-04",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 124829,
+            "name": "João Gonçalves",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-11-05",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 169628,
+            "name": "Simão Bertelli",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-07-02",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 45278,
+            "name": "Kiki",
+            "position": "Defence",
+            "dateOfBirth": "1994-12-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 178441,
+            "name": "Cristian Castro",
+            "position": "Defence",
+            "dateOfBirth": "2001-01-25",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 178824,
+            "name": "Leonardo Rivas",
+            "position": "Defence",
+            "dateOfBirth": "2001-12-06",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 194165,
+            "name": "Aderlan",
+            "position": "Defence",
+            "dateOfBirth": "1989-04-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 273739,
+            "name": "Guillem Molina",
+            "position": "Defence",
+            "dateOfBirth": "2000-05-03",
+            "nationality": "Spain"
+        },
+        {
+            "id": 99922,
+            "name": "Ángel Algobia",
+            "position": "Midfield",
+            "dateOfBirth": "1999-06-23",
+            "nationality": "Spain"
+        },
+        {
+            "id": 102250,
+            "name": "Jaume Grau",
+            "position": "Midfield",
+            "dateOfBirth": "1997-05-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 192912,
+            "name": "Pedro Lima",
+            "position": "Midfield",
+            "dateOfBirth": "2003-03-27",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 243619,
+            "name": "Gustavo Mendonça",
+            "position": "Midfield",
+            "dateOfBirth": "2003-03-11",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 260034,
+            "name": "Tiago Galletto",
+            "position": "Midfield",
+            "dateOfBirth": null,
+            "nationality": "Spain"
+        },
+        {
+            "id": 2470,
+            "name": "Nenê",
+            "position": "Offence",
+            "dateOfBirth": "1983-07-28",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 151917,
+            "name": "Jordi Escobar",
+            "position": "Offence",
+            "dateOfBirth": "2002-02-10",
+            "nationality": "Spain"
+        },
+        {
+            "id": 179222,
+            "name": "Diego Duarte",
+            "position": "Offence",
+            "dateOfBirth": "2002-04-08",
+            "nationality": "Paraguay"
+        },
+        {
+            "id": 239151,
+            "name": "Talles Wander",
+            "position": "Offence",
+            "dateOfBirth": "2003-10-24",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 242230,
+            "name": "Edson Mucuana",
+            "position": "Offence",
+            "dateOfBirth": "2003-12-12",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 243586,
+            "name": "Balla Sangaré",
+            "position": "Offence",
+            "dateOfBirth": "2000-02-09",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 280041,
+            "name": "Guilherme Neiva",
+            "position": "Offence",
+            "dateOfBirth": "2001-03-15",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 281727,
+            "name": "Antonio Machado",
+            "position": "Offence",
+            "dateOfBirth": "2006-12-19",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 203426,
+            "name": "Babatunde Akinsola",
+            "position": "Left Winger",
+            "dateOfBirth": "2003-03-10",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 184249,
+            "name": "Sidi Bane",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-01-14",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 116188,
+            "name": "Gustavo Assunção",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-03-30",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 33864,
+            "name": "Kobamelo Kodisang",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-08-28",
+            "nationality": "South Africa"
+        },
+        {
+            "id": 15895,
+            "name": "Rafael  Barbosa",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1996-03-29",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2024-12-17T10:57:53Z"
+}

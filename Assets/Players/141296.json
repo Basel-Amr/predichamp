@@ -7,39 +7,32 @@
     "nationality": "France",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 90,
     "lastUpdated": "2023-07-30T16:42:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2016,
+            "name": "Austria",
+            "code": "AUT",
+            "flag": "https://crests.football-data.org/816.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 2014,
+        "name": "SK Rapid Wien",
+        "shortName": "Rapid Wien",
+        "tla": "RAP",
+        "crest": "https://crests.football-data.org/2014.png",
+        "address": "Keisslergasse 3 Wien 1140",
+        "website": "http://www.skrapid.at",
+        "founded": 1898,
+        "clubColors": "Green / White",
+        "venue": "Allianz Stadion",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2012,
+                "name": "Bundesliga",
+                "code": "ABL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": "https://crests.football-data.org/abl.png"
             }
         ],
         "contract": {

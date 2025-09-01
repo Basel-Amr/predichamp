@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 9118,
+        "name": "ASD Pineto Calcio",
+        "shortName": "Pineto Calcio",
+        "tla": "PIN",
+        "crest": "https://crests.football-data.org/9118.png",
+        "address": "Strada Provinciale per Atri Pineto 64025",
+        "website": "http://www.asdpinetocalcio.it",
+        "founded": 1962,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Comunale Mimmo Pavone",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2163,
+                "name": "Serie C - Girone B",
+                "code": "ISCB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {

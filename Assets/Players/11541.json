@@ -1,0 +1,43 @@
+{
+    "id": 11541,
+    "name": "Lucas João",
+    "firstName": "",
+    "lastName": "Lucas João",
+    "dateOfBirth": "1993-09-04",
+    "nationality": "Angola",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 19,
+    "lastUpdated": "2023-09-18T08:59:28Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png",
+        "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+        "website": "http://www.cdnacional.pt",
+        "founded": 1910,
+        "clubColors": "Black / White",
+        "venue": "Estádio da Madeira",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

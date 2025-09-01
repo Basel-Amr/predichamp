@@ -7,37 +7,37 @@
     "nationality": "Portugal",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 14,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:14Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2149,
+            "name": "Mexico",
+            "code": "MEX",
+            "flag": "https://crests.football-data.org/mexico.svg"
         },
-        "id": 90,
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "tla": "BET",
-        "crest": "https://crests.football-data.org/90.png",
-        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
-        "website": "http://www.realbetisbalompie.es",
-        "founded": 1907,
-        "clubColors": "Green / White",
-        "venue": "Estadio Benito Villamarín",
+        "id": 5781,
+        "name": "CF Pachuca",
+        "shortName": "Pachuca",
+        "tla": "PAC",
+        "crest": "https://crests.football-data.org/5781.png",
+        "address": "Blvd. Felipe Ángeles, Esq. Blvd. Rojo Gómez s/n, Santa Julia Pachuca 42080",
+        "website": "http://www.tuzos.com.mx",
+        "founded": 1900,
+        "clubColors": "White / Navy Blue",
+        "venue": "Estadio Hidalgo",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2113,
+                "name": "Liga MX",
+                "code": "LMX",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2018-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2025-12"
         }
     }
 }

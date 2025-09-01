@@ -52,10 +52,31 @@
             "nationality": "Belgium"
         },
         {
-            "id": 147896,
-            "name": "Lucas Chevalier",
+            "id": 29890,
+            "name": "Berke Özer",
             "position": "Goalkeeper",
-            "dateOfBirth": "2001-11-06",
+            "dateOfBirth": "2000-05-25",
+            "nationality": "Turkey"
+        },
+        {
+            "id": 192677,
+            "name": "Nathan Ngoy",
+            "position": "Defence",
+            "dateOfBirth": "2003-06-10",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 270793,
+            "name": "Isaac Cossier",
+            "position": "Defence",
+            "dateOfBirth": "2006-11-30",
+            "nationality": "France"
+        },
+        {
+            "id": 283794,
+            "name": "Maxima Goffi",
+            "position": "Defence",
+            "dateOfBirth": "2008-01-23",
             "nationality": "France"
         },
         {
@@ -73,101 +94,17 @@
             "nationality": "Iceland"
         },
         {
-            "id": 250942,
-            "name": "Vincent Burlet",
-            "position": "Left-Back",
-            "dateOfBirth": "2005-09-23",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 248780,
-            "name": "Trévis Dago",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-01-21",
+            "id": 275537,
+            "name": "Soriba Diaoune",
+            "position": "Offence",
+            "dateOfBirth": "2007-08-14",
             "nationality": "France"
         },
         {
-            "id": 221819,
-            "name": "Ayyoub Bouaddi",
-            "position": "Central Midfield",
-            "dateOfBirth": "2007-10-02",
-            "nationality": "France"
-        },
-        {
-            "id": 218468,
-            "name": "Ethan Mbappé",
-            "position": "Central Midfield",
-            "dateOfBirth": "2006-12-29",
-            "nationality": "France"
-        },
-        {
-            "id": 216223,
-            "name": "Ousmane Touré",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-02-18",
-            "nationality": "France"
-        },
-        {
-            "id": 213511,
-            "name": "Matias Fernandez-Pardo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-02-03",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 192666,
-            "name": "Ngal'ayel Mukau",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2004-11-03",
-            "nationality": "DR Congo"
-        },
-        {
-            "id": 190846,
-            "name": "Ichem Ferrah",
-            "position": "Right Winger",
-            "dateOfBirth": "2005-09-23",
-            "nationality": "France"
-        },
-        {
-            "id": 188087,
-            "name": "Tiago Santos",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-07-23",
-            "nationality": "Portugal"
-        },
-        {
-            "id": 186692,
-            "name": "Rafael Fernandes",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-06-28",
-            "nationality": "Portugal"
-        },
-        {
-            "id": 185196,
-            "name": "Alexsandro Ribeiro",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-08-09",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 177365,
-            "name": "Ugo Raghouber",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2003-07-13",
-            "nationality": "France"
-        },
-        {
-            "id": 150934,
-            "name": "Alan Virginius",
+            "id": 127657,
+            "name": "Félix Correia",
             "position": "Left Winger",
-            "dateOfBirth": "2003-01-03",
-            "nationality": "France"
-        },
-        {
-            "id": 150925,
-            "name": "Tiago Fonseca Morais",
-            "position": "Left Winger",
-            "dateOfBirth": "2003-09-03",
+            "dateOfBirth": "2001-01-22",
             "nationality": "Portugal"
         },
         {
@@ -176,20 +113,6 @@
             "position": "Left Winger",
             "dateOfBirth": "2001-06-11",
             "nationality": "Norway"
-        },
-        {
-            "id": 98745,
-            "name": "Bafodé Diakité",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-01-06",
-            "nationality": "France"
-        },
-        {
-            "id": 31531,
-            "name": "Gabriel Gudmundsson",
-            "position": "Left-Back",
-            "dateOfBirth": "1999-04-29",
-            "nationality": "Sweden"
         },
         {
             "id": 8990,
@@ -203,6 +126,13 @@
             "name": "Benjamin André",
             "position": "Defensive Midfield",
             "dateOfBirth": "1990-08-03",
+            "nationality": "France"
+        },
+        {
+            "id": 8435,
+            "name": "Romain Perraud",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-09-22",
             "nationality": "France"
         },
         {
@@ -246,6 +176,83 @@
             "position": "Centre-Back",
             "dateOfBirth": "1991-10-22",
             "nationality": "Algeria"
+        },
+        {
+            "id": 250942,
+            "name": "Vincent Burlet",
+            "position": "Left-Back",
+            "dateOfBirth": "2005-09-23",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 227765,
+            "name": "Lilian Baret",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2006-05-25",
+            "nationality": "France"
+        },
+        {
+            "id": 221819,
+            "name": "Ayyoub Bouaddi",
+            "position": "Central Midfield",
+            "dateOfBirth": "2007-10-02",
+            "nationality": "France"
+        },
+        {
+            "id": 218468,
+            "name": "Ethan Mbappé",
+            "position": "Central Midfield",
+            "dateOfBirth": "2006-12-29",
+            "nationality": "France"
+        },
+        {
+            "id": 216223,
+            "name": "Ousmane Touré",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-02-18",
+            "nationality": "France"
+        },
+        {
+            "id": 213511,
+            "name": "Matias Fernandez-Pardo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-02-03",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 192666,
+            "name": "Ngal'ayel Mukau",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2004-11-03",
+            "nationality": "DR Congo"
+        },
+        {
+            "id": 188087,
+            "name": "Tiago Santos",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-07-23",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 186692,
+            "name": "Rafael Fernandes",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-06-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 185196,
+            "name": "Alexsandro Ribeiro",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-08-09",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 177365,
+            "name": "Ugo Raghouber",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-07-13",
+            "nationality": "France"
         }
     ],
     "staff": [],

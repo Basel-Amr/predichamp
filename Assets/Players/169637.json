@@ -1,0 +1,43 @@
+{
+    "id": 169637,
+    "name": "Guilherme Liberato",
+    "firstName": "",
+    "lastName": "Guilherme Liberato",
+    "dateOfBirth": "2001-06-16",
+    "nationality": "Brazil",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 28,
+    "lastUpdated": "2024-07-11T09:43:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png",
+        "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+        "website": "http://www.moreirensefc.pt",
+        "founded": 1938,
+        "clubColors": "Green / White",
+        "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2028-06"
+        }
+    }
+}

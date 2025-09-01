@@ -7,37 +7,44 @@
     "nationality": "Romania",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 10,
     "lastUpdated": "2024-08-23T10:11:39Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 522,
-        "name": "OGC Nice",
-        "shortName": "Nice",
-        "tla": "NIC",
-        "crest": "https://crests.football-data.org/522.png",
-        "address": "35, avenue du Ray Nice 06100",
-        "website": "http://www.ogcnice.com",
-        "founded": 1904,
-        "clubColors": "Red / Black",
-        "venue": "Stade de Nice",
+        "id": 445,
+        "name": "Empoli FC",
+        "shortName": "Empoli",
+        "tla": "EMP",
+        "crest": "https://crests.football-data.org/445.png",
+        "address": "Piazza Matteotti Empoli 50053",
+        "website": "http://www.empolicalcio.net",
+        "founded": 1920,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Carlo Castellani",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

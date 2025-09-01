@@ -7,37 +7,44 @@
     "nationality": "France",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 19,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:17Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 519,
-        "name": "AJ Auxerre",
-        "shortName": "Auxerre",
-        "tla": "AJA",
-        "crest": "https://crests.football-data.org/519.png",
-        "address": "Route de Vaux BP 349 Auxerre 89006",
-        "website": "http://www.aja.fr",
-        "founded": 1905,
-        "clubColors": "White / Blue",
-        "venue": "Stade de l'Abbé Deschamps",
+        "id": 5276,
+        "name": "Servette FC",
+        "shortName": "Servette",
+        "tla": "SER",
+        "crest": "https://crests.football-data.org/5276.png",
+        "address": "Route des Jeunes 16 Carouge 1227",
+        "website": "http://www.servettefc.ch",
+        "founded": 1890,
+        "clubColors": "Maroon / White",
+        "venue": "Stade de Genève",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2028-06"
         }
     }
 }

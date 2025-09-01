@@ -11,40 +11,40 @@
     "lastUpdated": "2024-09-02T09:59:02Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "address": "Franz-Kremer-Allee 1 Köln 50937",
-        "website": "http://www.fc-koeln.de",
-        "founded": 1948,
-        "clubColors": "Red / White",
-        "venue": "RheinEnergieSTADION",
+        "id": 340,
+        "name": "Southampton FC",
+        "shortName": "Southampton",
+        "tla": "SOU",
+        "crest": "https://crests.football-data.org/340.png",
+        "address": "Britannia Road Southampton SO14 5FP",
+        "website": "http://www.saintsfc.co.uk",
+        "founded": 1885,
+        "clubColors": "Red / White / Black",
+        "venue": "St. Mary's Stadium",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/ELC.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2023-02",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2029-06"
         }
     }
 }

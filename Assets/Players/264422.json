@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 285,
-        "name": "Elche CF",
-        "shortName": "Elche",
-        "tla": "ELC",
-        "crest": "https://crests.football-data.org/285.png",
-        "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
-        "website": "http://www.elchecf.es",
-        "founded": 1923,
-        "clubColors": "White / Green",
-        "venue": "Estadio Manuel Martínez Valero",
+        "id": 5311,
+        "name": "Cultural y Deportiva Leonesa",
+        "shortName": "Leonesa",
+        "tla": "LEO",
+        "crest": "https://crests.football-data.org/5311.png",
+        "address": "Paseo Saenz de Miera, s/n León 24009",
+        "website": "http://www.culturalydeportivaleonesa.es",
+        "founded": 1924,
+        "clubColors": null,
+        "venue": "Estadio Municipal Reino de León",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

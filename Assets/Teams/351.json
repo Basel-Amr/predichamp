@@ -45,11 +45,11 @@
             "nationality": "Belgium"
         },
         {
-            "id": 76936,
-            "name": "Matt Turner",
+            "id": 3981,
+            "name": "Angus Gunn",
             "position": "Goalkeeper",
-            "dateOfBirth": "1994-06-24",
-            "nationality": "USA"
+            "dateOfBirth": "1996-01-22",
+            "nationality": "Scotland"
         },
         {
             "id": 118029,
@@ -73,18 +73,11 @@
             "nationality": "Portugal"
         },
         {
-            "id": 98870,
-            "name": "Jonathan Panzo",
+            "id": 179782,
+            "name": "Jair Paula",
             "position": "Defence",
-            "dateOfBirth": "2000-10-25",
-            "nationality": "England"
-        },
-        {
-            "id": 214425,
-            "name": "Tyler Bindon",
-            "position": "Defence",
-            "dateOfBirth": "2005-01-27",
-            "nationality": "USA"
+            "dateOfBirth": "2005-03-07",
+            "nationality": "Brazil"
         },
         {
             "id": 156513,
@@ -92,6 +85,76 @@
             "position": "Midfield",
             "dateOfBirth": "2002-02-19",
             "nationality": "New Zealand"
+        },
+        {
+            "id": 256339,
+            "name": "Igor Jesus",
+            "position": "Offence",
+            "dateOfBirth": "2001-02-25",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 227007,
+            "name": "Eric da Silva Moreira",
+            "position": "Right Midfield",
+            "dateOfBirth": "2006-05-03",
+            "nationality": "Germany"
+        },
+        {
+            "id": 204483,
+            "name": "Zach Abbott",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-05-13",
+            "nationality": "England"
+        },
+        {
+            "id": 192637,
+            "name": "Murillo",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-07-04",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 136334,
+            "name": "Jota Silva",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-08-01",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 133765,
+            "name": "Neco Williams",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-04-13",
+            "nationality": "Wales"
+        },
+        {
+            "id": 122467,
+            "name": "Josh Bowler",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-03-05",
+            "nationality": "England"
+        },
+        {
+            "id": 119596,
+            "name": "Morato",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-06-30",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 107330,
+            "name": "Elliot Anderson",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-11-06",
+            "nationality": "England"
+        },
+        {
+            "id": 77641,
+            "name": "Dan Ndoye",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-10-25",
+            "nationality": "Switzerland"
         },
         {
             "id": 46346,
@@ -120,13 +183,6 @@
             "position": "Defensive Midfield",
             "dateOfBirth": "1997-12-02",
             "nationality": "Ivory Coast"
-        },
-        {
-            "id": 8188,
-            "name": "Lewis O'Brien",
-            "position": "Central Midfield",
-            "dateOfBirth": "1998-10-14",
-            "nationality": "England"
         },
         {
             "id": 8057,
@@ -176,83 +232,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1997-10-12",
             "nationality": "Serbia"
-        },
-        {
-            "id": 227007,
-            "name": "Eric da Silva Moreira",
-            "position": "Right Midfield",
-            "dateOfBirth": "2006-05-03",
-            "nationality": "Germany"
-        },
-        {
-            "id": 204483,
-            "name": "Zach Abbott",
-            "position": "Centre-Back",
-            "dateOfBirth": "2006-05-13",
-            "nationality": "England"
-        },
-        {
-            "id": 192637,
-            "name": "Murillo",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-07-04",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 166376,
-            "name": "Anthony Elanga",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-04-27",
-            "nationality": "Sweden"
-        },
-        {
-            "id": 149704,
-            "name": "Danilo dos Santos de Oliveira",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-04-29",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 140647,
-            "name": "Ramón Sosa",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-08-31",
-            "nationality": "Paraguay"
-        },
-        {
-            "id": 136334,
-            "name": "Jota Silva",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-08-01",
-            "nationality": "Portugal"
-        },
-        {
-            "id": 133765,
-            "name": "Neco Williams",
-            "position": "Right-Back",
-            "dateOfBirth": "2001-04-13",
-            "nationality": "Wales"
-        },
-        {
-            "id": 122467,
-            "name": "Josh Bowler",
-            "position": "Right Winger",
-            "dateOfBirth": "1999-03-05",
-            "nationality": "England"
-        },
-        {
-            "id": 119596,
-            "name": "Morato",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-06-30",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 107330,
-            "name": "Elliot Anderson",
-            "position": "Central Midfield",
-            "dateOfBirth": "2002-11-06",
-            "nationality": "England"
         }
     ],
     "staff": [],

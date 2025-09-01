@@ -1,0 +1,43 @@
+{
+    "id": 146983,
+    "name": "Jandro Orellana",
+    "firstName": "",
+    "lastName": "Jandro Orellana",
+    "dateOfBirth": "2000-08-07",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 6,
+    "lastUpdated": "2023-09-26T09:45:00Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 582,
+        "name": "GD Estoril Praia",
+        "shortName": "Estoril Praia",
+        "tla": "EST",
+        "crest": "https://crests.football-data.org/582.png",
+        "address": "Estádio António Coimbra da Mota Estoril 2765",
+        "website": "http://www.estorilpraia.pt",
+        "founded": 1939,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estádio António Coimbra da Mota",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

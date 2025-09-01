@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": 23,
+    "shirtNumber": 21,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 95,
-        "name": "Valencia CF",
-        "shortName": "Valencia",
-        "tla": "VAL",
-        "crest": "https://crests.football-data.org/95.png",
-        "address": "Plaza del Valencia Club de Fútbol, 2 Valencia 46010",
-        "website": "http://www.valenciacf.com",
-        "founded": 1919,
-        "clubColors": "White / Orange / Black",
-        "venue": "Estadio de Mestalla",
+        "id": 87,
+        "name": "Rayo Vallecano de Madrid",
+        "shortName": "Rayo Vallecano",
+        "tla": "RAY",
+        "crest": "https://crests.football-data.org/87.png",
+        "address": "Calle del Payaso Fofó, s/n Madrid 28018",
+        "website": "http://www.rayovallecano.es",
+        "founded": 1924,
+        "clubColors": "White / Red",
+        "venue": "Estadio del Rayo Vallecano",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2029-06"
         }
     }
 }

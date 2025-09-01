@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 23,
     "lastUpdated": "2023-09-19T09:50:05Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 8447,
+        "name": "ASD Arzignano Valchiampo",
+        "shortName": "Arzignano",
+        "tla": "ARZ",
+        "crest": "https://crests.football-data.org/8447.png",
+        "address": "Via Dello Sport 9/10 Arzignano 36071",
+        "website": "http://www.arzignanovalchiampo.it/",
+        "founded": 2011,
+        "clubColors": "Sky Blue / Yellow",
+        "venue": "Stadio Romeo Menti",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-01",
             "until": "2026-06"
         }
     }

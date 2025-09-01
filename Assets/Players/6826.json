@@ -7,7 +7,7 @@
     "nationality": "USA",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 15,
+    "shirtNumber": 50,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,28 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 15,
-        "name": "1. FSV Mainz 05",
-        "shortName": "Mainz",
-        "tla": "M05",
-        "crest": "https://crests.football-data.org/15.png",
+        "id": 740,
+        "name": "1. FSV Mainz 05 II",
+        "shortName": "Mainz 05 II",
+        "tla": "MAI",
+        "crest": "https://crests.football-data.org/740.png",
         "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
         "website": "http://www.mainz05.de",
         "founded": 1905,
         "clubColors": "Red / White",
-        "venue": "Opel Arena",
+        "venue": "Stadion am Bruchweg",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2160,
+                "name": "Regionalliga Südwest",
+                "code": "RSW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-01",
-            "until": "2028-06"
+            "start": "2025-04",
+            "until": "2026-06"
         }
     }
 }

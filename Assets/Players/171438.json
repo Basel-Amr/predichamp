@@ -7,37 +7,44 @@
     "nationality": "Netherlands",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-12T11:57:17Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 511,
-        "name": "Toulouse FC",
-        "shortName": "Toulouse",
-        "tla": "TOU",
-        "crest": "https://crests.football-data.org/511.png",
-        "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
-        "website": "http://www.tfc.info",
-        "founded": 1937,
-        "clubColors": "Violet / White",
-        "venue": "Stadium Municipal",
+        "id": 60,
+        "name": "Bolton Wanderers FC",
+        "shortName": "Bolton",
+        "tla": "BOL",
+        "crest": "https://crests.football-data.org/60.png",
+        "address": "Burnden Way Bolton BL6 6JW",
+        "website": "http://www.bwfc.co.uk",
+        "founded": 1874,
+        "clubColors": "White / Navy Blue",
+        "venue": "University of Bolton Stadium",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

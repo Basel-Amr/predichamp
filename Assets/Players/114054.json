@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 70,
+    "shirtNumber": 94,
     "lastUpdated": "2024-11-28T13:36:14Z",
     "currentTeam": {
         "area": {
@@ -16,24 +16,17 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 108,
-        "name": "FC Internazionale Milano",
-        "shortName": "Inter",
-        "tla": "INT",
-        "crest": "https://crests.football-data.org/108.png",
-        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-        "website": "http://www.inter.it",
-        "founded": 1908,
-        "clubColors": "Blue / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 104,
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "tla": "CAG",
+        "crest": "https://crests.football-data.org/104.png",
+        "address": "Viale la Plaia 15 Cagliari 09123",
+        "website": "http://www.cagliaricalcio.net",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue / White",
+        "venue": "Sardegna Arena",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2019,
                 "name": "Serie A",
@@ -43,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-06",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

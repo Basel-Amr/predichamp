@@ -7,7 +7,7 @@
     "nationality": "Northern Ireland",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": 84,
+    "shirtNumber": 12,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-07",
             "until": "2029-06"
         }
     }

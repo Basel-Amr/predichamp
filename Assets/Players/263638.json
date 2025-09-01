@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 21,
     "lastUpdated": "2024-08-21T09:47:59Z",
     "currentTeam": {
         "area": {
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 747,
+        "name": "ACD Virtus Entella",
+        "shortName": "Virtus Entella",
+        "tla": "ENT",
+        "crest": "https://crests.football-data.org/747.png",
+        "address": "via Aldo Gastaldi 22 Chiavari 16043",
+        "website": "http://www.entella.it",
+        "founded": 1914,
+        "clubColors": "White / Light Blue",
+        "venue": "Stadio Comunale Chiavari",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,

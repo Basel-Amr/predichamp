@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 34,
+    "shirtNumber": 2,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 546,
-        "name": "Racing Club de Lens",
-        "shortName": "RC Lens",
-        "tla": "RCL",
-        "crest": "https://crests.football-data.org/546.png",
-        "address": "33 rue Arthur Lamendin Avion 62210",
-        "website": "http://www.rclens.fr",
-        "founded": 1906,
-        "clubColors": "Red / Yellow",
-        "venue": "Stade Bollaert-Delelis",
+        "id": 7675,
+        "name": "Pau FC",
+        "shortName": "Pau FC",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/7675.png",
+        "address": "Boulevard de l'aviation Pau 64000",
+        "website": "http://www.paufc.fr",
+        "founded": 1904,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stade Nouste Camp",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2028-06"
         }
     }
 }

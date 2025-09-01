@@ -7,37 +7,37 @@
     "nationality": "France",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 3,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 11,
-        "name": "VfL Wolfsburg",
-        "shortName": "Wolfsburg",
-        "tla": "WOB",
-        "crest": "https://crests.football-data.org/11.png",
-        "address": "In den Allerwiesen 1 Wolfsburg 38446",
-        "website": "http://www.vfl-wolfsburg.de",
-        "founded": 1945,
-        "clubColors": "Green / White",
-        "venue": "Volkswagen Arena",
+        "id": 543,
+        "name": "FC Nantes",
+        "shortName": "Nantes",
+        "tla": "NAN",
+        "crest": "https://crests.football-data.org/543.png",
+        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
+        "website": "http://www.fcnantes.com",
+        "founded": 1943,
+        "clubColors": "Green / Yellow",
+        "venue": "Stade de la Beaujoire - Louis Fonteneau",
         "runningCompetitions": [
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2024-08",
+            "until": "2026-06"
         }
     }
 }

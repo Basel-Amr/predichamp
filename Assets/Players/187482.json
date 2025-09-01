@@ -6,8 +6,8 @@
     "dateOfBirth": "2004-07-22",
     "nationality": "Gambia",
     "section": "Right Winger",
-    "position": "Offence",
-    "shirtNumber": 17,
+    "position": "Midfield",
+    "shirtNumber": 11,
     "lastUpdated": "2024-08-23T10:11:35Z",
     "currentTeam": {
         "area": {
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2029-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

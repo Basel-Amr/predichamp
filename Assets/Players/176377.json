@@ -7,7 +7,7 @@
     "nationality": "Senegal",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 15,
     "lastUpdated": "2023-07-30T17:08:53Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 457,
-        "name": "US Cremonese",
-        "shortName": "Cremonese",
-        "tla": "CRE",
-        "crest": "https://crests.football-data.org/457.png",
-        "address": "Via Persico, 19 Cremona 26100",
-        "website": "http://www.uscremonese.it",
-        "founded": 1903,
-        "clubColors": "Red / Grey",
-        "venue": "Stadio Giovanni Zin",
+        "id": 10226,
+        "name": "AC Lumezzane",
+        "shortName": "Lumezzane",
+        "tla": "LMZ",
+        "crest": "https://crests.football-data.org/10226.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-04",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2027-06"
         }
     }
 }

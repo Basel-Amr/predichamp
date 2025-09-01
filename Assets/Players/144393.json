@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 42,
+    "shirtNumber": 10,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -27,13 +27,6 @@
         "clubColors": "Red / White / Blue",
         "venue": "Allianz Arena",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2134,
                 "name": "DFL Super Cup",
@@ -57,8 +50,8 @@
             }
         ],
         "contract": {
-            "start": "2020-06",
-            "until": "2025-07"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

@@ -7,37 +7,44 @@
     "nationality": "Paraguay",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 24,
+    "shirtNumber": null,
     "lastUpdated": "2025-04-02T09:43:12Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
         },
-        "id": 351,
-        "name": "Nottingham Forest FC",
-        "shortName": "Nottingham",
-        "tla": "NOT",
-        "crest": "https://crests.football-data.org/351.png",
-        "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
-        "website": "http://www.nottinghamforest.co.uk",
-        "founded": 1865,
-        "clubColors": "Red / White",
-        "venue": "The City Ground",
+        "id": 1769,
+        "name": "SE Palmeiras",
+        "shortName": "Palmeiras",
+        "tla": "PAL",
+        "crest": "https://crests.football-data.org/1769.png",
+        "address": "Rua Palestra Italia nº 214, Perdizes São Paulo, SP 05005-030",
+        "website": "http://www.palmeiras.com.br",
+        "founded": 1914,
+        "clubColors": "Green / White",
+        "venue": "Allianz Parque",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/bsa.png"
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2029-06"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

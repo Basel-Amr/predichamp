@@ -59,13 +59,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 169319,
-            "name": "Nahuel Noll",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2003-03-17",
-            "nationality": "Germany"
-        },
-        {
             "id": 220259,
             "name": "Lukas Petersson",
             "position": "Goalkeeper",
@@ -78,6 +71,13 @@
             "position": "Defence",
             "dateOfBirth": "1997-08-25",
             "nationality": "Japan"
+        },
+        {
+            "id": 169668,
+            "name": "Arthur Chaves",
+            "position": "Defence",
+            "dateOfBirth": "2001-01-29",
+            "nationality": "Brazil"
         },
         {
             "id": 188239,
@@ -129,32 +129,11 @@
             "nationality": "Ivory Coast"
         },
         {
-            "id": 261437,
-            "name": "Florian Micheler",
-            "position": "Midfield",
-            "dateOfBirth": "2005-05-17",
-            "nationality": "Austria"
-        },
-        {
-            "id": 63218,
-            "name": "Haris Tabaković",
-            "position": "Offence",
-            "dateOfBirth": "1994-06-20",
-            "nationality": "Bosnia-Herzegovina"
-        },
-        {
             "id": 99042,
             "name": "Adam Hložek",
             "position": "Offence",
             "dateOfBirth": "2002-07-25",
             "nationality": "Czech Republic"
-        },
-        {
-            "id": 126867,
-            "name": "Erencan Yardimci",
-            "position": "Offence",
-            "dateOfBirth": "2002-02-04",
-            "nationality": "Turkey"
         },
         {
             "id": 213737,
@@ -171,25 +150,18 @@
             "nationality": "Germany"
         },
         {
-            "id": 65843,
-            "name": "Anton Stach",
-            "position": "Central Midfield",
-            "dateOfBirth": "1998-11-15",
-            "nationality": "Germany"
+            "id": 76770,
+            "name": "Wouter Burger",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-02-16",
+            "nationality": "Netherlands"
         },
         {
-            "id": 65441,
-            "name": "Marius Bülter",
-            "position": "Left Winger",
-            "dateOfBirth": "1993-03-29",
-            "nationality": "Germany"
-        },
-        {
-            "id": 63207,
-            "name": "Attila Szalai",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-01-20",
-            "nationality": "Hungary"
+            "id": 62631,
+            "name": "Vladimir Coufal",
+            "position": "Right-Back",
+            "dateOfBirth": "1992-08-22",
+            "nationality": "Czech Republic"
         },
         {
             "id": 30548,
@@ -276,13 +248,6 @@
             "nationality": "Finland"
         },
         {
-            "id": 203039,
-            "name": "Stanley N'Soki",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-04-09",
-            "nationality": "France"
-        },
-        {
             "id": 191892,
             "name": "Gift Orban",
             "position": "Centre-Forward",
@@ -309,6 +274,13 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2002-02-05",
             "nationality": "Germany"
+        },
+        {
+            "id": 121279,
+            "name": "Valentin Gendrey",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-06-21",
+            "nationality": "France"
         }
     ],
     "staff": [],

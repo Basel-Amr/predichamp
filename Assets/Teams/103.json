@@ -22,6 +22,13 @@
             "code": "SA",
             "type": "LEAGUE",
             "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2124,
+            "name": "Supercoppa",
+            "code": "ISC",
+            "type": "SUPER_CUP",
+            "emblem": "https://crests.football-data.org/isc.png"
         }
     ],
     "coach": {
@@ -52,17 +59,17 @@
             "nationality": "Italy"
         },
         {
-            "id": 186574,
-            "name": "Mattia Motolese",
+            "id": 152702,
+            "name": "Martin Vitík",
             "position": "Defence",
-            "dateOfBirth": "2004-04-13",
-            "nationality": "Italy"
+            "dateOfBirth": "2003-01-21",
+            "nationality": "Czech Republic"
         },
         {
-            "id": 217852,
-            "name": "Gennaro Anatriello",
+            "id": 2040,
+            "name": "Federico Bernardeschi",
             "position": "Midfield",
-            "dateOfBirth": "2004-01-07",
+            "dateOfBirth": "1994-02-16",
             "nationality": "Italy"
         },
         {
@@ -87,34 +94,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 74268,
-            "name": "Martin Erlic",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-01-24",
-            "nationality": "Croatia"
-        },
-        {
-            "id": 53281,
-            "name": "Sam Beukema",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-11-17",
-            "nationality": "Netherlands"
-        },
-        {
-            "id": 34638,
-            "name": "Lewis Ferguson",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1999-08-24",
-            "nationality": "Scotland"
-        },
-        {
-            "id": 32491,
-            "name": "Juan Miranda",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-01-19",
-            "nationality": "Spain"
-        },
-        {
             "id": 31243,
             "name": "Jesper Karlsson",
             "position": "Left Winger",
@@ -136,13 +115,6 @@
             "nationality": "Colombia"
         },
         {
-            "id": 16265,
-            "name": "Michel Aebischer",
-            "position": "Central Midfield",
-            "dateOfBirth": "1997-01-06",
-            "nationality": "Switzerland"
-        },
-        {
             "id": 9848,
             "name": "Thijs Dallinga",
             "position": "Centre-Forward",
@@ -161,6 +133,13 @@
             "name": "Kevin Bonifazi",
             "position": "Centre-Back",
             "dateOfBirth": "1996-05-19",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2076,
+            "name": "Ciro Immobile",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1990-02-20",
             "nationality": "Italy"
         },
         {
@@ -234,13 +213,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 171286,
-            "name": "Oussama El Azzouzi",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-05-29",
-            "nationality": "Morocco"
-        },
-        {
             "id": 171123,
             "name": "Giovanni Fabbian",
             "position": "Attacking Midfield",
@@ -253,13 +225,6 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2004-09-18",
             "nationality": "Argentina"
-        },
-        {
-            "id": 169216,
-            "name": "Antonio Raimondo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-03-18",
-            "nationality": "Italy"
         },
         {
             "id": 165957,
@@ -276,13 +241,6 @@
             "nationality": "Poland"
         },
         {
-            "id": 132075,
-            "name": "Niklas Pyyhtiä",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-09-25",
-            "nationality": "Finland"
-        },
-        {
             "id": 111777,
             "name": "Emil Holm",
             "position": "Right-Back",
@@ -290,11 +248,18 @@
             "nationality": "Sweden"
         },
         {
-            "id": 77641,
-            "name": "Dan Ndoye",
-            "position": "Right Winger",
-            "dateOfBirth": "2000-10-25",
-            "nationality": "Switzerland"
+            "id": 34638,
+            "name": "Lewis Ferguson",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-08-24",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 32491,
+            "name": "Juan Miranda",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-01-19",
+            "nationality": "Spain"
         }
     ],
     "staff": [],

@@ -7,44 +7,44 @@
     "nationality": "Portugal",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 22,
     "lastUpdated": "2024-08-23T10:11:38Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
         },
-        "id": 115,
-        "name": "Udinese Calcio",
-        "shortName": "Udinese",
-        "tla": "UDI",
-        "crest": "https://crests.football-data.org/115.png",
-        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
-        "website": "http://www.udinese.it",
-        "founded": 1896,
-        "clubColors": "White / Black",
-        "venue": "Dacia Arena",
+        "id": 7822,
+        "name": "FC Alverca",
+        "shortName": "Alverca",
+        "tla": "ALV",
+        "crest": "https://crests.football-data.org/7822.png",
+        "address": "null Alverca do Ribatejo null",
+        "website": "http://www.fcalverca.pt/",
+        "founded": 1939,
+        "clubColors": null,
+        "venue": "Campo Futebol Clube Alverca",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/PPL.png"
             },
             {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

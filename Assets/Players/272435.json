@@ -1,0 +1,43 @@
+{
+    "id": 272435,
+    "name": "Miguel Román",
+    "firstName": "",
+    "lastName": "Miguel Román",
+    "dateOfBirth": "2002-12-26",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 16,
+    "lastUpdated": "2024-11-01T09:42:38Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 558,
+        "name": "RC Celta de Vigo",
+        "shortName": "Celta",
+        "tla": "CEL",
+        "crest": "https://crests.football-data.org/558.png",
+        "address": "Calle del Conde de Gondomar, 1 Vigo 36203",
+        "website": "http://www.celtavigo.net",
+        "founded": 1923,
+        "clubColors": "Sky Blue / White",
+        "venue": "Estadio de Balaídos",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

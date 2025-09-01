@@ -1,0 +1,50 @@
+{
+    "id": 283194,
+    "name": "Plamen Penev",
+    "firstName": "Plamen",
+    "lastName": "Penev",
+    "dateOfBirth": "2008-04-22",
+    "nationality": "Bulgaria",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": null,
+    "lastUpdated": "2025-08-14T09:46:37Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 5890,
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/5890.png",
+        "address": "Via Templari 11 Lecce 73100",
+        "website": "http://www.uslecce.it",
+        "founded": 1908,
+        "clubColors": "Yellow / Red / Navy Blue",
+        "venue": "Stadio Comunale Via Del Mare",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

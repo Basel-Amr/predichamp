@@ -1,0 +1,43 @@
+{
+    "id": 112965,
+    "name": "Leonardo Realpe",
+    "firstName": "",
+    "lastName": "Léo Realpe",
+    "dateOfBirth": "2001-02-26",
+    "nationality": "Ecuador",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 3,
+    "lastUpdated": "2024-11-06T09:43:04Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5531,
+        "name": "FC Famalicão",
+        "shortName": "Famalicão",
+        "tla": "FAM",
+        "crest": "https://crests.football-data.org/5531.png",
+        "address": "null Vila Nova de Famalicão null",
+        "website": "http://www.fcfamalicao.pt",
+        "founded": 1931,
+        "clubColors": "Blue / White",
+        "venue": "Estádio Municipal 22 de Junho",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2029-07"
+        }
+    }
+}

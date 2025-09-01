@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 94,
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "tla": "VIL",
-        "crest": "https://crests.football-data.org/94.png",
-        "address": "Camino Miralcamp, s/n Villarreal 12540",
-        "website": "http://www.villarrealcf.es",
-        "founded": 1923,
-        "clubColors": "Yellow / Blue",
-        "venue": "Estadio de la Cerámica",
+        "id": 83,
+        "name": "Granada CF",
+        "shortName": "Granada",
+        "tla": "GRA",
+        "crest": "https://crests.football-data.org/83.png",
+        "address": "Calle del Pintor Manuel Maldonado, s/n Granada 18007",
+        "website": "http://www.granadacf.es",
+        "founded": 1931,
+        "clubColors": "Red / White",
+        "venue": "Estadio Nuevo Los Cármenes",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

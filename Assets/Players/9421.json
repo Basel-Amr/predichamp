@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 3,
     "lastUpdated": "2024-10-15T09:41:40Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 28,
-        "name": "1. FC Union Berlin",
-        "shortName": "Union Berlin",
-        "tla": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "address": "An der Wuhlheide 263 Berlin 12555",
-        "website": "http://www.fc-union-berlin.de",
+        "id": 6307,
+        "name": "SC Preußen Münster",
+        "shortName": "Münster",
+        "tla": "MUN",
+        "crest": "https://crests.football-data.org/6307.png",
+        "address": "Fiffi-Gerritzen-Weg 1 Münster 48153",
+        "website": "http://www.scpreussen-muenster.de",
         "founded": 1906,
-        "clubColors": "Red / White",
-        "venue": "Stadion An der Alten Försterei",
+        "clubColors": "Black / White / Green",
+        "venue": "Preußenstadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,11 +35,11 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {

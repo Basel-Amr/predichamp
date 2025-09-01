@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 1,
+    "shirtNumber": null,
     "lastUpdated": "2023-07-30T22:13:10Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 98,
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "tla": "MIL",
+        "crest": "https://crests.football-data.org/98.png",
+        "address": "Via Filippo Turati 3 Milano 20121",
+        "website": "http://www.acmilan.com",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Giuseppe Meazza",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,11 +33,25 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
-            "start": "2019-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2027-06"
         }
     }
 }

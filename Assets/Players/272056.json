@@ -7,8 +7,8 @@
     "nationality": "Italy",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 66,
-    "lastUpdated": "2024-10-26T09:43:01Z",
+    "shirtNumber": null,
+    "lastUpdated": "2025-07-17T09:46:17Z",
     "currentTeam": {
         "area": {
             "id": 2114,
@@ -16,27 +16,34 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 5901,
+        "name": "Carrarese Calcio",
+        "shortName": "Carrarese",
+        "tla": "CAR",
+        "crest": "https://crests.football-data.org/5901.png",
+        "address": "Piazza Vittorio Veneto, 8 Carrara 54033",
+        "website": "http://www.carraresecalcio.it",
+        "founded": 1908,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio dei Marmi",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2024-10",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

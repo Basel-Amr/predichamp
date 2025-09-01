@@ -59,13 +59,6 @@
             "nationality": "Estonia"
         },
         {
-            "id": 171455,
-            "name": "Tommy Setford",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2006-03-13",
-            "nationality": "England"
-        },
-        {
             "id": 244120,
             "name": "Myles Lewis-Skelly",
             "position": "Left-Back",
@@ -77,6 +70,20 @@
             "name": "Ethan Nwaneri",
             "position": "Attacking Midfield",
             "dateOfBirth": "2007-03-21",
+            "nationality": "England"
+        },
+        {
+            "id": 172839,
+            "name": "Cristhian Mosquera",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-06-27",
+            "nationality": "Spain"
+        },
+        {
+            "id": 167720,
+            "name": "Noni Madueke",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-03-10",
             "nationality": "England"
         },
         {
@@ -92,6 +99,13 @@
             "position": "Left-Back",
             "dateOfBirth": "2002-05-19",
             "nationality": "Italy"
+        },
+        {
+            "id": 115035,
+            "name": "Martín Zubimendi",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-02-02",
+            "nationality": "Spain"
         },
         {
             "id": 112948,
@@ -129,6 +143,13 @@
             "nationality": "Brazil"
         },
         {
+            "id": 24102,
+            "name": "Christian Nørgaard",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-03-10",
+            "nationality": "Denmark"
+        },
+        {
             "id": 23128,
             "name": "Gabriel",
             "position": "Centre-Back",
@@ -155,6 +176,13 @@
             "position": "Central Midfield",
             "dateOfBirth": "1999-10-22",
             "nationality": "Belgium"
+        },
+        {
+            "id": 8279,
+            "name": "Viktor Gyökeres",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1998-06-04",
+            "nationality": "Sweden"
         },
         {
             "id": 8215,

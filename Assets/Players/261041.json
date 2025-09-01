@@ -7,8 +7,8 @@
     "nationality": "Senegal",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 17,
-    "lastUpdated": "2024-08-23T10:11:40Z",
+    "shirtNumber": 6,
+    "lastUpdated": "2025-08-01T09:47:13Z",
     "currentTeam": {
         "area": {
             "id": 2081,
@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 576,
-        "name": "RC Strasbourg Alsace",
-        "shortName": "Strasbourg",
-        "tla": "RC ",
-        "crest": "https://crests.football-data.org/576.png",
-        "address": "12 Rue Extenwoerth Strasbourg 67000",
-        "website": "http://www.rcstrasbourgalsace.fr",
-        "founded": 1906,
+        "id": 6300,
+        "name": "USL Dunkerque",
+        "shortName": "Dunkerque",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/6300.png",
+        "address": "59377 Avenue du Stade B. P. Dunkerque 59377",
+        "website": "http://www.usldunkerque.com",
+        "founded": 1919,
         "clubColors": "Blue / White",
-        "venue": "Stade de la Meinau",
+        "venue": "Stade Marcel-Tribut",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2029-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

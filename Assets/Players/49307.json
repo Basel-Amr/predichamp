@@ -11,32 +11,32 @@
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 100,
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "tla": "ROM",
-        "crest": "https://crests.football-data.org/100.png",
-        "address": "Via di Trigoria km. 3,600 Roma 00128",
-        "website": "http://www.asroma.it",
-        "founded": 1927,
-        "clubColors": "Maroon / Orange / White",
-        "venue": "Stadio Olimpico",
+        "id": 1897,
+        "name": "Medipol Başakşehir FK",
+        "shortName": "Başakşehir",
+        "tla": "BAS",
+        "crest": "https://crests.football-data.org/1897.png",
+        "address": "Yunus Emre Caddesi, Başakşehir Stadı 4.Etap, Başakşehir İstanbul 34200",
+        "website": "http://www.ibfk.com.tr",
+        "founded": 1990,
+        "clubColors": "Orange / Blue",
+        "venue": "Başakşehir Fatih Terim Stadium",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

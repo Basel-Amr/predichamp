@@ -7,7 +7,7 @@
     "nationality": "Switzerland",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 17,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -40,10 +40,17 @@
                 "code": "CIT",
                 "type": "CUP",
                 "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2023-07",
             "until": "2028-06"
         }
     }

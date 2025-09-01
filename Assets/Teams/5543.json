@@ -1,0 +1,281 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 5543,
+    "name": "Vitória SC",
+    "shortName": "Vitória SC",
+    "tla": "GUI",
+    "crest": "https://crests.football-data.org/5543.png",
+    "address": "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914",
+    "website": "http://www.vitoriasc.pt",
+    "founded": 1922,
+    "clubColors": "White / Black",
+    "venue": "Estádio Dom Afonso Henriques",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        },
+        {
+            "id": 2177,
+            "name": "Taça da Liga",
+            "code": "TDL",
+            "type": "CUP",
+            "emblem": null
+        }
+    ],
+    "coach": {
+        "id": 262857,
+        "firstName": "",
+        "lastName": "Luís Pinto",
+        "name": "Luís Pinto",
+        "dateOfBirth": "1989-04-01",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 16734,
+            "name": "Bruno Varela",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-11-04",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 45324,
+            "name": "Charles Silva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-02-04",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 204127,
+            "name": "Gui",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-05-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 246248,
+            "name": "Juan Castillo",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-01-13",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 28976,
+            "name": "Orest Lebedenko",
+            "position": "Defence",
+            "dateOfBirth": "1998-09-23",
+            "nationality": "Ukraine"
+        },
+        {
+            "id": 177044,
+            "name": "Joao Mendes",
+            "position": "Defence",
+            "dateOfBirth": "2000-04-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 180163,
+            "name": "Óscar Rivas",
+            "position": "Defence",
+            "dateOfBirth": "2000-03-27",
+            "nationality": "Spain"
+        },
+        {
+            "id": 243610,
+            "name": "Paulo Vitor",
+            "position": "Defence",
+            "dateOfBirth": "2001-07-19",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 262361,
+            "name": "Diogo Lobão",
+            "position": "Defence",
+            "dateOfBirth": "2006-01-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 274548,
+            "name": "Thiago Balieiro",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 45514,
+            "name": "Samu",
+            "position": "Midfield",
+            "dateOfBirth": "1996-04-21",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 262358,
+            "name": "Rodrigo Duarte",
+            "position": "Midfield",
+            "dateOfBirth": "2006-02-07",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 263122,
+            "name": "Vando Félix",
+            "position": "Midfield",
+            "dateOfBirth": "2002-09-03",
+            "nationality": "Guinea-Bissau"
+        },
+        {
+            "id": 280042,
+            "name": "Matija Mitrović",
+            "position": "Midfield",
+            "dateOfBirth": "2004-12-12",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 149724,
+            "name": "Alioune Ndoye",
+            "position": "Offence",
+            "dateOfBirth": "2001-10-05",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 165126,
+            "name": "José Bica",
+            "position": "Offence",
+            "dateOfBirth": "2003-06-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 170076,
+            "name": "Fabio Blanco",
+            "position": "Offence",
+            "dateOfBirth": "2004-02-18",
+            "nationality": "Spain"
+        },
+        {
+            "id": 243569,
+            "name": "Gustavo Silva",
+            "position": "Offence",
+            "dateOfBirth": "1999-06-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 273367,
+            "name": "Dieu Michel",
+            "position": "Offence",
+            "dateOfBirth": "2004-02-09",
+            "nationality": "Canada"
+        },
+        {
+            "id": 280039,
+            "name": "Oumar Camara",
+            "position": "Offence",
+            "dateOfBirth": "2007-05-11",
+            "nationality": "France"
+        },
+        {
+            "id": 281959,
+            "name": "Noah Saviolo",
+            "position": "Offence",
+            "dateOfBirth": "2004-03-07",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 185139,
+            "name": "Miguel Nóbrega",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 171367,
+            "name": "Tomás Händel",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-11-27",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 171351,
+            "name": "Miguel Magalhães",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-11-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 159694,
+            "name": "Adrián Butzke",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1999-03-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 145346,
+            "name": "Telmo Arcanjo",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-06-21",
+            "nationality": "Cape Verde Islands"
+        },
+        {
+            "id": 45274,
+            "name": "Tiago Silva",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1993-06-02",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 37558,
+            "name": "Nuno Santos",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-03-02",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 28243,
+            "name": "Rodrigo Abascal",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-01-14",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 23245,
+            "name": "Toni Borevković",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-06-18",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 4003,
+            "name": "Nélson Oliveira",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1991-08-08",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 191259,
+            "name": "Beni",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-05-21",
+            "nationality": "Angola"
+        },
+        {
+            "id": 191013,
+            "name": "Goncalo Nogueira",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-12-28",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-03-06T09:31:54Z"
+}

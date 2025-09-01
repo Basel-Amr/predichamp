@@ -1,0 +1,288 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 498,
+    "name": "Sporting Clube de Portugal",
+    "shortName": "Sporting CP",
+    "tla": "SPO",
+    "crest": "https://crests.football-data.org/498.png",
+    "address": "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801",
+    "website": "http://www.sporting.pt",
+    "founded": 1906,
+    "clubColors": "Green / White",
+    "venue": "Estádio José Alvalade",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        },
+        {
+            "id": 2177,
+            "name": "Taça da Liga",
+            "code": "TDL",
+            "type": "CUP",
+            "emblem": null
+        }
+    ],
+    "coach": {
+        "id": 136188,
+        "firstName": "",
+        "lastName": "Rui Borges",
+        "name": "Rui Borges",
+        "dateOfBirth": "1981-07-07",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2024-12",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 32014,
+            "name": "Rui Silva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-02-07",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 82207,
+            "name": "João Virgínia",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1999-10-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 178770,
+            "name": "Diego Calai",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-07-18",
+            "nationality": "Italy"
+        },
+        {
+            "id": 194860,
+            "name": "Francisco Silva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2005-11-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 137045,
+            "name": "Georgios Vagiannidis",
+            "position": "Defence",
+            "dateOfBirth": "2001-09-12",
+            "nationality": "Greece"
+        },
+        {
+            "id": 160926,
+            "name": "Zeno Debast",
+            "position": "Defence",
+            "dateOfBirth": "2003-10-24",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 178768,
+            "name": "Eduardo Quaresma",
+            "position": "Defence",
+            "dateOfBirth": "2002-03-02",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 191760,
+            "name": "Ousmane Diomande",
+            "position": "Defence",
+            "dateOfBirth": "2003-12-04",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 245259,
+            "name": "Diogo Travassos",
+            "position": "Defence",
+            "dateOfBirth": "2004-03-31",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 28770,
+            "name": "Maximiliano Araújo",
+            "position": "Midfield",
+            "dateOfBirth": "2000-02-15",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 144628,
+            "name": "Giorgi Kochorashvili",
+            "position": "Midfield",
+            "dateOfBirth": "1999-06-29",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 220542,
+            "name": "Alisson Santos",
+            "position": "Midfield",
+            "dateOfBirth": "2002-09-27",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 270551,
+            "name": "João Simões",
+            "position": "Midfield",
+            "dateOfBirth": "2007-01-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 272008,
+            "name": "Henrique Arreiol",
+            "position": "Midfield",
+            "dateOfBirth": "2005-06-21",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 273613,
+            "name": "Eduardo Felicíssimo",
+            "position": "Midfield",
+            "dateOfBirth": "2007-01-08",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 32386,
+            "name": "Luis Suárez",
+            "position": "Offence",
+            "dateOfBirth": "1997-12-02",
+            "nationality": "Colombia"
+        },
+        {
+            "id": 204124,
+            "name": "Mauro Couto",
+            "position": "Offence",
+            "dateOfBirth": "2005-11-15",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 206744,
+            "name": "Conrad Harder",
+            "position": "Offence",
+            "dateOfBirth": "2005-04-07",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 229421,
+            "name": "Geovany Quenda",
+            "position": "Offence",
+            "dateOfBirth": "2007-04-30",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 128825,
+            "name": "Geny Catamo",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-01-26",
+            "nationality": "Mozambique"
+        },
+        {
+            "id": 102336,
+            "name": "Daniel Bragança",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-05-27",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 92050,
+            "name": "Pedro Gonçalves",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1998-06-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 73998,
+            "name": "Morten Hjulmand",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-06-25",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 53190,
+            "name": "Ricardo Mangas",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-03-19",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 49092,
+            "name": "Hidemasa Morita",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-05-10",
+            "nationality": "Japan"
+        },
+        {
+            "id": 45463,
+            "name": "Nuno Santos",
+            "position": "Left-Back",
+            "dateOfBirth": "1995-02-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 45388,
+            "name": "Ricardo Esgaio",
+            "position": "Right-Back",
+            "dateOfBirth": "1993-05-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 45210,
+            "name": "Matheus Reis",
+            "position": "Left-Back",
+            "dateOfBirth": "1995-02-18",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 37332,
+            "name": "Trincão",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-12-29",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 7465,
+            "name": "Jerry St. Juste",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-10-19",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 178772,
+            "name": "Rodrigo Ribeiro",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-04-28",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 176840,
+            "name": "Ivan Fresneda",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-09-28",
+            "nationality": "Spain"
+        },
+        {
+            "id": 157203,
+            "name": "Mateo Tanlongo",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-08-12",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 145357,
+            "name": "Gonçalo Inácio",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-08-25",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-07-26T17:38:53Z"
+}

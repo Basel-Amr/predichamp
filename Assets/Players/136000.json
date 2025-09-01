@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 79,
-        "name": "CA Osasuna",
-        "shortName": "Osasuna",
-        "tla": "OSA",
-        "crest": "https://crests.football-data.org/79.png",
-        "address": "Calle del Sadar, s/n Pamplona 31006",
-        "website": "http://www.osasuna.es",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Estadio El Sadar",
+        "id": 77,
+        "name": "Athletic Club",
+        "shortName": "Athletic",
+        "tla": "ATH",
+        "crest": "https://crests.football-data.org/77.png",
+        "address": "Ibaigane, Alameda Mazarredo, 23 Bilbao 48009",
+        "website": "http://www.athletic-club.eus",
+        "founded": 1898,
+        "clubColors": "Red / White / Black",
+        "venue": "San Mamés",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2031-06"
         }
     }
 }

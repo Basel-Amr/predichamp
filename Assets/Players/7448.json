@@ -1,0 +1,50 @@
+{
+    "id": 7448,
+    "name": "Pablo Rosario",
+    "firstName": "Pablo",
+    "lastName": "Rosario",
+    "dateOfBirth": "1997-01-07",
+    "nationality": "Dominican Republic",
+    "section": "Defensive Midfield",
+    "position": "Midfield",
+    "shirtNumber": 8,
+    "lastUpdated": "2025-06-29T09:42:36Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 522,
+        "name": "OGC Nice",
+        "shortName": "Nice",
+        "tla": "NIC",
+        "crest": "https://crests.football-data.org/522.png",
+        "address": "35, avenue du Ray Nice 06100",
+        "website": "http://www.ogcnice.com",
+        "founded": 1904,
+        "clubColors": "Red / Black",
+        "venue": "Stade de Nice",
+        "runningCompetitions": [
+            {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-07",
+            "until": "2026-06"
+        }
+    }
+}

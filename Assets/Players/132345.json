@@ -7,44 +7,37 @@
     "nationality": "Finland",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 7,
     "lastUpdated": "2025-03-22T09:41:29Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2233,
+            "name": "Sweden",
+            "code": "SWE",
+            "flag": "https://crests.football-data.org/792.svg"
         },
-        "id": 7,
-        "name": "Hamburger SV",
-        "shortName": "HSV",
-        "tla": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "address": "Sylvesterallee 7 Hamburg 22525",
-        "website": "http://www.hsv.de",
-        "founded": 1887,
-        "clubColors": "White / Red / Blue",
-        "venue": "Volksparkstadion",
+        "id": 5306,
+        "name": "Östers IF",
+        "shortName": "Östers IF",
+        "tla": "OIF",
+        "crest": "https://crests.football-data.org/5306.png",
+        "address": "Bollgatan 9 Växjö 35246",
+        "website": "http://www.ostersif.se",
+        "founded": 1930,
+        "clubColors": "Red / Blue",
+        "venue": "Myresjöhus Arena",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2073,
+                "name": "Allsvenskan",
+                "code": "ALL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/all.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2025-12"
         }
     }
 }

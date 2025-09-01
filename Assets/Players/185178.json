@@ -7,37 +7,37 @@
     "nationality": "Spain",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 19,
+    "shirtNumber": 18,
     "lastUpdated": "2024-09-02T09:59:06Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 341,
-        "name": "Leeds United FC",
-        "shortName": "Leeds United",
-        "tla": "LEE",
-        "crest": "https://crests.football-data.org/341.png",
-        "address": "Elland Road Leeds LS11 0ES",
-        "website": "http://www.leedsunited.com",
-        "founded": 1904,
-        "clubColors": "White / Blue",
-        "venue": "Elland Road",
+        "id": 89,
+        "name": "RCD Mallorca",
+        "shortName": "Mallorca",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/89.png",
+        "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+        "website": "http://www.rcdmallorca.es",
+        "founded": 1916,
+        "clubColors": "Red / Black",
+        "venue": "Iberostar Estadi",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

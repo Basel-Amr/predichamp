@@ -7,36 +7,36 @@
     "nationality": "Uruguay",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 33,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 88,
+        "name": "Levante UD",
+        "shortName": "Levante",
+        "tla": "LEV",
+        "crest": "https://crests.football-data.org/88.png",
+        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
+        "website": "http://www.levanteud.com",
+        "founded": 1909,
+        "clubColors": "Crimson / Blue",
+        "venue": "Estadio Ciudad de Valencia",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2023-01",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

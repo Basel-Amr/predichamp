@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 1,
+    "shirtNumber": 24,
     "lastUpdated": "2024-08-23T10:11:37Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2027-06"
         }
     }

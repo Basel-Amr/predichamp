@@ -7,37 +7,37 @@
     "nationality": "Croatia",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 55,
+    "shirtNumber": 16,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 523,
-        "name": "Olympique Lyonnais",
-        "shortName": "Olympique Lyon",
-        "tla": "LYO",
-        "crest": "https://crests.football-data.org/523.png",
-        "address": "350 avenue Jean Jaurès Lyon 69007",
-        "website": "http://www.olweb.fr",
-        "founded": 1896,
-        "clubColors": "White / Red / Blue",
-        "venue": "Groupama Stadium",
+        "id": 92,
+        "name": "Real Sociedad de Fútbol",
+        "shortName": "Real Sociedad",
+        "tla": "RSO",
+        "crest": "https://crests.football-data.org/92.png",
+        "address": "Anoeta Pasalekua, 1 San Sebastián 20014",
+        "website": "http://www.realsociedad.com",
+        "founded": 1903,
+        "clubColors": "Blue / White",
+        "venue": "Estadio Municipal de Anoeta",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

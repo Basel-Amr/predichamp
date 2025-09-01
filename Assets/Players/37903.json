@@ -7,37 +7,37 @@
     "nationality": "Norway",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 9,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2065,
+            "name": "Denmark",
+            "code": "DNK",
+            "flag": "https://crests.football-data.org/782.svg"
         },
-        "id": 100,
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "tla": "ROM",
-        "crest": "https://crests.football-data.org/100.png",
-        "address": "Via di Trigoria km. 3,600 Roma 00128",
-        "website": "http://www.asroma.it",
-        "founded": 1927,
-        "clubColors": "Maroon / Orange / White",
-        "venue": "Stadio Olimpico",
+        "id": 4486,
+        "name": "FC Nordsjælland",
+        "shortName": "Nordsjælland",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/4486.png",
+        "address": "Farum Park 2 Farum 3520",
+        "website": "http://www.fcn.dk",
+        "founded": 1991,
+        "clubColors": "Red / Yellow",
+        "venue": "Right to Dream Park",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2050,
+                "name": "Superliga",
+                "code": "DSU",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2029-06"
         }
     }
 }

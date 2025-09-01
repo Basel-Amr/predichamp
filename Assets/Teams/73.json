@@ -66,6 +66,13 @@
             "nationality": "Czech Republic"
         },
         {
+            "id": 181193,
+            "name": "Kota Takai",
+            "position": "Defence",
+            "dateOfBirth": "2004-09-04",
+            "nationality": "Japan"
+        },
+        {
             "id": 216835,
             "name": "Luka Vušković",
             "position": "Defence",
@@ -73,39 +80,11 @@
             "nationality": "Croatia"
         },
         {
-            "id": 254718,
-            "name": "Min-hyuk Yang",
-            "position": "Offence",
-            "dateOfBirth": "2006-04-16",
-            "nationality": "South Korea"
-        },
-        {
-            "id": 270817,
-            "name": "Damola Ajayi",
-            "position": "Offence",
-            "dateOfBirth": "2005-12-27",
+            "id": 283174,
+            "name": "Jun'ai Byfield",
+            "position": "Defence",
+            "dateOfBirth": "2008-12-06",
             "nationality": "England"
-        },
-        {
-            "id": 131177,
-            "name": "Mickey van de Ven",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-04-19",
-            "nationality": "Netherlands"
-        },
-        {
-            "id": 124694,
-            "name": "Brennan Johnson",
-            "position": "Right Winger",
-            "dateOfBirth": "2001-05-23",
-            "nationality": "Wales"
-        },
-        {
-            "id": 101912,
-            "name": "Bryan Gil",
-            "position": "Left Winger",
-            "dateOfBirth": "2001-02-11",
-            "nationality": "Spain"
         },
         {
             "id": 81037,
@@ -122,6 +101,13 @@
             "nationality": "England"
         },
         {
+            "id": 77399,
+            "name": "Mohammed Kudus",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-08-02",
+            "nationality": "Ghana"
+        },
+        {
             "id": 45735,
             "name": "Christian Romero",
             "position": "Centre-Back",
@@ -134,6 +120,13 @@
             "position": "Left Winger",
             "dateOfBirth": "1999-07-24",
             "nationality": "Israel"
+        },
+        {
+            "id": 15884,
+            "name": "João Palhinha",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-07-09",
+            "nationality": "Portugal"
         },
         {
             "id": 8410,
@@ -192,20 +185,6 @@
             "nationality": "Sweden"
         },
         {
-            "id": 251740,
-            "name": "Tyrese Hall",
-            "position": "Central Midfield",
-            "dateOfBirth": "2005-09-04",
-            "nationality": "England"
-        },
-        {
-            "id": 251079,
-            "name": "Mikey Moore",
-            "position": "Left Winger",
-            "dateOfBirth": "2007-08-11",
-            "nationality": "England"
-        },
-        {
             "id": 193622,
             "name": "Lucas Bergvall",
             "position": "Central Midfield",
@@ -227,25 +206,11 @@
             "nationality": "England"
         },
         {
-            "id": 176838,
-            "name": "Ashley Phillips",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-06-26",
-            "nationality": "England"
-        },
-        {
             "id": 171977,
             "name": "Mathys Tel",
             "position": "Centre-Forward",
             "dateOfBirth": "2005-04-27",
             "nationality": "France"
-        },
-        {
-            "id": 170962,
-            "name": "Alejo Veliz",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-09-19",
-            "nationality": "Argentina"
         },
         {
             "id": 170391,
@@ -262,20 +227,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 170281,
-            "name": "Heung-min Son",
-            "position": "Left Winger",
-            "dateOfBirth": "1992-07-08",
-            "nationality": "South Korea"
-        },
-        {
-            "id": 157439,
-            "name": "Alfie Devine",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2004-08-01",
-            "nationality": "England"
-        },
-        {
             "id": 156616,
             "name": "Dane Scarlett",
             "position": "Centre-Forward",
@@ -288,6 +239,27 @@
             "position": "Centre-Back",
             "dateOfBirth": "2002-02-03",
             "nationality": "Romania"
+        },
+        {
+            "id": 131177,
+            "name": "Mickey van de Ven",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-04-19",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 124694,
+            "name": "Brennan Johnson",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-05-23",
+            "nationality": "Wales"
+        },
+        {
+            "id": 101912,
+            "name": "Bryan Gil",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-02-11",
+            "nationality": "Spain"
         }
     ],
     "staff": [],

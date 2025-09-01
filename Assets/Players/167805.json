@@ -7,7 +7,7 @@
     "nationality": "Comoros",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 40,
     "lastUpdated": "2023-07-30T16:47:19Z",
     "currentTeam": {
         "area": {
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2021-05",
+            "until": "2026-06"
         }
     }
 }

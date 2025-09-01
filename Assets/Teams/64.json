@@ -80,11 +80,25 @@
             "nationality": "Spain"
         },
         {
-            "id": 187370,
-            "name": "Luke Chambers",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-06-24",
+            "id": 273453,
+            "name": "Rio Ngumoha",
+            "position": "Offence",
+            "dateOfBirth": "2008-08-29",
             "nationality": "England"
+        },
+        {
+            "id": 230517,
+            "name": "Trey Nyoni",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2007-06-30",
+            "nationality": "England"
+        },
+        {
+            "id": 192563,
+            "name": "Giovanni Leoni",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-12-21",
+            "nationality": "Italy"
         },
         {
             "id": 176789,
@@ -106,6 +120,13 @@
             "position": "Left-Back",
             "dateOfBirth": "2003-11-07",
             "nationality": "Hungary"
+        },
+        {
+            "id": 152454,
+            "name": "Hugo Ekitike",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-06-20",
+            "nationality": "France"
         },
         {
             "id": 135636,
@@ -148,20 +169,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "1998-12-24",
             "nationality": "Argentina"
-        },
-        {
-            "id": 28612,
-            "name": "Darwin Núñez",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1999-06-24",
-            "nationality": "Uruguay"
-        },
-        {
-            "id": 22396,
-            "name": "Luis Díaz",
-            "position": "Left Winger",
-            "dateOfBirth": "1997-01-13",
-            "nationality": "Colombia"
         },
         {
             "id": 19334,

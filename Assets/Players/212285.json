@@ -7,7 +7,7 @@
     "nationality": "Turkey",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 9,
     "lastUpdated": "2024-09-02T09:59:04Z",
     "currentTeam": {
         "area": {
@@ -44,7 +44,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

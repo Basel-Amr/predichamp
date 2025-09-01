@@ -11,40 +11,33 @@
     "lastUpdated": "2023-07-30T16:25:21Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2152,
+            "name": "Monaco",
+            "code": "MCO",
+            "flag": null
         },
-        "id": 3,
-        "name": "Bayer 04 Leverkusen",
-        "shortName": "Leverkusen",
-        "tla": "B04",
-        "crest": "https://crests.football-data.org/3.png",
-        "address": "Bismarckstr. 122-124 Leverkusen 51373",
-        "website": "http://www.bayer04.de",
-        "founded": 1904,
-        "clubColors": "Red / White / Black",
-        "venue": "BayArena",
+        "id": 548,
+        "name": "AS Monaco FC",
+        "shortName": "Monaco",
+        "tla": "ASM",
+        "crest": "https://crests.football-data.org/548.png",
+        "address": "Avenue des Castellans Monaco 98000",
+        "website": "http://www.asmonaco.com",
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Stade Louis II.",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2018-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2027-06"
         }
     }
 }

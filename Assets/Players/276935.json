@@ -7,37 +7,37 @@
     "nationality": "France",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 35,
+    "shirtNumber": null,
     "lastUpdated": "2025-04-21T09:42:31Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2163,
+            "name": "Netherlands",
+            "code": "NLD",
+            "flag": "https://crests.football-data.org/8601.svg"
         },
-        "id": 519,
-        "name": "AJ Auxerre",
-        "shortName": "Auxerre",
+        "id": 1922,
+        "name": "Jong Ajax",
+        "shortName": "Jong Ajax",
         "tla": "AJA",
-        "crest": "https://crests.football-data.org/519.png",
-        "address": "Route de Vaux BP 349 Auxerre 89006",
-        "website": "http://www.aja.fr",
-        "founded": 1905,
-        "clubColors": "White / Blue",
-        "venue": "Stade de l'Abbé Deschamps",
+        "crest": "https://crests.football-data.org/1922.png",
+        "address": "ArenA Boulevard 29 Amsterdam 1101 AX",
+        "website": "http://www.ajax.nl",
+        "founded": 1900,
+        "clubColors": "Red / White",
+        "venue": "Sportpark De Toekomst",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2005,
+                "name": "Eerste Divisie",
+                "code": "DJL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/djl.png"
             }
         ],
         "contract": {
-            "start": "2025-03",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2028-06"
         }
     }
 }

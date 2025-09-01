@@ -7,37 +7,37 @@
     "nationality": "France",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 21,
     "lastUpdated": "2025-03-13T09:41:12Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 521,
-        "name": "Lille OSC",
-        "shortName": "Lille",
-        "tla": "LIL",
-        "crest": "https://crests.football-data.org/521.png",
-        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
-        "website": "http://www.losc.fr",
-        "founded": 1944,
-        "clubColors": "White / Red",
-        "venue": "Stade Pierre-Mauroy",
+        "id": 1871,
+        "name": "BSC Young Boys",
+        "shortName": "Young Boys",
+        "tla": "YOB",
+        "crest": "https://crests.football-data.org/1871.png",
+        "address": "Postfach 61 Bern 3000",
+        "website": "http://www.bscyb.ch",
+        "founded": 1898,
+        "clubColors": "Yellow / Black",
+        "venue": "Wankdorfstadion",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2029-06"
         }
     }
 }

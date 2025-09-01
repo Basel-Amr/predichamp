@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 9448,
+        "name": "Trento",
+        "shortName": "Trento",
+        "tla": "TRE",
+        "crest": "https://crests.football-data.org/9448.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

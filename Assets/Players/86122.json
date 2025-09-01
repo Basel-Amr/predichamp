@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 457,
-        "name": "US Cremonese",
-        "shortName": "Cremonese",
-        "tla": "CRE",
-        "crest": "https://crests.football-data.org/457.png",
-        "address": "Via Persico, 19 Cremona 26100",
-        "website": "http://www.uscremonese.it",
-        "founded": 1903,
-        "clubColors": "Red / Grey",
-        "venue": "Stadio Giovanni Zin",
+        "id": 5911,
+        "name": "AC Monza",
+        "shortName": "Monza",
+        "tla": "MON",
+        "crest": "https://crests.football-data.org/5911.png",
+        "address": "Via Ragazzi del '99, 14 Monza 20900",
+        "website": "http://www.monza1912.it",
+        "founded": 1912,
+        "clubColors": "Red / White",
+        "venue": "Stadio Comunale Brianteo",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2025-01",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2027-06"
         }
     }
 }

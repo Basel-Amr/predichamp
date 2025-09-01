@@ -7,37 +7,44 @@
     "nationality": "Italy",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 46,
-    "lastUpdated": "2025-06-01T09:43:50Z",
+    "shirtNumber": null,
+    "lastUpdated": "2025-08-16T09:43:06Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 112,
-        "name": "Parma Calcio 1913",
-        "shortName": "Parma",
-        "tla": "PAR",
-        "crest": "https://crests.football-data.org/112.png",
-        "address": "Strada Carlo Pisacane, 4 Parma 43121",
-        "website": "http://www.parmacalcio1913.com",
-        "founded": 1913,
-        "clubColors": "White / Black",
-        "venue": "Stadio Ennio Tardini",
+        "id": 64,
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "tla": "LIV",
+        "crest": "https://crests.football-data.org/64.png",
+        "address": "Anfield Road Liverpool L4 0TH",
+        "website": "http://www.liverpoolfc.tv",
+        "founded": 1892,
+        "clubColors": "Red / White",
+        "venue": "Anfield",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2056,
+                "name": "FA Community Shield",
+                "code": "COM",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/com.png"
+            },
+            {
+                "id": 2021,
+                "name": "Premier League",
+                "code": "PL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/PL.png"
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2029-06"
+            "start": "2025-08",
+            "until": "2031-06"
         }
     }
 }

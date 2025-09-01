@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 22,
     "lastUpdated": "2023-07-30T20:41:55Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 28,
-        "name": "1. FC Union Berlin",
-        "shortName": "Union Berlin",
-        "tla": "UNB",
-        "crest": "https://crests.football-data.org/28.png",
-        "address": "An der Wuhlheide 263 Berlin 12555",
-        "website": "http://www.fc-union-berlin.de",
-        "founded": 1906,
-        "clubColors": "Red / White",
-        "venue": "Stadion An der Alten Försterei",
+        "id": 35,
+        "name": "SG Dynamo Dresden",
+        "shortName": "Dynamo Dresden",
+        "tla": "DYN",
+        "crest": "https://crests.football-data.org/35.png",
+        "address": "Lennéstraße 12 Dresden 01069",
+        "website": "http://www.dynamo-dresden.de",
+        "founded": 1950,
+        "clubColors": "Black / Yellow",
+        "venue": "DDV-Stadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,11 +35,11 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {

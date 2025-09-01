@@ -45,13 +45,6 @@
     },
     "squad": [
         {
-            "id": 1734,
-            "name": "Antonio Donnarumma",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1990-07-07",
-            "nationality": "Italy"
-        },
-        {
             "id": 2275,
             "name": "Vanja Milinković-Savić",
             "position": "Goalkeeper",
@@ -66,11 +59,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 140195,
-            "name": "Pietro Passador",
+            "id": 97893,
+            "name": "Franco Israel",
             "position": "Goalkeeper",
-            "dateOfBirth": "2003-02-26",
-            "nationality": "Italy"
+            "dateOfBirth": "2000-04-22",
+            "nationality": "Uruguay"
         },
         {
             "id": 169137,
@@ -80,11 +73,11 @@
             "nationality": "Romania"
         },
         {
-            "id": 204351,
-            "name": "Caumenan N'Guessan",
+            "id": 274502,
+            "name": "Demyan Yesin",
             "position": "Defence",
-            "dateOfBirth": "2003-09-01",
-            "nationality": "France"
+            "dateOfBirth": "2007-04-24",
+            "nationality": "Ukraine"
         },
         {
             "id": 188547,
@@ -94,25 +87,11 @@
             "nationality": "Albania"
         },
         {
-            "id": 188683,
-            "name": "Tommaso Di Marco",
-            "position": "Midfield",
-            "dateOfBirth": "2003-01-01",
-            "nationality": "Italy"
-        },
-        {
             "id": 246638,
             "name": "Comè Bianay Balcot",
             "position": "Midfield",
             "dateOfBirth": "2005-05-13",
             "nationality": "France"
-        },
-        {
-            "id": 261866,
-            "name": "Francesco Dell'Aquila",
-            "position": "Midfield",
-            "dateOfBirth": "2004-01-10",
-            "nationality": "Italy"
         },
         {
             "id": 273396,
@@ -126,13 +105,6 @@
             "name": "Simone Armocida",
             "position": "Midfield",
             "dateOfBirth": "2006-08-28",
-            "nationality": "Italy"
-        },
-        {
-            "id": 124470,
-            "name": "Nicola Rauti",
-            "position": "Offence",
-            "dateOfBirth": "2000-04-17",
             "nationality": "Italy"
         },
         {
@@ -157,13 +129,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 132385,
-            "name": "Brian Bayeye",
-            "position": "Right Midfield",
-            "dateOfBirth": "2000-06-30",
-            "nationality": "France"
-        },
-        {
             "id": 123689,
             "name": "Saúl Coco",
             "position": "Centre-Back",
@@ -171,18 +136,18 @@
             "nationality": "Equatorial Guinea"
         },
         {
-            "id": 115245,
-            "name": "Samuele Ricci",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-08-21",
-            "nationality": "Italy"
+            "id": 99859,
+            "name": "Cyril Ngonge",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-05-26",
+            "nationality": "Belgium"
         },
         {
-            "id": 105441,
-            "name": "Sebastian Walukiewicz",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-04-05",
-            "nationality": "Poland"
+            "id": 81085,
+            "name": "Zakaria Aboukhlal",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-02-18",
+            "nationality": "Morocco"
         },
         {
             "id": 67697,
@@ -206,11 +171,11 @@
             "nationality": "Norway"
         },
         {
-            "id": 8768,
-            "name": "Pietro Pellegri",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-03-17",
-            "nationality": "Italy"
+            "id": 23287,
+            "name": "Ardian Ismajli",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-30",
+            "nationality": "Albania"
         },
         {
             "id": 8438,
@@ -255,6 +220,20 @@
             "nationality": "Morocco"
         },
         {
+            "id": 1789,
+            "name": "Giovanni Simeone",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1995-07-05",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 1776,
+            "name": "Cristiano Biraghi",
+            "position": "Left-Back",
+            "dateOfBirth": "1992-09-01",
+            "nationality": "Italy"
+        },
+        {
             "id": 280,
             "name": "Guillermo Maripán",
             "position": "Centre-Back",
@@ -276,25 +255,11 @@
             "nationality": "Sweden"
         },
         {
-            "id": 244639,
-            "name": "Jonathan Silva",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-04-24",
-            "nationality": "Brazil"
-        },
-        {
             "id": 226987,
             "name": "Zannetos Savva",
             "position": "Right Winger",
             "dateOfBirth": "2005-11-26",
             "nationality": "Cyprus"
-        },
-        {
-            "id": 220113,
-            "name": "Jacopo Antolini",
-            "position": "Left-Back",
-            "dateOfBirth": "2004-01-10",
-            "nationality": "Italy"
         },
         {
             "id": 218559,
@@ -344,6 +309,20 @@
             "position": "Centre-Back",
             "dateOfBirth": "2002-02-01",
             "nationality": "Georgia"
+        },
+        {
+            "id": 132385,
+            "name": "Brian Bayeye",
+            "position": "Right Midfield",
+            "dateOfBirth": "2000-06-30",
+            "nationality": "France"
+        },
+        {
+            "id": 131119,
+            "name": "Faustino Anjorin",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-11-23",
+            "nationality": "England"
         }
     ],
     "staff": [],

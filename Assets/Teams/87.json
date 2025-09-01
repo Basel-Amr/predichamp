@@ -45,18 +45,18 @@
             "nationality": "Argentina"
         },
         {
-            "id": 81425,
-            "name": "Morro",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2000-09-11",
-            "nationality": "Spain"
-        },
-        {
             "id": 133288,
             "name": "Dani Cárdenas",
             "position": "Goalkeeper",
             "dateOfBirth": "1997-03-28",
             "nationality": "Spain"
+        },
+        {
+            "id": 168725,
+            "name": "Jozhua Vertrouwd",
+            "position": "Defence",
+            "dateOfBirth": "2004-08-21",
+            "nationality": "Netherlands"
         },
         {
             "id": 264416,
@@ -66,10 +66,31 @@
             "nationality": "Spain"
         },
         {
+            "id": 283310,
+            "name": "Samu Becerra",
+            "position": "Midfield",
+            "dateOfBirth": "2006-06-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264415,
+            "name": "Etienne",
+            "position": "Offence",
+            "dateOfBirth": "2002-08-18",
+            "nationality": "Cameroon"
+        },
+        {
             "id": 260906,
             "name": "Pelayo Fernández",
             "position": "Centre-Back",
             "dateOfBirth": "2003-04-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 187117,
+            "name": "Fran Perez",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-09-09",
             "nationality": "Spain"
         },
         {
@@ -115,6 +136,13 @@
             "nationality": "Senegal"
         },
         {
+            "id": 33711,
+            "name": "Gerard Gumbau",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-12-18",
+            "nationality": "Spain"
+        },
+        {
             "id": 33496,
             "name": "Isi Palazón",
             "position": "Right Winger",
@@ -136,18 +164,18 @@
             "nationality": "Spain"
         },
         {
-            "id": 32127,
-            "name": "Raúl de Tomás",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-10-17",
-            "nationality": "Spain"
-        },
-        {
             "id": 32124,
             "name": "Unai López",
             "position": "Central Midfield",
             "dateOfBirth": "1995-10-30",
             "nationality": "Spain"
+        },
+        {
+            "id": 32116,
+            "name": "Óscar Trejo",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1988-04-26",
+            "nationality": "Argentina"
         },
         {
             "id": 32109,
@@ -183,6 +211,13 @@
             "position": "Centre-Back",
             "dateOfBirth": "1991-05-20",
             "nationality": "France"
+        },
+        {
+            "id": 2071,
+            "name": "Luiz Felipe",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-03-22",
+            "nationality": "Italy"
         }
     ],
     "staff": [],

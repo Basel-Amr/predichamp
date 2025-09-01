@@ -1,0 +1,281 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 582,
+    "name": "GD Estoril Praia",
+    "shortName": "Estoril Praia",
+    "tla": "EST",
+    "crest": "https://crests.football-data.org/582.png",
+    "address": "Estádio António Coimbra da Mota Estoril 2765",
+    "website": "http://www.estorilpraia.pt",
+    "founded": 1939,
+    "clubColors": "Yellow / Blue",
+    "venue": "Estádio António Coimbra da Mota",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 261164,
+        "firstName": "Ian",
+        "lastName": "Cathro",
+        "name": "Ian Cathro",
+        "dateOfBirth": "1986-07-11",
+        "nationality": "Scotland",
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 7821,
+            "name": "Joel Robles",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1990-06-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 153884,
+            "name": "Martin Turk",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-08-21",
+            "nationality": "Slovenia"
+        },
+        {
+            "id": 213111,
+            "name": "Diogo Dias",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2003-06-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 281954,
+            "name": "Fletcher Lowe",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2007-02-02",
+            "nationality": "South Africa"
+        },
+        {
+            "id": 37554,
+            "name": "Ferro",
+            "position": "Defence",
+            "dateOfBirth": "1997-03-26",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 37555,
+            "name": "Pedro Amaral",
+            "position": "Defence",
+            "dateOfBirth": "1997-08-25",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 75196,
+            "name": "Felix Bacher",
+            "position": "Defence",
+            "dateOfBirth": "2000-10-25",
+            "nationality": "Austria"
+        },
+        {
+            "id": 141472,
+            "name": "Ricard Sánchez",
+            "position": "Defence",
+            "dateOfBirth": "2000-02-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 151006,
+            "name": "Kévin Boma",
+            "position": "Defence",
+            "dateOfBirth": "2002-11-20",
+            "nationality": "France"
+        },
+        {
+            "id": 177521,
+            "name": "Finn Dicke",
+            "position": "Defence",
+            "dateOfBirth": "2004-09-14",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 185120,
+            "name": "Gonçalo Costa",
+            "position": "Defence",
+            "dateOfBirth": "2000-02-18",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 204177,
+            "name": "Tiago Brito",
+            "position": "Defence",
+            "dateOfBirth": "2004-04-16",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 276658,
+            "name": "Tiago Parente",
+            "position": "Defence",
+            "dateOfBirth": "2004-01-14",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 281951,
+            "name": "Longin Bimai",
+            "position": "Defence",
+            "dateOfBirth": "2006-02-17",
+            "nationality": "France"
+        },
+        {
+            "id": 283409,
+            "name": "Diogo Brasido",
+            "position": "Defence",
+            "dateOfBirth": "2003-05-24",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 8569,
+            "name": "Xeka",
+            "position": "Midfield",
+            "dateOfBirth": "1994-11-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 16752,
+            "name": "João Carvalho",
+            "position": "Midfield",
+            "dateOfBirth": "1997-03-09",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 139932,
+            "name": "Patrick de Paula",
+            "position": "Midfield",
+            "dateOfBirth": "1999-09-08",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 146983,
+            "name": "Jandro Orellana",
+            "position": "Midfield",
+            "dateOfBirth": "2000-08-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 160865,
+            "name": "Francisco Pereira",
+            "position": "Midfield",
+            "dateOfBirth": "2002-02-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 213075,
+            "name": "Peixinho",
+            "position": "Midfield",
+            "dateOfBirth": "2004-05-23",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 213118,
+            "name": "Rodrigo Ramos",
+            "position": "Midfield",
+            "dateOfBirth": "2003-11-13",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 243570,
+            "name": "Pedro Carvalho",
+            "position": "Midfield",
+            "dateOfBirth": "2003-02-14",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 254264,
+            "name": "Nodar Lominadze",
+            "position": "Midfield",
+            "dateOfBirth": "2002-04-04",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 281958,
+            "name": "Bernardo Lourenço",
+            "position": "Midfield",
+            "dateOfBirth": "2002-08-21",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 189251,
+            "name": "Khayon Edwards",
+            "position": "Offence",
+            "dateOfBirth": "2003-09-12",
+            "nationality": "England"
+        },
+        {
+            "id": 248958,
+            "name": "Fabrício Garcia",
+            "position": "Offence",
+            "dateOfBirth": "2001-05-04",
+            "nationality": "Cape Verde Islands"
+        },
+        {
+            "id": 159739,
+            "name": "Raúl Parra Artal",
+            "position": "Right-Back",
+            "dateOfBirth": "1999-11-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 141357,
+            "name": "Alejandro Marqués",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2000-08-04",
+            "nationality": "Venezuela"
+        },
+        {
+            "id": 135650,
+            "name": "Jordan Holsgrove",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1999-09-10",
+            "nationality": "Scotland"
+        },
+        {
+            "id": 16754,
+            "name": "Pizzi",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1989-10-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 636,
+            "name": "Rafik Guitane",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-05-26",
+            "nationality": "Algeria"
+        },
+        {
+            "id": 553,
+            "name": "Yanis Begraoui",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-07-04",
+            "nationality": "France"
+        },
+        {
+            "id": 249234,
+            "name": "André",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-05-19",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-10-19T16:23:49Z"
+}

@@ -1,0 +1,43 @@
+{
+    "id": 37727,
+    "name": "Ivanildo Fernandes",
+    "firstName": "",
+    "lastName": "Ivanildo Fernandes",
+    "dateOfBirth": "1996-03-26",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 14,
+    "lastUpdated": "2025-05-16T09:42:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png",
+        "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+        "website": "http://www.cdnacional.pt",
+        "founded": 1910,
+        "clubColors": "Black / White",
+        "venue": "Estádio da Madeira",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2027-06"
+        }
+    }
+}

@@ -7,7 +7,7 @@
     "nationality": "Belgium",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 4,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 98,
+        "name": "AC Milan",
+        "shortName": "Milan",
+        "tla": "MIL",
+        "crest": "https://crests.football-data.org/98.png",
+        "address": "Via Filippo Turati 3 Milano 20121",
+        "website": "http://www.acmilan.com",
+        "founded": 1899,
+        "clubColors": "Red / Black",
+        "venue": "Stadio Giuseppe Meazza",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,11 +33,25 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
-            "start": "2023-08",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2030-06"
         }
     }
 }

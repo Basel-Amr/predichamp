@@ -94,25 +94,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 144615,
-            "name": "Jon Pacheco",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-01-08",
-            "nationality": "Spain"
-        },
-        {
             "id": 141571,
             "name": "Jon Aramburu",
             "position": "Right-Back",
             "dateOfBirth": "2002-07-23",
             "nationality": "Venezuela"
-        },
-        {
-            "id": 115035,
-            "name": "Martín Zubimendi",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1999-02-02",
-            "nationality": "Spain"
         },
         {
             "id": 101182,
@@ -157,6 +143,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 10206,
+            "name": "Duje Ćaleta-Car",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-17",
+            "nationality": "Croatia"
+        },
+        {
             "id": 8808,
             "name": "Hamari Traoré",
             "position": "Right-Back",
@@ -176,6 +169,13 @@
             "position": "Left Winger",
             "dateOfBirth": "1995-02-09",
             "nationality": "Suriname"
+        },
+        {
+            "id": 3259,
+            "name": "Gonçalo Guedes",
+            "position": "Left Winger",
+            "dateOfBirth": "1996-11-29",
+            "nationality": "Portugal"
         },
         {
             "id": 164,
@@ -248,13 +248,6 @@
             "nationality": "Russia"
         },
         {
-            "id": 161293,
-            "name": "Jon Olasagasti",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-08-16",
-            "nationality": "Spain"
-        },
-        {
             "id": 156615,
             "name": "Beñat Turrientes",
             "position": "Central Midfield",
@@ -266,6 +259,13 @@
             "name": "Urko González",
             "position": "Defensive Midfield",
             "dateOfBirth": "2001-03-20",
+            "nationality": "Spain"
+        },
+        {
+            "id": 144615,
+            "name": "Jon Pacheco",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-01-08",
             "nationality": "Spain"
         }
     ],

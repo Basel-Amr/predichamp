@@ -1,0 +1,43 @@
+{
+    "id": 182405,
+    "name": "Hyun-Ju Lee",
+    "firstName": "Hyun-ju",
+    "lastName": "Lee",
+    "dateOfBirth": "2003-02-07",
+    "nationality": "South Korea",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": 14,
+    "lastUpdated": "2024-09-02T09:59:02Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 712,
+        "name": "FC Arouca",
+        "shortName": "Arouca",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/712.png",
+        "address": "Rua Doutor Ângelo Miranda Arouca 4540-140",
+        "website": "http://www.fcarouca.eu",
+        "founded": 1952,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estádio Municipal de Arouca",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2028-06"
+        }
+    }
+}

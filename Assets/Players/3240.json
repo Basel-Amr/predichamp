@@ -7,7 +7,7 @@
     "nationality": "Portugal",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 16,
+    "shirtNumber": 1,
     "lastUpdated": "2023-07-30T17:03:23Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-01",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

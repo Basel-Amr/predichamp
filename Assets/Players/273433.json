@@ -1,0 +1,43 @@
+{
+    "id": 273433,
+    "name": "Raphaël Le Guen",
+    "firstName": "Raphaël",
+    "lastName": "Le Guen",
+    "dateOfBirth": "2006-09-01",
+    "nationality": "France",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 36,
+    "lastUpdated": "2025-02-05T09:41:08Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 512,
+        "name": "Stade Brestois 29",
+        "shortName": "Brest",
+        "tla": "BRE",
+        "crest": "https://crests.football-data.org/512.png",
+        "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+        "website": "http://www.stade-brestois.com",
+        "founded": 1903,
+        "clubColors": "White / Red",
+        "venue": "Stade Francis-Le Blé",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-04",
+            "until": "2026-06"
+        }
+    }
+}

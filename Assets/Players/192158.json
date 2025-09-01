@@ -7,7 +7,7 @@
     "nationality": "Morocco",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 18,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,20 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 522,
-        "name": "OGC Nice",
-        "shortName": "Nice",
-        "tla": "NIC",
-        "crest": "https://crests.football-data.org/522.png",
-        "address": "35, avenue du Ray Nice 06100",
-        "website": "http://www.ogcnice.com",
-        "founded": 1904,
-        "clubColors": "Red / Black",
-        "venue": "Stade de Nice",
-        "runningCompetitions": [
-            {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
-            }
-        ],
+        "id": 577,
+        "name": "FC Martigues",
+        "shortName": "Martigues",
+        "tla": "FCM",
+        "crest": "https://crests.football-data.org/577.png",
+        "address": "31 Chemin de Paradis  BP 20053 Martigues 13692",
+        "website": "http://www.fcmartigues.fr",
+        "founded": 1919,
+        "clubColors": "Red / Yellow",
+        "venue": "Stade Francis Turcan",
+        "runningCompetitions": [],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-08",
+            "until": "2025-06"
         }
     }
 }

@@ -45,6 +45,20 @@
     },
     "squad": [
         {
+            "id": 7015,
+            "name": "Matthias Köbbing",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-05-28",
+            "nationality": "Germany"
+        },
+        {
+            "id": 9388,
+            "name": "Ron-Robert Zieler",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1989-02-12",
+            "nationality": "Germany"
+        },
+        {
             "id": 9957,
             "name": "Marvin Schwäbe",
             "position": "Goalkeeper",
@@ -66,11 +80,11 @@
             "nationality": "Switzerland"
         },
         {
-            "id": 187998,
-            "name": "Rijad Smajic",
+            "id": 180567,
+            "name": "Kristoffer Lund",
             "position": "Defence",
-            "dateOfBirth": "2004-05-02",
-            "nationality": "Bosnia-Herzegovina"
+            "dateOfBirth": "2002-05-14",
+            "nationality": "USA"
         },
         {
             "id": 250365,
@@ -94,11 +108,18 @@
             "nationality": "Iceland"
         },
         {
-            "id": 261052,
-            "name": "Chilohem Onuoha",
+            "id": 213894,
+            "name": "Emin Kujovic",
             "position": "Midfield",
-            "dateOfBirth": "2005-05-07",
-            "nationality": "Germany"
+            "dateOfBirth": "2004-09-29",
+            "nationality": "Montenegro"
+        },
+        {
+            "id": 144647,
+            "name": "Sebastian Sebulonsen",
+            "position": "Offence",
+            "dateOfBirth": "2000-01-27",
+            "nationality": "Norway"
         },
         {
             "id": 247659,
@@ -112,6 +133,13 @@
             "name": "Malek El Mala",
             "position": "Offence",
             "dateOfBirth": "2005-04-02",
+            "nationality": "Germany"
+        },
+        {
+            "id": 99812,
+            "name": "Tom Krauß",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-06-22",
             "nationality": "Germany"
         },
         {
@@ -129,17 +157,17 @@
             "nationality": "Denmark"
         },
         {
+            "id": 65441,
+            "name": "Marius Bülter",
+            "position": "Left Winger",
+            "dateOfBirth": "1993-03-29",
+            "nationality": "Germany"
+        },
+        {
             "id": 58306,
             "name": "Florian Dietz",
             "position": "Centre-Forward",
             "dateOfBirth": "1998-08-03",
-            "nationality": "Germany"
-        },
-        {
-            "id": 10561,
-            "name": "Steffen Tigges",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1998-07-31",
             "nationality": "Germany"
         },
         {
@@ -206,13 +234,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 249110,
-            "name": "Jaka Čuber Potočnik",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-06-17",
-            "nationality": "Slovenia"
-        },
-        {
             "id": 244794,
             "name": "Julian Pauli",
             "position": "Centre-Back",
@@ -220,11 +241,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 185185,
-            "name": "Damion Downs",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-07-06",
-            "nationality": "Germany"
+            "id": 152743,
+            "name": "Rav van den Berg",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-07-07",
+            "nationality": "Netherlands"
         },
         {
             "id": 152726,
@@ -255,11 +276,11 @@
             "nationality": "Poland"
         },
         {
-            "id": 114759,
-            "name": "Rasmus Carstensen",
-            "position": "Right-Back",
-            "dateOfBirth": "2000-10-11",
-            "nationality": "Denmark"
+            "id": 127140,
+            "name": "Cenk Özkacar",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-10-06",
+            "nationality": "Turkey"
         }
     ],
     "staff": [],

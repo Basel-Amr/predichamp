@@ -6,9 +6,9 @@
     "dateOfBirth": "2006-01-24",
     "nationality": "France",
     "section": "Offence",
-    "position": "Offence",
-    "shirtNumber": null,
-    "lastUpdated": "2025-06-30T09:45:53Z",
+    "position": "Midfield",
+    "shirtNumber": 23,
+    "lastUpdated": "2025-07-11T09:42:24Z",
     "currentTeam": {
         "area": {
             "id": 2081,
@@ -27,6 +27,13 @@
         "clubColors": "Red / Black",
         "venue": "Stade de Nice",
         "runningCompetitions": [
+            {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
             {
                 "id": 2015,
                 "name": "Ligue 1",

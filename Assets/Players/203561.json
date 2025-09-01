@@ -1,43 +1,43 @@
 {
     "id": 203561,
     "name": "Joaquín Panichelli",
-    "firstName": "",
+    "firstName": "Joaquín",
     "lastName": "Panichelli",
     "dateOfBirth": "2002-10-07",
     "nationality": "Argentina",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
-    "lastUpdated": "2024-08-25T09:45:52Z",
+    "shirtNumber": 9,
+    "lastUpdated": "2025-08-12T09:42:29Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 263,
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "tla": "ALA",
-        "crest": "https://crests.football-data.org/263.png",
-        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
-        "website": "http://www.alaves.com",
-        "founded": 1921,
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png",
+        "address": "12 Rue Extenwoerth Strasbourg 67000",
+        "website": "http://www.rcstrasbourgalsace.fr",
+        "founded": 1906,
         "clubColors": "Blue / White",
-        "venue": "Estadio de Mendizorroza",
+        "venue": "Stade de la Meinau",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2029-06"
+            "until": "2030-06"
         }
     }
 }

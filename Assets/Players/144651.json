@@ -7,7 +7,7 @@
     "nationality": "Cameroon",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 14,
+    "shirtNumber": null,
     "lastUpdated": "2024-10-09T09:41:46Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-01",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

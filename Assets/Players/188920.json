@@ -11,40 +11,40 @@
     "lastUpdated": "2025-03-06T09:45:11Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
         },
-        "id": 108,
-        "name": "FC Internazionale Milano",
-        "shortName": "Inter",
-        "tla": "INT",
-        "crest": "https://crests.football-data.org/108.png",
-        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-        "website": "http://www.inter.it",
-        "founded": 1908,
+        "id": 851,
+        "name": "Club Brugge KV",
+        "shortName": "Club Brugge",
+        "tla": "CLU",
+        "crest": "https://crests.football-data.org/851.png",
+        "address": "Olympialaan 74 Brugge 8200",
+        "website": "http://www.clubbrugge.be",
+        "founded": 1894,
         "clubColors": "Blue / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "venue": "Jan Breydelstadion",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
                 "type": "CUP",
                 "emblem": null
             },
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2009,
+                "name": "Jupiler Pro League",
+                "code": "BJL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/bjl.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

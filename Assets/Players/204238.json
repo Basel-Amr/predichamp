@@ -8,36 +8,36 @@
     "section": "Central Midfield",
     "position": "Midfield",
     "shirtNumber": 37,
-    "lastUpdated": "2024-08-12T11:57:19Z",
+    "lastUpdated": "2025-07-25T09:41:51Z",
     "currentTeam": {
         "area": {
-            "id": 2152,
-            "name": "Monaco",
-            "code": "MCO",
-            "flag": null
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
         },
-        "id": 548,
-        "name": "AS Monaco FC",
-        "shortName": "Monaco",
-        "tla": "ASM",
-        "crest": "https://crests.football-data.org/548.png",
-        "address": "Avenue des Castellans Monaco 98000",
-        "website": "http://www.asmonaco.com",
-        "founded": 1919,
-        "clubColors": "Red / White",
-        "venue": "Stade Louis II.",
+        "id": 3939,
+        "name": "Cercle Brugge KSV",
+        "shortName": "Cercle Brugge",
+        "tla": "CER",
+        "crest": "https://crests.football-data.org/3939.png",
+        "address": "Olympialaan 74 Brugge 8200",
+        "website": "http://www.cerclebrugge.be",
+        "founded": 1899,
+        "clubColors": "Green / Black / White",
+        "venue": "Jan Breydelstadion",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2009,
+                "name": "Jupiler Pro League",
+                "code": "BJL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/bjl.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

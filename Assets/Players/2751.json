@@ -8,7 +8,7 @@
     "section": "Goalkeeper",
     "position": "Goalkeeper",
     "shirtNumber": null,
-    "lastUpdated": "2025-05-15T09:47:44Z",
+    "lastUpdated": "2025-07-09T09:46:15Z",
     "currentTeam": {
         "area": {
             "id": 2114,
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 5890,
-        "name": "US Lecce",
-        "shortName": "Lecce",
-        "tla": "USL",
-        "crest": "https://crests.football-data.org/5890.png",
-        "address": "Via Templari 11 Lecce 73100",
-        "website": "http://www.uslecce.it",
+        "id": 5901,
+        "name": "Carrarese Calcio",
+        "shortName": "Carrarese",
+        "tla": "CAR",
+        "crest": "https://crests.football-data.org/5901.png",
+        "address": "Piazza Vittorio Veneto, 8 Carrara 54033",
+        "website": "http://www.carraresecalcio.it",
         "founded": 1908,
-        "clubColors": "Yellow / Red / Navy Blue",
-        "venue": "Stadio Comunale Via Del Mare",
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio dei Marmi",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -44,7 +44,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

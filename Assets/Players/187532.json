@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 73,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 5890,
-        "name": "US Lecce",
-        "shortName": "Lecce",
-        "tla": "USL",
-        "crest": "https://crests.football-data.org/5890.png",
-        "address": "Via Templari 11 Lecce 73100",
-        "website": "http://www.uslecce.it",
-        "founded": 1908,
-        "clubColors": "Yellow / Red / Navy Blue",
-        "venue": "Stadio Comunale Via Del Mare",
+        "id": 7637,
+        "name": "Juventus FC U23",
+        "shortName": "Juventus U23",
+        "tla": "JUV",
+        "crest": "https://crests.football-data.org/7637.png",
+        "address": "Corso Galileo Ferraris, 32 Torino 10128",
+        "website": "http://www.juventus.com",
+        "founded": 1897,
+        "clubColors": "White / Black",
+        "venue": "Stadio Giuseppe Moccagatta",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2163,
+                "name": "Serie C - Girone B",
+                "code": "ISCB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2024-08",
+            "until": "2026-06"
         }
     }
 }

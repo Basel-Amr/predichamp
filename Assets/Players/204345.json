@@ -7,44 +7,44 @@
     "nationality": "Portugal",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 18,
     "lastUpdated": "2023-07-30T22:13:16Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 115,
-        "name": "Udinese Calcio",
-        "shortName": "Udinese",
-        "tla": "UDI",
-        "crest": "https://crests.football-data.org/115.png",
-        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
-        "website": "http://www.udinese.it",
-        "founded": 1896,
-        "clubColors": "White / Black",
-        "venue": "Dacia Arena",
+        "id": 346,
+        "name": "Watford FC",
+        "shortName": "Watford",
+        "tla": "WAT",
+        "crest": "https://crests.football-data.org/346.png",
+        "address": "Vicarage Road Watford WD18 0ER",
+        "website": "http://www.watfordfc.com",
+        "founded": 1881,
+        "clubColors": "Yellow / Black",
+        "venue": "Vicarage Road Stadium",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/ELC.png"
             },
             {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2030-06"
         }
     }
 }

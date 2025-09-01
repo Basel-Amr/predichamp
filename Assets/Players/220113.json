@@ -16,35 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 590,
+        "name": "FC Pro Vercelli 1892",
+        "shortName": "Pro Vercelli",
+        "tla": "PRO",
+        "crest": "https://crests.football-data.org/590.png",
+        "address": "Via Massaua, 1 Vercelli 13100",
+        "website": "http://www.fcprovercelli.it",
+        "founded": 1892,
+        "clubColors": null,
+        "venue": "Stadio Silvio Piola",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2025-01",
+            "until": "2025-06"
         }
     }
 }

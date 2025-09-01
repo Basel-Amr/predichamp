@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 38,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2023-07",
             "until": "2026-06"
         }
     }

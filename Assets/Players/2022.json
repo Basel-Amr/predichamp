@@ -1,0 +1,43 @@
+{
+    "id": 2022,
+    "name": "Wojciech Szczęsny",
+    "firstName": "Wojciech",
+    "lastName": "Szczęsny",
+    "dateOfBirth": "1990-04-18",
+    "nationality": "Poland",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 25,
+    "lastUpdated": "2023-07-30T22:13:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 81,
+        "name": "FC Barcelona",
+        "shortName": "Barça",
+        "tla": "FCB",
+        "crest": "https://crests.football-data.org/81.png",
+        "address": "Avenida Arístides Maillol s/n Barcelona 08028",
+        "website": "http://www.fcbarcelona.com",
+        "founded": 1899,
+        "clubColors": "Red / Navy Blue / Orange",
+        "venue": "Camp Nou",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-10",
+            "until": "2027-06"
+        }
+    }
+}

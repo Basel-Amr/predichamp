@@ -7,44 +7,37 @@
     "nationality": "Spain",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 99,
     "lastUpdated": "2023-07-30T22:13:19Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2186,
+            "name": "Poland",
+            "code": "POL",
+            "flag": "https://crests.football-data.org/794.svg"
         },
-        "id": 5890,
-        "name": "US Lecce",
-        "shortName": "Lecce",
-        "tla": "USL",
-        "crest": "https://crests.football-data.org/5890.png",
-        "address": "Via Templari 11 Lecce 73100",
-        "website": "http://www.uslecce.it",
-        "founded": 1908,
-        "clubColors": "Yellow / Red / Navy Blue",
-        "venue": "Stadio Comunale Via Del Mare",
+        "id": 5634,
+        "name": "KKS Lech Poznań",
+        "shortName": "Lech Poznań",
+        "tla": "LEP",
+        "crest": "https://crests.football-data.org/5634.png",
+        "address": "ul. Bułgarska 5/7 Poznań 60-320",
+        "website": "http://www.lech.poznan.pl",
+        "founded": 1922,
+        "clubColors": "Blue / White",
+        "venue": "Stadion Miejski",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

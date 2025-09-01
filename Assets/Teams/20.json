@@ -45,6 +45,20 @@
     },
     "squad": [
         {
+            "id": 65105,
+            "name": "Nikola Vasilj",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1995-12-02",
+            "nationality": "Bosnia-Herzegovina"
+        },
+        {
+            "id": 114954,
+            "name": "Ben Alexander Voll",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-12-09",
+            "nationality": "Germany"
+        },
+        {
             "id": 217277,
             "name": "Simon Spari",
             "position": "Goalkeeper",
@@ -57,6 +71,13 @@
             "position": "Defence",
             "dateOfBirth": "2003-04-10",
             "nationality": "Wales"
+        },
+        {
+            "id": 209917,
+            "name": "Louis Oppie",
+            "position": "Defence",
+            "dateOfBirth": "2002-05-17",
+            "nationality": "Germany"
         },
         {
             "id": 212779,
@@ -87,10 +108,24 @@
             "nationality": "Poland"
         },
         {
-            "id": 238083,
-            "name": "Muhammad Dahaba",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-03-07",
+            "id": 272164,
+            "name": "Nick Schmidt",
+            "position": "Midfield",
+            "dateOfBirth": "2007-09-12",
+            "nationality": "Japan"
+        },
+        {
+            "id": 268952,
+            "name": "Abdoulie Ceesay",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-01-05",
+            "nationality": "Gambia"
+        },
+        {
+            "id": 265468,
+            "name": "Marwin Schmitz",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2007-01-07",
             "nationality": "Germany"
         },
         {
@@ -99,6 +134,20 @@
             "position": "Left Winger",
             "dateOfBirth": "2004-06-22",
             "nationality": "Germany"
+        },
+        {
+            "id": 136168,
+            "name": "Andreas Hountondji",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-07-11",
+            "nationality": "France"
+        },
+        {
+            "id": 111737,
+            "name": "Erik Ahlstrand",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-10-14",
+            "nationality": "Sweden"
         },
         {
             "id": 102498,
@@ -115,6 +164,13 @@
             "nationality": "Austria"
         },
         {
+            "id": 80926,
+            "name": "Scott Banks",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-09-26",
+            "nationality": "Scotland"
+        },
+        {
             "id": 77783,
             "name": "James Sands",
             "position": "Defensive Midfield",
@@ -122,11 +178,11 @@
             "nationality": "USA"
         },
         {
-            "id": 45318,
-            "name": "Maurides",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-03-10",
-            "nationality": "Brazil"
+            "id": 64402,
+            "name": "Adam Dźwigała",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-09-25",
+            "nationality": "Poland"
         },
         {
             "id": 31926,
@@ -134,6 +190,13 @@
             "position": "Centre-Back",
             "dateOfBirth": "1997-01-08",
             "nationality": "Sweden"
+        },
+        {
+            "id": 15243,
+            "name": "Danel Sinani",
+            "position": "Right Winger",
+            "dateOfBirth": "1997-04-05",
+            "nationality": "Luxembourg"
         },
         {
             "id": 8226,
@@ -150,11 +213,39 @@
             "nationality": "Estonia"
         },
         {
+            "id": 6849,
+            "name": "Hauke Finn Wahl",
+            "position": "Centre-Back",
+            "dateOfBirth": "1994-04-15",
+            "nationality": "Germany"
+        },
+        {
+            "id": 4635,
+            "name": "Connor Metcalfe",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-11-05",
+            "nationality": "Australia"
+        },
+        {
+            "id": 3421,
+            "name": "Jackson Irvine",
+            "position": "Central Midfield",
+            "dateOfBirth": "1993-03-07",
+            "nationality": "Australia"
+        },
+        {
             "id": 722,
             "name": "Mathias Pereira Lage",
             "position": "Left Winger",
             "dateOfBirth": "1996-11-30",
             "nationality": "Portugal"
+        },
+        {
+            "id": 382,
+            "name": "Lars Ritzka",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-05-07",
+            "nationality": "Germany"
         }
     ],
     "staff": [],

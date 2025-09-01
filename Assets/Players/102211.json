@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 70,
+    "shirtNumber": 10,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-07",
             "until": "2029-06"
         }
     }

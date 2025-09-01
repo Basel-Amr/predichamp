@@ -1,0 +1,43 @@
+{
+    "id": 251296,
+    "name": "João Rêgo",
+    "firstName": "",
+    "lastName": "João Rêgo",
+    "dateOfBirth": "2005-06-20",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": "Midfield",
+    "shirtNumber": 84,
+    "lastUpdated": "2024-05-20T09:41:14Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5537,
+        "name": "Sport Lisboa e Benfica B",
+        "shortName": "SL Benfica B",
+        "tla": "SLB",
+        "crest": "https://crests.football-data.org/5537.png",
+        "address": "Av. General Norton de Matos 1500, Apartado Nº 4100 Lisboa 1501-805",
+        "website": "http://www.slbenfica.pt",
+        "founded": 1904,
+        "clubColors": "Red / White",
+        "venue": "Caixa Futebol Campus",
+        "runningCompetitions": [
+            {
+                "id": 2096,
+                "name": "Liga2 Cabovisão",
+                "code": "PSL",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

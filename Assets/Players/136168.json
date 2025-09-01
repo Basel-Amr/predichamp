@@ -7,37 +7,44 @@
     "nationality": "France",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 27,
     "lastUpdated": "2024-09-02T09:59:06Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 328,
-        "name": "Burnley FC",
-        "shortName": "Burnley",
-        "tla": "BUR",
-        "crest": "https://crests.football-data.org/328.png",
-        "address": "Harry Potts Way Burnley BB10 4BX",
-        "website": "http://www.burnleyfootballclub.com",
-        "founded": 1881,
-        "clubColors": "Claret / Sky Blue",
-        "venue": "Turf Moor",
+        "id": 20,
+        "name": "FC St. Pauli 1910",
+        "shortName": "St. Pauli",
+        "tla": "STP",
+        "crest": "https://crests.football-data.org/20.png",
+        "address": "Auf dem Heiligengeistfeld Hamburg 20359",
+        "website": "http://www.fcstpauli.de",
+        "founded": 1910,
+        "clubColors": "Brown / White",
+        "venue": "Millerntor-Stadion",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/BL1.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

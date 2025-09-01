@@ -25,15 +25,15 @@
         }
     ],
     "coach": {
-        "id": null,
-        "firstName": null,
-        "lastName": null,
-        "name": null,
-        "dateOfBirth": null,
-        "nationality": null,
+        "id": 77171,
+        "firstName": "Veljko",
+        "lastName": "Paunović",
+        "name": "Veljko Paunović",
+        "dateOfBirth": "1977-08-21",
+        "nationality": "Serbia",
         "contract": {
-            "start": null,
-            "until": null
+            "start": "2025-03",
+            "until": "2026-06"
         }
     },
     "squad": [
@@ -45,6 +45,20 @@
             "nationality": "Spain"
         },
         {
+            "id": 122005,
+            "name": "Horaţiu Moldovan",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-01-20",
+            "nationality": "Romania"
+        },
+        {
+            "id": 271946,
+            "name": "Miguel Narváez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-04-29",
+            "nationality": "Spain"
+        },
+        {
             "id": 15864,
             "name": "David Costas",
             "position": "Defence",
@@ -52,10 +66,17 @@
             "nationality": "Spain"
         },
         {
-            "id": 31952,
-            "name": "Carlos Pomares",
+            "id": 32397,
+            "name": "Dani Calvo",
             "position": "Defence",
-            "dateOfBirth": "1992-12-05",
+            "dateOfBirth": "1994-04-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32935,
+            "name": "Lucas Ahijado",
+            "position": "Defence",
+            "dateOfBirth": "1995-01-30",
             "nationality": "Spain"
         },
         {
@@ -73,6 +94,13 @@
             "nationality": "Dominican Republic"
         },
         {
+            "id": 220693,
+            "name": "Marco Esteban",
+            "position": "Defence",
+            "dateOfBirth": "2006-03-01",
+            "nationality": "Spain"
+        },
+        {
             "id": 226037,
             "name": "Rahim Alhassane",
             "position": "Defence",
@@ -80,11 +108,39 @@
             "nationality": "Niger"
         },
         {
-            "id": 3878,
-            "name": "Jaime Seoane",
-            "position": "Midfield",
-            "dateOfBirth": "1997-01-22",
+            "id": 277618,
+            "name": "Omar Falah",
+            "position": "Defence",
+            "dateOfBirth": "2003-09-09",
             "nationality": "Spain"
+        },
+        {
+            "id": 2598,
+            "name": "Santiago Colombatto",
+            "position": "Midfield",
+            "dateOfBirth": "1997-01-17",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 4068,
+            "name": "Ovie Ejaria",
+            "position": "Midfield",
+            "dateOfBirth": "1997-11-18",
+            "nationality": "England"
+        },
+        {
+            "id": 7790,
+            "name": "Santi Cazorla",
+            "position": "Midfield",
+            "dateOfBirth": "1984-12-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 67707,
+            "name": "Luka Ilić",
+            "position": "Midfield",
+            "dateOfBirth": "1999-07-02",
+            "nationality": "Serbia"
         },
         {
             "id": 79960,
@@ -115,13 +171,6 @@
             "nationality": "France"
         },
         {
-            "id": 159426,
-            "name": "Alberto Del Moral",
-            "position": "Midfield",
-            "dateOfBirth": "2000-07-20",
-            "nationality": "Spain"
-        },
-        {
             "id": 180168,
             "name": "Álex Suárez",
             "position": "Midfield",
@@ -129,17 +178,10 @@
             "nationality": "Spain"
         },
         {
-            "id": 180203,
-            "name": "Paulino de la Fuente",
+            "id": 191053,
+            "name": "Alberto Reina",
             "position": "Midfield",
-            "dateOfBirth": "1997-06-27",
-            "nationality": "Spain"
-        },
-        {
-            "id": 203631,
-            "name": "Yayo",
-            "position": "Midfield",
-            "dateOfBirth": "2004-07-30",
+            "dateOfBirth": "1997-09-09",
             "nationality": "Spain"
         },
         {
@@ -150,24 +192,38 @@
             "nationality": "Spain"
         },
         {
-            "id": 205875,
-            "name": "Daniel Paraschiv",
-            "position": "Offence",
-            "dateOfBirth": "1999-04-24",
-            "nationality": "Romania"
+            "id": 278741,
+            "name": "Lamine Gueye",
+            "position": "Midfield",
+            "dateOfBirth": "2004-01-01",
+            "nationality": "Spain"
         },
         {
-            "id": 146126,
-            "name": "Ilyas Chaira",
-            "position": "Right Winger",
-            "dateOfBirth": "2001-02-02",
-            "nationality": "Morocco"
+            "id": 283317,
+            "name": "Cheli",
+            "position": "Midfield",
+            "dateOfBirth": "2005-07-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 112678,
+            "name": "Federico Viñas",
+            "position": "Offence",
+            "dateOfBirth": "1998-06-30",
+            "nationality": "Uruguay"
         },
         {
             "id": 33142,
             "name": "Nacho Vidal",
             "position": "Right-Back",
             "dateOfBirth": "1995-01-24",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32883,
+            "name": "Álvaro Lemos",
+            "position": "Right-Back",
+            "dateOfBirth": "1993-03-30",
             "nationality": "Spain"
         },
         {
@@ -183,6 +239,20 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1989-09-16",
             "nationality": "Venezuela"
+        },
+        {
+            "id": 185104,
+            "name": "Alex Forés",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-04-12",
+            "nationality": "Spain"
+        },
+        {
+            "id": 146126,
+            "name": "Ilyas Chaira",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-02-02",
+            "nationality": "Morocco"
         }
     ],
     "staff": [],

@@ -11,28 +11,28 @@
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 543,
-        "name": "FC Nantes",
-        "shortName": "Nantes",
-        "tla": "NAN",
-        "crest": "https://crests.football-data.org/543.png",
-        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
-        "website": "http://www.fcnantes.com",
-        "founded": 1943,
-        "clubColors": "Green / Yellow",
-        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "id": 5268,
+        "name": "FC Sion",
+        "shortName": "Sion",
+        "tla": "SIO",
+        "crest": "https://crests.football-data.org/5268.png",
+        "address": "Case postale 32 Martigny-Croix 1921",
+        "website": "http://www.fc-sion.ch",
+        "founded": 1909,
+        "clubColors": "White / Red",
+        "venue": "Stade de Tourbillon",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {

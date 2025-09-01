@@ -28,13 +28,6 @@
         "venue": "Parc des Princes",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
                 "id": 2157,
                 "name": "UEFA Super Cup",
                 "code": "ESC",

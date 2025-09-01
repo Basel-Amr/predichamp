@@ -1,0 +1,43 @@
+{
+    "id": 45304,
+    "name": "André Sousa",
+    "firstName": "",
+    "lastName": "André Sousa",
+    "dateOfBirth": "1990-07-09",
+    "nationality": "Portugal",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 18,
+    "lastUpdated": "2023-11-28T09:46:10Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png",
+        "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+        "website": "http://www.cdnacional.pt",
+        "founded": 1910,
+        "clubColors": "Black / White",
+        "venue": "Estádio da Madeira",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

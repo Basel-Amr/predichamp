@@ -1,0 +1,43 @@
+{
+    "id": 191985,
+    "name": "Mateja Stjepanovic",
+    "firstName": "Mateja",
+    "lastName": "Stjepanović",
+    "dateOfBirth": "2004-02-20",
+    "nationality": "Serbia",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 8,
+    "lastUpdated": "2023-08-22T13:28:39Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png",
+        "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+        "website": "http://www.moreirensefc.pt",
+        "founded": 1938,
+        "clubColors": "Green / White",
+        "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2029-06"
+        }
+    }
+}

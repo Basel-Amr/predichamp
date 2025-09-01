@@ -7,46 +7,32 @@
     "nationality": "Colombia",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 9,
     "lastUpdated": "2024-06-06T13:14:19Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 10,
-        "name": "VfB Stuttgart",
-        "shortName": "Stuttgart",
-        "tla": "VFB",
-        "crest": "https://crests.football-data.org/10.png",
-        "address": "Mercedesstraße 109 Stuttgart 70372",
-        "website": "http://www.vfb.de",
-        "founded": 1893,
-        "clubColors": "White / Red",
-        "venue": "Mercedes-Benz Arena",
+        "id": 5273,
+        "name": "FC Zürich",
+        "shortName": "FC Zürich",
+        "tla": "FCZ",
+        "crest": "https://crests.football-data.org/5273.png",
+        "address": "Werdstr. 21 Zürich 8004",
+        "website": "http://www.fcz.ch",
+        "founded": 1896,
+        "clubColors": "Blue / White",
+        "venue": "Stadion Letzigrund",
         "runningCompetitions": [
             {
-                "id": 2134,
-                "name": "DFL Super Cup",
-                "code": "GSC",
-                "type": "SUPER_CUP",
-                "emblem": null
-            },
-            {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {

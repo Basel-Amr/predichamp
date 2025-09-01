@@ -1,0 +1,43 @@
+{
+    "id": 263610,
+    "name": "Antzelo Sina",
+    "firstName": "Antzelo",
+    "lastName": "Sina",
+    "dateOfBirth": "2004-01-07",
+    "nationality": "Albania",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 99,
+    "lastUpdated": "2024-12-25T09:42:47Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 496,
+        "name": "Rio Ave FC",
+        "shortName": "Rio Ave",
+        "tla": "RIO",
+        "crest": "https://crests.football-data.org/496.png",
+        "address": "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909",
+        "website": "http://www.rioave-fc.pt",
+        "founded": 1939,
+        "clubColors": "Green / White",
+        "venue": "Estádio do Rio Ave Futebol Clube",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

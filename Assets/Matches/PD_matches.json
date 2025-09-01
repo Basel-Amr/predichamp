@@ -1,108 +1,9 @@
 [
     {
-        "id": 544211,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 263,
-            "name": "Deportivo Alav\u00e9s",
-            "shortName": "Alav\u00e9s",
-            "tla": "ALA",
-            "crest": "https://crests.football-data.org/263.png"
-        },
-        "awayTeam": {
-            "id": 88,
-            "name": "Levante UD",
-            "shortName": "Levante",
-            "tla": "LEV",
-            "crest": "https://crests.football-data.org/88.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544212,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-        },
-        "awayTeam": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544213,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-        },
-        "awayTeam": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 544214,
         "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-15T17:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 298,
@@ -119,188 +20,23 @@
             "crest": "https://crests.football-data.org/87.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 3
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544215,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
-        },
-        "awayTeam": {
-            "id": 78,
-            "name": "Club Atl\u00e9tico de Madrid",
-            "shortName": "Atleti",
-            "tla": "ATL",
-            "crest": "https://crests.football-data.org/78.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544216,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 89,
-            "name": "RCD Mallorca",
-            "shortName": "Mallorca",
-            "tla": "MAL",
-            "crest": "https://crests.football-data.org/89.png"
-        },
-        "awayTeam": {
-            "id": 81,
-            "name": "FC Barcelona",
-            "shortName": "Bar\u00e7a",
-            "tla": "FCB",
-            "crest": "https://crests.football-data.org/81.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544217,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-        },
-        "awayTeam": {
-            "id": 90,
-            "name": "Real Betis Balompi\u00e9",
-            "shortName": "Real Betis",
-            "tla": "BET",
-            "crest": "https://crests.football-data.org/90.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544218,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 86,
-            "name": "Real Madrid CF",
-            "shortName": "Real Madrid",
-            "tla": "RMA",
-            "crest": "https://crests.football-data.org/86.png"
-        },
-        "awayTeam": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544219,
-        "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 95,
-            "name": "Valencia CF",
-            "shortName": "Valencia",
-            "tla": "VAL",
-            "crest": "https://crests.football-data.org/95.png"
-        },
-        "awayTeam": {
-            "id": 92,
-            "name": "Real Sociedad de F\u00fatbol",
-            "shortName": "Real Sociedad",
-            "tla": "RSO",
-            "crest": "https://crests.football-data.org/92.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 3
             }
         }
     },
     {
         "id": 544220,
         "matchday": 1,
-        "utcDate": "2025-08-17T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-15T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 94,
@@ -317,23 +53,155 @@
             "crest": "https://crests.football-data.org/1048.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             }
         }
     },
     {
-        "id": 544221,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 544216,
+        "matchday": 1,
+        "utcDate": "2025-08-16T17:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 89,
+            "name": "RCD Mallorca",
+            "shortName": "Mallorca",
+            "tla": "MAL",
+            "crest": "https://crests.football-data.org/89.png"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https://crests.football-data.org/81.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 2
+            }
+        }
+    },
+    {
+        "id": 544211,
+        "matchday": 1,
+        "utcDate": "2025-08-16T19:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 263,
+            "name": "Deportivo Alav\u00e9s",
+            "shortName": "Alav\u00e9s",
+            "tla": "ALA",
+            "crest": "https://crests.football-data.org/263.png"
+        },
+        "awayTeam": {
+            "id": 88,
+            "name": "Levante UD",
+            "shortName": "Levante",
+            "tla": "LEV",
+            "crest": "https://crests.football-data.org/88.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544219,
+        "matchday": 1,
+        "utcDate": "2025-08-16T19:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 95,
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crest": "https://crests.football-data.org/95.png"
+        },
+        "awayTeam": {
+            "id": 92,
+            "name": "Real Sociedad de F\u00fatbol",
+            "shortName": "Real Sociedad",
+            "tla": "RSO",
+            "crest": "https://crests.football-data.org/92.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544213,
+        "matchday": 1,
+        "utcDate": "2025-08-17T15:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+        },
+        "awayTeam": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544212,
+        "matchday": 1,
+        "utcDate": "2025-08-17T17:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 77,
@@ -343,129 +211,129 @@
             "crest": "https://crests.football-data.org/77.png"
         },
         "awayTeam": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             }
         }
     },
     {
-        "id": 544222,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 544215,
+        "matchday": 1,
+        "utcDate": "2025-08-17T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+        },
+        "awayTeam": {
             "id": 78,
             "name": "Club Atl\u00e9tico de Madrid",
             "shortName": "Atleti",
             "tla": "ATL",
             "crest": "https://crests.football-data.org/78.png"
         },
-        "awayTeam": {
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        }
+    },
+    {
+        "id": 544217,
+        "matchday": 1,
+        "utcDate": "2025-08-18T19:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
             "id": 285,
             "name": "Elche CF",
             "shortName": "Elche",
             "tla": "ELC",
             "crest": "https://crests.football-data.org/285.png"
         },
+        "awayTeam": {
+            "id": 90,
+            "name": "Real Betis Balompi\u00e9",
+            "shortName": "Real Betis",
+            "tla": "BET",
+            "crest": "https://crests.football-data.org/90.png"
+        },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
-        "id": 544223,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 544218,
+        "matchday": 1,
+        "utcDate": "2025-08-19T19:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-        },
-        "awayTeam": {
-            "id": 95,
-            "name": "Valencia CF",
-            "shortName": "Valencia",
-            "tla": "VAL",
-            "crest": "https://crests.football-data.org/95.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544224,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 1048,
-            "name": "Real Oviedo",
-            "shortName": "Real Oviedo",
-            "tla": "OVI",
-            "crest": "https://crests.football-data.org/1048.png"
-        },
-        "awayTeam": {
             "id": 86,
             "name": "Real Madrid CF",
             "shortName": "Real Madrid",
             "tla": "RMA",
             "crest": "https://crests.football-data.org/86.png"
         },
+        "awayTeam": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+        },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
     {
         "id": 544225,
         "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-22T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 90,
@@ -482,56 +350,23 @@
             "crest": "https://crests.football-data.org/263.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544226,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 88,
-            "name": "Levante UD",
-            "shortName": "Levante",
-            "tla": "LEV",
-            "crest": "https://crests.football-data.org/88.png"
-        },
-        "awayTeam": {
-            "id": 81,
-            "name": "FC Barcelona",
-            "shortName": "Bar\u00e7a",
-            "tla": "FCB",
-            "crest": "https://crests.football-data.org/81.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             }
         }
     },
     {
         "id": 544227,
         "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-23T15:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 89,
@@ -548,23 +383,122 @@
             "crest": "https://crests.football-data.org/558.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
+            }
+        }
+    },
+    {
+        "id": 544222,
+        "matchday": 2,
+        "utcDate": "2025-08-23T17:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 78,
+            "name": "Club Atl\u00e9tico de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATL",
+            "crest": "https://crests.football-data.org/78.png"
+        },
+        "awayTeam": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        }
+    },
+    {
+        "id": 544226,
+        "matchday": 2,
+        "utcDate": "2025-08-23T19:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 88,
+            "name": "Levante UD",
+            "shortName": "Levante",
+            "tla": "LEV",
+            "crest": "https://crests.football-data.org/88.png"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https://crests.football-data.org/81.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544223,
+        "matchday": 2,
+        "utcDate": "2025-08-24T15:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+        },
+        "awayTeam": {
+            "id": 95,
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crest": "https://crests.football-data.org/95.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
             }
         }
     },
     {
         "id": 544228,
         "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-24T17:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 92,
@@ -581,56 +515,23 @@
             "crest": "https://crests.football-data.org/80.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 2
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544229,
-        "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-        },
-        "awayTeam": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             }
         }
     },
     {
         "id": 544230,
         "matchday": 2,
-        "utcDate": "2025-08-24T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-24T17:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 94,
@@ -647,56 +548,122 @@
             "crest": "https://crests.football-data.org/298.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 5,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 0
             }
         }
     },
     {
-        "id": 544231,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 544224,
+        "matchday": 2,
+        "utcDate": "2025-08-24T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
-            "id": 263,
-            "name": "Deportivo Alav\u00e9s",
-            "shortName": "Alav\u00e9s",
-            "tla": "ALA",
-            "crest": "https://crests.football-data.org/263.png"
+            "id": 1048,
+            "name": "Real Oviedo",
+            "shortName": "Real Oviedo",
+            "tla": "OVI",
+            "crest": "https://crests.football-data.org/1048.png"
         },
         "awayTeam": {
-            "id": 78,
-            "name": "Club Atl\u00e9tico de Madrid",
-            "shortName": "Atleti",
-            "tla": "ATL",
-            "crest": "https://crests.football-data.org/78.png"
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https://crests.football-data.org/86.png"
         },
         "score": {
-            "winner": null,
+            "winner": "AWAY_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 3
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
-        "id": 544232,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
+        "id": 544221,
+        "matchday": 2,
+        "utcDate": "2025-08-25T17:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+        },
+        "awayTeam": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544229,
+        "matchday": 2,
+        "utcDate": "2025-08-25T19:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+        },
+        "awayTeam": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        }
+    },
+    {
+        "id": 544268,
+        "matchday": 6,
+        "utcDate": "2025-08-27T19:00:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 558,
@@ -706,30 +673,30 @@
             "crest": "https://crests.football-data.org/558.png"
         },
         "awayTeam": {
-            "id": 94,
-            "name": "Villarreal CF",
-            "shortName": "Villarreal",
-            "tla": "VIL",
-            "crest": "https://crests.football-data.org/94.png"
+            "id": 90,
+            "name": "Real Betis Balompi\u00e9",
+            "shortName": "Real Betis",
+            "tla": "BET",
+            "crest": "https://crests.football-data.org/90.png"
         },
         "score": {
-            "winner": null,
+            "winner": "DRAW",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
         "id": 544233,
         "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-29T17:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 285,
@@ -746,188 +713,23 @@
             "crest": "https://crests.football-data.org/88.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544234,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
-        },
-        "awayTeam": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544235,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 298,
-            "name": "Girona FC",
-            "shortName": "Girona",
-            "tla": "GIR",
-            "crest": "https://crests.football-data.org/298.png"
-        },
-        "awayTeam": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544236,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 1048,
-            "name": "Real Oviedo",
-            "shortName": "Real Oviedo",
-            "tla": "OVI",
-            "crest": "https://crests.football-data.org/1048.png"
-        },
-        "awayTeam": {
-            "id": 92,
-            "name": "Real Sociedad de F\u00fatbol",
-            "shortName": "Real Sociedad",
-            "tla": "RSO",
-            "crest": "https://crests.football-data.org/92.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544237,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 90,
-            "name": "Real Betis Balompi\u00e9",
-            "shortName": "Real Betis",
-            "tla": "BET",
-            "crest": "https://crests.football-data.org/90.png"
-        },
-        "awayTeam": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544238,
-        "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-        },
-        "awayTeam": {
-            "id": 81,
-            "name": "FC Barcelona",
-            "shortName": "Bar\u00e7a",
-            "tla": "FCB",
-            "crest": "https://crests.football-data.org/81.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             }
         }
     },
     {
         "id": 544239,
         "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-29T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 95,
@@ -944,23 +746,122 @@
             "crest": "https://crests.football-data.org/82.png"
         },
         "score": {
-            "winner": null,
+            "winner": "HOME_TEAM",
             "duration": "REGULAR",
             "fullTime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "halfTime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544231,
+        "matchday": 3,
+        "utcDate": "2025-08-30T15:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 263,
+            "name": "Deportivo Alav\u00e9s",
+            "shortName": "Alav\u00e9s",
+            "tla": "ALA",
+            "crest": "https://crests.football-data.org/263.png"
+        },
+        "awayTeam": {
+            "id": 78,
+            "name": "Club Atl\u00e9tico de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATL",
+            "crest": "https://crests.football-data.org/78.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        }
+    },
+    {
+        "id": 544236,
+        "matchday": 3,
+        "utcDate": "2025-08-30T17:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 1048,
+            "name": "Real Oviedo",
+            "shortName": "Real Oviedo",
+            "tla": "OVI",
+            "crest": "https://crests.football-data.org/1048.png"
+        },
+        "awayTeam": {
+            "id": 92,
+            "name": "Real Sociedad de F\u00fatbol",
+            "shortName": "Real Sociedad",
+            "tla": "RSO",
+            "crest": "https://crests.football-data.org/92.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544235,
+        "matchday": 3,
+        "utcDate": "2025-08-30T17:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 298,
+            "name": "Girona FC",
+            "shortName": "Girona",
+            "tla": "GIR",
+            "crest": "https://crests.football-data.org/298.png"
+        },
+        "awayTeam": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
             }
         }
     },
     {
         "id": 544240,
         "matchday": 3,
-        "utcDate": "2025-08-31T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-08-30T19:30:00Z",
+        "status": "FINISHED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 86,
@@ -975,6 +876,330 @@
             "shortName": "Mallorca",
             "tla": "MAL",
             "crest": "https://crests.football-data.org/89.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544232,
+        "matchday": 3,
+        "utcDate": "2025-08-31T15:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+        },
+        "awayTeam": {
+            "id": 94,
+            "name": "Villarreal CF",
+            "shortName": "Villarreal",
+            "tla": "VIL",
+            "crest": "https://crests.football-data.org/94.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544237,
+        "matchday": 3,
+        "utcDate": "2025-08-31T17:00:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 90,
+            "name": "Real Betis Balompi\u00e9",
+            "shortName": "Real Betis",
+            "tla": "BET",
+            "crest": "https://crests.football-data.org/90.png"
+        },
+        "awayTeam": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544234,
+        "matchday": 3,
+        "utcDate": "2025-08-31T17:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+        },
+        "awayTeam": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544238,
+        "matchday": 3,
+        "utcDate": "2025-08-31T19:30:00Z",
+        "status": "FINISHED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https://crests.football-data.org/81.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        }
+    },
+    {
+        "id": 544249,
+        "matchday": 4,
+        "utcDate": "2025-09-12T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+        },
+        "awayTeam": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 544245,
+        "matchday": 4,
+        "utcDate": "2025-09-13T12:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+        },
+        "awayTeam": {
+            "id": 1048,
+            "name": "Real Oviedo",
+            "shortName": "Real Oviedo",
+            "tla": "OVI",
+            "crest": "https://crests.football-data.org/1048.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 544248,
+        "matchday": 4,
+        "utcDate": "2025-09-13T14:15:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 88,
+            "name": "Levante UD",
+            "shortName": "Levante",
+            "tla": "LEV",
+            "crest": "https://crests.football-data.org/88.png"
+        },
+        "awayTeam": {
+            "id": 90,
+            "name": "Real Betis Balompi\u00e9",
+            "shortName": "Real Betis",
+            "tla": "BET",
+            "crest": "https://crests.football-data.org/90.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 544243,
+        "matchday": 4,
+        "utcDate": "2025-09-14T12:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+        },
+        "awayTeam": {
+            "id": 298,
+            "name": "Girona FC",
+            "shortName": "Girona",
+            "tla": "GIR",
+            "crest": "https://crests.football-data.org/298.png"
         },
         "score": {
             "winner": null,
@@ -992,8 +1217,8 @@
     {
         "id": 544241,
         "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-14T16:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 78,
@@ -1025,8 +1250,8 @@
     {
         "id": 544242,
         "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-14T16:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 81,
@@ -1056,142 +1281,10 @@
         }
     },
     {
-        "id": 544243,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-        },
-        "awayTeam": {
-            "id": 298,
-            "name": "Girona FC",
-            "shortName": "Girona",
-            "tla": "GIR",
-            "crest": "https://crests.football-data.org/298.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544244,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
-        },
-        "awayTeam": {
-            "id": 89,
-            "name": "RCD Mallorca",
-            "shortName": "Mallorca",
-            "tla": "MAL",
-            "crest": "https://crests.football-data.org/89.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544245,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-        },
-        "awayTeam": {
-            "id": 1048,
-            "name": "Real Oviedo",
-            "shortName": "Real Oviedo",
-            "tla": "OVI",
-            "crest": "https://crests.football-data.org/1048.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544246,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-        },
-        "awayTeam": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 544247,
         "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-14T16:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 77,
@@ -1221,76 +1314,10 @@
         }
     },
     {
-        "id": 544248,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 88,
-            "name": "Levante UD",
-            "shortName": "Levante",
-            "tla": "LEV",
-            "crest": "https://crests.football-data.org/88.png"
-        },
-        "awayTeam": {
-            "id": 90,
-            "name": "Real Betis Balompi\u00e9",
-            "shortName": "Real Betis",
-            "tla": "BET",
-            "crest": "https://crests.football-data.org/90.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544249,
-        "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-        },
-        "awayTeam": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
         "id": 544250,
         "matchday": 4,
-        "utcDate": "2025-09-14T00:00:00Z",
-        "status": "SCHEDULED",
+        "utcDate": "2025-09-14T16:00:00Z",
+        "status": "TIMED",
         "stage": "REGULAR_SEASON",
         "homeTeam": {
             "id": 92,
@@ -1305,6 +1332,72 @@
             "shortName": "Real Madrid",
             "tla": "RMA",
             "crest": "https://crests.football-data.org/86.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 544246,
+        "matchday": 4,
+        "utcDate": "2025-09-14T16:30:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+        },
+        "awayTeam": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "id": 544244,
+        "matchday": 4,
+        "utcDate": "2025-09-15T19:00:00Z",
+        "status": "TIMED",
+        "stage": "REGULAR_SEASON",
+        "homeTeam": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+        },
+        "awayTeam": {
+            "id": 89,
+            "name": "RCD Mallorca",
+            "shortName": "Mallorca",
+            "tla": "MAL",
+            "crest": "https://crests.football-data.org/89.png"
         },
         "score": {
             "winner": null,
@@ -1866,39 +1959,6 @@
             "shortName": "Bar\u00e7a",
             "tla": "FCB",
             "crest": "https://crests.football-data.org/81.png"
-        },
-        "score": {
-            "winner": null,
-            "duration": "REGULAR",
-            "fullTime": {
-                "home": null,
-                "away": null
-            },
-            "halfTime": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "id": 544268,
-        "matchday": 6,
-        "utcDate": "2025-09-24T00:00:00Z",
-        "status": "SCHEDULED",
-        "stage": "REGULAR_SEASON",
-        "homeTeam": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-        },
-        "awayTeam": {
-            "id": 90,
-            "name": "Real Betis Balompi\u00e9",
-            "shortName": "Real Betis",
-            "tla": "BET",
-            "crest": "https://crests.football-data.org/90.png"
         },
         "score": {
             "winner": null,

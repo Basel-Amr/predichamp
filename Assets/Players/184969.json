@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Midfield",
     "position": "Defence",
-    "shirtNumber": 44,
+    "shirtNumber": 8,
     "lastUpdated": "2023-05-01T19:26:03Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 16,
-        "name": "FC Augsburg",
-        "shortName": "Augsburg",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "address": "Donauwörther Straße 170 Augsburg 86154",
-        "website": "http://www.fcaugsburg.de",
-        "founded": 1907,
-        "clubColors": "Red / Green / White",
-        "venue": "WWK Arena",
+        "id": 14,
+        "name": "1. FC Nürnberg",
+        "shortName": "Nürnberg",
+        "tla": "FCN",
+        "crest": "https://crests.football-data.org/14.png",
+        "address": "Valznerweiherstraße 200 Nürnberg 90480",
+        "website": "http://www.fcn.de",
+        "founded": 1900,
+        "clubColors": "Red / White",
+        "venue": "Max-Morlock-Stadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,15 +35,15 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

@@ -16,17 +16,24 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 521,
-        "name": "Lille OSC",
-        "shortName": "Lille",
-        "tla": "LIL",
-        "crest": "https://crests.football-data.org/521.png",
-        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
-        "website": "http://www.losc.fr",
-        "founded": 1944,
-        "clubColors": "White / Red",
-        "venue": "Stade Pierre-Mauroy",
+        "id": 524,
+        "name": "Paris Saint-Germain FC",
+        "shortName": "PSG",
+        "tla": "PSG",
+        "crest": "https://crests.football-data.org/524.png",
+        "address": "24, rue de Commandant Guibaud Paris 7501",
+        "website": "http://www.psg.fr",
+        "founded": 1904,
+        "clubColors": "Red / Blue / White",
+        "venue": "Parc des Princes",
         "runningCompetitions": [
+            {
+                "id": 2157,
+                "name": "UEFA Super Cup",
+                "code": "ESC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/esc.png"
+            },
             {
                 "id": 2015,
                 "name": "Ligue 1",
@@ -36,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2022-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2030-06"
         }
     }
 }

@@ -1,0 +1,43 @@
+{
+    "id": 178772,
+    "name": "Rodrigo Ribeiro",
+    "firstName": "",
+    "lastName": "Rodrigo Ribeiro",
+    "dateOfBirth": "2005-04-28",
+    "nationality": "Portugal",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 28,
+    "lastUpdated": "2025-05-15T09:42:52Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5539,
+        "name": "Sporting Clube de Portugal B",
+        "shortName": "SC Portugal B",
+        "tla": null,
+        "crest": null,
+        "address": "Edifício Visconde de Alvalade, Apartado 42099 Lisboa 1601-801",
+        "website": "http://www.sporting.pt",
+        "founded": 1906,
+        "clubColors": "Green / White",
+        "venue": null,
+        "runningCompetitions": [
+            {
+                "id": 2096,
+                "name": "Liga2 Cabovisão",
+                "code": "PSL",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2025-08"
+        }
+    }
+}

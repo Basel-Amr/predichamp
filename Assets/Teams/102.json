@@ -38,6 +38,13 @@
     },
     "squad": [
         {
+            "id": 1767,
+            "name": "Marco Sportiello",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-05-10",
+            "nationality": "Italy"
+        },
+        {
             "id": 102220,
             "name": "Marco Carnesecchi",
             "position": "Goalkeeper",
@@ -73,17 +80,17 @@
             "nationality": "Nigeria"
         },
         {
-            "id": 187100,
-            "name": "Vanja Vlahovic",
-            "position": "Offence",
-            "dateOfBirth": "2004-03-23",
-            "nationality": "Serbia"
-        },
-        {
             "id": 207051,
             "name": "Tommaso Del Lungo",
             "position": "Centre-Back",
             "dateOfBirth": "2004-04-20",
+            "nationality": "Italy"
+        },
+        {
+            "id": 206136,
+            "name": "Marco Palestra",
+            "position": "Right Midfield",
+            "dateOfBirth": "2005-03-03",
             "nationality": "Italy"
         },
         {
@@ -92,13 +99,6 @@
             "position": "Defensive Midfield",
             "dateOfBirth": "2003-05-22",
             "nationality": "Ghana"
-        },
-        {
-            "id": 185019,
-            "name": "Michel Adopo",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-07-19",
-            "nationality": "France"
         },
         {
             "id": 176891,
@@ -171,13 +171,6 @@
             "nationality": "Belgium"
         },
         {
-            "id": 102591,
-            "name": "Roberto Piccoli",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-01-27",
-            "nationality": "Italy"
-        },
-        {
             "id": 99858,
             "name": "Marco Brescianini",
             "position": "Central Midfield",
@@ -185,10 +178,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 11710,
-            "name": "Mateo Retegui",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1999-04-29",
+            "id": 7807,
+            "name": "Davide Zappacosta",
+            "position": "Right Midfield",
+            "dateOfBirth": "1992-06-11",
             "nationality": "Italy"
         },
         {
@@ -211,6 +204,13 @@
             "position": "Centre-Back",
             "dateOfBirth": "1998-01-15",
             "nationality": "England"
+        },
+        {
+            "id": 3553,
+            "name": "Mario Pašalić",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-02-09",
+            "nationality": "Croatia"
         },
         {
             "id": 2681,

@@ -1,0 +1,57 @@
+{
+    "id": 153846,
+    "name": "Samuel Soares",
+    "firstName": "",
+    "lastName": "Samuel Soares",
+    "dateOfBirth": "2002-06-15",
+    "nationality": "Portugal",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 24,
+    "lastUpdated": "2024-05-19T09:41:13Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 1903,
+        "name": "Sport Lisboa e Benfica",
+        "shortName": "SL Benfica",
+        "tla": "BEN",
+        "crest": "https://crests.football-data.org/1903.png",
+        "address": "Avenida General Norton de Matos 1500 Lissabon null",
+        "website": "https://www.slbenfica.pt",
+        "founded": 1904,
+        "clubColors": null,
+        "venue": "Estádio do Sport Lisboa e Benfica",
+        "runningCompetitions": [
+            {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2020-09",
+            "until": "2027-06"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 264302,
+    "name": "Theofanis Bakoulas",
+    "firstName": "Theofanis",
+    "lastName": "Bakoulas",
+    "dateOfBirth": "2005-01-04",
+    "nationality": "Greece",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 8,
+    "lastUpdated": "2025-05-20T09:42:31Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 496,
+        "name": "Rio Ave FC",
+        "shortName": "Rio Ave",
+        "tla": "RIO",
+        "crest": "https://crests.football-data.org/496.png",
+        "address": "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909",
+        "website": "http://www.rioave-fc.pt",
+        "founded": 1939,
+        "clubColors": "Green / White",
+        "venue": "Estádio do Rio Ave Futebol Clube",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

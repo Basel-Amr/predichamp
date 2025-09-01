@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Midfield",
     "position": "Offence",
-    "shirtNumber": 18,
+    "shirtNumber": null,
     "lastUpdated": "2025-02-18T09:44:56Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 1048,
-        "name": "Real Oviedo",
-        "shortName": "Real Oviedo",
-        "tla": "OVI",
-        "crest": "https://crests.football-data.org/1048.png",
-        "address": "Ricardo Vázquez Prada, s/n Oviedo 33013",
-        "website": "http://www.realoviedo.es",
-        "founded": 1926,
-        "clubColors": "Blue / White",
-        "venue": "Estadio Nuevo Carlos Tartiere",
+        "id": 91,
+        "name": "Real Zaragoza",
+        "shortName": "Real Zaragoza",
+        "tla": "ZAR",
+        "crest": "https://crests.football-data.org/91.png",
+        "address": "Calle de Eduardo Ibarra, 6 Zaragoza 50009",
+        "website": "http://www.realzaragoza.com",
+        "founded": 1903,
+        "clubColors": "White / Navy Blue",
+        "venue": "Estadio de la Romareda",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2027-06"
         }
     }
 }

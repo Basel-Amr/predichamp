@@ -1,0 +1,43 @@
+{
+    "id": 275268,
+    "name": "Diogo Costa",
+    "firstName": "",
+    "lastName": "Diogo Costa",
+    "dateOfBirth": "2003-05-04",
+    "nationality": "Portugal",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 28,
+    "lastUpdated": "2025-08-17T09:42:44Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5533,
+        "name": "Gil Vicente FC",
+        "shortName": "Gil Vicente",
+        "tla": "GIL",
+        "crest": "https://crests.football-data.org/5533.png",
+        "address": "Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282",
+        "website": "http://www.gilvicentefc.pt",
+        "founded": 1924,
+        "clubColors": "Red / Blue",
+        "venue": "Estádio Cidade de Barcelos",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-02",
+            "until": "2026-06"
+        }
+    }
+}

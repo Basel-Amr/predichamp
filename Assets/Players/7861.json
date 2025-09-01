@@ -7,7 +7,7 @@
     "nationality": "England",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 6,
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-23T09:25:16Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

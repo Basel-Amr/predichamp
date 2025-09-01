@@ -45,6 +45,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 32695,
+            "name": "Pau López",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-12-13",
+            "nationality": "Spain"
+        },
+        {
             "id": 100130,
             "name": "Álvaro Vallés Rosa",
             "position": "Goalkeeper",
@@ -59,18 +66,18 @@
             "nationality": "Spain"
         },
         {
-            "id": 217557,
-            "name": "Guilherme Fernandes",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2001-03-28",
-            "nationality": "Portugal"
-        },
-        {
             "id": 171526,
             "name": "Rudy Kohon",
             "position": "Defence",
             "dateOfBirth": "2004-05-23",
             "nationality": "France"
+        },
+        {
+            "id": 179155,
+            "name": "Valentín Gómez",
+            "position": "Defence",
+            "dateOfBirth": "2003-06-26",
+            "nationality": "Argentina"
         },
         {
             "id": 203505,
@@ -129,6 +136,13 @@
             "nationality": "Senegal"
         },
         {
+            "id": 179141,
+            "name": "Nelson Deossa",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-02-06",
+            "nationality": "Colombia"
+        },
+        {
             "id": 138031,
             "name": "Natan",
             "position": "Centre-Back",
@@ -136,11 +150,11 @@
             "nationality": "Brazil"
         },
         {
-            "id": 123265,
-            "name": "Johnny",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-09-20",
-            "nationality": "USA"
+            "id": 128731,
+            "name": "Rodrigo Riquelme",
+            "position": "Left Winger",
+            "dateOfBirth": "2000-04-02",
+            "nationality": "Spain"
         },
         {
             "id": 33117,
@@ -164,6 +178,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 33037,
+            "name": "Júnior Firpo",
+            "position": "Left-Back",
+            "dateOfBirth": "1996-05-10",
+            "nationality": "Dominican Republic"
+        },
+        {
             "id": 32710,
             "name": "Marc Roca",
             "position": "Defensive Midfield",
@@ -178,13 +199,6 @@
             "nationality": "Colombia"
         },
         {
-            "id": 32056,
-            "name": "Borja Iglesias",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1993-01-17",
-            "nationality": "Spain"
-        },
-        {
             "id": 21583,
             "name": "Cédric Bakambu",
             "position": "Centre-Forward",
@@ -192,25 +206,11 @@
             "nationality": "DR Congo"
         },
         {
-            "id": 8435,
-            "name": "Romain Perraud",
-            "position": "Left-Back",
-            "dateOfBirth": "1997-09-22",
-            "nationality": "France"
-        },
-        {
             "id": 7783,
             "name": "Héctor Bellerín",
             "position": "Right-Back",
             "dateOfBirth": "1995-03-19",
             "nationality": "Spain"
-        },
-        {
-            "id": 3250,
-            "name": "William Carvalho",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1992-04-07",
-            "nationality": "Portugal"
         },
         {
             "id": 3216,

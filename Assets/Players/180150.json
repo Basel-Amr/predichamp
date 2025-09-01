@@ -1,0 +1,50 @@
+{
+    "id": 180150,
+    "name": "Victor Gómez",
+    "firstName": "",
+    "lastName": "Victor Gómez",
+    "dateOfBirth": "2000-04-01",
+    "nationality": "Spain",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 2,
+    "lastUpdated": "2023-07-30T19:37:10Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5613,
+        "name": "Sporting Clube de Braga",
+        "shortName": "Braga",
+        "tla": "SCB",
+        "crest": "https://crests.football-data.org/5613.png",
+        "address": "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087",
+        "website": "http://www.scbraga.pt",
+        "founded": 1921,
+        "clubColors": "Red / White",
+        "venue": "Estádio Municipal de Braga",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2028-06"
+        }
+    }
+}

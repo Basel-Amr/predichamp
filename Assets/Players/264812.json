@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 3,
     "lastUpdated": "2024-08-22T09:49:54Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 713,
+        "name": "Carpi FC 1909",
+        "shortName": "Carpi FC",
+        "tla": "CAR",
+        "crest": "https://upload.wikimedia.org/wikipedia/uk/0/0b/Carpi_FC_1909_logo.png",
+        "address": "Via Carlo Marx 26 Carpi 41012",
+        "website": "http://www.carpifc1909.it",
+        "founded": 1909,
+        "clubColors": "White / Red",
+        "venue": "Stadio Sandro Cabassi",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2163,
+                "name": "Serie C - Girone B",
+                "code": "ISCB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

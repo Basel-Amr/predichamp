@@ -16,23 +16,30 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 100,
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "tla": "ROM",
-        "crest": "https://crests.football-data.org/100.png",
-        "address": "Via di Trigoria km. 3,600 Roma 00128",
-        "website": "http://www.asroma.it",
-        "founded": 1927,
-        "clubColors": "Maroon / Orange / White",
-        "venue": "Stadio Olimpico",
+        "id": 431,
+        "name": "SSC Bari",
+        "shortName": "Bari",
+        "tla": "BAR",
+        "crest": "https://crests.football-data.org/431.png",
+        "address": "via Sparano da Bari 162 Bari 70124",
+        "website": "http://www.fcbari1908.club",
+        "founded": 1908,
+        "clubColors": "White / Red",
+        "venue": "Stadio Comunale San Nicola",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {

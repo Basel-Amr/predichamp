@@ -7,7 +7,7 @@
     "nationality": "Argentina",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 6,
     "lastUpdated": "2025-02-18T17:35:56Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 450,
+        "name": "Hellas Verona FC",
+        "shortName": "Verona",
+        "tla": "HVE",
+        "crest": "https://crests.football-data.org/450.png",
+        "address": "Via Evangelista Torricelli, 37 Verona 37136",
+        "website": "http://www.hellasverona.it",
+        "founded": 1903,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Marc'Antonio Bentegodi",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2029-06"
+            "start": "2025-02",
+            "until": "2026-06"
         }
     }
 }

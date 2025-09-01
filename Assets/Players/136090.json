@@ -11,40 +11,33 @@
     "lastUpdated": "2024-09-02T09:59:12Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 487,
-        "name": "AC Pisa 1909",
-        "shortName": "AC Pisa",
-        "tla": "PIS",
-        "crest": "https://crests.football-data.org/487.png",
-        "address": "Piazza della Stazione 22 (scala A) Pisa null",
-        "website": "http://www.pisachannel.tv",
-        "founded": 1909,
-        "clubColors": "Blue / Black",
-        "venue": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "id": 5273,
+        "name": "FC Zürich",
+        "shortName": "FC Zürich",
+        "tla": "FCZ",
+        "crest": "https://crests.football-data.org/5273.png",
+        "address": "Werdstr. 21 Zürich 8004",
+        "website": "http://www.fcz.ch",
+        "founded": 1896,
+        "clubColors": "Blue / White",
+        "venue": "Stadion Letzigrund",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

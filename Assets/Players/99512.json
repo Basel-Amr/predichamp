@@ -7,7 +7,7 @@
     "nationality": "Netherlands",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 10,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 5868,
+        "name": "AC Reggiana",
+        "shortName": "Reggiana",
+        "tla": "REG",
+        "crest": "https://crests.football-data.org/5868.png",
+        "address": "Via Mogadiscio, 1 Reggio Emilia 42124",
+        "website": "http://www.reggioaudacefc.it/",
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Mapei Stadium - Città del Tricolore",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

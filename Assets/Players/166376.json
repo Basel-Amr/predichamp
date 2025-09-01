@@ -7,7 +7,7 @@
     "nationality": "Sweden",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": 21,
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 351,
-        "name": "Nottingham Forest FC",
-        "shortName": "Nottingham",
-        "tla": "NOT",
-        "crest": "https://crests.football-data.org/351.png",
-        "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
-        "website": "http://www.nottinghamforest.co.uk",
-        "founded": 1865,
-        "clubColors": "Red / White",
-        "venue": "The City Ground",
+        "id": 67,
+        "name": "Newcastle United FC",
+        "shortName": "Newcastle",
+        "tla": "NEW",
+        "crest": "https://crests.football-data.org/67.png",
+        "address": "Sports Direct Arena Newcastle upon Tyne NE1 4ST",
+        "website": "http://www.nufc.co.uk",
+        "founded": 1881,
+        "clubColors": "Black / White",
+        "venue": "St. James' Park",
         "runningCompetitions": [
             {
                 "id": 2021,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

@@ -8,7 +8,7 @@
     "section": "Offence",
     "position": "Offence",
     "shirtNumber": 41,
-    "lastUpdated": "2025-06-14T09:44:26Z",
+    "lastUpdated": "2025-07-22T09:41:01Z",
     "currentTeam": {
         "area": {
             "id": 2088,
@@ -27,13 +27,6 @@
         "clubColors": "Black / Yellow",
         "venue": "Signal Iduna Park",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2011,
                 "name": "DFB-Pokal",

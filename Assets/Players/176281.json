@@ -6,8 +6,8 @@
     "dateOfBirth": "2004-02-10",
     "nationality": "England",
     "section": "Offence",
-    "position": "Midfield",
-    "shirtNumber": null,
+    "position": "Offence",
+    "shirtNumber": 20,
     "lastUpdated": "2024-08-04T23:09:36Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 341,
-        "name": "Leeds United FC",
-        "shortName": "Leeds United",
-        "tla": "LEE",
-        "crest": "https://crests.football-data.org/341.png",
-        "address": "Elland Road Leeds LS11 0ES",
-        "website": "http://www.leedsunited.com",
-        "founded": 1904,
-        "clubColors": "White / Blue",
-        "venue": "Elland Road",
+        "id": 399,
+        "name": "Leyton Orient FC",
+        "shortName": "Leyton Orient",
+        "tla": "LEY",
+        "crest": "https://crests.football-data.org/399.png",
+        "address": "Brisbane Road Leyton E10 5NE",
+        "website": "http://www.leytonorient.com",
+        "founded": 1881,
+        "clubColors": "Black / Red",
+        "venue": "Gaughan Group Stadium",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-07",
+            "until": "2027-06"
         }
     }
 }

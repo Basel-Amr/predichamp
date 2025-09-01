@@ -7,37 +7,44 @@
     "nationality": "Senegal",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 10,
+    "shirtNumber": 19,
     "lastUpdated": "2024-09-02T09:59:12Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 545,
-        "name": "FC Metz",
-        "shortName": "FC Metz",
-        "tla": "FCM",
-        "crest": "https://crests.football-data.org/545.png",
-        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
-        "website": "http://www.fcmetz.com",
-        "founded": 1919,
-        "clubColors": "Red / Blue",
-        "venue": "Stade Saint-Symphorien",
+        "id": 68,
+        "name": "Norwich City FC",
+        "shortName": "Norwich",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/68.png",
+        "address": "Carrow Road Norwich NR1 1JE",
+        "website": "http://www.canaries.co.uk",
+        "founded": 1902,
+        "clubColors": "Yellow / Green",
+        "venue": "Carrow Road",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2016,
+                "name": "Championship",
+                "code": "ELC",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/ELC.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2029-06"
         }
     }
 }

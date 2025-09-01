@@ -38,18 +38,18 @@
     },
     "squad": [
         {
-            "id": 2108,
-            "name": "Simone Scuffet",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1996-05-31",
-            "nationality": "Italy"
-        },
-        {
             "id": 2611,
             "name": "Boris Radunović",
             "position": "Goalkeeper",
             "dateOfBirth": "1996-05-26",
             "nationality": "Serbia"
+        },
+        {
+            "id": 82004,
+            "name": "Elia Caprile",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-08-25",
+            "nationality": "Italy"
         },
         {
             "id": 130428,
@@ -59,13 +59,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 148992,
-            "name": "Alen Sherri",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1997-12-15",
-            "nationality": "Albania"
-        },
-        {
             "id": 202717,
             "name": "Velizar Iliev",
             "position": "Goalkeeper",
@@ -73,10 +66,10 @@
             "nationality": "Bulgaria"
         },
         {
-            "id": 177111,
-            "name": "Luigi Palomba",
-            "position": "Defence",
-            "dateOfBirth": "2003-04-17",
+            "id": 283445,
+            "name": "Vincenzo Sarno",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2008-05-16",
             "nationality": "Italy"
         },
         {
@@ -108,11 +101,18 @@
             "nationality": "Italy"
         },
         {
-            "id": 151943,
-            "name": "Nik Prelec",
+            "id": 114054,
+            "name": "Sebastiano Esposito",
             "position": "Offence",
-            "dateOfBirth": "2001-06-10",
-            "nationality": "Slovenia"
+            "dateOfBirth": "2002-07-02",
+            "nationality": "Italy"
+        },
+        {
+            "id": 114101,
+            "name": "Gennaro Borrelli",
+            "position": "Offence",
+            "dateOfBirth": "2000-03-10",
+            "nationality": "Italy"
         },
         {
             "id": 171122,
@@ -122,38 +122,17 @@
             "nationality": "Angola"
         },
         {
+            "id": 191289,
+            "name": "Semih Kilicsoy",
+            "position": "Offence",
+            "dateOfBirth": "2005-08-15",
+            "nationality": "Turkey"
+        },
+        {
             "id": 261228,
             "name": "Riyad Idrissi",
             "position": "Offence",
             "dateOfBirth": "2005-06-13",
-            "nationality": "Italy"
-        },
-        {
-            "id": 246153,
-            "name": "Kingstone Mutandwa",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-01-05",
-            "nationality": "Zambia"
-        },
-        {
-            "id": 170374,
-            "name": "Adam Obert",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-08-23",
-            "nationality": "Slovakia"
-        },
-        {
-            "id": 166329,
-            "name": "Matteo Prati",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2003-12-28",
-            "nationality": "Italy"
-        },
-        {
-            "id": 127143,
-            "name": "Nadir Zortea",
-            "position": "Right Midfield",
-            "dateOfBirth": "1999-06-19",
             "nationality": "Italy"
         },
         {
@@ -171,6 +150,13 @@
             "nationality": "Italy"
         },
         {
+            "id": 102591,
+            "name": "Roberto Piccoli",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-01-27",
+            "nationality": "Italy"
+        },
+        {
             "id": 102211,
             "name": "Gianluca Gaetano",
             "position": "Attacking Midfield",
@@ -185,18 +171,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 59072,
-            "name": "Mateusz Wieteska",
-            "position": "Centre-Back",
-            "dateOfBirth": "1997-02-11",
-            "nationality": "Poland"
-        },
-        {
-            "id": 9237,
-            "name": "Răzvan Marin",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1996-05-23",
-            "nationality": "Romania"
+            "id": 42760,
+            "name": "Michael Folorunsho",
+            "position": "Central Midfield",
+            "dateOfBirth": "1998-02-07",
+            "nationality": "Italy"
         },
         {
             "id": 3728,
@@ -210,6 +189,13 @@
             "name": "Sebastiano Luperto",
             "position": "Centre-Back",
             "dateOfBirth": "1996-09-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2196,
+            "name": "Luca Mazzitelli",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-11-15",
             "nationality": "Italy"
         },
         {
@@ -231,6 +217,41 @@
             "name": "Alessandro Deiola",
             "position": "Central Midfield",
             "dateOfBirth": "1995-08-01",
+            "nationality": "Italy"
+        },
+        {
+            "id": 246156,
+            "name": "Alessandro Vinciguerra",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2005-08-18",
+            "nationality": "Italy"
+        },
+        {
+            "id": 185019,
+            "name": "Michel Adopo",
+            "position": "Central Midfield",
+            "dateOfBirth": "2000-07-19",
+            "nationality": "France"
+        },
+        {
+            "id": 170374,
+            "name": "Adam Obert",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-08-23",
+            "nationality": "Slovakia"
+        },
+        {
+            "id": 166329,
+            "name": "Matteo Prati",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-12-28",
+            "nationality": "Italy"
+        },
+        {
+            "id": 127143,
+            "name": "Nadir Zortea",
+            "position": "Right Midfield",
+            "dateOfBirth": "1999-06-19",
             "nationality": "Italy"
         }
     ],

@@ -7,37 +7,44 @@
     "nationality": "Argentina",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 16,
+    "shirtNumber": 5,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2011,
+            "name": "Argentina",
+            "code": "ARG",
+            "flag": "https://crests.football-data.org/ar.svg"
         },
-        "id": 100,
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "tla": "ROM",
-        "crest": "https://crests.football-data.org/100.png",
-        "address": "Via di Trigoria km. 3,600 Roma 00128",
-        "website": "http://www.asroma.it",
-        "founded": 1927,
-        "clubColors": "Maroon / Orange / White",
-        "venue": "Stadio Olimpico",
+        "id": 2061,
+        "name": "CA Boca Juniors",
+        "shortName": "Boca Juniors",
+        "tla": "BOC",
+        "crest": "https://crests.football-data.org/2061.png",
+        "address": "Brandsen 805, La Boca Buenos Aires, Buenos Aires 1161",
+        "website": "http://www.bocajuniors.com.ar",
+        "founded": 1905,
+        "clubColors": "Dark Blue / Yellow",
+        "venue": "Estadio Alberto José Armando",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            {
+                "id": 2024,
+                "name": "Liga Profesional",
+                "code": "ASL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/LPDF.svg"
             }
         ],
         "contract": {
-            "start": "2023-08",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2028-12"
         }
     }
 }

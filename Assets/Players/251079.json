@@ -7,44 +7,44 @@
     "nationality": "England",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 47,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2204,
+            "name": "Scotland",
+            "code": "SCO",
+            "flag": "https://crests.football-data.org/814.svg"
         },
-        "id": 73,
-        "name": "Tottenham Hotspur FC",
-        "shortName": "Tottenham",
-        "tla": "TOT",
-        "crest": "https://crests.football-data.org/73.png",
-        "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
-        "website": "http://www.tottenhamhotspur.com",
-        "founded": 1882,
-        "clubColors": "Navy Blue / White",
-        "venue": "Tottenham Hotspur Stadium",
+        "id": 5376,
+        "name": "Rangers FC",
+        "shortName": "Rangers",
+        "tla": "RAN",
+        "crest": "https://crests.football-data.org/5376.png",
+        "address": "150 Edmiston Drive Glasgow G51 2XD",
+        "website": "http://www.rangers.co.uk",
+        "founded": 1873,
+        "clubColors": "Blue / White",
+        "venue": "Ibrox Stadium",
         "runningCompetitions": [
             {
-                "id": 2157,
-                "name": "UEFA Super Cup",
-                "code": "ESC",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/esc.png"
+                "emblem": null
             },
             {
-                "id": 2021,
+                "id": 2084,
                 "name": "Premier League",
-                "code": "PL",
+                "code": "SPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/SPL.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

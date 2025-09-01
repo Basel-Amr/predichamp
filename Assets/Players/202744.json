@@ -16,30 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 7397,
-        "name": "Como 1907",
-        "shortName": "Como 1907",
-        "tla": "COM",
-        "crest": "https://crests.football-data.org/7397.png",
-        "address": "Viale Sinigaglia 2 Como 22100",
-        "website": "http://www.como1907.net/",
-        "founded": 1907,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio Giuseppe Sinigaglia",
+        "id": 8445,
+        "name": "US Pergolettese 1932",
+        "shortName": "Pergolettese",
+        "tla": "PER",
+        "crest": "https://crests.football-data.org/8445.png",
+        "address": "Viale A. De Gasperi 67 Crema 26013",
+        "website": "http://www.uspergolettese1932.it",
+        "founded": 1919,
+        "clubColors": "Blue / Yellow",
+        "venue": "Stadio Giuseppe Voltini",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {

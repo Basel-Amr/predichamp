@@ -7,7 +7,7 @@
     "nationality": "Iceland",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 10,
     "lastUpdated": "2023-05-01T10:17:14Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 99,
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "tla": "FIO",
+        "crest": "https://crests.football-data.org/99.png",
+        "address": "Viale Manfredo Fanti 4 Firenze 50137",
+        "website": "http://www.acffiorentina.it",
+        "founded": 1926,
+        "clubColors": "Purple / White",
+        "venue": "Stadio Artemio Franchi",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2024-08",
+            "until": "2026-06"
         }
     }
 }

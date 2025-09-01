@@ -11,33 +11,40 @@
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2039,
+            "name": "Cameroon",
+            "code": "CMR",
+            "flag": null
         },
-        "id": 543,
-        "name": "FC Nantes",
-        "shortName": "Nantes",
-        "tla": "NAN",
-        "crest": "https://crests.football-data.org/543.png",
-        "address": "Centre Sportif José Arribas, La Jonelière Nantes 44240",
-        "website": "http://www.fcnantes.com",
-        "founded": 1943,
-        "clubColors": "Green / Yellow",
-        "venue": "Stade de la Beaujoire - Louis Fonteneau",
+        "id": 781,
+        "name": "Cameroon",
+        "shortName": "Cameroon",
+        "tla": "CMR",
+        "crest": "https://crests.football-data.org/cameroon.svg",
+        "address": "Avenue du 27 Août 1940, Tsinga Yaoundé 1116",
+        "website": "http://www.fecafoot-officiel.com",
+        "founded": 1959,
+        "clubColors": "Green / Red / Yellow",
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "id": 2006,
+                "name": "WC Qualification CAF",
+                "code": "QCAF",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2176,
+                "name": "Africa Cup",
+                "code": "AC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/ac.png"
             }
         ],
         "contract": {
-            "start": "2020-07",
-            "until": "2028-06"
+            "start": null,
+            "until": null
         }
     }
 }

@@ -1,0 +1,43 @@
+{
+    "id": 193588,
+    "name": "Joao Tome",
+    "firstName": "",
+    "lastName": "João Tomé",
+    "dateOfBirth": "2003-02-12",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 20,
+    "lastUpdated": "2024-07-11T09:42:57Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 496,
+        "name": "Rio Ave FC",
+        "shortName": "Rio Ave",
+        "tla": "RIO",
+        "crest": "https://crests.football-data.org/496.png",
+        "address": "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909",
+        "website": "http://www.rioave-fc.pt",
+        "founded": 1939,
+        "clubColors": "Green / White",
+        "venue": "Estádio do Rio Ave Futebol Clube",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2027-06"
+        }
+    }
+}

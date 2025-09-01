@@ -7,7 +7,7 @@
     "nationality": "Argentina",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 79,
+    "shirtNumber": 10,
     "lastUpdated": "2024-12-02T09:43:14Z",
     "currentTeam": {
         "area": {
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

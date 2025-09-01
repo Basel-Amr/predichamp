@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 99,
     "lastUpdated": "2024-08-23T10:11:37Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 486,
+        "name": "Calcio Avellino SSD",
+        "shortName": "Avellino",
+        "tla": "AVE",
+        "crest": "http://upload.wikimedia.org/wikipedia/de/a/ab/AS_Avellino.png",
+        "address": "Piazza Liberta 63 Avellino 83100",
+        "website": "https://www.avellinossd.it/",
+        "founded": 1912,
+        "clubColors": "Green / White",
+        "venue": "Stadio Partenio",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

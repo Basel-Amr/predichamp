@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 6,
+    "shirtNumber": 80,
     "lastUpdated": "2024-10-10T09:42:55Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
+            "start": "2025-07",
             "until": "2029-06"
         }
     }

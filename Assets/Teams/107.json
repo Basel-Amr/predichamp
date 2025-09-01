@@ -45,6 +45,20 @@
             "nationality": "Italy"
         },
         {
+            "id": 72523,
+            "name": "Benjamin Siegrist",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1992-01-31",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 75224,
+            "name": "Daniele Sommariva",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-07-18",
+            "nationality": "Italy"
+        },
+        {
             "id": 80166,
             "name": "Lennart-Marten Czyborra",
             "position": "Defence",
@@ -56,13 +70,6 @@
             "name": "Federico Valietti",
             "position": "Defence",
             "dateOfBirth": "1999-01-25",
-            "nationality": "Italy"
-        },
-        {
-            "id": 206340,
-            "name": "Lorenzo Gagliardi",
-            "position": "Defence",
-            "dateOfBirth": "2004-04-14",
             "nationality": "Italy"
         },
         {
@@ -80,32 +87,11 @@
             "nationality": "Ukraine"
         },
         {
-            "id": 3851,
-            "name": "Albert Guðmundsson",
-            "position": "Offence",
-            "dateOfBirth": "1997-06-15",
-            "nationality": "Iceland"
-        },
-        {
-            "id": 97789,
-            "name": "Elia Petrelli",
-            "position": "Offence",
-            "dateOfBirth": "2001-08-15",
-            "nationality": "Italy"
-        },
-        {
             "id": 178736,
             "name": "Vitinha",
             "position": "Offence",
             "dateOfBirth": "2000-03-15",
             "nationality": "Portugal"
-        },
-        {
-            "id": 217843,
-            "name": "Alessandro De Benedetti",
-            "position": "Offence",
-            "dateOfBirth": "2003-09-23",
-            "nationality": "Italy"
         },
         {
             "id": 218156,
@@ -122,11 +108,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 144430,
-            "name": "Albert Gronbaek Erlykke",
-            "position": "Central Midfield",
-            "dateOfBirth": "2001-05-23",
-            "nationality": "Denmark"
+            "id": 97869,
+            "name": "Junior Messias",
+            "position": "Right Winger",
+            "dateOfBirth": "1991-05-13",
+            "nationality": "Brazil"
         },
         {
             "id": 81998,
@@ -136,11 +122,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 80581,
-            "name": "Güven Yalçın",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1999-01-18",
-            "nationality": "Turkey"
+            "id": 44032,
+            "name": "Leo Østigård",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-11-28",
+            "nationality": "Norway"
         },
         {
             "id": 39330,
@@ -192,13 +178,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 2536,
-            "name": "Andrea Favilli",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-05-17",
-            "nationality": "Italy"
-        },
-        {
             "id": 2443,
             "name": "Stefano Sabelli",
             "position": "Right-Back",
@@ -206,11 +185,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 1939,
-            "name": "Mattia Bani",
-            "position": "Centre-Back",
-            "dateOfBirth": "1993-12-10",
-            "nationality": "Italy"
+            "id": 264837,
+            "name": "Hugo Cuenca",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-01-08",
+            "nationality": "Paraguay"
         },
         {
             "id": 263662,
@@ -224,13 +203,6 @@
             "name": "Honest Ahanor",
             "position": "Left-Back",
             "dateOfBirth": "2008-02-23",
-            "nationality": "Italy"
-        },
-        {
-            "id": 244673,
-            "name": "Tommaso Pittino",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-01-01",
             "nationality": "Italy"
         },
         {
@@ -248,18 +220,11 @@
             "nationality": "Nigeria"
         },
         {
-            "id": 192214,
-            "name": "Federico Accornero",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-02-05",
+            "id": 192114,
+            "name": "Seydou Fini",
+            "position": "Right Winger",
+            "dateOfBirth": "2006-06-02",
             "nationality": "Italy"
-        },
-        {
-            "id": 191042,
-            "name": "Alan Matturro",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-10-11",
-            "nationality": "Uruguay"
         },
         {
             "id": 188644,
@@ -276,6 +241,13 @@
             "nationality": "Denmark"
         },
         {
+            "id": 187371,
+            "name": "Valentín Carboni",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-03-05",
+            "nationality": "Italy"
+        },
+        {
             "id": 177169,
             "name": "Brooke Norton-Cuffy",
             "position": "Right-Back",
@@ -290,18 +262,25 @@
             "nationality": "Iceland"
         },
         {
-            "id": 153556,
-            "name": "Koni De Winter",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-06-12",
-            "nationality": "Belgium"
-        },
-        {
             "id": 153097,
             "name": "Patrizio Masini",
             "position": "Central Midfield",
             "dateOfBirth": "2001-01-27",
             "nationality": "Italy"
+        },
+        {
+            "id": 144566,
+            "name": "Lorenzo Colombo",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-03-08",
+            "nationality": "Italy"
+        },
+        {
+            "id": 144430,
+            "name": "Albert Gronbaek Erlykke",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-05-23",
+            "nationality": "Denmark"
         }
     ],
     "staff": [],

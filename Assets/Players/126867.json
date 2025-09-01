@@ -7,7 +7,7 @@
     "nationality": "Turkey",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 53,
+    "shirtNumber": 9,
     "lastUpdated": "2023-05-01T20:09:42Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 2,
-        "name": "TSG 1899 Hoffenheim",
-        "shortName": "Hoffenheim",
-        "tla": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
-        "website": "http://www.achtzehn99.de",
-        "founded": 1921,
-        "clubColors": "Blue / White",
-        "venue": "PreZero Arena",
+        "id": 33,
+        "name": "Eintracht Braunschweig",
+        "shortName": "Braunschweig",
+        "tla": "BNS",
+        "crest": "https://crests.football-data.org/33.png",
+        "address": "Hamburger Straße 210 Braunschweig 38112",
+        "website": "http://www.eintracht.com",
+        "founded": 1895,
+        "clubColors": "Yellow / Blue",
+        "venue": "Eintracht-Stadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,15 +35,15 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2025-01",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

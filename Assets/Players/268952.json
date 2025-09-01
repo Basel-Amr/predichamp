@@ -1,0 +1,50 @@
+{
+    "id": 268952,
+    "name": "Abdoulie Ceesay",
+    "firstName": "Abdoulie",
+    "lastName": "Ceesay",
+    "dateOfBirth": "2004-01-05",
+    "nationality": "Gambia",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 9,
+    "lastUpdated": "2025-06-17T09:41:08Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 20,
+        "name": "FC St. Pauli 1910",
+        "shortName": "St. Pauli",
+        "tla": "STP",
+        "crest": "https://crests.football-data.org/20.png",
+        "address": "Auf dem Heiligengeistfeld Hamburg 20359",
+        "website": "http://www.fcstpauli.de",
+        "founded": 1910,
+        "clubColors": "Brown / White",
+        "venue": "Millerntor-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-01",
+            "until": "2026-06"
+        }
+    }
+}

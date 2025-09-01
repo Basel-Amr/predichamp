@@ -28,23 +28,23 @@
         "venue": "Stadio Giuseppe Meazza",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
                 "id": 2019,
                 "name": "Serie A",
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
             }
         ],
         "contract": {
             "start": "2018-07",
-            "until": "2026-06"
+            "until": "2025-06"
         }
     }
 }

@@ -1,0 +1,43 @@
+{
+    "id": 203426,
+    "name": "Babatunde Akinsola",
+    "firstName": "Tunde",
+    "lastName": "Akinsola",
+    "dateOfBirth": "2003-03-10",
+    "nationality": "Nigeria",
+    "section": "Left Winger",
+    "position": "Offence",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-08-12T11:57:15Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 10340,
+        "name": "AVS",
+        "shortName": "AVS",
+        "tla": "AVS",
+        "crest": "https://crests.football-data.org/10340.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio do CD Aves",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2027-06"
+        }
+    }
+}

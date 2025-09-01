@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 90,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 113,
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "tla": "NAP",
-        "crest": "https://crests.football-data.org/113.png",
-        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-        "website": "http://www.sscnapoli.it",
-        "founded": 1904,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio San Paolo",
+        "id": 104,
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "tla": "CAG",
+        "crest": "https://crests.football-data.org/104.png",
+        "address": "Viale la Plaia 15 Cagliari 09123",
+        "website": "http://www.cagliaricalcio.net",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue / White",
+        "venue": "Sardegna Arena",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2029-06"
+            "until": "2026-06"
         }
     }
 }

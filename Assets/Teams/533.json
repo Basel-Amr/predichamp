@@ -38,11 +38,88 @@
     },
     "squad": [
         {
+            "id": 20931,
+            "name": "Mory Diaw",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-06-22",
+            "nationality": "France"
+        },
+        {
+            "id": 106838,
+            "name": "Lionel Mpasi",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-08-01",
+            "nationality": "France"
+        },
+        {
             "id": 248779,
             "name": "Paul Argney",
             "position": "Goalkeeper",
             "dateOfBirth": "2006-05-23",
             "nationality": "France"
+        },
+        {
+            "id": 113230,
+            "name": "Ayumu Seko",
+            "position": "Defence",
+            "dateOfBirth": "2000-06-07",
+            "nationality": "Japan"
+        },
+        {
+            "id": 276981,
+            "name": "Stephan Zagadou",
+            "position": "Defence",
+            "dateOfBirth": "2008-10-24",
+            "nationality": "France"
+        },
+        {
+            "id": 281101,
+            "name": "Bissenty Gomis",
+            "position": "Defence",
+            "dateOfBirth": "2007-12-11",
+            "nationality": "France"
+        },
+        {
+            "id": 283412,
+            "name": "Georges Gomis",
+            "position": "Defence",
+            "dateOfBirth": "2008-01-01",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 7729,
+            "name": "Younes Namli",
+            "position": "Midfield",
+            "dateOfBirth": "1994-06-20",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 263479,
+            "name": "Daren Mosengo",
+            "position": "Midfield",
+            "dateOfBirth": "2006-08-11",
+            "nationality": "France"
+        },
+        {
+            "id": 263480,
+            "name": "Guy Zohouri",
+            "position": "Midfield",
+            "dateOfBirth": "2007-02-01",
+            "nationality": "France"
+        },
+        {
+            "id": 281103,
+            "name": "Kenny Quetant",
+            "position": "Midfield",
+            "dateOfBirth": "2006-07-17",
+            "nationality": "France"
+        },
+        {
+            "id": 111230,
+            "name": "Felix Mambimbi",
+            "position": "Offence",
+            "dateOfBirth": "2001-01-18",
+            "nationality": "Switzerland"
         },
         {
             "id": 133190,
@@ -52,18 +129,109 @@
             "nationality": "Senegal"
         },
         {
+            "id": 215579,
+            "name": "Mbwana Samatta",
+            "position": "Offence",
+            "dateOfBirth": "1992-12-23",
+            "nationality": "Tanzania"
+        },
+        {
+            "id": 263481,
+            "name": "Noam Obougou",
+            "position": "Offence",
+            "dateOfBirth": "2006-03-15",
+            "nationality": "France"
+        },
+        {
+            "id": 281102,
+            "name": "Enzo Koffi",
+            "position": "Offence",
+            "dateOfBirth": "2006-03-04",
+            "nationality": "France"
+        },
+        {
+            "id": 169172,
+            "name": "Yassine Kechta",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-02-25",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 157842,
+            "name": "Arouna Sangante",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-04-12",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 149098,
+            "name": "Fodé Doucouré",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-02-03",
+            "nationality": "Mali"
+        },
+        {
+            "id": 111019,
+            "name": "Godson Kyeremeh",
+            "position": "Right Winger",
+            "dateOfBirth": "2000-06-14",
+            "nationality": "France"
+        },
+        {
+            "id": 63096,
+            "name": "Loïc Nego",
+            "position": "Right-Back",
+            "dateOfBirth": "1991-01-15",
+            "nationality": "Hungary"
+        },
+        {
+            "id": 8697,
+            "name": "Abdoulaye Touré",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1994-03-03",
+            "nationality": "France"
+        },
+        {
+            "id": 8403,
+            "name": "Fodé Ballo-Touré",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-01-03",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 7990,
+            "name": "André Ayew",
+            "position": "Left Winger",
+            "dateOfBirth": "1989-12-17",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 3700,
+            "name": "Oualid El Hajjam",
+            "position": "Right-Back",
+            "dateOfBirth": "1991-02-19",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 1004,
+            "name": "Gautier Lloris",
+            "position": "Centre-Back",
+            "dateOfBirth": "1995-07-18",
+            "nationality": "France"
+        },
+        {
+            "id": 935,
+            "name": "Thomas Delaine",
+            "position": "Left-Back",
+            "dateOfBirth": "1992-03-24",
+            "nationality": "France"
+        },
+        {
             "id": 260293,
             "name": "Yanis Zouaoui",
             "position": "Left-Back",
             "dateOfBirth": "1998-04-28",
             "nationality": "France"
-        },
-        {
-            "id": 255627,
-            "name": "Ruben Londja",
-            "position": "Right Winger",
-            "dateOfBirth": "2006-06-10",
-            "nationality": "Switzerland"
         },
         {
             "id": 244823,
@@ -78,13 +246,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2003-12-20",
             "nationality": "Senegal"
-        },
-        {
-            "id": 206360,
-            "name": "Makrane Bentoumi",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-11-16",
-            "nationality": "France"
         },
         {
             "id": 204322,
@@ -112,41 +273,6 @@
             "name": "Rassoul N'Diaye",
             "position": "Defensive Midfield",
             "dateOfBirth": "2001-12-11",
-            "nationality": "France"
-        },
-        {
-            "id": 169172,
-            "name": "Yassine Kechta",
-            "position": "Central Midfield",
-            "dateOfBirth": "2002-02-25",
-            "nationality": "Morocco"
-        },
-        {
-            "id": 157842,
-            "name": "Arouna Sangante",
-            "position": "Centre-Back",
-            "dateOfBirth": "2002-04-12",
-            "nationality": "Senegal"
-        },
-        {
-            "id": 133695,
-            "name": "Kandet Diawara",
-            "position": "Left Winger",
-            "dateOfBirth": "2000-02-10",
-            "nationality": "France"
-        },
-        {
-            "id": 3700,
-            "name": "Oualid El Hajjam",
-            "position": "Right-Back",
-            "dateOfBirth": "1991-02-19",
-            "nationality": "Morocco"
-        },
-        {
-            "id": 1004,
-            "name": "Gautier Lloris",
-            "position": "Centre-Back",
-            "dateOfBirth": "1995-07-18",
             "nationality": "France"
         }
     ],

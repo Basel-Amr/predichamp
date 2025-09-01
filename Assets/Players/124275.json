@@ -7,37 +7,44 @@
     "nationality": "Morocco",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 21,
+    "shirtNumber": 9,
     "lastUpdated": "2024-11-05T12:57:20Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2093,
+            "name": "Greece",
+            "code": "GRC",
+            "flag": "https://crests.football-data.org/775.svg"
         },
-        "id": 546,
-        "name": "Racing Club de Lens",
-        "shortName": "RC Lens",
-        "tla": "RCL",
-        "crest": "https://crests.football-data.org/546.png",
-        "address": "33 rue Arthur Lamendin Avion 62210",
-        "website": "http://www.rclens.fr",
-        "founded": 1906,
-        "clubColors": "Red / Yellow",
-        "venue": "Stade Bollaert-Delelis",
+        "id": 646,
+        "name": "Panathinaikos AO",
+        "shortName": "Panathinaikos",
+        "tla": "PAO",
+        "crest": "https://crests.football-data.org/646.png",
+        "address": "10 Ziridi Street, Maroussi Athína 15123",
+        "website": "http://www.pao.gr",
+        "founded": 1891,
+        "clubColors": "Green / White",
+        "venue": "Olympiako Stadio Spyros Louis",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
+                "id": 2132,
+                "name": "Super League",
+                "code": "GSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-09",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

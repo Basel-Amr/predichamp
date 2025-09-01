@@ -7,7 +7,7 @@
     "nationality": "Denmark",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 9,
+    "shirtNumber": 15,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 721,
-        "name": "RB Leipzig",
-        "shortName": "RB Leipzig",
-        "tla": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "address": "Neumarkt 29-33 Leipzig 04109",
-        "website": "http://www.dierotenbullen.com",
-        "founded": 2009,
-        "clubColors": "White / Red",
-        "venue": "Red Bull Arena",
+        "id": 7,
+        "name": "Hamburger SV",
+        "shortName": "HSV",
+        "tla": "HSV",
+        "crest": "https://crests.football-data.org/7.png",
+        "address": "Sylvesterallee 7 Hamburg 22525",
+        "website": "http://www.hsv.de",
+        "founded": 1887,
+        "clubColors": "White / Red / Blue",
+        "venue": "Volksparkstadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2013-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2027-06"
         }
     }
 }

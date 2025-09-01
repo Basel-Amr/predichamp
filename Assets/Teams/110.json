@@ -59,27 +59,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 192109,
-            "name": "Davide Renzetti",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2006-06-09",
-            "nationality": "Italy"
-        },
-        {
-            "id": 175839,
-            "name": "Romano Floriani",
-            "position": "Defence",
-            "dateOfBirth": "2003-01-27",
-            "nationality": "Italy"
-        },
-        {
-            "id": 85523,
-            "name": "Marcos Antônio",
-            "position": "Midfield",
-            "dateOfBirth": "2000-06-13",
-            "nationality": "Brazil"
-        },
-        {
             "id": 213185,
             "name": "Mohamed Fares",
             "position": "Midfield",
@@ -101,53 +80,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 136713,
-            "name": "Gabriele Artistico",
-            "position": "Offence",
-            "dateOfBirth": "2002-07-14",
-            "nationality": "Italy"
-        },
-        {
-            "id": 217505,
-            "name": "Valerio Crespi",
-            "position": "Offence",
-            "dateOfBirth": "2004-08-04",
-            "nationality": "Italy"
-        },
-        {
-            "id": 274451,
-            "name": "Mahamadou Baldé",
-            "position": "Offence",
-            "dateOfBirth": "2004-01-01",
-            "nationality": "Spain"
-        },
-        {
             "id": 274812,
             "name": "Federico Serra",
             "position": "Offence",
             "dateOfBirth": "2006-01-03",
             "nationality": "Italy"
-        },
-        {
-            "id": 120446,
-            "name": "Dimitrije Kamenović",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-07-16",
-            "nationality": "Serbia"
-        },
-        {
-            "id": 98299,
-            "name": "Boulaye Dia",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1996-11-16",
-            "nationality": "Senegal"
-        },
-        {
-            "id": 80459,
-            "name": "Nuno Tavares",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-01-26",
-            "nationality": "Portugal"
         },
         {
             "id": 56645,
@@ -169,6 +106,13 @@
             "position": "Central Midfield",
             "dateOfBirth": "1996-11-25",
             "nationality": "Croatia"
+        },
+        {
+            "id": 8912,
+            "name": "Samuel Gigot",
+            "position": "Centre-Back",
+            "dateOfBirth": "1993-10-12",
+            "nationality": "France"
         },
         {
             "id": 7818,
@@ -234,6 +178,13 @@
             "nationality": "Uruguay"
         },
         {
+            "id": 1803,
+            "name": "Luca Pellegrini",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-03-07",
+            "nationality": "Italy"
+        },
+        {
             "id": 1740,
             "name": "Alessio Romagnoli",
             "position": "Centre-Back",
@@ -246,20 +197,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "1999-04-14",
             "nationality": "France"
-        },
-        {
-            "id": 272768,
-            "name": "Filipe",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-06-24",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 261350,
-            "name": "Alessandro Milani",
-            "position": "Left-Back",
-            "dateOfBirth": "2005-06-14",
-            "nationality": "Venezuela"
         },
         {
             "id": 260936,
@@ -281,13 +218,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2003-06-04",
             "nationality": "Denmark"
-        },
-        {
-            "id": 192110,
-            "name": "Fabio Ruggeri",
-            "position": "Centre-Back",
-            "dateOfBirth": "2004-12-13",
-            "nationality": "Italy"
         },
         {
             "id": 187476,
@@ -330,6 +260,34 @@
             "position": "Right Winger",
             "dateOfBirth": "2001-04-19",
             "nationality": "Denmark"
+        },
+        {
+            "id": 120446,
+            "name": "Dimitrije Kamenović",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-07-16",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 111220,
+            "name": "Nicolò Rovella",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-12-04",
+            "nationality": "Italy"
+        },
+        {
+            "id": 98299,
+            "name": "Boulaye Dia",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1996-11-16",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 80459,
+            "name": "Nuno Tavares",
+            "position": "Left-Back",
+            "dateOfBirth": "2000-01-26",
+            "nationality": "Portugal"
         }
     ],
     "staff": [],

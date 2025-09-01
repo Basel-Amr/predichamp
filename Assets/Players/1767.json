@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 98,
-        "name": "AC Milan",
-        "shortName": "Milan",
-        "tla": "MIL",
-        "crest": "https://crests.football-data.org/98.png",
-        "address": "Via Filippo Turati 3 Milano 20121",
-        "website": "http://www.acmilan.com",
-        "founded": 1899,
-        "clubColors": "Red / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 102,
+        "name": "Atalanta BC",
+        "shortName": "Atalanta",
+        "tla": "ATA",
+        "crest": "https://crests.football-data.org/102.png",
+        "address": "Corso Europa, 46, Zingonia Ciserano 24040",
+        "website": "http://www.atalanta.it",
+        "founded": 1904,
+        "clubColors": "Black / Blue",
+        "venue": "Stadio Atleti Azzurri d'Italia",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,18 +33,11 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

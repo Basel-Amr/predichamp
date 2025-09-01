@@ -7,7 +7,7 @@
     "nationality": "Slovenia",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 43,
+    "shirtNumber": 9,
     "lastUpdated": "2024-12-01T09:41:26Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
-        "address": "Franz-Kremer-Allee 1 Köln 50937",
-        "website": "http://www.fc-koeln.de",
-        "founded": 1948,
+        "id": 2002,
+        "name": "Rot-Weiss Essen",
+        "shortName": "RW Essen",
+        "tla": "RWE",
+        "crest": "https://crests.football-data.org/2002.png",
+        "address": "Hafenstraße 97a Essen 45356",
+        "website": "http://www.rot-weiss-essen.de",
+        "founded": 1907,
         "clubColors": "Red / White",
-        "venue": "RheinEnergieSTADION",
+        "venue": "Stadion Essen",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,16 +35,16 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2140,
+                "name": "3. Bundesliga",
+                "code": "BL3",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL3.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

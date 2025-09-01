@@ -7,7 +7,7 @@
     "nationality": "Nigeria",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 45,
+    "shirtNumber": 14,
     "lastUpdated": "2024-11-05T12:57:20Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 522,
-        "name": "OGC Nice",
-        "shortName": "Nice",
-        "tla": "NIC",
-        "crest": "https://crests.football-data.org/522.png",
-        "address": "35, avenue du Ray Nice 06100",
-        "website": "http://www.ogcnice.com",
-        "founded": 1904,
-        "clubColors": "Red / Black",
-        "venue": "Stade de Nice",
+        "id": 518,
+        "name": "Montpellier HSC",
+        "shortName": "Montpellier",
+        "tla": "MON",
+        "crest": "https://crests.football-data.org/518.png",
+        "address": "Domaine de Grammont CS 79041 Montpellier 34967",
+        "website": "http://www.mhscfoot.com",
+        "founded": 1970,
+        "clubColors": "Blue / Orange",
+        "venue": "Stade de la Mosson",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

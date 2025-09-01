@@ -17,13 +17,6 @@
     "venue": "Signal Iduna Park",
     "runningCompetitions": [
         {
-            "id": 2178,
-            "name": "FIFA Club World Cup",
-            "code": "FCWC",
-            "type": "CUP",
-            "emblem": null
-        },
-        {
             "id": 2011,
             "name": "DFB-Pokal",
             "code": "DFB",
@@ -70,13 +63,6 @@
             "name": "Alexander Meyer",
             "position": "Goalkeeper",
             "dateOfBirth": "1991-04-13",
-            "nationality": "Germany"
-        },
-        {
-            "id": 117476,
-            "name": "Diant Ramaj",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2001-09-19",
             "nationality": "Germany"
         },
         {
@@ -129,6 +115,55 @@
             "nationality": "USA"
         },
         {
+            "id": 265182,
+            "name": "Cole Campbell",
+            "position": "Right Winger",
+            "dateOfBirth": "2006-02-20",
+            "nationality": "USA"
+        },
+        {
+            "id": 263672,
+            "name": "Almugera Kabar",
+            "position": "Left-Back",
+            "dateOfBirth": "2006-06-06",
+            "nationality": "Germany"
+        },
+        {
+            "id": 182280,
+            "name": "Julien Duranville",
+            "position": "Left Winger",
+            "dateOfBirth": "2006-05-05",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 171692,
+            "name": "Jobe Bellingham",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2005-09-23",
+            "nationality": "England"
+        },
+        {
+            "id": 144283,
+            "name": "Yan Couto",
+            "position": "Right-Back",
+            "dateOfBirth": "2002-06-03",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 136733,
+            "name": "Gio Reyna",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2002-11-13",
+            "nationality": "USA"
+        },
+        {
+            "id": 133903,
+            "name": "Maximilian Beier",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-10-17",
+            "nationality": "Germany"
+        },
+        {
             "id": 101074,
             "name": "Felix Kalu Nmecha",
             "position": "Central Midfield",
@@ -178,13 +213,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 6721,
-            "name": "Sébastien Haller",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-06-22",
-            "nationality": "Ivory Coast"
-        },
-        {
             "id": 3183,
             "name": "Emre Can",
             "position": "Defensive Midfield",
@@ -224,76 +252,6 @@
             "name": "Julian Brandt",
             "position": "Attacking Midfield",
             "dateOfBirth": "1996-05-02",
-            "nationality": "Germany"
-        },
-        {
-            "id": 265182,
-            "name": "Cole Campbell",
-            "position": "Right Winger",
-            "dateOfBirth": "2006-02-20",
-            "nationality": "USA"
-        },
-        {
-            "id": 263672,
-            "name": "Almugera Kabar",
-            "position": "Left-Back",
-            "dateOfBirth": "2006-06-06",
-            "nationality": "Germany"
-        },
-        {
-            "id": 182280,
-            "name": "Julien Duranville",
-            "position": "Left Winger",
-            "dateOfBirth": "2006-05-05",
-            "nationality": "Belgium"
-        },
-        {
-            "id": 179460,
-            "name": "Jamie Bynoe-Gittens",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-08-08",
-            "nationality": "England"
-        },
-        {
-            "id": 171692,
-            "name": "Jobe Bellingham",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-09-23",
-            "nationality": "England"
-        },
-        {
-            "id": 170075,
-            "name": "Soumaïla Coulibaly",
-            "position": "Centre-Back",
-            "dateOfBirth": "2003-10-14",
-            "nationality": "France"
-        },
-        {
-            "id": 167570,
-            "name": "Carney Chukwuemeka",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-10-20",
-            "nationality": "England"
-        },
-        {
-            "id": 144283,
-            "name": "Yan Couto",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-06-03",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 136733,
-            "name": "Gio Reyna",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2002-11-13",
-            "nationality": "USA"
-        },
-        {
-            "id": 133903,
-            "name": "Maximilian Beier",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-10-17",
             "nationality": "Germany"
         }
     ],

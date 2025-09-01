@@ -17,18 +17,18 @@
     "venue": "Stadio Giuseppe Meazza",
     "runningCompetitions": [
         {
-            "id": 2178,
-            "name": "FIFA Club World Cup",
-            "code": "FCWC",
-            "type": "CUP",
-            "emblem": null
-        },
-        {
             "id": 2019,
             "name": "Serie A",
             "code": "SA",
             "type": "LEAGUE",
             "emblem": "https://crests.football-data.org/SA.png"
+        },
+        {
+            "id": 2124,
+            "name": "Supercoppa",
+            "code": "ISC",
+            "type": "SUPER_CUP",
+            "emblem": "https://crests.football-data.org/isc.png"
         }
     ],
     "coach": {
@@ -44,6 +44,13 @@
         }
     },
     "squad": [
+        {
+            "id": 2819,
+            "name": "Raffaele Di Gennaro",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1993-10-03",
+            "nationality": "Italy"
+        },
         {
             "id": 3470,
             "name": "Yann Sommer",
@@ -66,11 +73,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 9229,
-            "name": "Zinho Vanheusden",
+            "id": 42748,
+            "name": "Giuseppe Prestia",
             "position": "Defence",
-            "dateOfBirth": "1999-07-29",
-            "nationality": "Belgium"
+            "dateOfBirth": "1993-11-13",
+            "nationality": "Italy"
         },
         {
             "id": 167689,
@@ -78,20 +85,6 @@
             "position": "Defence",
             "dateOfBirth": "1999-01-07",
             "nationality": "Brazil"
-        },
-        {
-            "id": 264798,
-            "name": "Francesco Stante",
-            "position": "Defence",
-            "dateOfBirth": "2005-01-19",
-            "nationality": "Italy"
-        },
-        {
-            "id": 272040,
-            "name": "Mike Aidoo",
-            "position": "Defence",
-            "dateOfBirth": "2005-05-30",
-            "nationality": "Italy"
         },
         {
             "id": 273853,
@@ -122,20 +115,6 @@
             "nationality": "Croatia"
         },
         {
-            "id": 264781,
-            "name": "Luca Di Maggio",
-            "position": "Midfield",
-            "dateOfBirth": "2005-03-31",
-            "nationality": "Italy"
-        },
-        {
-            "id": 270807,
-            "name": "Daniele Quieto",
-            "position": "Midfield",
-            "dateOfBirth": "2005-10-22",
-            "nationality": "Venezuela"
-        },
-        {
             "id": 271989,
             "name": "Thomas Berenbruch",
             "position": "Midfield",
@@ -143,24 +122,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 274282,
-            "name": "Giacomo De Pieri",
-            "position": "Midfield",
-            "dateOfBirth": "2006-12-29",
-            "nationality": "Italy"
-        },
-        {
             "id": 279859,
             "name": "Leonardo Bovo",
             "position": "Midfield",
             "dateOfBirth": "2005-05-07",
-            "nationality": "Italy"
-        },
-        {
-            "id": 114054,
-            "name": "Sebastiano Esposito",
-            "position": "Offence",
-            "dateOfBirth": "2002-07-02",
             "nationality": "Italy"
         },
         {
@@ -192,39 +157,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 152734,
-            "name": "Franco Carboni",
-            "position": "Left-Back",
-            "dateOfBirth": "2003-04-04",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 152528,
-            "name": "Nicola Zalewski",
-            "position": "Left Midfield",
-            "dateOfBirth": "2002-01-23",
-            "nationality": "Poland"
-        },
-        {
-            "id": 142990,
-            "name": "Tiago Palacios",
-            "position": "Centre-Back",
-            "dateOfBirth": "2003-04-28",
-            "nationality": "Argentina"
-        },
-        {
             "id": 115074,
             "name": "Luis Henrique",
             "position": "Left Winger",
             "dateOfBirth": "2001-12-14",
             "nationality": "Brazil"
-        },
-        {
-            "id": 113175,
-            "name": "Tajon Buchanan",
-            "position": "Right Midfield",
-            "dateOfBirth": "1999-02-08",
-            "nationality": "Canada"
         },
         {
             "id": 30821,
@@ -339,32 +276,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 245198,
-            "name": "Matteo Motta",
-            "position": "Left-Back",
-            "dateOfBirth": "2005-02-10",
-            "nationality": "Italy"
-        },
-        {
-            "id": 217910,
-            "name": "Giacomo Stabile",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-04-12",
-            "nationality": "Italy"
-        },
-        {
             "id": 217581,
             "name": "Amadou Sarr",
             "position": "Centre-Forward",
             "dateOfBirth": "2004-06-28",
             "nationality": "Italy"
-        },
-        {
-            "id": 206715,
-            "name": "Ebenezer Akinsanmiro",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-11-25",
-            "nationality": "Nigeria"
         },
         {
             "id": 190998,
@@ -374,24 +290,10 @@
             "nationality": "France"
         },
         {
-            "id": 188920,
-            "name": "Aleksandar Stankovic",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2005-08-03",
-            "nationality": "Serbia"
-        },
-        {
             "id": 187372,
             "name": "Alessandro Fontanarosa",
             "position": "Centre-Back",
             "dateOfBirth": "2003-02-07",
-            "nationality": "Italy"
-        },
-        {
-            "id": 187371,
-            "name": "Valentín Carboni",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-03-05",
             "nationality": "Italy"
         },
         {
@@ -400,6 +302,27 @@
             "position": "Defensive Midfield",
             "dateOfBirth": "2002-03-09",
             "nationality": "Albania"
+        },
+        {
+            "id": 152738,
+            "name": "Ange-Yoan Bonny",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-10-25",
+            "nationality": "France"
+        },
+        {
+            "id": 152528,
+            "name": "Nicola Zalewski",
+            "position": "Left Midfield",
+            "dateOfBirth": "2002-01-23",
+            "nationality": "Poland"
+        },
+        {
+            "id": 142990,
+            "name": "Tiago Palacios",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-04-28",
+            "nationality": "Argentina"
         }
     ],
     "staff": [],

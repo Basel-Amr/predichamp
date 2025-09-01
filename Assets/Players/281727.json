@@ -1,0 +1,43 @@
+{
+    "id": 281727,
+    "name": "Antonio Machado",
+    "firstName": "",
+    "lastName": "Antonio Machado",
+    "dateOfBirth": "2006-12-19",
+    "nationality": "Portugal",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 77,
+    "lastUpdated": "2025-08-01T09:42:46Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 10340,
+        "name": "AVS",
+        "shortName": "AVS",
+        "tla": "AVS",
+        "crest": "https://crests.football-data.org/10340.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio do CD Aves",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

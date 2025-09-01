@@ -1,0 +1,43 @@
+{
+    "id": 82126,
+    "name": "João Mário Lopes",
+    "firstName": "",
+    "lastName": "João Mário",
+    "dateOfBirth": "2000-01-03",
+    "nationality": "Portugal",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-05-16T09:42:46Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 109,
+        "name": "Juventus FC",
+        "shortName": "Juventus",
+        "tla": "JUV",
+        "crest": "https://crests.football-data.org/109.png",
+        "address": "Corso Galileo Ferraris, 32 Torino 10128",
+        "website": "http://www.juventus.com",
+        "founded": 1897,
+        "clubColors": "White / Black",
+        "venue": "Allianz Stadium",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2030-06"
+        }
+    }
+}

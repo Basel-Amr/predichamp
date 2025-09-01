@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 63,
+    "shirtNumber": 28,
     "lastUpdated": "2025-03-26T09:42:59Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 8453,
+        "name": "Mantova 1911 SSD",
+        "shortName": "Mantova 1911",
+        "tla": "MAN",
+        "crest": "https://crests.football-data.org/8453.png",
+        "address": "Viale Te, 7-9 Mantova 46100",
+        "website": "http://www.mantova1911.club/",
+        "founded": 1911,
+        "clubColors": "White / Red",
+        "venue": "Stadio Danilo Martelli",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2024-12",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

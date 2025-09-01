@@ -52,18 +52,25 @@
             "nationality": "England"
         },
         {
-            "id": 7914,
-            "name": "Martin Dúbravka",
+            "id": 5530,
+            "name": "Aaron Ramsdale",
             "position": "Goalkeeper",
-            "dateOfBirth": "1989-01-15",
-            "nationality": "Slovakia"
+            "dateOfBirth": "1998-05-14",
+            "nationality": "England"
         },
         {
-            "id": 244410,
-            "name": "Antonio Cordero",
+            "id": 176852,
+            "name": "Lewis Hall",
             "position": "Midfield",
-            "dateOfBirth": "2006-11-14",
-            "nationality": "Spain"
+            "dateOfBirth": "2004-09-08",
+            "nationality": "England"
+        },
+        {
+            "id": 283375,
+            "name": "Seung-soo Park",
+            "position": "Offence",
+            "dateOfBirth": "2007-03-17",
+            "nationality": "South Korea"
         },
         {
             "id": 230364,
@@ -94,6 +101,13 @@
             "nationality": "England"
         },
         {
+            "id": 166376,
+            "name": "Anthony Elanga",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-04-27",
+            "nationality": "Sweden"
+        },
+        {
             "id": 150776,
             "name": "Harrison Ashby",
             "position": "Right-Back",
@@ -101,10 +115,17 @@
             "nationality": "Scotland"
         },
         {
-            "id": 124683,
-            "name": "Joe White",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2002-10-01",
+            "id": 142732,
+            "name": "Malick Thiaw",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-08-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 111437,
+            "name": "Jacob Ramsey",
+            "position": "Left Midfield",
+            "dateOfBirth": "2001-05-28",
             "nationality": "England"
         },
         {
@@ -143,6 +164,13 @@
             "nationality": "England"
         },
         {
+            "id": 7848,
+            "name": "Anthony Gordon",
+            "position": "Left Winger",
+            "dateOfBirth": "2001-02-24",
+            "nationality": "England"
+        },
+        {
             "id": 7798,
             "name": "Joe Willock",
             "position": "Central Midfield",
@@ -155,13 +183,6 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1999-09-21",
             "nationality": "Sweden"
-        },
-        {
-            "id": 4955,
-            "name": "Sean Longstaff",
-            "position": "Central Midfield",
-            "dateOfBirth": "1997-10-30",
-            "nationality": "England"
         },
         {
             "id": 4870,

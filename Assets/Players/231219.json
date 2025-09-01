@@ -1,0 +1,43 @@
+{
+    "id": 231219,
+    "name": "Francisco Gonçalves",
+    "firstName": "",
+    "lastName": "Chico Gonçalves",
+    "dateOfBirth": "2004-03-05",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 33,
+    "lastUpdated": "2024-12-29T09:42:49Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png",
+        "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+        "website": "http://www.cdnacional.pt",
+        "founded": 1910,
+        "clubColors": "Black / White",
+        "venue": "Estádio da Madeira",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2029-06"
+        }
+    }
+}

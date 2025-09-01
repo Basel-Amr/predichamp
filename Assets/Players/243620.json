@@ -1,0 +1,43 @@
+{
+    "id": 243620,
+    "name": "Jota Garcês",
+    "firstName": "",
+    "lastName": "Jota",
+    "dateOfBirth": "1993-03-07",
+    "nationality": "Portugal",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 20,
+    "lastUpdated": "2025-05-16T09:42:48Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5529,
+        "name": "CD Nacional",
+        "shortName": "CD Nacional",
+        "tla": "CDN",
+        "crest": "https://crests.football-data.org/5529.png",
+        "address": "Rua do Esmeraldo, n.º 46 Funchal 9060",
+        "website": "http://www.cdnacional.pt",
+        "founded": 1910,
+        "clubColors": "Black / White",
+        "venue": "Estádio da Madeira",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

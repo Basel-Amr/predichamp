@@ -1,0 +1,253 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 496,
+    "name": "Rio Ave FC",
+    "shortName": "Rio Ave",
+    "tla": "RIO",
+    "crest": "https://crests.football-data.org/496.png",
+    "address": "Praça da República, n.º35, Apartado 42 Vila do Conde 4481-909",
+    "website": "http://www.rioave-fc.pt",
+    "founded": 1939,
+    "clubColors": "Green / White",
+    "venue": "Estádio do Rio Ave Futebol Clube",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 247050,
+        "firstName": "Sotiris",
+        "lastName": "Sylaidopoulos",
+        "name": "Sotiris Sylaidopoulos",
+        "dateOfBirth": "1979-02-08",
+        "nationality": "Greece",
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 110864,
+            "name": "Kevin Chamorro",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-04-08",
+            "nationality": "Costa Rica"
+        },
+        {
+            "id": 114150,
+            "name": "Cezary Miszta",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-10-30",
+            "nationality": "Poland"
+        },
+        {
+            "id": 263610,
+            "name": "Antzelo Sina",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-01-07",
+            "nationality": "Albania"
+        },
+        {
+            "id": 281950,
+            "name": "Pedro Virgínia",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-01-05",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 81950,
+            "name": "Georgios Liavas",
+            "position": "Defence",
+            "dateOfBirth": "2001-02-12",
+            "nationality": "Greece"
+        },
+        {
+            "id": 98870,
+            "name": "Jonathan Panzo",
+            "position": "Defence",
+            "dateOfBirth": "2000-10-25",
+            "nationality": "England"
+        },
+        {
+            "id": 193588,
+            "name": "Joao Tome",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-12",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 209474,
+            "name": "Nikos Athanasiou",
+            "position": "Defence",
+            "dateOfBirth": "2001-03-16",
+            "nationality": "Greece"
+        },
+        {
+            "id": 209594,
+            "name": "Andreas Ndoj",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-02",
+            "nationality": "Albania"
+        },
+        {
+            "id": 250593,
+            "name": "Francisco Petrasso",
+            "position": "Defence",
+            "dateOfBirth": "2002-02-28",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 45452,
+            "name": "João Novais",
+            "position": "Midfield",
+            "dateOfBirth": "1993-07-10",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 188099,
+            "name": "Julien Lomboto",
+            "position": "Midfield",
+            "dateOfBirth": "2002-05-13",
+            "nationality": "France"
+        },
+        {
+            "id": 261561,
+            "name": "Georgios Okkas",
+            "position": "Midfield",
+            "dateOfBirth": "2004-10-24",
+            "nationality": "Cyprus"
+        },
+        {
+            "id": 264302,
+            "name": "Theofanis Bakoulas",
+            "position": "Midfield",
+            "dateOfBirth": "2005-01-04",
+            "nationality": "Greece"
+        },
+        {
+            "id": 264675,
+            "name": "Antonis Papakanellos",
+            "position": "Midfield",
+            "dateOfBirth": "2005-08-11",
+            "nationality": "Greece"
+        },
+        {
+            "id": 274157,
+            "name": "Rafael Genuino",
+            "position": "Midfield",
+            "dateOfBirth": "2006-02-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 278356,
+            "name": "Dijar Ferati",
+            "position": "Midfield",
+            "dateOfBirth": "2008-09-24",
+            "nationality": "Albania"
+        },
+        {
+            "id": 32141,
+            "name": "Marc Gual Huguet",
+            "position": "Offence",
+            "dateOfBirth": "1996-03-13",
+            "nationality": "Spain"
+        },
+        {
+            "id": 141542,
+            "name": "Clayton",
+            "position": "Offence",
+            "dateOfBirth": "1999-01-11",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 211519,
+            "name": "Tobias Medina",
+            "position": "Offence",
+            "dateOfBirth": "2004-03-03",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 244984,
+            "name": "Karem Zoabi",
+            "position": "Offence",
+            "dateOfBirth": "2006-05-03",
+            "nationality": "Israel"
+        },
+        {
+            "id": 273017,
+            "name": "Valentim Sousa",
+            "position": "Offence",
+            "dateOfBirth": "2005-02-14",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 277829,
+            "name": "Naziru Shuabiu",
+            "position": "Offence",
+            "dateOfBirth": "2004-02-10",
+            "nationality": "Nigeria"
+        },
+        {
+            "id": 185179,
+            "name": "Brandon Aguilera",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-06-28",
+            "nationality": "Costa Rica"
+        },
+        {
+            "id": 185150,
+            "name": "João Graça",
+            "position": "Central Midfield",
+            "dateOfBirth": "1995-06-18",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 178810,
+            "name": "André Luiz",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2002-02-23",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 149940,
+            "name": "Nelson Abbey",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-08-28",
+            "nationality": "England"
+        },
+        {
+            "id": 142162,
+            "name": "Ole Pohlmann",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-04-05",
+            "nationality": "Germany"
+        },
+        {
+            "id": 15990,
+            "name": "Marious Vrousai",
+            "position": "Right Winger",
+            "dateOfBirth": "1998-07-02",
+            "nationality": "Greece"
+        },
+        {
+            "id": 214166,
+            "name": "Amine Rehmi",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-04-01",
+            "nationality": "Netherlands"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-07-26T17:38:50Z"
+}

@@ -1,0 +1,50 @@
+{
+    "id": 250544,
+    "name": "Gabriel Brás",
+    "firstName": "",
+    "lastName": "Gabriel Brás",
+    "dateOfBirth": "2004-03-25",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 73,
+    "lastUpdated": "2025-03-21T09:46:50Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 503,
+        "name": "FC Porto",
+        "shortName": "Porto",
+        "tla": "FCP",
+        "crest": "https://crests.football-data.org/503.png",
+        "address": "Estádio do Dragão, Entrada Poente - Piso 3 Porto 4350-451",
+        "website": "http://www.fcporto.pt",
+        "founded": 1893,
+        "clubColors": "Blue / White",
+        "venue": "Estádio Do Dragão",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2026-06"
+        }
+    }
+}

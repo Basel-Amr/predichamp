@@ -28,6 +28,13 @@
         "venue": "Stade de Nice",
         "runningCompetitions": [
             {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
                 "id": 2015,
                 "name": "Ligue 1",
                 "code": "FL1",

@@ -1,0 +1,50 @@
+{
+    "id": 3421,
+    "name": "Jackson Irvine",
+    "firstName": "Jackson",
+    "lastName": "Irvine",
+    "dateOfBirth": "1993-03-07",
+    "nationality": "Australia",
+    "section": "Central Midfield",
+    "position": "Midfield",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 20,
+        "name": "FC St. Pauli 1910",
+        "shortName": "St. Pauli",
+        "tla": "STP",
+        "crest": "https://crests.football-data.org/20.png",
+        "address": "Auf dem Heiligengeistfeld Hamburg 20359",
+        "website": "http://www.fcstpauli.de",
+        "founded": 1910,
+        "clubColors": "Brown / White",
+        "venue": "Millerntor-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-07",
+            "until": "2026-06"
+        }
+    }
+}

@@ -7,7 +7,7 @@
     "nationality": "Croatia",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 9,
+    "shirtNumber": 31,
     "lastUpdated": "2025-02-08T19:06:15Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 19,
-        "name": "Eintracht Frankfurt",
-        "shortName": "Frankfurt",
-        "tla": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
-        "website": "http://www.eintracht.de",
-        "founded": 1899,
-        "clubColors": "Red / Black",
-        "venue": "Deutsche Bank Park",
+        "id": 17,
+        "name": "SC Freiburg",
+        "shortName": "Freiburg",
+        "tla": "SCF",
+        "crest": "https://crests.football-data.org/17.png",
+        "address": "Schwarzwaldstraße 193 Freiburg 79117",
+        "website": "http://www.scfreiburg.com",
+        "founded": 1912,
+        "clubColors": "Red / White",
+        "venue": "Schwarzwald-Stadion",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2029-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

@@ -17,6 +17,13 @@
     "venue": "Stade de Nice",
     "runningCompetitions": [
         {
+            "id": 2174,
+            "name": "Champions League Qualification",
+            "code": "CLQ",
+            "type": "CUP",
+            "emblem": null
+        },
+        {
             "id": 2015,
             "name": "Ligue 1",
             "code": "FL1",
@@ -52,11 +59,39 @@
             "nationality": "France"
         },
         {
-            "id": 167416,
-            "name": "Marcin Bulka",
+            "id": 273765,
+            "name": "Bartosz Żelazowski",
             "position": "Goalkeeper",
-            "dateOfBirth": "1999-10-04",
+            "dateOfBirth": "2005-04-25",
             "nationality": "Poland"
+        },
+        {
+            "id": 283103,
+            "name": "Théo Bruyère",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2006-08-17",
+            "nationality": "France"
+        },
+        {
+            "id": 202896,
+            "name": "Kojo Peprah Oppong",
+            "position": "Defence",
+            "dateOfBirth": "2004-06-04",
+            "nationality": "Ghana"
+        },
+        {
+            "id": 282317,
+            "name": "Hamza Koutoune",
+            "position": "Defence",
+            "dateOfBirth": "2006-09-17",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 98601,
+            "name": "Isak Jansson",
+            "position": "Midfield",
+            "dateOfBirth": "2002-01-31",
+            "nationality": "Sweden"
         },
         {
             "id": 246041,
@@ -66,6 +101,20 @@
             "nationality": "Sierra Leone"
         },
         {
+            "id": 273127,
+            "name": "Laurenzo Monteiro",
+            "position": "Midfield",
+            "dateOfBirth": "2004-05-28",
+            "nationality": "France"
+        },
+        {
+            "id": 273766,
+            "name": "Djibril Coulibaly",
+            "position": "Midfield",
+            "dateOfBirth": "2008-11-18",
+            "nationality": "France"
+        },
+        {
             "id": 213270,
             "name": "Mohamed Cho",
             "position": "Offence",
@@ -73,10 +122,24 @@
             "nationality": "France"
         },
         {
+            "id": 273432,
+            "name": "Bernard Jordan Nguene",
+            "position": "Offence",
+            "dateOfBirth": "2006-08-04",
+            "nationality": "Cameroon"
+        },
+        {
             "id": 279671,
             "name": "Gabin Bernardeau",
             "position": "Offence",
             "dateOfBirth": "2006-01-24",
+            "nationality": "France"
+        },
+        {
+            "id": 168667,
+            "name": "Antoine Mendy",
+            "position": "Right-Back",
+            "dateOfBirth": "2004-05-27",
             "nationality": "France"
         },
         {
@@ -87,18 +150,18 @@
             "nationality": "France"
         },
         {
-            "id": 128710,
-            "name": "Evann Guessand",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-07-01",
-            "nationality": "France"
-        },
-        {
             "id": 123508,
             "name": "Hicham Boudaoui",
             "position": "Central Midfield",
             "dateOfBirth": "1999-09-23",
             "nationality": "Algeria"
+        },
+        {
+            "id": 123206,
+            "name": "Salis Abdul Samed",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-03-26",
+            "nationality": "Ghana"
         },
         {
             "id": 113427,
@@ -115,24 +178,10 @@
             "nationality": "Tunisia"
         },
         {
-            "id": 79903,
-            "name": "Jean-Clair Todibo",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-12-30",
-            "nationality": "France"
-        },
-        {
             "id": 76723,
             "name": "Sofiane Diop",
             "position": "Left Winger",
             "dateOfBirth": "2000-06-09",
-            "nationality": "France"
-        },
-        {
-            "id": 8517,
-            "name": "Gaëtan Laborde",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-05-03",
             "nationality": "France"
         },
         {
@@ -157,6 +206,13 @@
             "nationality": "France"
         },
         {
+            "id": 7448,
+            "name": "Pablo Rosario",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-01-07",
+            "nationality": "Dominican Republic"
+        },
+        {
             "id": 4121,
             "name": "Jérémie Boga",
             "position": "Left Winger",
@@ -171,25 +227,11 @@
             "nationality": "France"
         },
         {
-            "id": 264399,
-            "name": "Victor Orakpo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2006-01-14",
-            "nationality": "Nigeria"
-        },
-        {
             "id": 245563,
             "name": "Mohamed Abdelmonem",
             "position": "Centre-Back",
             "dateOfBirth": "1999-02-01",
             "nationality": "Egypt"
-        },
-        {
-            "id": 245461,
-            "name": "Issiaga Camara",
-            "position": "Central Midfield",
-            "dateOfBirth": "2005-02-02",
-            "nationality": "Guinea"
         },
         {
             "id": 220121,
@@ -204,13 +246,6 @@
             "position": "Right Midfield",
             "dateOfBirth": "2003-05-04",
             "nationality": "France"
-        },
-        {
-            "id": 192158,
-            "name": "Ayoub Amraoui",
-            "position": "Left-Back",
-            "dateOfBirth": "2004-05-14",
-            "nationality": "Morocco"
         },
         {
             "id": 192153,
@@ -239,20 +274,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1998-10-27",
             "nationality": "Burundi"
-        },
-        {
-            "id": 167685,
-            "name": "Aliou Balde",
-            "position": "Left Winger",
-            "dateOfBirth": "2002-12-12",
-            "nationality": "Guinea"
-        },
-        {
-            "id": 160330,
-            "name": "Rareş Ilie",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2003-04-19",
-            "nationality": "Romania"
         }
     ],
     "staff": [],

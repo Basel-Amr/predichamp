@@ -6,7 +6,7 @@
     "dateOfBirth": "2000-01-07",
     "nationality": "Ghana",
     "section": "Right Winger",
-    "position": "Offence",
+    "position": "Midfield",
     "shirtNumber": 24,
     "lastUpdated": "2024-08-23T09:25:16Z",
     "currentTeam": {
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2023-01",
-            "until": "2029-06"
+            "until": "2030-06"
         }
     }
 }

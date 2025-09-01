@@ -7,7 +7,7 @@
     "nationality": "Morocco",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": 34,
+    "shirtNumber": 29,
     "lastUpdated": "2025-05-11T09:48:29Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-05",
+            "start": "2025-07",
             "until": "2027-06"
         }
     }

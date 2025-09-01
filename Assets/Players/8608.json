@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 88,
+    "shirtNumber": 80,
     "lastUpdated": "2023-07-30T17:03:27Z",
     "currentTeam": {
         "area": {
@@ -28,6 +28,13 @@
         "venue": "Stade de Nice",
         "runningCompetitions": [
             {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
+            {
                 "id": 2015,
                 "name": "Ligue 1",
                 "code": "FL1",
@@ -36,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2030-06"
         }
     }

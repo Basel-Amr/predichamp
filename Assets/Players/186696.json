@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Midfield",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 11,
     "lastUpdated": "2023-07-30T16:42:23Z",
     "currentTeam": {
         "area": {
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 486,
+        "name": "Calcio Avellino SSD",
+        "shortName": "Avellino",
+        "tla": "AVE",
+        "crest": "http://upload.wikimedia.org/wikipedia/de/a/ab/AS_Avellino.png",
+        "address": "Piazza Liberta 63 Avellino 83100",
+        "website": "https://www.avellinossd.it/",
+        "founded": 1912,
+        "clubColors": "Green / White",
+        "venue": "Stadio Partenio",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -44,7 +44,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "Portugal",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 37,
     "lastUpdated": "2025-07-04T09:41:03Z",
     "currentTeam": {
         "area": {
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

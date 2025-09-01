@@ -28,13 +28,6 @@
         "venue": "Estadio Santiago Bernabéu",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
                 "id": 2014,
                 "name": "Primera Division",
                 "code": "PD",

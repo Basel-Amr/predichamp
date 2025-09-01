@@ -29,6 +29,13 @@
             "code": "CIT",
             "type": "CUP",
             "emblem": "https://crests.football-data.org/CIT.png"
+        },
+        {
+            "id": 2124,
+            "name": "Supercoppa",
+            "code": "ISC",
+            "type": "SUPER_CUP",
+            "emblem": "https://crests.football-data.org/isc.png"
         }
     ],
     "coach": {
@@ -45,10 +52,10 @@
     },
     "squad": [
         {
-            "id": 1767,
-            "name": "Marco Sportiello",
+            "id": 2476,
+            "name": "Pietro Terracciano",
             "position": "Goalkeeper",
-            "dateOfBirth": "1992-05-10",
+            "dateOfBirth": "1990-03-08",
             "nationality": "Italy"
         },
         {
@@ -56,20 +63,6 @@
             "name": "Mike Maignan",
             "position": "Goalkeeper",
             "dateOfBirth": "1995-07-03",
-            "nationality": "France"
-        },
-        {
-            "id": 176943,
-            "name": "Lapo Nava",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2004-01-22",
-            "nationality": "Italy"
-        },
-        {
-            "id": 185551,
-            "name": "Noah Raveyre",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2005-06-22",
             "nationality": "France"
         },
         {
@@ -87,11 +80,39 @@
             "nationality": "Italy"
         },
         {
+            "id": 265490,
+            "name": "Matteo Pittarella",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2008-05-26",
+            "nationality": "Italy"
+        },
+        {
             "id": 188876,
             "name": "Andrei Coubis",
             "position": "Defence",
             "dateOfBirth": "2003-09-29",
             "nationality": "Romania"
+        },
+        {
+            "id": 256424,
+            "name": "Zachary Athekame",
+            "position": "Defence",
+            "dateOfBirth": "2004-12-13",
+            "nationality": "Switzerland"
+        },
+        {
+            "id": 278015,
+            "name": "Valeri Vladimirov",
+            "position": "Defence",
+            "dateOfBirth": "2008-06-04",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 144909,
+            "name": "Ardon Jasari",
+            "position": "Midfield",
+            "dateOfBirth": "2002-07-30",
+            "nationality": "Switzerland"
         },
         {
             "id": 171029,
@@ -113,6 +134,13 @@
             "position": "Right Winger",
             "dateOfBirth": "1999-05-22",
             "nationality": "Nigeria"
+        },
+        {
+            "id": 32642,
+            "name": "Pervis Estupiñán",
+            "position": "Left-Back",
+            "dateOfBirth": "1998-01-21",
+            "nationality": "Ecuador"
         },
         {
             "id": 16058,
@@ -178,13 +206,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 1131,
-            "name": "Emerson Royal",
-            "position": "Right-Back",
-            "dateOfBirth": "1999-01-14",
-            "nationality": "Brazil"
-        },
-        {
             "id": 145,
             "name": "Christian Pulisic",
             "position": "Right Winger",
@@ -192,18 +213,11 @@
             "nationality": "USA"
         },
         {
-            "id": 71,
-            "name": "Theo Hernández",
-            "position": "Left-Back",
-            "dateOfBirth": "1997-10-06",
-            "nationality": "France"
-        },
-        {
-            "id": 242550,
-            "name": "Francesco Camarda",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2008-03-10",
-            "nationality": "Italy"
+            "id": 43,
+            "name": "Luka Modrić",
+            "position": "Central Midfield",
+            "dateOfBirth": "1985-09-09",
+            "nationality": "Croatia"
         },
         {
             "id": 227048,
@@ -220,11 +234,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 156527,
-            "name": "Warren Bondo",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-09-15",
-            "nationality": "France"
+            "id": 153556,
+            "name": "Koni De Winter",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-06-12",
+            "nationality": "Belgium"
         },
         {
             "id": 150669,
@@ -234,25 +248,11 @@
             "nationality": "USA"
         },
         {
-            "id": 144950,
-            "name": "Filippo Terracciano",
-            "position": "Right-Back",
-            "dateOfBirth": "2003-02-08",
+            "id": 115245,
+            "name": "Samuele Ricci",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-08-21",
             "nationality": "Italy"
-        },
-        {
-            "id": 144566,
-            "name": "Lorenzo Colombo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-03-08",
-            "nationality": "Italy"
-        },
-        {
-            "id": 142732,
-            "name": "Malick Thiaw",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-08-08",
-            "nationality": "Germany"
         },
         {
             "id": 112969,
@@ -260,6 +260,13 @@
             "position": "Centre-Back",
             "dateOfBirth": "2001-05-24",
             "nationality": "Serbia"
+        },
+        {
+            "id": 99013,
+            "name": "Tommaso Pobega",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-07-15",
+            "nationality": "Italy"
         },
         {
             "id": 81299,

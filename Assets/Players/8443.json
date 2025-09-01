@@ -11,40 +11,33 @@
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2163,
+            "name": "Netherlands",
+            "code": "NLD",
+            "flag": "https://crests.football-data.org/8601.svg"
         },
-        "id": 18,
-        "name": "Borussia Mönchengladbach",
-        "shortName": "M'gladbach",
-        "tla": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
-        "website": "http://www.borussia.de",
-        "founded": 1900,
-        "clubColors": "Black / White / Green",
-        "venue": "Stadion im Borussia-Park",
+        "id": 674,
+        "name": "PSV",
+        "shortName": "PSV",
+        "tla": "PSV",
+        "crest": "https://crests.football-data.org/674.png",
+        "address": "Fredriklaan 10a Eindhoven 5616 NH",
+        "website": "http://www.psv.nl",
+        "founded": 1913,
+        "clubColors": "Red / White",
+        "venue": "Philips Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2003,
+                "name": "Eredivisie",
+                "code": "DED",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/ED.png"
             }
         ],
         "contract": {
-            "start": "2018-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

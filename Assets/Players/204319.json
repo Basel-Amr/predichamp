@@ -11,33 +11,33 @@
     "lastUpdated": "2024-09-02T09:59:12Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2043,
+            "name": "Central African Republic",
+            "code": "CTA",
+            "flag": null
         },
-        "id": 1045,
-        "name": "Paris FC",
-        "shortName": "Paris FC",
-        "tla": "PFC",
-        "crest": "https://crests.football-data.org/1045.png",
-        "address": "17 rue Neuve Tolbiac Paris 75013",
-        "website": "http://www.parisfootballclub.com",
-        "founded": 1969,
-        "clubColors": "Navy Blue / Sky Blue",
-        "venue": "Stade Sébastien Charléty",
+        "id": 1968,
+        "name": "Central African Republic",
+        "shortName": "CAR",
+        "tla": "CAR",
+        "crest": "https://crests.football-data.org/car.svg",
+        "address": "Avenue des Martyrs / BP 344 Bangui null",
+        "website": null,
+        "founded": 1961,
+        "clubColors": "Blue / White",
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "id": 2006,
+                "name": "WC Qualification CAF",
+                "code": "QCAF",
+                "type": "CUP",
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": null,
+            "until": null
         }
     }
 }

@@ -7,44 +7,51 @@
     "nationality": "Brazil",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 18,
     "lastUpdated": "2024-09-02T09:59:11Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2032,
+            "name": "Brazil",
+            "code": "BRA",
+            "flag": "https://crests.football-data.org/764.svg"
         },
-        "id": 86,
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "tla": "RMA",
-        "crest": "https://crests.football-data.org/86.png",
-        "address": "Avenida Concha Espina, 1 Madrid 28036",
-        "website": "http://www.realmadrid.com",
-        "founded": 1902,
-        "clubColors": "White / Purple",
-        "venue": "Estadio Santiago Bernabéu",
+        "id": 1766,
+        "name": "CA Mineiro",
+        "shortName": "Mineiro",
+        "tla": "CAM",
+        "crest": "https://crests.football-data.org/1766.png",
+        "address": "Av. Olegário Maciel 1516, Lourdes Belo Horizonte, MG 30180-111",
+        "website": "http://www.atletico.com.br",
+        "founded": 1908,
+        "clubColors": "Black / White",
+        "venue": "Estádio Raimundo Sampaio",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/bsa.png"
+            },
+            {
+                "id": 2081,
+                "name": "Copa Sudamericana",
+                "code": "CS",
                 "type": "CUP",
                 "emblem": null
             },
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "id": 2037,
+                "name": "Copa do Brasil",
+                "code": "CDB",
+                "type": "CUP",
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2029-12"
         }
     }
 }

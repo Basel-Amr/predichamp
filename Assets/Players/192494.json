@@ -1,0 +1,50 @@
+{
+    "id": 192494,
+    "name": "Tiago Pereira Cardoso",
+    "firstName": "Tiago",
+    "lastName": "Pereira Cardoso",
+    "dateOfBirth": "2006-04-07",
+    "nationality": "Luxembourg",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 42,
+    "lastUpdated": "2024-03-26T09:51:54Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 18,
+        "name": "Borussia Mönchengladbach",
+        "shortName": "M'gladbach",
+        "tla": "BMG",
+        "crest": "https://crests.football-data.org/18.png",
+        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+        "website": "http://www.borussia.de",
+        "founded": 1900,
+        "clubColors": "Black / White / Green",
+        "venue": "Stadion im Borussia-Park",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-03",
+            "until": "2026-06"
+        }
+    }
+}

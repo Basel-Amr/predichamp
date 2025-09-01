@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 15,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:14Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 80,
-        "name": "RCD Espanyol de Barcelona",
-        "shortName": "Espanyol",
-        "tla": "ESP",
-        "crest": "https://crests.football-data.org/80.png",
-        "address": "Avenida Baix Llobregat, 100 Cornellà de Llobregat 08940",
-        "website": "http://www.rcdespanyol.com",
-        "founded": 1900,
+        "id": 560,
+        "name": "RC Deportivo La Coruña",
+        "shortName": "Deportivo",
+        "tla": "DEP",
+        "crest": "https://crests.football-data.org/560.png",
+        "address": "Plaza de Pontevedra, 19 A Coruña 15003",
+        "website": "http://www.rcdeportivo.es",
+        "founded": 1906,
         "clubColors": "Blue / White",
-        "venue": "RCDE Stadium",
+        "venue": "Estadio Abanca-Riazor",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2023-01",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

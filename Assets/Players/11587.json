@@ -1,0 +1,43 @@
+{
+    "id": 11587,
+    "name": "Rafa Soares",
+    "firstName": "",
+    "lastName": "Rafa Soares",
+    "dateOfBirth": "1995-05-09",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 5,
+    "lastUpdated": "2023-08-22T11:52:41Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5531,
+        "name": "FC Famalicão",
+        "shortName": "Famalicão",
+        "tla": "FAM",
+        "crest": "https://crests.football-data.org/5531.png",
+        "address": "null Vila Nova de Famalicão null",
+        "website": "http://www.fcfamalicao.pt",
+        "founded": 1931,
+        "clubColors": "Blue / White",
+        "venue": "Estádio Municipal 22 de Junho",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2026-06"
+        }
+    }
+}

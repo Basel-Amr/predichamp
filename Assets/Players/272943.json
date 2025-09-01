@@ -1,0 +1,43 @@
+{
+    "id": 272943,
+    "name": "Aladji Bamba",
+    "firstName": "Aladji",
+    "lastName": "Bamba",
+    "dateOfBirth": "2006-07-14",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 23,
+    "lastUpdated": "2025-04-21T09:41:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2152,
+            "name": "Monaco",
+            "code": "MCO",
+            "flag": null
+        },
+        "id": 548,
+        "name": "AS Monaco FC",
+        "shortName": "Monaco",
+        "tla": "ASM",
+        "crest": "https://crests.football-data.org/548.png",
+        "address": "Avenue des Castellans Monaco 98000",
+        "website": "http://www.asmonaco.com",
+        "founded": 1919,
+        "clubColors": "Red / White",
+        "venue": "Stade Louis II.",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

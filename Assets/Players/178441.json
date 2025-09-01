@@ -1,0 +1,43 @@
+{
+    "id": 178441,
+    "name": "Cristian Castro",
+    "firstName": "Cristian",
+    "lastName": "Devenish",
+    "dateOfBirth": "2001-01-25",
+    "nationality": "Colombia",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": 42,
+    "lastUpdated": "2024-07-21T09:42:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 10340,
+        "name": "AVS",
+        "shortName": "AVS",
+        "tla": "AVS",
+        "crest": "https://crests.football-data.org/10340.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio do CD Aves",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

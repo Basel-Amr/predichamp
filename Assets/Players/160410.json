@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": 3,
+    "shirtNumber": 26,
     "lastUpdated": "2024-08-12T11:57:17Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 516,
-        "name": "Olympique de Marseille",
-        "shortName": "Marseille",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/516.png",
-        "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
-        "website": "http://www.om.net",
-        "founded": 1898,
-        "clubColors": "White / Blue",
-        "venue": "Orange Vélodrome",
+        "id": 529,
+        "name": "Stade Rennais FC 1901",
+        "shortName": "Stade Rennais",
+        "tla": "REN",
+        "crest": "https://crests.football-data.org/529.png",
+        "address": "La Piverdière - Chemin de la Taupinais CS 5390 Rennes 35039",
+        "website": "http://www.staderennais.com",
+        "founded": 1901,
+        "clubColors": "Red / Black",
+        "venue": "Roazhon Park",
         "runningCompetitions": [
             {
                 "id": 2015,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2024-01",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2029-06"
         }
     }
 }

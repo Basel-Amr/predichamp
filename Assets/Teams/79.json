@@ -59,6 +59,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 273423,
+            "name": "Víctor Muñoz",
+            "position": "Offence",
+            "dateOfBirth": "2003-07-13",
+            "nationality": "Spain"
+        },
+        {
             "id": 274205,
             "name": "Carlos Lumbreras",
             "position": "Offence",
@@ -113,13 +120,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "2001-10-07",
             "nationality": "France"
-        },
-        {
-            "id": 136000,
-            "name": "Jesús Areso",
-            "position": "Right-Back",
-            "dateOfBirth": "1999-07-02",
-            "nationality": "Spain"
         },
         {
             "id": 130324,

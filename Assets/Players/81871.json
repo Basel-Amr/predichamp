@@ -7,7 +7,7 @@
     "nationality": "Australia",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 46,
     "lastUpdated": "2024-02-02T09:48:42Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 58,
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "tla": "AVL",
-        "crest": "https://crests.football-data.org/58.png",
-        "address": "Villa Park Birmingham B6 6HE",
-        "website": "http://www.avfc.co.uk",
-        "founded": 1872,
-        "clubColors": "Claret / Sky Blue",
-        "venue": "Villa Park",
+        "id": 393,
+        "name": "Port Vale FC",
+        "shortName": "Port Vale",
+        "tla": "PVL",
+        "crest": "https://crests.football-data.org/393.png",
+        "address": "Hamil Road, Burslem Stoke-on-Trent ST6 1AW",
+        "website": "http://www.port-vale.co.uk",
+        "founded": 1876,
+        "clubColors": "White / Black",
+        "venue": "Vale Park",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

@@ -7,37 +7,44 @@
     "nationality": "Croatia",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 4,
     "lastUpdated": "2024-10-18T09:41:12Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 11,
-        "name": "VfL Wolfsburg",
-        "shortName": "Wolfsburg",
-        "tla": "WOB",
-        "crest": "https://crests.football-data.org/11.png",
-        "address": "In den Allerwiesen 1 Wolfsburg 38446",
-        "website": "http://www.vfl-wolfsburg.de",
-        "founded": 1945,
-        "clubColors": "Green / White",
-        "venue": "Volkswagen Arena",
+        "id": 454,
+        "name": "Venezia FC",
+        "shortName": "Venezia FC",
+        "tla": "VEN",
+        "crest": "https://crests.football-data.org/454.png",
+        "address": "Viale Ancona, 43 Venezia 30172",
+        "website": "http://www.veneziafc.club",
+        "founded": 1907,
+        "clubColors": "Orange / Black / Green",
+        "venue": "Stadio Pierluigi Penzo",
         "runningCompetitions": [
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

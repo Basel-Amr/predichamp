@@ -7,37 +7,37 @@
     "nationality": "Spain",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 18,
+    "shirtNumber": null,
     "lastUpdated": "2023-07-30T17:03:21Z",
     "currentTeam": {
         "area": {
-            "id": 2149,
-            "name": "Mexico",
-            "code": "MEX",
-            "flag": "https://crests.football-data.org/mexico.svg"
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 5790,
-        "name": "Deportivo Toluca FC",
-        "shortName": "Toluca",
-        "tla": "TOL",
-        "crest": "https://crests.football-data.org/5790.png",
-        "address": "Felipe Villanueva 300, San Bernardino Toluca 50080",
-        "website": "http://www.tolucafc.com",
-        "founded": 1917,
-        "clubColors": "Red / White",
-        "venue": "Estadio Nemesio Díez",
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png",
+        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
+        "website": "http://www.realbetisbalompie.es",
+        "founded": 1907,
+        "clubColors": "Green / White",
+        "venue": "Estadio Benito Villamarín",
         "runningCompetitions": [
             {
-                "id": 2113,
-                "name": "Liga MX",
-                "code": "LMX",
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
                 "type": "LEAGUE",
-                "emblem": null
+                "emblem": "https://crests.football-data.org/laliga.png"
             }
         ],
         "contract": {
-            "start": "2025-02",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 99,
     "lastUpdated": "2023-06-02T09:55:15Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 7639,
+        "name": "Associazione Virtus Verona",
+        "shortName": "Virtus Verona",
+        "tla": "VIR",
+        "crest": "https://crests.football-data.org/7639.png",
+        "address": "Via Montorio 112 Verona 37135",
+        "website": "http://www.usvirtusbv.it/",
+        "founded": 1921,
+        "clubColors": "Blue / Red",
+        "venue": "Stadio Comunale Gavagnin-Nocini",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2024-07",
             "until": "2026-06"
         }
     }

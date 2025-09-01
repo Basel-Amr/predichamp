@@ -1,0 +1,43 @@
+{
+    "id": 283443,
+    "name": "Alexis Vossah",
+    "firstName": "Alexis",
+    "lastName": "Vossah",
+    "dateOfBirth": "2008-03-11",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 45,
+    "lastUpdated": "2025-08-18T09:42:25Z",
+    "currentTeam": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
+        },
+        "id": 511,
+        "name": "Toulouse FC",
+        "shortName": "Toulouse",
+        "tla": "TOU",
+        "crest": "https://crests.football-data.org/511.png",
+        "address": "1 allée Gabriel Biénèsm, BP 54023 Toulouse 31028",
+        "website": "http://www.tfc.info",
+        "founded": 1937,
+        "clubColors": "Violet / White",
+        "venue": "Stadium Municipal",
+        "runningCompetitions": [
+            {
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/FL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2026-06"
+        }
+    }
+}

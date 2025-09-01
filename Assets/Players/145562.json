@@ -7,7 +7,7 @@
     "nationality": "Kosovo",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 11,
     "lastUpdated": "2025-03-15T09:41:30Z",
     "currentTeam": {
         "area": {
@@ -44,7 +44,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

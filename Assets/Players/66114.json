@@ -1,0 +1,50 @@
+{
+    "id": 66114,
+    "name": "Daniel-Kofi Kyereh",
+    "firstName": "Daniel",
+    "lastName": "Kyereh",
+    "dateOfBirth": "1996-03-08",
+    "nationality": "Ghana",
+    "section": "Attacking Midfield",
+    "position": "Midfield",
+    "shirtNumber": 11,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 17,
+        "name": "SC Freiburg",
+        "shortName": "Freiburg",
+        "tla": "SCF",
+        "crest": "https://crests.football-data.org/17.png",
+        "address": "Schwarzwaldstraße 193 Freiburg 79117",
+        "website": "http://www.scfreiburg.com",
+        "founded": 1912,
+        "clubColors": "Red / White",
+        "venue": "Schwarzwald-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2022-07",
+            "until": "2026-06"
+        }
+    }
+}

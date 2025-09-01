@@ -1,0 +1,43 @@
+{
+    "id": 191053,
+    "name": "Alberto Reina",
+    "firstName": "",
+    "lastName": "Reina",
+    "dateOfBirth": "1997-09-09",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 10,
+    "lastUpdated": "2025-02-12T09:45:07Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 595,
+        "name": "CD Mirandés",
+        "shortName": "CD Mirandés",
+        "tla": "MIR",
+        "crest": "https://crests.football-data.org/595.png",
+        "address": "Calle de la Estación, 32 Miranda de Ebro 09200",
+        "website": "http://www.cdmirandes.com",
+        "founded": 1927,
+        "clubColors": "Red / Black",
+        "venue": "Estadio Municipal de Anduva",
+        "runningCompetitions": [
+            {
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SD.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2025-06"
+        }
+    }
+}

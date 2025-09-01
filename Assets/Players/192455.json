@@ -1,0 +1,43 @@
+{
+    "id": 192455,
+    "name": "Leon Opitz",
+    "firstName": "Leon",
+    "lastName": "Opitz",
+    "dateOfBirth": "2005-04-11",
+    "nationality": "Germany",
+    "section": "Left Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-12T11:57:09Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 6309,
+        "name": "SV Werder Bremen II",
+        "shortName": "Werder II",
+        "tla": "WER",
+        "crest": "https://crests.football-data.org/6309.png",
+        "address": "Franz-Böhmert-Str. 1c Bremen 28205",
+        "website": "http://www.werder.de",
+        "founded": 1899,
+        "clubColors": "Green / White",
+        "venue": "Weserstadion Platz 11",
+        "runningCompetitions": [
+            {
+                "id": 2172,
+                "name": "Regionalliga Nord",
+                "code": "RLN",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

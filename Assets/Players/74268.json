@@ -7,37 +7,37 @@
     "nationality": "Croatia",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 5,
+    "shirtNumber": 6,
     "lastUpdated": "2024-08-23T10:11:37Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2065,
+            "name": "Denmark",
+            "code": "DNK",
+            "flag": "https://crests.football-data.org/782.svg"
         },
-        "id": 103,
-        "name": "Bologna FC 1909",
-        "shortName": "Bologna",
-        "tla": "BOL",
-        "crest": "https://crests.football-data.org/103.png",
-        "address": "Via Casteldebole 10 Bologna 40132",
-        "website": "http://www.bolognafc.it",
-        "founded": 1909,
-        "clubColors": "Red / Blue / White",
-        "venue": "Stadio Renato Dall'Ara",
+        "id": 4485,
+        "name": "FC Midtjylland",
+        "shortName": "Midtjylland",
+        "tla": "MID",
+        "crest": "https://crests.football-data.org/4485.png",
+        "address": "Kaj Zartows Vej 5, Postboks 287 Herning 7400",
+        "website": "http://www.fcm.dk",
+        "founded": 1999,
+        "clubColors": "Black / Red",
+        "venue": "MCH Arena",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2050,
+                "name": "Superliga",
+                "code": "DSU",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2029-06"
+            "start": "2025-08",
+            "until": "2030-06"
         }
     }
 }

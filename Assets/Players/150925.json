@@ -11,33 +11,33 @@
     "lastUpdated": "2025-05-20T09:42:31Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
         },
-        "id": 521,
-        "name": "Lille OSC",
-        "shortName": "Lille",
-        "tla": "LIL",
-        "crest": "https://crests.football-data.org/521.png",
-        "address": "Grand Rue 59, 780 Camphin-en-Pévèle Lille null",
-        "website": "http://www.losc.fr",
-        "founded": 1944,
-        "clubColors": "White / Red",
-        "venue": "Stade Pierre-Mauroy",
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png",
+        "address": "Estádio Pina Manique Lisboa 1500-462",
+        "website": "http://www.casapia-ac.pt",
+        "founded": 1920,
+        "clubColors": "Black / White",
+        "venue": "Estádio Pina Manique",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/PPL.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

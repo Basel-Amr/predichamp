@@ -1,0 +1,43 @@
+{
+    "id": 182020,
+    "name": "Alvaro Fernandez",
+    "firstName": "",
+    "lastName": "Álvaro Carreras",
+    "dateOfBirth": "2003-03-23",
+    "nationality": "Spain",
+    "section": "Left-Back",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-05-20T09:41:13Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 86,
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crest": "https://crests.football-data.org/86.png",
+        "address": "Avenida Concha Espina, 1 Madrid 28036",
+        "website": "http://www.realmadrid.com",
+        "founded": 1902,
+        "clubColors": "White / Purple",
+        "venue": "Estadio Santiago Bernabéu",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2031-06"
+        }
+    }
+}

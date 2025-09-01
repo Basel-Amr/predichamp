@@ -11,33 +11,33 @@
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2093,
+            "name": "Greece",
+            "code": "GRC",
+            "flag": "https://crests.football-data.org/775.svg"
         },
-        "id": 104,
-        "name": "Cagliari Calcio",
-        "shortName": "Cagliari",
-        "tla": "CAG",
-        "crest": "https://crests.football-data.org/104.png",
-        "address": "Viale la Plaia 15 Cagliari 09123",
-        "website": "http://www.cagliaricalcio.net",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue / White",
-        "venue": "Sardegna Arena",
+        "id": 1899,
+        "name": "PAE AEK",
+        "shortName": "PAE AEK",
+        "tla": "AEK",
+        "crest": "https://crests.football-data.org/1899.png",
+        "address": "37 Kifisias Av. Athína 15123",
+        "website": "http://www.aekfc.gr",
+        "founded": 1924,
+        "clubColors": "Yellow / Black",
+        "venue": "Olympiako Stadio Spyros Louis",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2132,
+                "name": "Super League",
+                "code": "GSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

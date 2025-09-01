@@ -7,7 +7,7 @@
     "nationality": "Sierra Leone",
     "section": "Midfield",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 28,
     "lastUpdated": "2025-01-29T09:41:52Z",
     "currentTeam": {
         "area": {
@@ -27,6 +27,13 @@
         "clubColors": "Red / Black",
         "venue": "Stade de Nice",
         "runningCompetitions": [
+            {
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
+                "type": "CUP",
+                "emblem": null
+            },
             {
                 "id": 2015,
                 "name": "Ligue 1",

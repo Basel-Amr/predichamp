@@ -7,37 +7,29 @@
     "nationality": "Senegal",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2021-08-07T08:36:27Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
         },
-        "id": 545,
-        "name": "FC Metz",
-        "shortName": "FC Metz",
-        "tla": "FCM",
-        "crest": "https://crests.football-data.org/545.png",
-        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
-        "website": "http://www.fcmetz.com",
-        "founded": 1919,
-        "clubColors": "Red / Blue",
-        "venue": "Stade Saint-Symphorien",
-        "runningCompetitions": [
-            {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
-            }
-        ],
+        "id": 3613,
+        "name": "FC Seraing",
+        "shortName": "FC Seraing",
+        "tla": "SER",
+        "crest": "https://crests.football-data.org/3613.png",
+        "address": "Rue de la Boverie, 255 Seraing 4100",
+        "website": "http://www.rfc-seraing.be",
+        "founded": 1922,
+        "clubColors": "Red / Black",
+        "venue": "Stade du Pairay",
+        "runningCompetitions": [],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-08",
+            "until": "2025-06"
         }
     }
 }

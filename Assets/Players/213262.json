@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 10,
     "lastUpdated": "2023-07-30T23:05:42Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 82,
-        "name": "Getafe CF",
-        "shortName": "Getafe",
-        "tla": "GET",
-        "crest": "https://crests.football-data.org/82.png",
-        "address": "Avenida Teresa de Calcuta, s/n Getafe 28903",
-        "website": "http://www.getafecf.com",
-        "founded": 1946,
+        "id": 263,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/263.png",
+        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
+        "website": "http://www.alaves.com",
+        "founded": 1921,
         "clubColors": "Blue / White",
-        "venue": "Coliseum Alfonso Pérez",
+        "venue": "Estadio de Mendizorroza",
         "runningCompetitions": [
             {
                 "id": 2014,
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

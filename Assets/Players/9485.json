@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 27,
+    "shirtNumber": 35,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,34 +16,27 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 17,
-        "name": "SC Freiburg",
-        "shortName": "Freiburg",
-        "tla": "SCF",
-        "crest": "https://crests.football-data.org/17.png",
+        "id": 5993,
+        "name": "SC Freiburg II",
+        "shortName": "SC Freiburg II",
+        "tla": "FRE",
+        "crest": "https://crests.football-data.org/5993.png",
         "address": "Schwarzwaldstraße 193 Freiburg 79117",
         "website": "http://www.scfreiburg.com",
         "founded": 1912,
         "clubColors": "Red / White",
-        "venue": "Schwarzwald-Stadion",
+        "venue": "Möslestadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2160,
+                "name": "Regionalliga Südwest",
+                "code": "RSW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2013-07",
+            "start": "2024-07",
             "until": "2026-06"
         }
     }

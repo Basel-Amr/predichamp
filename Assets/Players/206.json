@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 27,
+    "shirtNumber": 10,
     "lastUpdated": "2024-10-11T09:41:02Z",
     "currentTeam": {
         "area": {
@@ -50,7 +50,7 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

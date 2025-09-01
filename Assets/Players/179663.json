@@ -1,0 +1,43 @@
+{
+    "id": 179663,
+    "name": "Lucas Bergström",
+    "firstName": "Lucas",
+    "lastName": "Bergström",
+    "dateOfBirth": "2002-09-05",
+    "nationality": "Finland",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 31,
+    "lastUpdated": "2023-07-14T09:28:58Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 89,
+        "name": "RCD Mallorca",
+        "shortName": "Mallorca",
+        "tla": "MAL",
+        "crest": "https://crests.football-data.org/89.png",
+        "address": "Son Moix, Calle Camí dels Reis, s/n Palma de Mallorca 07011",
+        "website": "http://www.rcdmallorca.es",
+        "founded": 1916,
+        "clubColors": "Red / Black",
+        "venue": "Iberostar Estadi",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

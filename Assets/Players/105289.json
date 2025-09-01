@@ -7,7 +7,7 @@
     "nationality": "Poland",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 6,
+    "shirtNumber": 8,
     "lastUpdated": "2024-09-02T09:59:02Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 7,
-        "name": "Hamburger SV",
-        "shortName": "HSV",
-        "tla": "HSV",
-        "crest": "https://crests.football-data.org/7.png",
-        "address": "Sylvesterallee 7 Hamburg 22525",
-        "website": "http://www.hsv.de",
-        "founded": 1887,
-        "clubColors": "White / Red / Blue",
-        "venue": "Volksparkstadion",
+        "id": 719,
+        "name": "SV 07 Elversberg",
+        "shortName": "Elversberg",
+        "tla": "ELV",
+        "crest": "https://crests.football-data.org/719.png",
+        "address": "St. Ingberter Straße 8 Spiesen-Elversberg 66583",
+        "website": "http://www.sv07elversberg.de",
+        "founded": 1907,
+        "clubColors": "Black / White",
+        "venue": "Ursapharm-Arena an der Kaiserlinde",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,16 +35,16 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2023-08",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

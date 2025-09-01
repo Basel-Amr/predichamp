@@ -7,7 +7,7 @@
     "nationality": "Portugal",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 31,
+    "shirtNumber": 13,
     "lastUpdated": "2024-07-16T18:21:23Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 90,
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "tla": "BET",
-        "crest": "https://crests.football-data.org/90.png",
-        "address": "Avenida de Heliópolis, s/n Sevilla 41012",
-        "website": "http://www.realbetisbalompie.es",
-        "founded": 1907,
-        "clubColors": "Green / White",
-        "venue": "Estadio Benito Villamarín",
+        "id": 250,
+        "name": "Real Valladolid CF",
+        "shortName": "Valladolid",
+        "tla": "VDD",
+        "crest": "https://crests.football-data.org/250.png",
+        "address": "Avenida del Mundial, 82 Valladolid 47014",
+        "website": "http://www.realvalladolid.es",
+        "founded": 1928,
+        "clubColors": "Violet / White",
+        "venue": "Estadio Municipal José Zorrilla",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2023-08",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

@@ -1,0 +1,43 @@
+{
+    "id": 2470,
+    "name": "Nenê",
+    "firstName": "",
+    "lastName": "Nenê",
+    "dateOfBirth": "1983-07-28",
+    "nationality": "Brazil",
+    "section": "Offence",
+    "position": "Offence",
+    "shirtNumber": 18,
+    "lastUpdated": "2023-11-22T09:47:10Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 10340,
+        "name": "AVS",
+        "shortName": "AVS",
+        "tla": "AVS",
+        "crest": "https://crests.football-data.org/10340.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio do CD Aves",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2021-09",
+            "until": "2026-06"
+        }
+    }
+}

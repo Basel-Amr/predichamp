@@ -11,32 +11,39 @@
     "lastUpdated": "2024-09-30T09:48:29Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 533,
-        "name": "Le Havre AC",
-        "shortName": "Le Havre",
-        "tla": "HAC",
-        "crest": "https://crests.football-data.org/533.png",
-        "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
-        "website": "http://www.hac-foot.com",
-        "founded": 1872,
-        "clubColors": "Sky Blue / Navy Blue",
-        "venue": "Stade Océane",
+        "id": 1054,
+        "name": "1. FC Magdeburg",
+        "shortName": "Magdeburg",
+        "tla": "FCM",
+        "crest": "https://crests.football-data.org/1054.png",
+        "address": "Friedrich-Ebert-Str. 62 Magdeburg 39114",
+        "website": "http://www.1fcm.de",
+        "founded": 1945,
+        "clubColors": "Blue / White",
+        "venue": "MDCC-Arena",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

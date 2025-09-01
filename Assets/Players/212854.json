@@ -7,7 +7,7 @@
     "nationality": "Belgium",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 37,
+    "shirtNumber": 26,
     "lastUpdated": "2023-07-30T22:48:52Z",
     "currentTeam": {
         "area": {
@@ -16,30 +16,23 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 18,
-        "name": "Borussia Mönchengladbach",
-        "shortName": "M'gladbach",
+        "id": 5969,
+        "name": "Borussia Mönchengladbach II",
+        "shortName": "Gladbach II",
         "tla": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
+        "crest": "https://crests.football-data.org/5969.png",
         "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
         "website": "http://www.borussia.de",
         "founded": 1900,
         "clubColors": "Black / White / Green",
-        "venue": "Stadion im Borussia-Park",
+        "venue": "Grenzlandstadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2168,
+                "name": "Regionalliga West",
+                "code": "RLW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {

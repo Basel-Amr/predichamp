@@ -17,13 +17,6 @@
     "venue": "Estadio Wanda Metropolitano",
     "runningCompetitions": [
         {
-            "id": 2178,
-            "name": "FIFA Club World Cup",
-            "code": "FCWC",
-            "type": "CUP",
-            "emblem": null
-        },
-        {
             "id": 2014,
             "name": "Primera Division",
             "code": "PD",
@@ -59,17 +52,17 @@
             "nationality": "Argentina"
         },
         {
-            "id": 122005,
-            "name": "Horaţiu Moldovan",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1998-01-20",
-            "nationality": "Romania"
-        },
-        {
             "id": 279062,
             "name": "Salvi Esquivel",
             "position": "Goalkeeper",
             "dateOfBirth": "2005-09-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 176745,
+            "name": "Marc Pubill",
+            "position": "Defence",
+            "dateOfBirth": "2003-06-20",
             "nationality": "Spain"
         },
         {
@@ -115,6 +108,13 @@
             "nationality": "Ghana"
         },
         {
+            "id": 114117,
+            "name": "Giacomo Raspadori",
+            "position": "Offence",
+            "dateOfBirth": "2000-02-18",
+            "nationality": "Italy"
+        },
+        {
             "id": 213278,
             "name": "Álex Baena",
             "position": "Offence",
@@ -127,6 +127,27 @@
             "position": "Offence",
             "dateOfBirth": "2006-08-23",
             "nationality": "Spain"
+        },
+        {
+            "id": 282355,
+            "name": "Macarena Portales",
+            "position": "Offence",
+            "dateOfBirth": "1998-08-02",
+            "nationality": "Spain"
+        },
+        {
+            "id": 151241,
+            "name": "Matteo Ruggeri",
+            "position": "Left Midfield",
+            "dateOfBirth": "2002-07-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 123265,
+            "name": "Johnny",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-09-20",
+            "nationality": "USA"
         },
         {
             "id": 119265,
@@ -150,6 +171,13 @@
             "nationality": "Argentina"
         },
         {
+            "id": 79953,
+            "name": "Thiago Almada",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-04-26",
+            "nationality": "Argentina"
+        },
+        {
             "id": 46452,
             "name": "Nahuel Molina",
             "position": "Right-Back",
@@ -157,39 +185,18 @@
             "nationality": "Argentina"
         },
         {
+            "id": 15542,
+            "name": "Dávid Hancko",
+            "position": "Centre-Back",
+            "dateOfBirth": "1997-12-13",
+            "nationality": "Slovakia"
+        },
+        {
             "id": 8167,
             "name": "Alexander Sørloth",
             "position": "Centre-Forward",
             "dateOfBirth": "1995-12-05",
             "nationality": "Norway"
-        },
-        {
-            "id": 3369,
-            "name": "Thomas Lemar",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1995-11-12",
-            "nationality": "France"
-        },
-        {
-            "id": 2127,
-            "name": "Rodrigo de Paul",
-            "position": "Central Midfield",
-            "dateOfBirth": "1994-05-24",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 125,
-            "name": "Ángel Correa",
-            "position": "Right Winger",
-            "dateOfBirth": "1995-03-09",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 118,
-            "name": "Saúl",
-            "position": "Central Midfield",
-            "dateOfBirth": "1994-11-21",
-            "nationality": "Spain"
         },
         {
             "id": 114,
@@ -241,13 +248,6 @@
             "nationality": "Cyprus"
         },
         {
-            "id": 178710,
-            "name": "Samuel Lino",
-            "position": "Left Winger",
-            "dateOfBirth": "1999-12-23",
-            "nationality": "Brazil"
-        },
-        {
             "id": 175937,
             "name": "Carlos Martin",
             "position": "Left Winger",
@@ -260,20 +260,6 @@
             "position": "Right Winger",
             "dateOfBirth": "2002-12-18",
             "nationality": "Argentina"
-        },
-        {
-            "id": 151241,
-            "name": "Matteo Ruggeri",
-            "position": "Left Midfield",
-            "dateOfBirth": "2002-07-11",
-            "nationality": "Italy"
-        },
-        {
-            "id": 128731,
-            "name": "Rodrigo Riquelme",
-            "position": "Left Winger",
-            "dateOfBirth": "2000-04-02",
-            "nationality": "Spain"
         }
     ],
     "staff": [],

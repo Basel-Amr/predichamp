@@ -7,7 +7,7 @@
     "nationality": "Bulgaria",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 31,
+    "shirtNumber": null,
     "lastUpdated": "2024-03-23T09:43:35Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2023-01",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

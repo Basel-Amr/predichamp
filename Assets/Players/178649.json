@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2023-09-19T09:50:05Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 450,
-        "name": "Hellas Verona FC",
-        "shortName": "Verona",
-        "tla": "HVE",
-        "crest": "https://crests.football-data.org/450.png",
-        "address": "Via Evangelista Torricelli, 37 Verona 37136",
-        "website": "http://www.hellasverona.it",
-        "founded": 1903,
-        "clubColors": "Yellow / Blue",
-        "venue": "Stadio Marc'Antonio Bentegodi",
+        "id": 587,
+        "name": "Novara Calcio",
+        "shortName": "Novara",
+        "tla": "NOV",
+        "crest": "https://crests.football-data.org/587.png",
+        "address": "Viale Kennedy, 8 Novara 28100",
+        "website": "http://www.novaracalcio.com",
+        "founded": 1908,
+        "clubColors": null,
+        "venue": "Stadio Comunale Silvio Piola",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     }
 }

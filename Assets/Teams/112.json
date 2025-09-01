@@ -66,11 +66,11 @@
             "nationality": "Norway"
         },
         {
-            "id": 188704,
-            "name": "Rachid Kouda",
+            "id": 180499,
+            "name": "Oliver Sørensen",
             "position": "Midfield",
-            "dateOfBirth": "2002-07-25",
-            "nationality": "Italy"
+            "dateOfBirth": "2002-03-10",
+            "nationality": "Denmark"
         },
         {
             "id": 191285,
@@ -80,11 +80,39 @@
             "nationality": "Argentina"
         },
         {
-            "id": 264793,
-            "name": "Giacomo Marconi",
-            "position": "Offence",
-            "dateOfBirth": "2005-08-01",
+            "id": 273621,
+            "name": "Elia Plicco",
+            "position": "Midfield",
+            "dateOfBirth": "2007-02-01",
             "nationality": "Italy"
+        },
+        {
+            "id": 184455,
+            "name": "Matija Frigan",
+            "position": "Offence",
+            "dateOfBirth": "2003-02-11",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 263877,
+            "name": "Mateusz Kowalski",
+            "position": "Offence",
+            "dateOfBirth": "2005-07-21",
+            "nationality": "Poland"
+        },
+        {
+            "id": 272007,
+            "name": "Ianis Avramescu",
+            "position": "Offence",
+            "dateOfBirth": "2008-10-27",
+            "nationality": "Romania"
+        },
+        {
+            "id": 157538,
+            "name": "Mateo Pellegrino",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2001-10-22",
+            "nationality": "Argentina"
         },
         {
             "id": 136712,
@@ -143,13 +171,6 @@
             "nationality": "Argentina"
         },
         {
-            "id": 42777,
-            "name": "Anthony Partipilo",
-            "position": "Right Winger",
-            "dateOfBirth": "1994-10-27",
-            "nationality": "Italy"
-        },
-        {
             "id": 42613,
             "name": "Emanuele Valeri",
             "position": "Left-Back",
@@ -157,25 +178,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 36802,
-            "name": "Valentin Mihaila",
-            "position": "Left Winger",
-            "dateOfBirth": "2000-02-02",
-            "nationality": "Romania"
-        },
-        {
             "id": 31881,
             "name": "Pontus Almqvist",
             "position": "Right Winger",
             "dateOfBirth": "1999-07-10",
             "nationality": "Sweden"
-        },
-        {
-            "id": 15781,
-            "name": "Dennis Man",
-            "position": "Right Winger",
-            "dateOfBirth": "1998-08-26",
-            "nationality": "Romania"
         },
         {
             "id": 8540,
@@ -206,6 +213,13 @@
             "nationality": "Poland"
         },
         {
+            "id": 228000,
+            "name": "Peter Amoran",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-05-22",
+            "nationality": "Sweden"
+        },
+        {
             "id": 215586,
             "name": "Mohamed Anas Haj",
             "position": "Right Winger",
@@ -213,11 +227,11 @@
             "nationality": "Tunisia"
         },
         {
-            "id": 192563,
-            "name": "Giovanni Leoni",
+            "id": 204310,
+            "name": "Abdoulaye N'Diaye",
             "position": "Centre-Back",
-            "dateOfBirth": "2006-12-21",
-            "nationality": "Italy"
+            "dateOfBirth": "2002-04-10",
+            "nationality": "Senegal"
         },
         {
             "id": 191650,
@@ -231,13 +245,6 @@
             "name": "Antoine Joujou",
             "position": "Left Winger",
             "dateOfBirth": "2003-03-12",
-            "nationality": "France"
-        },
-        {
-            "id": 188464,
-            "name": "Antoine Hainaut",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-02-18",
             "nationality": "France"
         },
         {
@@ -260,20 +267,6 @@
             "position": "Defensive Midfield",
             "dateOfBirth": "2002-05-10",
             "nationality": "Belgium"
-        },
-        {
-            "id": 157538,
-            "name": "Mateo Pellegrino",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2001-10-22",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 152738,
-            "name": "Ange-Yoan Bonny",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-10-25",
-            "nationality": "France"
         }
     ],
     "staff": [],

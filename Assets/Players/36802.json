@@ -7,37 +7,37 @@
     "nationality": "Romania",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 28,
+    "shirtNumber": null,
     "lastUpdated": "2025-06-01T09:43:50Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 112,
-        "name": "Parma Calcio 1913",
-        "shortName": "Parma",
-        "tla": "PAR",
-        "crest": "https://crests.football-data.org/112.png",
-        "address": "Strada Carlo Pisacane, 4 Parma 43121",
-        "website": "http://www.parmacalcio1913.com",
-        "founded": 1913,
-        "clubColors": "White / Black",
-        "venue": "Stadio Ennio Tardini",
+        "id": 5239,
+        "name": "Çaykur Rizespor",
+        "shortName": "Rizespor",
+        "tla": "RIZ",
+        "crest": "https://crests.football-data.org/5239.png",
+        "address": "Mehmet Cengiz Tesisleri, Taşlıdere Mahallesi, Sahil Yolu, Cumhuriyet Sokak No. 25/01 Rize 53800",
+        "website": "http://www.caykurrizespor.org.tr",
+        "founded": 1953,
+        "clubColors": "Green / Blue / Red",
+        "venue": "Yeni Rize Şehir Stadı",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2022-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2029-06"
         }
     }
 }

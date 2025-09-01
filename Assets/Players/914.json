@@ -7,37 +7,37 @@
     "nationality": "France",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": 10,
+    "shirtNumber": null,
     "lastUpdated": "2024-09-02T09:38:41Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2195,
+            "name": "Russia",
+            "code": "RUS",
+            "flag": "https://crests.football-data.org/808.svg"
         },
-        "id": 519,
-        "name": "AJ Auxerre",
-        "shortName": "Auxerre",
-        "tla": "AJA",
-        "crest": "https://crests.football-data.org/519.png",
-        "address": "Route de Vaux BP 349 Auxerre 89006",
-        "website": "http://www.aja.fr",
-        "founded": 1905,
-        "clubColors": "White / Blue",
-        "venue": "Stade de l'Abbé Deschamps",
+        "id": 5452,
+        "name": "FK Krasnodar",
+        "shortName": "Krasnodar",
+        "tla": "KRA",
+        "crest": "https://crests.football-data.org/5452.png",
+        "address": "114 ul.Zhloby Krasnodar 350901",
+        "website": "http://www.fckrasnodar.ru",
+        "founded": 2008,
+        "clubColors": "Black / Green",
+        "venue": "Stadion Akademii FK Krasnodar",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2137,
+                "name": "RFPL",
+                "code": "RFPL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2021-07",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

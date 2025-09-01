@@ -1,0 +1,50 @@
+{
+    "id": 217893,
+    "name": "Aiman Dardari",
+    "firstName": "Aiman",
+    "lastName": "Dardari",
+    "dateOfBirth": "2005-03-21",
+    "nationality": "Luxembourg",
+    "section": "Midfield",
+    "position": "Offence",
+    "shirtNumber": 28,
+    "lastUpdated": "2023-09-19T09:54:27Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 16,
+        "name": "FC Augsburg",
+        "shortName": "Augsburg",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/16.png",
+        "address": "Donauwörther Straße 170 Augsburg 86154",
+        "website": "http://www.fcaugsburg.de",
+        "founded": 1907,
+        "clubColors": "Red / Green / White",
+        "venue": "WWK Arena",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2002,
+                "name": "Bundesliga",
+                "code": "BL1",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL1.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-08",
+            "until": "2029-06"
+        }
+    }
+}

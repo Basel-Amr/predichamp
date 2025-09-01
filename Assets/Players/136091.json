@@ -1,0 +1,43 @@
+{
+    "id": 136091,
+    "name": "Kelian Nsona Wa Saka",
+    "firstName": "Kélian",
+    "lastName": "Nsona",
+    "dateOfBirth": "2002-05-11",
+    "nationality": "France",
+    "section": "Midfield",
+    "position": "Offence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-08-04T23:09:32Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png",
+        "address": "Estádio Pina Manique Lisboa 1500-462",
+        "website": "http://www.casapia-ac.pt",
+        "founded": 1920,
+        "clubColors": "Black / White",
+        "venue": "Estádio Pina Manique",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

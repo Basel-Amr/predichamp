@@ -11,33 +11,33 @@
     "lastUpdated": "2024-08-23T10:11:37Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 107,
-        "name": "Genoa CFC",
-        "shortName": "Genoa",
-        "tla": "GEN",
-        "crest": "https://crests.football-data.org/107.png",
-        "address": "Via Ronchi, 67 Genova 16155",
-        "website": "http://www.genoacfc.it",
-        "founded": 1893,
-        "clubColors": "Red / Navy Blue",
-        "venue": "Stadio Comunale Luigi Ferraris",
+        "id": 5249,
+        "name": "Aytemiz Alanyaspor",
+        "shortName": "Alanyaspor",
+        "tla": "ALA",
+        "crest": "https://crests.football-data.org/5249.png",
+        "address": "Stad Caddesi, Cengiz Aydoğan Alanya Spor Tesisleri, Zimbitlik Alanya 07400",
+        "website": "http://www.alanyaspor.org.tr",
+        "founded": 1948,
+        "clubColors": "Orange / Green",
+        "venue": "Bahçeşehir Okulları Stadyumu",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2028-06"
         }
     }
 }

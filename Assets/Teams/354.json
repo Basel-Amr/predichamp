@@ -66,11 +66,11 @@
             "nationality": "Argentina"
         },
         {
-            "id": 187229,
-            "name": "Joe Whitworth",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2004-02-29",
-            "nationality": "England"
+            "id": 278973,
+            "name": "Rio Cardines",
+            "position": "Defence",
+            "dateOfBirth": "2006-01-07",
+            "nationality": "Trinidad & Tobago"
         },
         {
             "id": 180389,
@@ -80,11 +80,95 @@
             "nationality": "England"
         },
         {
-            "id": 204522,
-            "name": "David Ozoh",
+            "id": 282169,
+            "name": "Hindolo Mustapha",
             "position": "Midfield",
-            "dateOfBirth": "2005-06-01",
+            "dateOfBirth": "2006-07-29",
+            "nationality": "Sierra Leone"
+        },
+        {
+            "id": 270859,
+            "name": "Caleb Kporha",
+            "position": "Right-Back",
+            "dateOfBirth": "2006-07-15",
             "nationality": "England"
+        },
+        {
+            "id": 190550,
+            "name": "Romain Esse",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-02-06",
+            "nationality": "England"
+        },
+        {
+            "id": 179712,
+            "name": "Jesurun Rak-Sakyi",
+            "position": "Right Winger",
+            "dateOfBirth": "2002-10-05",
+            "nationality": "England"
+        },
+        {
+            "id": 176241,
+            "name": "Matheus Franca",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2004-04-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 152149,
+            "name": "Justin Devenny",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-10-11",
+            "nationality": "Northern Ireland"
+        },
+        {
+            "id": 150948,
+            "name": "Chadi Riad",
+            "position": "Centre-Back",
+            "dateOfBirth": "2003-06-17",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 137068,
+            "name": "Tyrick Mitchell",
+            "position": "Left-Back",
+            "dateOfBirth": "1999-09-01",
+            "nationality": "England"
+        },
+        {
+            "id": 131752,
+            "name": "Naouirou Ahamada",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-03-29",
+            "nationality": "France"
+        },
+        {
+            "id": 118489,
+            "name": "Marc Guéhi",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-07-13",
+            "nationality": "England"
+        },
+        {
+            "id": 99856,
+            "name": "Chris Richards",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-03-28",
+            "nationality": "USA"
+        },
+        {
+            "id": 82351,
+            "name": "Maxence Lacroix",
+            "position": "Centre-Back",
+            "dateOfBirth": "2000-04-06",
+            "nationality": "France"
+        },
+        {
+            "id": 74677,
+            "name": "Cheick Doucouré",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2000-01-08",
+            "nationality": "Mali"
         },
         {
             "id": 22010,
@@ -101,11 +185,11 @@
             "nationality": "France"
         },
         {
-            "id": 8145,
-            "name": "Jeffrey Schlupp",
+            "id": 10208,
+            "name": "Borna Sosa",
             "position": "Left Midfield",
-            "dateOfBirth": "1992-12-23",
-            "nationality": "Ghana"
+            "dateOfBirth": "1998-01-21",
+            "nationality": "Croatia"
         },
         {
             "id": 8124,
@@ -126,13 +210,6 @@
             "name": "Eddie Nketiah",
             "position": "Centre-Forward",
             "dateOfBirth": "1999-05-30",
-            "nationality": "England"
-        },
-        {
-            "id": 7784,
-            "name": "Rob Holding",
-            "position": "Centre-Back",
-            "dateOfBirth": "1995-09-20",
             "nationality": "England"
         },
         {
@@ -169,97 +246,6 @@
             "position": "Centre-Forward",
             "dateOfBirth": "1997-06-28",
             "nationality": "France"
-        },
-        {
-            "id": 270859,
-            "name": "Caleb Kporha",
-            "position": "Right-Back",
-            "dateOfBirth": "2006-07-15",
-            "nationality": "England"
-        },
-        {
-            "id": 190550,
-            "name": "Romain Esse",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "1999-02-06",
-            "nationality": "England"
-        },
-        {
-            "id": 179712,
-            "name": "Jesurun Rak-Sakyi",
-            "position": "Right Winger",
-            "dateOfBirth": "2002-10-05",
-            "nationality": "England"
-        },
-        {
-            "id": 177250,
-            "name": "Malcolm Ebiowei",
-            "position": "Right Winger",
-            "dateOfBirth": "2003-09-04",
-            "nationality": "England"
-        },
-        {
-            "id": 176647,
-            "name": "Luke Plange",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2002-11-04",
-            "nationality": "England"
-        },
-        {
-            "id": 176241,
-            "name": "Matheus Franca",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2004-04-01",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 152149,
-            "name": "Justin Devenny",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-10-11",
-            "nationality": "Northern Ireland"
-        },
-        {
-            "id": 150948,
-            "name": "Chadi Riad",
-            "position": "Centre-Back",
-            "dateOfBirth": "2003-06-17",
-            "nationality": "Morocco"
-        },
-        {
-            "id": 131752,
-            "name": "Naouirou Ahamada",
-            "position": "Central Midfield",
-            "dateOfBirth": "2002-03-29",
-            "nationality": "France"
-        },
-        {
-            "id": 118489,
-            "name": "Marc Guéhi",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-07-13",
-            "nationality": "England"
-        },
-        {
-            "id": 99856,
-            "name": "Chris Richards",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-03-28",
-            "nationality": "USA"
-        },
-        {
-            "id": 82351,
-            "name": "Maxence Lacroix",
-            "position": "Centre-Back",
-            "dateOfBirth": "2000-04-06",
-            "nationality": "France"
-        },
-        {
-            "id": 74677,
-            "name": "Cheick Doucouré",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2000-01-08",
-            "nationality": "Mali"
         }
     ],
     "staff": [],

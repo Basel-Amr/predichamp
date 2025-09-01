@@ -45,13 +45,6 @@
             "nationality": "England"
         },
         {
-            "id": 9814,
-            "name": "Kjell Scherpen",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2000-01-23",
-            "nationality": "Netherlands"
-        },
-        {
             "id": 126870,
             "name": "Bart Verbruggen",
             "position": "Goalkeeper",
@@ -66,25 +59,18 @@
             "nationality": "England"
         },
         {
-            "id": 171498,
-            "name": "Carl Rushworth",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2001-07-02",
-            "nationality": "England"
-        },
-        {
-            "id": 191362,
-            "name": "James Beadle",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2004-07-16",
-            "nationality": "England"
-        },
-        {
             "id": 230048,
             "name": "Nils Ramming",
             "position": "Goalkeeper",
             "dateOfBirth": "2007-03-28",
             "nationality": "Sweden"
+        },
+        {
+            "id": 142075,
+            "name": "Maxim De Cuyper",
+            "position": "Defence",
+            "dateOfBirth": "2000-12-22",
+            "nationality": "Belgium"
         },
         {
             "id": 187397,
@@ -101,39 +87,11 @@
             "nationality": "England"
         },
         {
-            "id": 279757,
-            "name": "Do-young Yun",
-            "position": "Midfield",
-            "dateOfBirth": "2006-10-28",
-            "nationality": "South Korea"
-        },
-        {
             "id": 264300,
             "name": "Charalampos Kostoulas",
             "position": "Offence",
             "dateOfBirth": "2007-05-30",
             "nationality": "Greece"
-        },
-        {
-            "id": 161365,
-            "name": "Solly March",
-            "position": "Right Winger",
-            "dateOfBirth": "1994-07-20",
-            "nationality": "England"
-        },
-        {
-            "id": 151264,
-            "name": "Abdallah Sima",
-            "position": "Right Winger",
-            "dateOfBirth": "2001-06-17",
-            "nationality": "Senegal"
-        },
-        {
-            "id": 145613,
-            "name": "Yasin Ayari",
-            "position": "Central Midfield",
-            "dateOfBirth": "2003-10-06",
-            "nationality": "Sweden"
         },
         {
             "id": 133787,
@@ -148,13 +106,6 @@
             "position": "Left Winger",
             "dateOfBirth": "1997-05-20",
             "nationality": "Japan"
-        },
-        {
-            "id": 130809,
-            "name": "Evan Ferguson",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2004-10-19",
-            "nationality": "Ireland"
         },
         {
             "id": 98566,
@@ -176,13 +127,6 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2002-04-20",
             "nationality": "France"
-        },
-        {
-            "id": 32642,
-            "name": "Pervis Estupiñán",
-            "position": "Left-Back",
-            "dateOfBirth": "1998-01-21",
-            "nationality": "Ecuador"
         },
         {
             "id": 10777,
@@ -213,6 +157,13 @@
             "nationality": "England"
         },
         {
+            "id": 7547,
+            "name": "Joël Veltman",
+            "position": "Right-Back",
+            "dateOfBirth": "1992-01-15",
+            "nationality": "Netherlands"
+        },
+        {
             "id": 4228,
             "name": "Adam Webster",
             "position": "Centre-Back",
@@ -241,32 +192,11 @@
             "nationality": "France"
         },
         {
-            "id": 246670,
-            "name": "Malick Yalcouyé",
-            "position": "Central Midfield",
-            "dateOfBirth": "2005-11-18",
-            "nationality": "Mali"
-        },
-        {
             "id": 209504,
             "name": "Stefanos Tzimas",
             "position": "Centre-Forward",
             "dateOfBirth": "2006-01-06",
             "nationality": "Greece"
-        },
-        {
-            "id": 205531,
-            "name": "Ibrahim Osman",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-12-14",
-            "nationality": "Ghana"
-        },
-        {
-            "id": 204503,
-            "name": "Amario Cozier-Duberry",
-            "position": "Right Winger",
-            "dateOfBirth": "2005-05-29",
-            "nationality": "England"
         },
         {
             "id": 191102,
@@ -297,6 +227,13 @@
             "nationality": "Argentina"
         },
         {
+            "id": 178951,
+            "name": "Diego Gómez",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-03-27",
+            "nationality": "Paraguay"
+        },
+        {
             "id": 178604,
             "name": "Carlos Baleba",
             "position": "Defensive Midfield",
@@ -318,13 +255,6 @@
             "nationality": "Ireland"
         },
         {
-            "id": 175855,
-            "name": "Odel Offiah",
-            "position": "Right-Back",
-            "dateOfBirth": "2002-10-26",
-            "nationality": "England"
-        },
-        {
             "id": 172909,
             "name": "Jeremy Sarmiento",
             "position": "Left Winger",
@@ -339,18 +269,25 @@
             "nationality": "Paraguay"
         },
         {
-            "id": 167657,
-            "name": "Eiran Cashin",
-            "position": "Centre-Back",
-            "dateOfBirth": "2001-11-09",
-            "nationality": "Ireland"
+            "id": 161365,
+            "name": "Solly March",
+            "position": "Right Winger",
+            "dateOfBirth": "1994-07-20",
+            "nationality": "England"
         },
         {
-            "id": 166249,
-            "name": "Simon Adingra",
-            "position": "Left Winger",
-            "dateOfBirth": "2002-01-01",
-            "nationality": "Ivory Coast"
+            "id": 151264,
+            "name": "Abdallah Sima",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-06-17",
+            "nationality": "Senegal"
+        },
+        {
+            "id": 145613,
+            "name": "Yasin Ayari",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-10-06",
+            "nationality": "Sweden"
         }
     ],
     "staff": [],

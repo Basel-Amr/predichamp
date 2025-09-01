@@ -11,33 +11,33 @@
     "lastUpdated": "2024-10-11T09:41:22Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2234,
+            "name": "Switzerland",
+            "code": "CHE",
+            "flag": "https://crests.football-data.org/788.svg"
         },
-        "id": 522,
-        "name": "OGC Nice",
-        "shortName": "Nice",
-        "tla": "NIC",
-        "crest": "https://crests.football-data.org/522.png",
-        "address": "35, avenue du Ray Nice 06100",
-        "website": "http://www.ogcnice.com",
-        "founded": 1904,
-        "clubColors": "Red / Black",
-        "venue": "Stade de Nice",
+        "id": 5269,
+        "name": "FC St. Gallen",
+        "shortName": "St. Gallen",
+        "tla": "STG",
+        "crest": "https://crests.football-data.org/5269.png",
+        "address": "Zürcher Str. 464 Sankt Gallen 9015",
+        "website": "http://www.fcsg.ch",
+        "founded": 1879,
+        "clubColors": "Green / White",
+        "venue": "Kybunpark",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2072,
+                "name": "Super League",
+                "code": "SSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": null
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2026-06"
         }
     }
 }

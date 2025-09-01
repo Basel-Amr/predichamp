@@ -45,13 +45,6 @@
     },
     "squad": [
         {
-            "id": 6931,
-            "name": "Janis Blaswich",
-            "position": "Goalkeeper",
-            "dateOfBirth": "1991-05-02",
-            "nationality": "Germany"
-        },
-        {
             "id": 9533,
             "name": "Péter Gulácsi",
             "position": "Goalkeeper",
@@ -94,6 +87,13 @@
             "nationality": "Germany"
         },
         {
+            "id": 227045,
+            "name": "Andrija Maksimović",
+            "position": "Midfield",
+            "dateOfBirth": "2007-06-05",
+            "nationality": "Serbia"
+        },
+        {
             "id": 264272,
             "name": "Viggo Gebel",
             "position": "Midfield",
@@ -101,11 +101,18 @@
             "nationality": "Germany"
         },
         {
-            "id": 273146,
-            "name": "Faik Sakar",
+            "id": 282348,
+            "name": "Joyeux Masanka Bungi",
             "position": "Midfield",
-            "dateOfBirth": "2008-01-14",
-            "nationality": "Germany"
+            "dateOfBirth": "2007-01-24",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 178783,
+            "name": "Romulo Cruz",
+            "position": "Offence",
+            "dateOfBirth": "2002-02-08",
+            "nationality": "Brazil"
         },
         {
             "id": 274168,
@@ -113,6 +120,13 @@
             "position": "Offence",
             "dateOfBirth": "2006-10-28",
             "nationality": "Germany"
+        },
+        {
+            "id": 277484,
+            "name": "Yan Diomandé",
+            "position": "Offence",
+            "dateOfBirth": "2006-11-14",
+            "nationality": "Ivory Coast"
         },
         {
             "id": 73215,
@@ -192,13 +206,6 @@
             "nationality": "Germany"
         },
         {
-            "id": 3466,
-            "name": "Yussuf Poulsen",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-06-16",
-            "nationality": "Denmark"
-        },
-        {
             "id": 3187,
             "name": "Timo Werner",
             "position": "Left Winger",
@@ -220,25 +227,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 246426,
-            "name": "Nuha Jatta",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2006-03-15",
-            "nationality": "Germany"
-        },
-        {
-            "id": 245825,
-            "name": "Yannick Eduardo",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2006-01-23",
-            "nationality": "Netherlands"
-        },
-        {
-            "id": 218429,
-            "name": "Tim Köhler",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-05-02",
-            "nationality": "Germany"
+            "id": 217929,
+            "name": "Kosta Nedeljković",
+            "position": "Right-Back",
+            "dateOfBirth": "2005-12-16",
+            "nationality": "Serbia"
         },
         {
             "id": 214538,
@@ -276,18 +269,18 @@
             "nationality": "France"
         },
         {
+            "id": 154110,
+            "name": "Johan Bakayoko",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-04-20",
+            "nationality": "Belgium"
+        },
+        {
             "id": 148289,
             "name": "Xavi Simons",
             "position": "Attacking Midfield",
             "dateOfBirth": "2003-04-21",
             "nationality": "Netherlands"
-        },
-        {
-            "id": 124244,
-            "name": "Benjamin Šeško",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-05-31",
-            "nationality": "Slovenia"
         },
         {
             "id": 113038,

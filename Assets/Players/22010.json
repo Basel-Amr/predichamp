@@ -7,7 +7,7 @@
     "nationality": "Colombia",
     "section": "Right-Back",
     "position": "Defence",
-    "shirtNumber": 12,
+    "shirtNumber": 2,
     "lastUpdated": "2025-04-01T09:43:09Z",
     "currentTeam": {
         "area": {
@@ -43,7 +43,7 @@
             }
         ],
         "contract": {
-            "start": "2024-01",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

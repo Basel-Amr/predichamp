@@ -1,0 +1,43 @@
+{
+    "id": 126877,
+    "name": "Larra",
+    "firstName": "",
+    "lastName": "Larra",
+    "dateOfBirth": "1997-12-17",
+    "nationality": "Spain",
+    "section": "Right-Back",
+    "position": "Defence",
+    "shirtNumber": 72,
+    "lastUpdated": "2025-05-16T09:42:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 6618,
+        "name": "Casa Pia AC",
+        "shortName": "Casa Pia",
+        "tla": "CAS",
+        "crest": "https://crests.football-data.org/6618.png",
+        "address": "Estádio Pina Manique Lisboa 1500-462",
+        "website": "http://www.casapia-ac.pt",
+        "founded": 1920,
+        "clubColors": "Black / White",
+        "venue": "Estádio Pina Manique",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

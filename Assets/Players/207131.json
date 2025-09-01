@@ -1,0 +1,43 @@
+{
+    "id": 207131,
+    "name": "Marcos Peña",
+    "firstName": "",
+    "lastName": "Marcos Peña",
+    "dateOfBirth": "2005-01-22",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": null,
+    "lastUpdated": "2024-11-08T09:46:16Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 267,
+        "name": "UD Almería",
+        "shortName": "Almería",
+        "tla": "ALM",
+        "crest": "https://crests.football-data.org/267.png",
+        "address": "Calle Alcalde Santiago Martínez Cabrejas, 5 Almería 04007",
+        "website": "http://www.udalmeriasad.com",
+        "founded": 1989,
+        "clubColors": "Red / White",
+        "venue": "Estadio de los Juegos Mediterráneos",
+        "runningCompetitions": [
+            {
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SD.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2027-06"
+        }
+    }
+}

@@ -7,44 +7,44 @@
     "nationality": "Hungary",
     "section": "Attacking Midfield",
     "position": "Midfield",
-    "shirtNumber": 23,
+    "shirtNumber": null,
     "lastUpdated": "2024-11-04T17:17:22Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2106,
+            "name": "Hungary",
+            "code": "HUN",
+            "flag": "https://crests.football-data.org/827.svg"
         },
-        "id": 19,
-        "name": "Eintracht Frankfurt",
-        "shortName": "Frankfurt",
-        "tla": "SGE",
-        "crest": "https://crests.football-data.org/19.png",
-        "address": "Mörfelder Landstraße 362 Frankfurt am Main 60528",
-        "website": "http://www.eintracht.de",
+        "id": 5954,
+        "name": "Ferencvárosi TC",
+        "shortName": "Ferencváros",
+        "tla": "FTC",
+        "crest": "https://crests.football-data.org/5954.png",
+        "address": "Üllöi út 129. Budapest 1091",
+        "website": "http://www.fradi.hu",
         "founded": 1899,
-        "clubColors": "Red / Black",
-        "venue": "Deutsche Bank Park",
+        "clubColors": "Green / White",
+        "venue": "Groupama Arena",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
+                "id": 2174,
+                "name": "Champions League Qualification",
+                "code": "CLQ",
                 "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+                "emblem": null
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2128,
+                "name": "NB I",
+                "code": "HNB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2029-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

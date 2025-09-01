@@ -7,7 +7,7 @@
     "nationality": "Martinique",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 14,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 576,
-        "name": "RC Strasbourg Alsace",
-        "shortName": "Strasbourg",
-        "tla": "RC ",
-        "crest": "https://crests.football-data.org/576.png",
-        "address": "12 Rue Extenwoerth Strasbourg 67000",
-        "website": "http://www.rcstrasbourgalsace.fr",
-        "founded": 1906,
+        "id": 536,
+        "name": "SC Bastia",
+        "shortName": "SC Bastia",
+        "tla": "SCB",
+        "crest": "https://crests.football-data.org/536.png",
+        "address": "Stade Armand Cesari BP 640 Furiani 20600",
+        "website": "http://www.sc-bastia.net",
+        "founded": 1905,
         "clubColors": "Blue / White",
-        "venue": "Stade de la Meinau",
+        "venue": "Stade Armand Césari",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2026-06"
+            "until": "2029-06"
         }
     }
 }

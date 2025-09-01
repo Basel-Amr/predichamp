@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 27,
     "lastUpdated": "2023-07-30T22:13:11Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 490,
+        "name": "US Catanzaro",
+        "shortName": "Catanzaro",
+        "tla": "CAT",
+        "crest": "https://crests.football-data.org/490.png",
+        "address": "Via Pugliese, 30 Catanzaro 88100",
+        "website": "http://www.uscatanzaro1929.com",
+        "founded": 1919,
+        "clubColors": "Yellow / Red",
+        "venue": "Stadio Nicola Ceravolo",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2028-06"
+            "until": "2029-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 7,
     "lastUpdated": "2023-07-30T17:08:58Z",
     "currentTeam": {
         "area": {
@@ -16,34 +16,34 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 451,
+        "name": "L.R. Vicenza Virtus",
+        "shortName": "Vicenza Virtus",
+        "tla": "VIC",
+        "crest": "https://crests.football-data.org/451.png",
+        "address": "Via Schio, 21 Vicenza 36100",
+        "website": "http://www.lrvicenza.net/",
+        "founded": 1902,
+        "clubColors": "Red / White",
+        "venue": "Stadio Romeo Menti",
         "runningCompetitions": [
-            {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
             {
                 "id": 2122,
                 "name": "Coppa Italia",
                 "code": "CIT",
                 "type": "CUP",
                 "emblem": "https://crests.football-data.org/CIT.png"
+            },
+            {
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
+                "type": "LEAGUE",
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2024-08",
             "until": "2026-06"
         }
     }

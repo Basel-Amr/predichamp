@@ -38,18 +38,18 @@
     },
     "squad": [
         {
-            "id": 165062,
-            "name": "Ousmane Ba",
-            "position": "Goalkeeper",
-            "dateOfBirth": "2002-06-06",
-            "nationality": "Senegal"
-        },
-        {
             "id": 243925,
             "name": "Pape Sy",
             "position": "Goalkeeper",
             "dateOfBirth": "1997-05-02",
             "nationality": "Senegal"
+        },
+        {
+            "id": 246635,
+            "name": "Jonathan Fischer",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-11-09",
+            "nationality": "Denmark"
         },
         {
             "id": 215172,
@@ -66,18 +66,25 @@
             "nationality": "Belgium"
         },
         {
-            "id": 204326,
-            "name": "Lilian Raillot",
-            "position": "Midfield",
-            "dateOfBirth": "2004-05-16",
+            "id": 283246,
+            "name": "Cléo Mélières",
+            "position": "Defence",
+            "dateOfBirth": "2005-04-13",
             "nationality": "France"
         },
         {
-            "id": 260810,
-            "name": "Othman Chraibi",
+            "id": 119294,
+            "name": "Giorgi Abuashvili",
             "position": "Midfield",
-            "dateOfBirth": "2003-02-21",
-            "nationality": "Morocco"
+            "dateOfBirth": "2003-02-08",
+            "nationality": "Georgia"
+        },
+        {
+            "id": 216372,
+            "name": "Georgiy Tsitaishvili",
+            "position": "Midfield",
+            "dateOfBirth": "2000-11-18",
+            "nationality": "Georgia"
         },
         {
             "id": 278360,
@@ -94,13 +101,6 @@
             "nationality": "Senegal"
         },
         {
-            "id": 243885,
-            "name": "Pape Fall",
-            "position": "Offence",
-            "dateOfBirth": "2004-07-04",
-            "nationality": "Senegal"
-        },
-        {
             "id": 272870,
             "name": "Joseph Mangondo",
             "position": "Offence",
@@ -113,6 +113,13 @@
             "position": "Offence",
             "dateOfBirth": "2006-09-16",
             "nationality": "Senegal"
+        },
+        {
+            "id": 280446,
+            "name": "Brian Madjo",
+            "position": "Offence",
+            "dateOfBirth": "2009-01-12",
+            "nationality": "Luxembourg"
         },
         {
             "id": 261552,
@@ -143,13 +150,6 @@
             "nationality": "Senegal"
         },
         {
-            "id": 206125,
-            "name": "Pape Diallo",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-06-25",
-            "nationality": "Senegal"
-        },
-        {
             "id": 206116,
             "name": "Malick Mbaye",
             "position": "Right Winger",
@@ -164,11 +164,11 @@
             "nationality": "France"
         },
         {
-            "id": 190552,
-            "name": "Arthur Atta",
+            "id": 133553,
+            "name": "Boubacar Traoré",
             "position": "Defensive Midfield",
-            "dateOfBirth": "2003-01-14",
-            "nationality": "France"
+            "dateOfBirth": "2001-08-20",
+            "nationality": "Mali"
         },
         {
             "id": 78634,
@@ -185,18 +185,18 @@
             "nationality": "Ivory Coast"
         },
         {
-            "id": 8717,
-            "name": "Matthieu Udol",
-            "position": "Left-Back",
-            "dateOfBirth": "1996-03-20",
-            "nationality": "France"
-        },
-        {
             "id": 8333,
             "name": "Jessy Deminguet",
             "position": "Central Midfield",
             "dateOfBirth": "1998-01-07",
             "nationality": "France"
+        },
+        {
+            "id": 6623,
+            "name": "Jean-Philippe Gbamin",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-09-25",
+            "nationality": "Ivory Coast"
         },
         {
             "id": 6502,

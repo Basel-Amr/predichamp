@@ -7,37 +7,37 @@
     "nationality": "Zambia",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 80,
+    "shirtNumber": 7,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2016,
+            "name": "Austria",
+            "code": "AUT",
+            "flag": "https://crests.football-data.org/816.svg"
         },
-        "id": 104,
-        "name": "Cagliari Calcio",
-        "shortName": "Cagliari",
-        "tla": "CAG",
-        "crest": "https://crests.football-data.org/104.png",
-        "address": "Viale la Plaia 15 Cagliari 09123",
-        "website": "http://www.cagliaricalcio.net",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue / White",
-        "venue": "Sardegna Arena",
+        "id": 2030,
+        "name": "SV Ried",
+        "shortName": "Ried",
+        "tla": "RIE",
+        "crest": "https://crests.football-data.org/2030.png",
+        "address": "Volksfestplatz 2 Ried im Innkreis 4910",
+        "website": "http://www.svried.at",
+        "founded": 1912,
+        "clubColors": "Green / Black",
+        "venue": "Josko Arena",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2012,
+                "name": "Bundesliga",
+                "code": "ABL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/abl.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

@@ -11,21 +11,21 @@
     "lastUpdated": "2023-07-30T17:03:27Z",
     "currentTeam": {
         "area": {
-            "id": 2152,
-            "name": "Monaco",
-            "code": "MCO",
-            "flag": null
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 548,
-        "name": "AS Monaco FC",
-        "shortName": "Monaco",
-        "tla": "ASM",
-        "crest": "https://crests.football-data.org/548.png",
-        "address": "Avenue des Castellans Monaco 98000",
-        "website": "http://www.asmonaco.com",
-        "founded": 1919,
-        "clubColors": "Red / White",
-        "venue": "Stade Louis II.",
+        "id": 512,
+        "name": "Stade Brestois 29",
+        "shortName": "Brest",
+        "tla": "BRE",
+        "crest": "https://crests.football-data.org/512.png",
+        "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+        "website": "http://www.stade-brestois.com",
+        "founded": 1903,
+        "clubColors": "White / Red",
+        "venue": "Stade Francis-Le Blé",
         "runningCompetitions": [
             {
                 "id": 2015,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

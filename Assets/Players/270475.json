@@ -16,34 +16,27 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 457,
-        "name": "US Cremonese",
-        "shortName": "Cremonese",
-        "tla": "CRE",
-        "crest": "https://crests.football-data.org/457.png",
-        "address": "Via Persico, 19 Cremona 26100",
-        "website": "http://www.uscremonese.it",
-        "founded": 1903,
-        "clubColors": "Red / Grey",
-        "venue": "Stadio Giovanni Zin",
+        "id": 5870,
+        "name": "AS Giana Erminio",
+        "shortName": "Erminio",
+        "tla": "ERM",
+        "crest": "https://crests.football-data.org/5870.png",
+        "address": "Via Milano, 3 Gorgonzola 20064",
+        "website": "http://www.asgiana.com",
+        "founded": 1909,
+        "clubColors": "Light Blue / White / Black",
+        "venue": "Stadio Comunale",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

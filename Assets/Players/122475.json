@@ -7,44 +7,37 @@
     "nationality": "Croatia",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 38,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2065,
+            "name": "Denmark",
+            "code": "DNK",
+            "flag": "https://crests.football-data.org/782.svg"
         },
-        "id": 16,
-        "name": "FC Augsburg",
-        "shortName": "Augsburg",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/16.png",
-        "address": "Donauwörther Straße 170 Augsburg 86154",
-        "website": "http://www.fcaugsburg.de",
-        "founded": 1907,
-        "clubColors": "Red / Green / White",
-        "venue": "WWK Arena",
+        "id": 4514,
+        "name": "Vejle BK",
+        "shortName": "Vejle",
+        "tla": "VBK",
+        "crest": "https://crests.football-data.org/4514.png",
+        "address": "Roms Hule 6 Vejle 7100",
+        "website": "http://www.vejle-boldklub.dk",
+        "founded": 1891,
+        "clubColors": "Red / White",
+        "venue": "Vejle Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2050,
+                "name": "Superliga",
+                "code": "DSU",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2024-01",
+            "until": "2025-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "England",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 19,
     "lastUpdated": "2024-08-23T09:25:15Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 66,
-        "name": "Manchester United FC",
-        "shortName": "Man United",
-        "tla": "MUN",
-        "crest": "https://crests.football-data.org/66.png",
-        "address": "Sir Matt Busby Way Manchester M16 0RA",
-        "website": "http://www.manutd.com",
-        "founded": 1878,
-        "clubColors": "Red / White",
-        "venue": "Old Trafford",
+        "id": 376,
+        "name": "Northampton Town FC",
+        "shortName": "Northampton",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/376.png",
+        "address": "Upton Way Northampton NN5 5QA",
+        "website": "http://www.ntfc.co.uk",
+        "founded": 1897,
+        "clubColors": "Claret / White",
+        "venue": "Sixfields Stadium",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2030,
+                "name": "League One",
+                "code": "EL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/el1.png"
+            },
+            {
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

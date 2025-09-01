@@ -11,40 +11,33 @@
     "lastUpdated": "2025-02-18T17:35:56Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 115,
-        "name": "Udinese Calcio",
-        "shortName": "Udinese",
-        "tla": "UDI",
-        "crest": "https://crests.football-data.org/115.png",
-        "address": "Via Agostino e Angelo Candolini 2 Udine 33100",
-        "website": "http://www.udinese.it",
-        "founded": 1896,
-        "clubColors": "White / Black",
-        "venue": "Dacia Arena",
+        "id": 546,
+        "name": "Racing Club de Lens",
+        "shortName": "RC Lens",
+        "tla": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "address": "33 rue Arthur Lamendin Avion 62210",
+        "website": "http://www.rclens.fr",
+        "founded": 1906,
+        "clubColors": "Red / Yellow",
+        "venue": "Stade Bollaert-Delelis",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2026-06"
+            "start": "2025-08",
+            "until": "2028-06"
         }
     }
 }

@@ -7,8 +7,8 @@
     "nationality": "Brazil",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
-    "lastUpdated": "2024-08-23T09:25:23Z",
+    "shirtNumber": 41,
+    "lastUpdated": "2025-07-08T09:46:35Z",
     "currentTeam": {
         "area": {
             "id": 2114,
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 586,
-        "name": "Torino FC",
-        "shortName": "Torino",
-        "tla": "TOR",
-        "crest": "https://crests.football-data.org/586.png",
-        "address": "Via Arcivescovado 1 Torino 10122",
-        "website": "http://www.torinofc.it",
-        "founded": 1894,
-        "clubColors": "Brown / White",
-        "venue": "Stadio Olimpico di Torino",
+        "id": 458,
+        "name": "Padova Calcio",
+        "shortName": "Padova",
+        "tla": "PAD",
+        "crest": "https://crests.football-data.org/458.png",
+        "address": "Via Sorio, 43 Padova 35137",
+        "website": "http://www.padovacalcio.it",
+        "founded": 1910,
+        "clubColors": "White / Red",
+        "venue": "Stadio Comunale Euganeo",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,

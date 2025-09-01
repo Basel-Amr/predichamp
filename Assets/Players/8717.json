@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Left-Back",
     "position": "Defence",
-    "shirtNumber": 3,
+    "shirtNumber": 14,
     "lastUpdated": "2024-09-02T09:59:12Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 545,
-        "name": "FC Metz",
-        "shortName": "FC Metz",
-        "tla": "FCM",
-        "crest": "https://crests.football-data.org/545.png",
-        "address": "3, allée Saint Symphonien, BP 40292 Metz 5700",
-        "website": "http://www.fcmetz.com",
-        "founded": 1919,
-        "clubColors": "Red / Blue",
-        "venue": "Stade Saint-Symphorien",
+        "id": 546,
+        "name": "Racing Club de Lens",
+        "shortName": "RC Lens",
+        "tla": "RCL",
+        "crest": "https://crests.football-data.org/546.png",
+        "address": "33 rue Arthur Lamendin Avion 62210",
+        "website": "http://www.rclens.fr",
+        "founded": 1906,
+        "clubColors": "Red / Yellow",
+        "venue": "Stade Bollaert-Delelis",
         "runningCompetitions": [
             {
                 "id": 2015,
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2018-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2028-06"
         }
     }
 }

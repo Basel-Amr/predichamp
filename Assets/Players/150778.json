@@ -7,7 +7,7 @@
     "nationality": "England",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 11,
     "lastUpdated": "2024-08-23T09:25:16Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 1044,
-        "name": "AFC Bournemouth",
-        "shortName": "Bournemouth",
-        "tla": "BOU",
-        "crest": "https://crests.football-data.org/bournemouth.png",
-        "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
-        "website": "http://www.afcb.co.uk",
-        "founded": 1890,
-        "clubColors": "Red / Black",
-        "venue": "Vitality Stadium",
+        "id": 328,
+        "name": "Burnley FC",
+        "shortName": "Burnley",
+        "tla": "BUR",
+        "crest": "https://crests.football-data.org/328.png",
+        "address": "Harry Potts Way Burnley BB10 4BX",
+        "website": "http://www.burnleyfootballclub.com",
+        "founded": 1881,
+        "clubColors": "Claret / Sky Blue",
+        "venue": "Turf Moor",
         "runningCompetitions": [
             {
                 "id": 2021,
@@ -37,7 +37,7 @@
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2029-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 4,
     "lastUpdated": "2024-08-23T10:11:39Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 7397,
-        "name": "Como 1907",
-        "shortName": "Como 1907",
-        "tla": "COM",
-        "crest": "https://crests.football-data.org/7397.png",
-        "address": "Viale Sinigaglia 2 Como 22100",
-        "website": "http://www.como1907.net/",
-        "founded": 1907,
-        "clubColors": "Sky Blue / White",
-        "venue": "Stadio Giuseppe Sinigaglia",
+        "id": 104,
+        "name": "Cagliari Calcio",
+        "shortName": "Cagliari",
+        "tla": "CAG",
+        "crest": "https://crests.football-data.org/104.png",
+        "address": "Viale la Plaia 15 Cagliari 09123",
+        "website": "http://www.cagliaricalcio.net",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue / White",
+        "venue": "Sardegna Arena",
         "runningCompetitions": [
             {
                 "id": 2019,
@@ -33,13 +33,6 @@
                 "code": "SA",
                 "type": "LEAGUE",
                 "emblem": "https://crests.football-data.org/SA.png"
-            },
-            {
-                "id": 2122,
-                "name": "Coppa Italia",
-                "code": "CIT",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {

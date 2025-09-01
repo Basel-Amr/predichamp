@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2025-07-01T09:41:04Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 11,
-        "name": "VfL Wolfsburg",
-        "shortName": "Wolfsburg",
-        "tla": "WOB",
-        "crest": "https://crests.football-data.org/11.png",
-        "address": "In den Allerwiesen 1 Wolfsburg 38446",
-        "website": "http://www.vfl-wolfsburg.de",
-        "founded": 1945,
-        "clubColors": "Green / White",
-        "venue": "Volkswagen Arena",
+        "id": 5994,
+        "name": "SC Verl",
+        "shortName": "Verl",
+        "tla": "SCV",
+        "crest": "https://crests.football-data.org/5994.png",
+        "address": "Stadion an der Poststraße Verl 33415",
+        "website": "http://www.scverl.de",
+        "founded": 1924,
+        "clubColors": "Black / White",
+        "venue": "Benteler-Arena",
         "runningCompetitions": [
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2140,
+                "name": "3. Bundesliga",
+                "code": "BL3",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL3.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-07",
+            "until": "2027-06"
         }
     }
 }

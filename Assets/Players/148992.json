@@ -7,7 +7,7 @@
     "nationality": "Albania",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 71,
+    "shirtNumber": 1,
     "lastUpdated": "2024-12-06T09:43:11Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 104,
-        "name": "Cagliari Calcio",
-        "shortName": "Cagliari",
-        "tla": "CAG",
-        "crest": "https://crests.football-data.org/104.png",
-        "address": "Viale la Plaia 15 Cagliari 09123",
-        "website": "http://www.cagliaricalcio.net",
-        "founded": 1920,
-        "clubColors": "Red / Navy Blue / White",
-        "venue": "Sardegna Arena",
+        "id": 470,
+        "name": "Frosinone Calcio",
+        "shortName": "Frosinone",
+        "tla": "FRO",
+        "crest": "https://crests.football-data.org/470.png",
+        "address": "Via Marittima, 2 Frosinone 03100",
+        "website": "http://www.frosinonecalcio.com",
+        "founded": 1912,
+        "clubColors": "Yellow / Blue",
+        "venue": "Stadio Benito Stirpe",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

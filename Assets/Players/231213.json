@@ -1,0 +1,43 @@
+{
+    "id": 231213,
+    "name": "David Grilo",
+    "firstName": "David",
+    "lastName": "Grilo",
+    "dateOfBirth": "1996-08-13",
+    "nationality": "Portugal",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 22,
+    "lastUpdated": "2023-11-22T09:46:49Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 9136,
+        "name": "CF Estrela da Amadora",
+        "shortName": "Amadora",
+        "tla": "AMA",
+        "crest": "https://crests.football-data.org/9136.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": "Estádio Nacional",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2026-06"
+        }
+    }
+}

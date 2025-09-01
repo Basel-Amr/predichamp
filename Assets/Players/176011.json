@@ -1,0 +1,43 @@
+{
+    "id": 176011,
+    "name": "Lazar Carevic",
+    "firstName": "Lazar",
+    "lastName": "Carević",
+    "dateOfBirth": "1999-03-16",
+    "nationality": "Montenegro",
+    "section": "Goalkeeper",
+    "position": "Goalkeeper",
+    "shirtNumber": 25,
+    "lastUpdated": "2023-09-19T09:54:35Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5531,
+        "name": "FC Famalicão",
+        "shortName": "Famalicão",
+        "tla": "FAM",
+        "crest": "https://crests.football-data.org/5531.png",
+        "address": "null Vila Nova de Famalicão null",
+        "website": "http://www.fcfamalicao.pt",
+        "founded": 1931,
+        "clubColors": "Blue / White",
+        "venue": "Estádio Municipal 22 de Junho",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2024-08",
+            "until": "2028-06"
+        }
+    }
+}

@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 22,
+    "shirtNumber": null,
     "lastUpdated": "2023-10-19T09:45:37Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 88,
-        "name": "Levante UD",
-        "shortName": "Levante",
-        "tla": "LEV",
-        "crest": "https://crests.football-data.org/88.png",
-        "address": "Calle San Vicente de Paúl, 44 Valencia 46019",
-        "website": "http://www.levanteud.com",
-        "founded": 1909,
-        "clubColors": "Crimson / Blue",
-        "venue": "Estadio Ciudad de Valencia",
+        "id": 7445,
+        "name": "AD Ceuta FC",
+        "shortName": "AD Ceuta",
+        "tla": "CEU",
+        "crest": "https://crests.football-data.org/7445.png",
+        "address": "null Ceuta null",
+        "website": "http://www.adceutafc.es",
+        "founded": 1996,
+        "clubColors": null,
+        "venue": "Estadio Municipal Alfonso Murube",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2025-01",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2027-06"
         }
     }
 }

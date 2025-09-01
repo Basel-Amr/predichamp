@@ -1,0 +1,43 @@
+{
+    "id": 213279,
+    "name": "Manuel Bueno",
+    "firstName": "",
+    "lastName": "Manuel Bueno",
+    "dateOfBirth": "2004-07-27",
+    "nationality": "Spain",
+    "section": "Midfield",
+    "position": "Midfield",
+    "shirtNumber": 28,
+    "lastUpdated": "2023-07-30T23:05:43Z",
+    "currentTeam": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https://crests.football-data.org/760.svg"
+        },
+        "id": 559,
+        "name": "Sevilla FC",
+        "shortName": "Sevilla FC",
+        "tla": "SEV",
+        "crest": "https://crests.football-data.org/559.png",
+        "address": "Calle Sevilla Fútbol Club, s/n Sevilla 41005",
+        "website": "http://www.sevillafc.es",
+        "founded": 1905,
+        "clubColors": "White / Red",
+        "venue": "Estadio Ramón Sánchez Pizjuán",
+        "runningCompetitions": [
+            {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/laliga.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

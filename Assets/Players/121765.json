@@ -7,7 +7,7 @@
     "nationality": "Serbia",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2023-09-19T09:52:24Z",
     "currentTeam": {
         "area": {
@@ -16,24 +16,17 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 61,
-        "name": "Chelsea FC",
-        "shortName": "Chelsea",
-        "tla": "CHE",
-        "crest": "https://crests.football-data.org/61.png",
-        "address": "Fulham Road London SW6 1HS",
-        "website": "http://www.chelseafc.com",
-        "founded": 1905,
-        "clubColors": "Royal Blue / White",
-        "venue": "Stamford Bridge",
+        "id": 1044,
+        "name": "AFC Bournemouth",
+        "shortName": "Bournemouth",
+        "tla": "BOU",
+        "crest": "https://crests.football-data.org/bournemouth.png",
+        "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+        "website": "http://www.afcb.co.uk",
+        "founded": 1890,
+        "clubColors": "Red / Black",
+        "venue": "Vitality Stadium",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2021,
                 "name": "Premier League",

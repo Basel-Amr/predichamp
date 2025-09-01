@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 37,
+    "shirtNumber": 24,
     "lastUpdated": "2025-06-26T09:41:04Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 11,
-        "name": "VfL Wolfsburg",
-        "shortName": "Wolfsburg",
-        "tla": "WOB",
-        "crest": "https://crests.football-data.org/11.png",
-        "address": "In den Allerwiesen 1 Wolfsburg 38446",
-        "website": "http://www.vfl-wolfsburg.de",
-        "founded": 1945,
-        "clubColors": "Green / White",
-        "venue": "Volkswagen Arena",
+        "id": 9644,
+        "name": "VfL Bochum II",
+        "shortName": "Bochum II",
+        "tla": null,
+        "crest": "https://crests.football-data.org/9644.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2168,
+                "name": "Regionalliga West",
+                "code": "RLW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

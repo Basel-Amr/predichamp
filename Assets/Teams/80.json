@@ -33,7 +33,7 @@
         "nationality": "Spain",
         "contract": {
             "start": "2024-03",
-            "until": "2026-06"
+            "until": "2027-06"
         }
     },
     "squad": [
@@ -49,6 +49,13 @@
             "name": "Ángel Fortuño Viñas",
             "position": "Goalkeeper",
             "dateOfBirth": "2001-10-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 244761,
+            "name": "Pol Tristán",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-03-18",
             "nationality": "Spain"
         },
         {
@@ -80,13 +87,6 @@
             "nationality": "Spain"
         },
         {
-            "id": 203602,
-            "name": "Hugo Pérez",
-            "position": "Defence",
-            "dateOfBirth": "2002-12-16",
-            "nationality": "Spain"
-        },
-        {
             "id": 154714,
             "name": "Omar El Hilali",
             "position": "Midfield",
@@ -94,17 +94,24 @@
             "nationality": "Morocco"
         },
         {
-            "id": 179637,
-            "name": "Justin Smith",
-            "position": "Midfield",
-            "dateOfBirth": "2003-02-04",
-            "nationality": "Canada"
-        },
-        {
             "id": 215520,
             "name": "Coarasa",
             "position": "Midfield",
             "dateOfBirth": "2004-01-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 250363,
+            "name": "Rafael Bauzà",
+            "position": "Midfield",
+            "dateOfBirth": "2005-01-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 276734,
+            "name": "Roger Hinojo",
+            "position": "Midfield",
+            "dateOfBirth": "2005-02-21",
             "nationality": "Spain"
         },
         {
@@ -171,6 +178,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 149049,
+            "name": "Tyrhys Dolan",
+            "position": "Right Winger",
+            "dateOfBirth": "2001-12-28",
+            "nationality": "England"
+        },
+        {
             "id": 125210,
             "name": "Pol Lozano",
             "position": "Central Midfield",
@@ -178,17 +192,17 @@
             "nationality": "Spain"
         },
         {
-            "id": 119094,
-            "name": "José Gragera",
-            "position": "Central Midfield",
-            "dateOfBirth": "2000-05-14",
-            "nationality": "Spain"
-        },
-        {
             "id": 98747,
             "name": "Pablo Ramon",
             "position": "Centre-Back",
             "dateOfBirth": "2001-06-30",
+            "nationality": "Spain"
+        },
+        {
+            "id": 81168,
+            "name": "Javi Puado",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-05-25",
             "nationality": "Spain"
         },
         {
@@ -225,13 +239,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1991-06-17",
             "nationality": "Uruguay"
-        },
-        {
-            "id": 3873,
-            "name": "Álvaro Tejero",
-            "position": "Right-Back",
-            "dateOfBirth": "1996-07-20",
-            "nationality": "Spain"
         }
     ],
     "staff": [],

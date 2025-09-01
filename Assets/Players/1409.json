@@ -7,37 +7,37 @@
     "nationality": "Brazil",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 34,
     "lastUpdated": "2024-08-12T11:57:19Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
         },
-        "id": 523,
-        "name": "Olympique Lyonnais",
-        "shortName": "Olympique Lyon",
-        "tla": "LYO",
-        "crest": "https://crests.football-data.org/523.png",
-        "address": "350 avenue Jean Jaurès Lyon 69007",
-        "website": "http://www.olweb.fr",
-        "founded": 1896,
-        "clubColors": "White / Red / Blue",
-        "venue": "Groupama Stadium",
+        "id": 726,
+        "name": "RSC Anderlecht",
+        "shortName": "Anderlecht",
+        "tla": "AND",
+        "crest": "https://crests.football-data.org/726.png",
+        "address": "Avenue Théo Verbeecklaan 2 Brussels 1070",
+        "website": "http://www.rsca.be",
+        "founded": 1908,
+        "clubColors": "Purple / White",
+        "venue": "Lotto Park",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2009,
+                "name": "Jupiler Pro League",
+                "code": "BJL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/bjl.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2028-06"
+            "start": "2025-01",
+            "until": "2025-06"
         }
     }
 }

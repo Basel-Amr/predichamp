@@ -45,11 +45,11 @@
     },
     "squad": [
         {
-            "id": 3087,
-            "name": "Emil Audero",
+            "id": 2715,
+            "name": "Mauro Vigorito",
             "position": "Goalkeeper",
-            "dateOfBirth": "1997-01-18",
-            "nationality": "Indonesia"
+            "dateOfBirth": "1990-05-22",
+            "nationality": "Italy"
         },
         {
             "id": 9186,
@@ -59,6 +59,13 @@
             "nationality": "France"
         },
         {
+            "id": 276252,
+            "name": "Henrique Menke",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2007-01-12",
+            "nationality": "Brazil"
+        },
+        {
             "id": 156912,
             "name": "Martin Baturina",
             "position": "Midfield",
@@ -66,11 +73,11 @@
             "nationality": "Croatia"
         },
         {
-            "id": 202744,
-            "name": "Marco Tremolada",
-            "position": "Midfield",
-            "dateOfBirth": "2004-03-02",
-            "nationality": "Italy"
+            "id": 67902,
+            "name": "Nicolas Kühn",
+            "position": "Offence",
+            "dateOfBirth": "2000-01-01",
+            "nationality": "Germany"
         },
         {
             "id": 180183,
@@ -78,20 +85,6 @@
             "position": "Offence",
             "dateOfBirth": "2002-12-24",
             "nationality": "Spain"
-        },
-        {
-            "id": 123277,
-            "name": "Yannik Engelhardt",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2001-02-07",
-            "nationality": "Germany"
-        },
-        {
-            "id": 114212,
-            "name": "Ivan Smolčić",
-            "position": "Right-Back",
-            "dateOfBirth": "2000-08-17",
-            "nationality": "Croatia"
         },
         {
             "id": 101350,
@@ -164,6 +157,20 @@
             "nationality": "Kosovo"
         },
         {
+            "id": 7860,
+            "name": "Alberto Moreno",
+            "position": "Left-Back",
+            "dateOfBirth": "1992-07-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 7819,
+            "name": "Álvaro Morata",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1992-10-23",
+            "nationality": "Spain"
+        },
+        {
             "id": 3324,
             "name": "Dele Alli",
             "position": "Attacking Midfield",
@@ -175,13 +182,6 @@
             "name": "Alberto Cerri",
             "position": "Centre-Forward",
             "dateOfBirth": "1996-04-16",
-            "nationality": "Italy"
-        },
-        {
-            "id": 2488,
-            "name": "Marco Curto",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-01-05",
             "nationality": "Italy"
         },
         {
@@ -197,13 +197,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "2000-03-14",
             "nationality": "Ivory Coast"
-        },
-        {
-            "id": 2196,
-            "name": "Luca Mazzitelli",
-            "position": "Central Midfield",
-            "dateOfBirth": "1995-11-15",
-            "nationality": "Italy"
         },
         {
             "id": 2187,
@@ -248,6 +241,13 @@
             "nationality": "Slovakia"
         },
         {
+            "id": 247056,
+            "name": "Jacobo Ramón",
+            "position": "Centre-Back",
+            "dateOfBirth": "2005-06-06",
+            "nationality": "Spain"
+        },
+        {
             "id": 245155,
             "name": "Diego Ronco",
             "position": "Centre-Back",
@@ -259,20 +259,6 @@
             "name": "Giuseppe Mazzaglia",
             "position": "Central Midfield",
             "dateOfBirth": "2006-04-20",
-            "nationality": "Italy"
-        },
-        {
-            "id": 244591,
-            "name": "Federico Chinetti",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2005-01-01",
-            "nationality": "Italy"
-        },
-        {
-            "id": 244112,
-            "name": "Fabio Rispoli",
-            "position": "Central Midfield",
-            "dateOfBirth": "2006-09-28",
             "nationality": "Italy"
         },
         {
@@ -304,13 +290,6 @@
             "nationality": "Argentina"
         },
         {
-            "id": 192659,
-            "name": "Alieu Fadera",
-            "position": "Left Winger",
-            "dateOfBirth": "2001-11-03",
-            "nationality": "Gambia"
-        },
-        {
             "id": 189493,
             "name": "Alex Valle",
             "position": "Left-Back",
@@ -318,11 +297,18 @@
             "nationality": "Spain"
         },
         {
-            "id": 172399,
-            "name": "Gabriel Strefezza",
+            "id": 179159,
+            "name": "Maximo Perrone",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2003-01-07",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 178165,
+            "name": "Jayden Addai",
             "position": "Right Winger",
-            "dateOfBirth": "1997-04-18",
-            "nationality": "Brazil"
+            "dateOfBirth": "2005-08-26",
+            "nationality": "Netherlands"
         },
         {
             "id": 131205,
@@ -332,25 +318,11 @@
             "nationality": "Switzerland"
         },
         {
-            "id": 129830,
-            "name": "Tommaso Fumagalli",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2000-02-02",
-            "nationality": "Italy"
-        },
-        {
             "id": 129681,
             "name": "Tommaso Cassandro",
             "position": "Right-Back",
             "dateOfBirth": "2000-01-09",
             "nationality": "Italy"
-        },
-        {
-            "id": 127521,
-            "name": "Matthias Braunöder",
-            "position": "Central Midfield",
-            "dateOfBirth": "2002-03-27",
-            "nationality": "Austria"
         },
         {
             "id": 126768,
@@ -365,6 +337,20 @@
             "position": "Central Midfield",
             "dateOfBirth": "2001-06-09",
             "nationality": "France"
+        },
+        {
+            "id": 123277,
+            "name": "Yannik Engelhardt",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-02-07",
+            "nationality": "Germany"
+        },
+        {
+            "id": 114212,
+            "name": "Ivan Smolčić",
+            "position": "Right-Back",
+            "dateOfBirth": "2000-08-17",
+            "nationality": "Croatia"
         }
     ],
     "staff": [],

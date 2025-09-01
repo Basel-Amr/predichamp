@@ -7,44 +7,37 @@
     "nationality": "Brazil",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 25,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2106,
+            "name": "Hungary",
+            "code": "HUN",
+            "flag": "https://crests.football-data.org/827.svg"
         },
-        "id": 20,
-        "name": "FC St. Pauli 1910",
-        "shortName": "St. Pauli",
-        "tla": "STP",
-        "crest": "https://crests.football-data.org/20.png",
-        "address": "Auf dem Heiligengeistfeld Hamburg 20359",
-        "website": "http://www.fcstpauli.de",
-        "founded": 1910,
-        "clubColors": "Brown / White",
-        "venue": "Millerntor-Stadion",
+        "id": 5952,
+        "name": "Debreceni VSC",
+        "shortName": "Debrecen",
+        "tla": "DEB",
+        "crest": "https://crests.football-data.org/5952.png",
+        "address": "Oláh Gábor utca 5. Debrecen 4032",
+        "website": "http://www.dvsc.hu",
+        "founded": 1902,
+        "clubColors": "Red / White",
+        "venue": "Nagyerdei Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2128,
+                "name": "NB I",
+                "code": "HNB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2025-01",
+            "until": "2025-06"
         }
     }
 }

@@ -1,0 +1,50 @@
+{
+    "id": 4003,
+    "name": "Nélson Oliveira",
+    "firstName": "",
+    "lastName": "Nélson Oliveira",
+    "dateOfBirth": "1991-08-08",
+    "nationality": "Portugal",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 7,
+    "lastUpdated": "2024-11-01T22:50:30Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 5543,
+        "name": "Vitória SC",
+        "shortName": "Vitória SC",
+        "tla": "GUI",
+        "crest": "https://crests.football-data.org/5543.png",
+        "address": "Dr. António Pimenta Machado, Apartado 505 Guimarães 4802-914",
+        "website": "http://www.vitoriasc.pt",
+        "founded": 1922,
+        "clubColors": "White / Black",
+        "venue": "Estádio Dom Afonso Henriques",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
+                "type": "CUP",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-07",
+            "until": "2026-06"
+        }
+    }
+}

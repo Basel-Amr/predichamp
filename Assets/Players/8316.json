@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": 1,
+    "shirtNumber": 30,
     "lastUpdated": "2024-10-09T09:42:55Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-01",
+            "start": "2025-07",
             "until": "2029-06"
         }
     }

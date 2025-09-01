@@ -7,7 +7,7 @@
     "nationality": "Poland",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 9,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 12,
-        "name": "SV Werder Bremen",
-        "shortName": "Bremen",
-        "tla": "SVW",
-        "crest": "https://crests.football-data.org/12.png",
-        "address": "Franz-Böhmert-Str. 1c Bremen 28205",
-        "website": "http://www.werder.de",
-        "founded": 1899,
-        "clubColors": "Green / White",
-        "venue": "Weserstadion",
+        "id": 9,
+        "name": "Hertha BSC",
+        "shortName": "Hertha BSC",
+        "tla": "BSC",
+        "crest": "https://crests.football-data.org/9.png",
+        "address": "Hanns-Braun-Straße, Friesenhaus II Berlin 14053",
+        "website": "http://www.herthabsc.de",
+        "founded": 1892,
+        "clubColors": "Blue / White",
+        "venue": "Olympiastadion Berlin",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -35,16 +35,16 @@
                 "emblem": "https://crests.football-data.org/DFB_CUP.png"
             },
             {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL2.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

@@ -1,0 +1,50 @@
+{
+    "id": 152702,
+    "name": "Martin Vitík",
+    "firstName": "Martin",
+    "lastName": "Vitík",
+    "dateOfBirth": "2003-01-21",
+    "nationality": "Czech Republic",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2024-06-12T17:56:51Z",
+    "currentTeam": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https://crests.football-data.org/784.svg"
+        },
+        "id": 103,
+        "name": "Bologna FC 1909",
+        "shortName": "Bologna",
+        "tla": "BOL",
+        "crest": "https://crests.football-data.org/103.png",
+        "address": "Via Casteldebole 10 Bologna 40132",
+        "website": "http://www.bolognafc.it",
+        "founded": 1909,
+        "clubColors": "Red / Blue / White",
+        "venue": "Stadio Renato Dall'Ara",
+        "runningCompetitions": [
+            {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SA.png"
+            },
+            {
+                "id": 2124,
+                "name": "Supercoppa",
+                "code": "ISC",
+                "type": "SUPER_CUP",
+                "emblem": "https://crests.football-data.org/isc.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-07",
+            "until": "2029-06"
+        }
+    }
+}

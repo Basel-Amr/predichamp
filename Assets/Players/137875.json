@@ -7,7 +7,7 @@
     "nationality": "Albania",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 29,
     "lastUpdated": "2023-07-30T22:13:11Z",
     "currentTeam": {
         "area": {
@@ -16,28 +16,28 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 99,
-        "name": "ACF Fiorentina",
-        "shortName": "Fiorentina",
-        "tla": "FIO",
-        "crest": "https://crests.football-data.org/99.png",
-        "address": "Viale Manfredo Fanti 4 Firenze 50137",
-        "website": "http://www.acffiorentina.it",
-        "founded": 1926,
-        "clubColors": "Purple / White",
-        "venue": "Stadio Artemio Franchi",
+        "id": 7634,
+        "name": "Aurora Pro Patria 1919",
+        "shortName": "Pro Patria",
+        "tla": "PAT",
+        "crest": "https://crests.football-data.org/7634.png",
+        "address": "Via Cà Bianca 42 Busto Arsizio 21052",
+        "website": "http://www.aurorapropatria1919.com/",
+        "founded": 1919,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Carlo Speroni",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2026-06"
+            "start": "2024-07",
+            "until": "2025-06"
         }
     }
 }

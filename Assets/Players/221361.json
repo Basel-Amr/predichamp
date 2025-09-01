@@ -16,28 +16,28 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 520,
-        "name": "AS Nancy-Lorraine",
-        "shortName": "Nancy",
-        "tla": "ASN",
-        "crest": "https://crests.football-data.org/520.png",
-        "address": "90 Boulevard Jean Jaurès Tomblaine 54510",
-        "website": "http://www.asnl.net",
-        "founded": 1967,
-        "clubColors": "Red / White",
-        "venue": "Stade Marcel-Picot (annexe 2)",
+        "id": 533,
+        "name": "Le Havre AC",
+        "shortName": "Le Havre",
+        "tla": "HAC",
+        "crest": "https://crests.football-data.org/533.png",
+        "address": "2 route du château BP 90 Saint-Laurent-de-Brèvedent 76700",
+        "website": "http://www.hac-foot.com",
+        "founded": 1872,
+        "clubColors": "Sky Blue / Navy Blue",
+        "venue": "Stade Océane",
         "runningCompetitions": [
             {
-                "id": 2142,
-                "name": "Ligue 2",
-                "code": "FL2",
+                "id": 2015,
+                "name": "Ligue 1",
+                "code": "FL1",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL2.png"
+                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2027-06"
         }
     }
 }

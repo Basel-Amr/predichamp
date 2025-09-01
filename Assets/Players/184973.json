@@ -1,0 +1,43 @@
+{
+    "id": 184973,
+    "name": "Nelson Weiper",
+    "firstName": "Nelson",
+    "lastName": "Weiper",
+    "dateOfBirth": "2005-03-17",
+    "nationality": "Germany",
+    "section": "Centre-Forward",
+    "position": "Offence",
+    "shirtNumber": 44,
+    "lastUpdated": "2025-08-01T09:41:04Z",
+    "currentTeam": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
+        },
+        "id": 740,
+        "name": "1. FSV Mainz 05 II",
+        "shortName": "Mainz 05 II",
+        "tla": "MAI",
+        "crest": "https://crests.football-data.org/740.png",
+        "address": "Dr.-Martin-Luther-King-Weg 20 Mainz 55122",
+        "website": "http://www.mainz05.de",
+        "founded": 1905,
+        "clubColors": "Red / White",
+        "venue": "Stadion am Bruchweg",
+        "runningCompetitions": [
+            {
+                "id": 2160,
+                "name": "Regionalliga Südwest",
+                "code": "RSW",
+                "type": "LEAGUE",
+                "emblem": null
+            }
+        ],
+        "contract": {
+            "start": "2024-09",
+            "until": "2026-06"
+        }
+    }
+}

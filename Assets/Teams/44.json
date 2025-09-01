@@ -52,6 +52,13 @@
             "nationality": "Germany"
         },
         {
+            "id": 117476,
+            "name": "Diant Ramaj",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-09-19",
+            "nationality": "Germany"
+        },
+        {
             "id": 143050,
             "name": "Paul Tschernuth",
             "position": "Goalkeeper",
@@ -73,45 +80,17 @@
             "nationality": "Germany"
         },
         {
-            "id": 10825,
-            "name": "Mathias Honsak",
-            "position": "Midfield",
-            "dateOfBirth": "1996-12-20",
-            "nationality": "Austria"
-        },
-        {
-            "id": 96898,
-            "name": "Sirlord Conteh",
-            "position": "Midfield",
-            "dateOfBirth": "1996-07-09",
-            "nationality": "Germany"
-        },
-        {
-            "id": 150698,
-            "name": "Julian Niehues",
-            "position": "Midfield",
-            "dateOfBirth": "2001-04-17",
-            "nationality": "Germany"
-        },
-        {
-            "id": 151650,
-            "name": "Léo Scienza",
-            "position": "Midfield",
-            "dateOfBirth": "1998-09-13",
-            "nationality": "Brazil"
-        },
-        {
-            "id": 157339,
-            "name": "Luca Kerber",
-            "position": "Midfield",
-            "dateOfBirth": "2002-03-10",
-            "nationality": "Germany"
-        },
-        {
             "id": 279690,
             "name": "Nick Rothweiler",
             "position": "Midfield",
             "dateOfBirth": "2006-06-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 281944,
+            "name": "Yannik Wagner",
+            "position": "Offence",
+            "dateOfBirth": "2007-05-09",
             "nationality": "Germany"
         },
         {
@@ -129,10 +108,38 @@
             "nationality": "Germany"
         },
         {
+            "id": 157339,
+            "name": "Luca Kerber",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-03-10",
+            "nationality": "Germany"
+        },
+        {
+            "id": 151650,
+            "name": "Léo Scienza",
+            "position": "Left Winger",
+            "dateOfBirth": "1998-09-13",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 150698,
+            "name": "Julian Niehues",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "2001-04-17",
+            "nationality": "Germany"
+        },
+        {
             "id": 114649,
             "name": "Tim Siersleben",
             "position": "Centre-Back",
             "dateOfBirth": "2000-03-09",
+            "nationality": "Germany"
+        },
+        {
+            "id": 96898,
+            "name": "Sirlord Conteh",
+            "position": "Right Winger",
+            "dateOfBirth": "1996-07-09",
             "nationality": "Germany"
         },
         {
@@ -190,6 +197,13 @@
             "position": "Centre-Back",
             "dateOfBirth": "1994-11-06",
             "nationality": "Germany"
+        },
+        {
+            "id": 10825,
+            "name": "Mathias Honsak",
+            "position": "Left Winger",
+            "dateOfBirth": "1996-12-20",
+            "nationality": "Austria"
         },
         {
             "id": 10369,

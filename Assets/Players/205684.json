@@ -1,14 +1,14 @@
 {
     "id": 205684,
     "name": "Ray Paez",
-    "firstName": "Ray",
+    "firstName": "Kendry",
     "lastName": "Páez",
     "dateOfBirth": "2007-05-04",
     "nationality": "Ecuador",
     "section": "Midfield",
     "position": "Midfield",
     "shirtNumber": null,
-    "lastUpdated": "2025-01-22T09:49:52Z",
+    "lastUpdated": "2025-08-12T09:42:29Z",
     "currentTeam": {
         "area": {
             "id": 2072,
@@ -27,13 +27,6 @@
         "clubColors": "Royal Blue / White",
         "venue": "Stamford Bridge",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2021,
                 "name": "Premier League",

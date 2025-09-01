@@ -45,11 +45,18 @@
     },
     "squad": [
         {
-            "id": 2957,
-            "name": "Andrea Fulignati",
+            "id": 2143,
+            "name": "Marco Silvestri",
             "position": "Goalkeeper",
-            "dateOfBirth": "1994-10-31",
+            "dateOfBirth": "1991-03-02",
             "nationality": "Italy"
+        },
+        {
+            "id": 3087,
+            "name": "Emil Audero",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1997-01-18",
+            "nationality": "Indonesia"
         },
         {
             "id": 115244,
@@ -59,17 +66,17 @@
             "nationality": "Italy"
         },
         {
-            "id": 152802,
-            "name": "Andreas Jungdal",
+            "id": 176943,
+            "name": "Lapo Nava",
             "position": "Goalkeeper",
-            "dateOfBirth": "2002-02-22",
-            "nationality": "Denmark"
+            "dateOfBirth": "2004-01-22",
+            "nationality": "Italy"
         },
         {
-            "id": 219589,
-            "name": "Federico Agazzi",
+            "id": 267913,
+            "name": "Francesco Tommasi",
             "position": "Goalkeeper",
-            "dateOfBirth": "2004-04-18",
+            "dateOfBirth": "2006-03-08",
             "nationality": "Italy"
         },
         {
@@ -87,24 +94,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 84509,
-            "name": "Luka Lochoshvili",
-            "position": "Defence",
-            "dateOfBirth": "1998-05-29",
-            "nationality": "Georgia"
-        },
-        {
             "id": 124704,
             "name": "Tommaso Barbieri",
             "position": "Defence",
             "dateOfBirth": "2002-08-26",
-            "nationality": "Italy"
-        },
-        {
-            "id": 124711,
-            "name": "Giacomo Quagliata",
-            "position": "Defence",
-            "dateOfBirth": "2000-02-19",
             "nationality": "Italy"
         },
         {
@@ -122,11 +115,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 176377,
-            "name": "Maissa Ndiaye",
+            "id": 175839,
+            "name": "Romano Floriani",
             "position": "Defence",
-            "dateOfBirth": "2002-01-28",
-            "nationality": "Senegal"
+            "dateOfBirth": "2003-01-27",
+            "nationality": "Italy"
         },
         {
             "id": 188533,
@@ -150,31 +143,17 @@
             "nationality": "Italy"
         },
         {
-            "id": 217859,
-            "name": "Samuele Regazzetti",
-            "position": "Defence",
-            "dateOfBirth": "2004-07-16",
-            "nationality": "Italy"
-        },
-        {
-            "id": 218265,
-            "name": "Mattia Scaringi",
-            "position": "Defence",
-            "dateOfBirth": "2003-04-07",
-            "nationality": "Italy"
+            "id": 60,
+            "name": "Franco Vázquez",
+            "position": "Midfield",
+            "dateOfBirth": "1989-02-22",
+            "nationality": "Argentina"
         },
         {
             "id": 2496,
             "name": "Michele Castagnetti",
             "position": "Midfield",
             "dateOfBirth": "1989-12-27",
-            "nationality": "Italy"
-        },
-        {
-            "id": 11100,
-            "name": "Luca Zanimacchia",
-            "position": "Midfield",
-            "dateOfBirth": "1998-07-19",
             "nationality": "Italy"
         },
         {
@@ -199,24 +178,10 @@
             "nationality": "Italy"
         },
         {
-            "id": 153844,
-            "name": "Tommaso P. Milanese",
-            "position": "Midfield",
-            "dateOfBirth": "2002-07-31",
-            "nationality": "Italy"
-        },
-        {
             "id": 185014,
             "name": "Christian Acella",
             "position": "Midfield",
             "dateOfBirth": "2002-07-07",
-            "nationality": "Italy"
-        },
-        {
-            "id": 185017,
-            "name": "Joshua Tenkorang",
-            "position": "Midfield",
-            "dateOfBirth": "2000-05-26",
             "nationality": "Italy"
         },
         {
@@ -241,13 +206,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 1889,
-            "name": "César Falletti",
-            "position": "Offence",
-            "dateOfBirth": "1992-12-02",
-            "nationality": "Uruguay"
-        },
-        {
             "id": 11026,
             "name": "Manuel De Luca",
             "position": "Offence",
@@ -269,20 +227,6 @@
             "nationality": "Italy"
         },
         {
-            "id": 192865,
-            "name": "Alberto Basso Ricci",
-            "position": "Offence",
-            "dateOfBirth": "2004-06-29",
-            "nationality": "Italy"
-        },
-        {
-            "id": 261223,
-            "name": "David Stückler",
-            "position": "Offence",
-            "dateOfBirth": "2004-10-07",
-            "nationality": "Denmark"
-        },
-        {
             "id": 264835,
             "name": "Michele Bigonzoni",
             "position": "Offence",
@@ -290,18 +234,11 @@
             "nationality": "Italy"
         },
         {
-            "id": 270475,
-            "name": "Giacomo Gabbiani",
-            "position": "Offence",
-            "dateOfBirth": "2006-06-19",
+            "id": 86045,
+            "name": "Federico Baschirotto",
+            "position": "Centre-Back",
+            "dateOfBirth": "1996-09-20",
             "nationality": "Italy"
-        },
-        {
-            "id": 86122,
-            "name": "Paulo Dentello",
-            "position": "Left-Back",
-            "dateOfBirth": "1994-07-15",
-            "nationality": "Brazil"
         },
         {
             "id": 42179,
@@ -325,10 +262,52 @@
             "nationality": "Italy"
         },
         {
+            "id": 2362,
+            "name": "Alberto Grassi",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1995-03-07",
+            "nationality": "Italy"
+        },
+        {
             "id": 2213,
             "name": "Federico Ceccherini",
             "position": "Centre-Back",
             "dateOfBirth": "1992-05-11",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2155,
+            "name": "Mattia Valoti",
+            "position": "Central Midfield",
+            "dateOfBirth": "1993-09-06",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2120,
+            "name": "Giuseppe Pezzella",
+            "position": "Left-Back",
+            "dateOfBirth": "1997-11-29",
+            "nationality": "Italy"
+        },
+        {
+            "id": 2107,
+            "name": "Alessio Zerbin",
+            "position": "Left Winger",
+            "dateOfBirth": "1999-03-03",
+            "nationality": "Italy"
+        },
+        {
+            "id": 156527,
+            "name": "Warren Bondo",
+            "position": "Central Midfield",
+            "dateOfBirth": "2003-09-15",
+            "nationality": "France"
+        },
+        {
+            "id": 144950,
+            "name": "Filippo Terracciano",
+            "position": "Right-Back",
+            "dateOfBirth": "2003-02-08",
             "nationality": "Italy"
         }
     ],

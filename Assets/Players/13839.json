@@ -1,0 +1,43 @@
+{
+    "id": 13839,
+    "name": "Maracás",
+    "firstName": "",
+    "lastName": "Maracás",
+    "dateOfBirth": "1994-04-27",
+    "nationality": "Brazil",
+    "section": "Centre-Back",
+    "position": "Defence",
+    "shirtNumber": 26,
+    "lastUpdated": "2024-11-01T22:50:30Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 583,
+        "name": "Moreirense FC",
+        "shortName": "Moreirense",
+        "tla": "MOR",
+        "crest": "https://crests.football-data.org/583.png",
+        "address": "Avenida Comendador Joaquim de Almeida Freitas Moreira de Cónegos 4815-270",
+        "website": "http://www.moreirensefc.pt",
+        "founded": 1938,
+        "clubColors": "Green / White",
+        "venue": "P.D. Comendador Joaquim de Almeida Freitas",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2023-07",
+            "until": "2026-06"
+        }
+    }
+}

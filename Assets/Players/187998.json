@@ -7,7 +7,7 @@
     "nationality": "Bosnia-Herzegovina",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 46,
+    "shirtNumber": 5,
     "lastUpdated": "2024-10-14T09:41:31Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,28 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png",
+        "id": 5963,
+        "name": "1. FC Köln II",
+        "shortName": "1. FC Köln II",
+        "tla": "KÖL",
+        "crest": "https://crests.football-data.org/5963.png",
         "address": "Franz-Kremer-Allee 1 Köln 50937",
         "website": "http://www.fc-koeln.de",
         "founded": 1948,
         "clubColors": "Red / White",
-        "venue": "RheinEnergieSTADION",
+        "venue": "Franz-Kremer-Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2168,
+                "name": "Regionalliga West",
+                "code": "RLW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2022-09",
-            "until": "2025-09"
+            "start": "2023-07",
+            "until": "2025-06"
         }
     }
 }

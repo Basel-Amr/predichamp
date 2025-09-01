@@ -66,11 +66,53 @@
             "nationality": "Germany"
         },
         {
+            "id": 256018,
+            "name": "Stefan Smarkalev",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2007-05-14",
+            "nationality": "Bulgaria"
+        },
+        {
+            "id": 275165,
+            "name": "Mick Schmetgens",
+            "position": "Defence",
+            "dateOfBirth": "2007-09-09",
+            "nationality": "Germany"
+        },
+        {
+            "id": 276411,
+            "name": "Karim Coulibaly",
+            "position": "Defence",
+            "dateOfBirth": "2007-05-23",
+            "nationality": "Germany"
+        },
+        {
+            "id": 61630,
+            "name": "Marco Grüll",
+            "position": "Midfield",
+            "dateOfBirth": "1998-07-06",
+            "nationality": "Austria"
+        },
+        {
             "id": 176650,
             "name": "Dikeni Salifou",
             "position": "Midfield",
             "dateOfBirth": "2003-06-08",
             "nationality": "Togo"
+        },
+        {
+            "id": 271982,
+            "name": "Wesley Adeh",
+            "position": "Midfield",
+            "dateOfBirth": "2007-01-08",
+            "nationality": "Germany"
+        },
+        {
+            "id": 273584,
+            "name": "Patrice Čović",
+            "position": "Midfield",
+            "dateOfBirth": "2007-06-25",
+            "nationality": "Croatia"
         },
         {
             "id": 176637,
@@ -80,11 +122,39 @@
             "nationality": "Germany"
         },
         {
+            "id": 280220,
+            "name": "Salim Musah",
+            "position": "Offence",
+            "dateOfBirth": "2006-02-22",
+            "nationality": "Germany"
+        },
+        {
+            "id": 217678,
+            "name": "Samuel Mbangula",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-01-16",
+            "nationality": "Belgium"
+        },
+        {
+            "id": 192455,
+            "name": "Leon Opitz",
+            "position": "Left Midfield",
+            "dateOfBirth": "2005-04-11",
+            "nationality": "Germany"
+        },
+        {
             "id": 178648,
             "name": "Skelly Alvero",
             "position": "Central Midfield",
             "dateOfBirth": "2002-05-04",
             "nationality": "France"
+        },
+        {
+            "id": 153870,
+            "name": "Julián Malatini",
+            "position": "Centre-Back",
+            "dateOfBirth": "2001-05-31",
+            "nationality": "Argentina"
         },
         {
             "id": 145276,
@@ -122,6 +192,13 @@
             "nationality": "Denmark"
         },
         {
+            "id": 16346,
+            "name": "Romano Schmid",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2000-01-27",
+            "nationality": "Austria"
+        },
+        {
             "id": 10559,
             "name": "Felix Agu",
             "position": "Right-Back",
@@ -157,17 +234,10 @@
             "nationality": "Germany"
         },
         {
-            "id": 2263,
-            "name": "Dawid Kownacki",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1997-03-14",
-            "nationality": "Poland"
-        },
-        {
-            "id": 226,
-            "name": "Marvin Ducksch",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1994-03-07",
+            "id": 6555,
+            "name": "Mitchell Weiser",
+            "position": "Right-Back",
+            "dateOfBirth": "1994-04-21",
             "nationality": "Germany"
         },
         {

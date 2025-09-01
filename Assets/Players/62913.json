@@ -7,44 +7,37 @@
     "nationality": "Czech Republic",
     "section": "Centre-Forward",
     "position": "Offence",
-    "shirtNumber": 31,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
-            "id": 2088,
-            "name": "Germany",
-            "code": "DEU",
-            "flag": "https://crests.football-data.org/759.svg"
+            "id": 2247,
+            "name": "Turkey",
+            "code": "TUR",
+            "flag": "https://crests.football-data.org/803.svg"
         },
-        "id": 18,
-        "name": "Borussia Mönchengladbach",
-        "shortName": "M'gladbach",
-        "tla": "BMG",
-        "crest": "https://crests.football-data.org/18.png",
-        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
-        "website": "http://www.borussia.de",
-        "founded": 1900,
-        "clubColors": "Black / White / Green",
-        "venue": "Stadion im Borussia-Park",
+        "id": 605,
+        "name": "Fraport-TAV Antalyaspor",
+        "shortName": "Antalyaspor",
+        "tla": "ANT",
+        "crest": "https://crests.football-data.org/605.png",
+        "address": "Meltem Mahallesi, 3802 Sokak No. 4, Hasan Subaşı Tesisleri Antalya 07030",
+        "website": "http://www.antalyaspor.com.tr",
+        "founded": 1966,
+        "clubColors": "Red / White",
+        "venue": "Antalya 100.yıl Stadyumu",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2070,
+                "name": "Süper Lig",
+                "code": "TSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2023-07",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

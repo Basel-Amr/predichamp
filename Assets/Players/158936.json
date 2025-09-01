@@ -7,7 +7,7 @@
     "nationality": "Italy",
     "section": "Midfield",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 18,
     "lastUpdated": "2023-09-19T09:51:23Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,34 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 113,
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "tla": "NAP",
-        "crest": "https://crests.football-data.org/113.png",
-        "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
-        "website": "http://www.sscnapoli.it",
-        "founded": 1904,
+        "id": 585,
+        "name": "Delfino Pescara 1936",
+        "shortName": "Pescara",
+        "tla": "PES",
+        "crest": "https://crests.football-data.org/585.png",
+        "address": "Via Sandro Pertini, 25, Fabbricato F Pescara 65129",
+        "website": "http://www.pescaracalcio.com",
+        "founded": 1936,
         "clubColors": "Sky Blue / White",
-        "venue": "Stadio San Paolo",
+        "venue": "Stadio Adriatico-Giovanni Cornacchia",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
+            },
+            {
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }

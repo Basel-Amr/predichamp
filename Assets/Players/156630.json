@@ -7,7 +7,7 @@
     "nationality": "Senegal",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 13,
+    "shirtNumber": 5,
     "lastUpdated": "2024-09-02T09:59:11Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2023-07",
+            "start": "2025-07",
             "until": "2028-06"
         }
     }

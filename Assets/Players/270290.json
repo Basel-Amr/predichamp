@@ -16,27 +16,27 @@
             "code": "FRA",
             "flag": "https://crests.football-data.org/773.svg"
         },
-        "id": 519,
-        "name": "AJ Auxerre",
-        "shortName": "Auxerre",
-        "tla": "AJA",
-        "crest": "https://crests.football-data.org/519.png",
-        "address": "Route de Vaux BP 349 Auxerre 89006",
-        "website": "http://www.aja.fr",
-        "founded": 1905,
-        "clubColors": "White / Blue",
-        "venue": "Stade de l'Abbé Deschamps",
+        "id": 6300,
+        "name": "USL Dunkerque",
+        "shortName": "Dunkerque",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/6300.png",
+        "address": "59377 Avenue du Stade B. P. Dunkerque 59377",
+        "website": "http://www.usldunkerque.com",
+        "founded": 1919,
+        "clubColors": "Blue / White",
+        "venue": "Stade Marcel-Tribut",
         "runningCompetitions": [
             {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
+                "id": 2142,
+                "name": "Ligue 2",
+                "code": "FL2",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
+                "emblem": "https://crests.football-data.org/FL2.png"
             }
         ],
         "contract": {
-            "start": "2024-09",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

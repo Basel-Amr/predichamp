@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 44,
+    "shirtNumber": null,
     "lastUpdated": "2024-12-15T09:41:04Z",
     "currentTeam": {
         "area": {
@@ -16,24 +16,17 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 86,
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "tla": "RMA",
-        "crest": "https://crests.football-data.org/86.png",
-        "address": "Avenida Concha Espina, 1 Madrid 28036",
-        "website": "http://www.realmadrid.com",
-        "founded": 1902,
-        "clubColors": "White / Purple",
-        "venue": "Estadio Santiago Bernabéu",
+        "id": 79,
+        "name": "CA Osasuna",
+        "shortName": "Osasuna",
+        "tla": "OSA",
+        "crest": "https://crests.football-data.org/79.png",
+        "address": "Calle del Sadar, s/n Pamplona 31006",
+        "website": "http://www.osasuna.es",
+        "founded": 1920,
+        "clubColors": "Red / Navy Blue",
+        "venue": "Estadio El Sadar",
         "runningCompetitions": [
-            {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
             {
                 "id": 2014,
                 "name": "Primera Division",
@@ -43,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2024-12",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2030-06"
         }
     }
 }

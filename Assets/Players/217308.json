@@ -7,37 +7,37 @@
     "nationality": "Austria",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 17,
     "lastUpdated": "2023-09-18T08:58:33Z",
     "currentTeam": {
         "area": {
-            "id": 2072,
-            "name": "England",
-            "code": "ENG",
-            "flag": "https://crests.football-data.org/770.svg"
+            "id": 2023,
+            "name": "Belgium",
+            "code": "BEL",
+            "flag": "https://crests.football-data.org/805.svg"
         },
-        "id": 328,
-        "name": "Burnley FC",
-        "shortName": "Burnley",
-        "tla": "BUR",
-        "crest": "https://crests.football-data.org/328.png",
-        "address": "Harry Potts Way Burnley BB10 4BX",
-        "website": "http://www.burnleyfootballclub.com",
-        "founded": 1881,
-        "clubColors": "Claret / Sky Blue",
-        "venue": "Turf Moor",
+        "id": 3939,
+        "name": "Cercle Brugge KSV",
+        "shortName": "Cercle Brugge",
+        "tla": "CER",
+        "crest": "https://crests.football-data.org/3939.png",
+        "address": "Olympialaan 74 Brugge 8200",
+        "website": "http://www.cerclebrugge.be",
+        "founded": 1899,
+        "clubColors": "Green / Black / White",
+        "venue": "Jan Breydelstadion",
         "runningCompetitions": [
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
+                "id": 2009,
+                "name": "Jupiler Pro League",
+                "code": "BJL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "emblem": "https://crests.football-data.org/bjl.png"
             }
         ],
         "contract": {
-            "start": "2025-06",
-            "until": "2028-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

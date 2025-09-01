@@ -1,0 +1,281 @@
+{
+    "area": {
+        "id": 2187,
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "https://crests.football-data.org/765.svg"
+    },
+    "id": 5533,
+    "name": "Gil Vicente FC",
+    "shortName": "Gil Vicente",
+    "tla": "GIL",
+    "crest": "https://crests.football-data.org/5533.png",
+    "address": "Rua D. Diogo Pinheiro n.º 25, Apartado 197 Barcelos 4750-282",
+    "website": "http://www.gilvicentefc.pt",
+    "founded": 1924,
+    "clubColors": "Red / Blue",
+    "venue": "Estádio Cidade de Barcelos",
+    "runningCompetitions": [
+        {
+            "id": 2017,
+            "name": "Primeira Liga",
+            "code": "PPL",
+            "type": "LEAGUE",
+            "emblem": "https://crests.football-data.org/PPL.png"
+        }
+    ],
+    "coach": {
+        "id": 114276,
+        "firstName": "",
+        "lastName": "César Peixoto",
+        "name": "César Peixoto",
+        "dateOfBirth": "1980-05-12",
+        "nationality": "Portugal",
+        "contract": {
+            "start": "2025-03",
+            "until": "2026-06"
+        }
+    },
+    "squad": [
+        {
+            "id": 81896,
+            "name": "Andrew",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2001-07-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 171325,
+            "name": "Daniel Figueira",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-07-20",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 184454,
+            "name": "Andre Picornell",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2004-04-03",
+            "nationality": "Sweden"
+        },
+        {
+            "id": 263963,
+            "name": "Miloš Gordić",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2000-03-05",
+            "nationality": "Serbia"
+        },
+        {
+            "id": 37432,
+            "name": "Ghislain Konan",
+            "position": "Defence",
+            "dateOfBirth": "1995-12-27",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 160445,
+            "name": "Marvin Elimbi",
+            "position": "Defence",
+            "dateOfBirth": "2003-02-20",
+            "nationality": "France"
+        },
+        {
+            "id": 204139,
+            "name": "Jonathan Mutombo Mawesi",
+            "position": "Defence",
+            "dateOfBirth": "2002-08-27",
+            "nationality": "France"
+        },
+        {
+            "id": 264219,
+            "name": "Carlos Ventura",
+            "position": "Defence",
+            "dateOfBirth": "2004-02-05",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 281948,
+            "name": "Guilherme Freitas",
+            "position": "Defence",
+            "dateOfBirth": "2006-05-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 98160,
+            "name": "Sergio Bermejo",
+            "position": "Midfield",
+            "dateOfBirth": "1997-08-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 157367,
+            "name": "Luís Esteves",
+            "position": "Midfield",
+            "dateOfBirth": "1998-04-09",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 205576,
+            "name": "Martín Fernández Benítez",
+            "position": "Midfield",
+            "dateOfBirth": "2003-06-23",
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 218939,
+            "name": "Bassco Soyer",
+            "position": "Midfield",
+            "dateOfBirth": "2006-10-17",
+            "nationality": "Peru"
+        },
+        {
+            "id": 260041,
+            "name": "Agustin Moreira",
+            "position": "Midfield",
+            "dateOfBirth": null,
+            "nationality": "Uruguay"
+        },
+        {
+            "id": 263792,
+            "name": "Gui Beleza",
+            "position": "Midfield",
+            "dateOfBirth": "2006-12-09",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 267932,
+            "name": "Mohamed Bamba",
+            "position": "Midfield",
+            "dateOfBirth": "2004-10-08",
+            "nationality": "Ivory Coast"
+        },
+        {
+            "id": 275268,
+            "name": "Diogo Costa",
+            "position": "Midfield",
+            "dateOfBirth": "2003-05-04",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 278446,
+            "name": "Rodrigo Rodrigues",
+            "position": "Midfield",
+            "dateOfBirth": "2007-12-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 122268,
+            "name": "Roko Baturina",
+            "position": "Offence",
+            "dateOfBirth": "2000-06-20",
+            "nationality": "Croatia"
+        },
+        {
+            "id": 143820,
+            "name": "Carlos Eduardo",
+            "position": "Offence",
+            "dateOfBirth": "2002-08-10",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 178755,
+            "name": "Pablo Felipe",
+            "position": "Offence",
+            "dateOfBirth": "2004-01-02",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 252836,
+            "name": "Gustavo Varela",
+            "position": "Offence",
+            "dateOfBirth": "2005-01-30",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 180125,
+            "name": "Santi García",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2001-08-29",
+            "nationality": "Spain"
+        },
+        {
+            "id": 177301,
+            "name": "Tidjany Touré",
+            "position": "Left Winger",
+            "dateOfBirth": "2002-07-15",
+            "nationality": "France"
+        },
+        {
+            "id": 153579,
+            "name": "Facundo Cáseres",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-05-28",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 141483,
+            "name": "José Carlos",
+            "position": "Right-Back",
+            "dateOfBirth": "1998-07-31",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 45422,
+            "name": "João Teixeira",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1994-02-06",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 9125,
+            "name": "Jonathan Buatu",
+            "position": "Centre-Back",
+            "dateOfBirth": "1993-09-27",
+            "nationality": "Angola"
+        },
+        {
+            "id": 8846,
+            "name": "Josué Sá",
+            "position": "Centre-Back",
+            "dateOfBirth": "1992-06-17",
+            "nationality": "Portugal"
+        },
+        {
+            "id": 8765,
+            "name": "Jordi Mboula",
+            "position": "Right Winger",
+            "dateOfBirth": "1999-03-16",
+            "nationality": "Spain"
+        },
+        {
+            "id": 245428,
+            "name": "Arthur Tchaptchet",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-05-10",
+            "nationality": "France"
+        },
+        {
+            "id": 213131,
+            "name": "Heverton Santos",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-02-01",
+            "nationality": "Brazil"
+        },
+        {
+            "id": 211848,
+            "name": "Antonio Espigares",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-09-05",
+            "nationality": "Spain"
+        },
+        {
+            "id": 188094,
+            "name": "Zé Carlos",
+            "position": "Right-Back",
+            "dateOfBirth": "2001-10-30",
+            "nationality": "Portugal"
+        }
+    ],
+    "staff": [],
+    "lastUpdated": "2022-02-19T08:57:44Z"
+}

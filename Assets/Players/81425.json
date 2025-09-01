@@ -7,32 +7,32 @@
     "nationality": "Spain",
     "section": "Goalkeeper",
     "position": "Goalkeeper",
-    "shirtNumber": null,
+    "shirtNumber": 1,
     "lastUpdated": "2023-07-30T17:05:46Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
         },
-        "id": 87,
-        "name": "Rayo Vallecano de Madrid",
-        "shortName": "Rayo Vallecano",
-        "tla": "RAY",
-        "crest": "https://crests.football-data.org/87.png",
-        "address": "Calle del Payaso Fofó, s/n Madrid 28018",
-        "website": "http://www.rayovallecano.es",
-        "founded": 1924,
-        "clubColors": "White / Red",
-        "venue": "Estadio del Rayo Vallecano",
+        "id": 5534,
+        "name": "Leixões SC",
+        "shortName": "Leixões SC",
+        "tla": "LEI",
+        "crest": "https://crests.football-data.org/5534.png",
+        "address": "Lugar da Cruz de Pau, Apt. 2084 Matosinhos 4451",
+        "website": "http://www.leixoessc.pt",
+        "founded": 1907,
+        "clubColors": "Red / White",
+        "venue": "Estádio do Mar",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2096,
+                "name": "Liga2 Cabovisão",
+                "code": "PSL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": null
             }
         ],
         "contract": {

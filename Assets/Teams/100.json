@@ -101,18 +101,81 @@
             "nationality": "Argentina"
         },
         {
-            "id": 279755,
-            "name": "Manuel Nardozi",
-            "position": "Offence",
-            "dateOfBirth": "2006-05-05",
+            "id": 244998,
+            "name": "Matteo Plaia",
+            "position": "Centre-Back",
+            "dateOfBirth": "2006-03-29",
             "nationality": "Italy"
         },
         {
-            "id": 129098,
-            "name": "Saud Abdulhamid",
+            "id": 192382,
+            "name": "Niccolo Pisilli",
+            "position": "Central Midfield",
+            "dateOfBirth": "2004-09-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 189399,
+            "name": "Luigi Cherubini",
+            "position": "Left Winger",
+            "dateOfBirth": "2004-01-15",
+            "nationality": "Italy"
+        },
+        {
+            "id": 177081,
+            "name": "Jan Oliveras",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-07-07",
+            "nationality": "Spain"
+        },
+        {
+            "id": 171121,
+            "name": "Matias Soule",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-04-15",
+            "nationality": "Argentina"
+        },
+        {
+            "id": 170647,
+            "name": "Neil El Aynaoui",
+            "position": "Central Midfield",
+            "dateOfBirth": "2001-07-02",
+            "nationality": "France"
+        },
+        {
+            "id": 156762,
+            "name": "Edoardo Bove",
+            "position": "Central Midfield",
+            "dateOfBirth": "2002-05-16",
+            "nationality": "Italy"
+        },
+        {
+            "id": 154031,
+            "name": "Tommaso Baldanzi",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-03-23",
+            "nationality": "Italy"
+        },
+        {
+            "id": 149173,
+            "name": "Devyne Rensch",
             "position": "Right-Back",
-            "dateOfBirth": "1999-07-18",
-            "nationality": "Saudi Arabia"
+            "dateOfBirth": "2003-01-18",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 137693,
+            "name": "Anass Salah-Eddine",
+            "position": "Left-Back",
+            "dateOfBirth": "2002-01-18",
+            "nationality": "Netherlands"
+        },
+        {
+            "id": 130809,
+            "name": "Evan Ferguson",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2004-10-19",
+            "nationality": "Ireland"
         },
         {
             "id": 102395,
@@ -120,20 +183,6 @@
             "position": "Central Midfield",
             "dateOfBirth": "2001-05-17",
             "nationality": "France"
-        },
-        {
-            "id": 49307,
-            "name": "Eldor Shomurodov",
-            "position": "Centre-Forward",
-            "dateOfBirth": "1995-06-29",
-            "nationality": "Uzbekistan"
-        },
-        {
-            "id": 37903,
-            "name": "Ola Solbakken",
-            "position": "Right Winger",
-            "dateOfBirth": "1998-09-07",
-            "nationality": "Norway"
         },
         {
             "id": 32703,
@@ -162,13 +211,6 @@
             "position": "Left-Back",
             "dateOfBirth": "1997-01-04",
             "nationality": "Spain"
-        },
-        {
-            "id": 3214,
-            "name": "Leandro Paredes",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "1994-06-29",
-            "nationality": "Argentina"
         },
         {
             "id": 2151,
@@ -204,76 +246,6 @@
             "position": "Centre-Back",
             "dateOfBirth": "1999-08-20",
             "nationality": "Ivory Coast"
-        },
-        {
-            "id": 244998,
-            "name": "Matteo Plaia",
-            "position": "Centre-Back",
-            "dateOfBirth": "2006-03-29",
-            "nationality": "Italy"
-        },
-        {
-            "id": 206795,
-            "name": "Riccardo Pagano",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-11-28",
-            "nationality": "Italy"
-        },
-        {
-            "id": 192382,
-            "name": "Niccolo Pisilli",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-09-23",
-            "nationality": "Italy"
-        },
-        {
-            "id": 189399,
-            "name": "Luigi Cherubini",
-            "position": "Left Winger",
-            "dateOfBirth": "2004-01-15",
-            "nationality": "Italy"
-        },
-        {
-            "id": 175753,
-            "name": "Samuel Dahl",
-            "position": "Left-Back",
-            "dateOfBirth": "2003-03-04",
-            "nationality": "Sweden"
-        },
-        {
-            "id": 171121,
-            "name": "Matias Soule",
-            "position": "Right Winger",
-            "dateOfBirth": "2003-04-15",
-            "nationality": "Argentina"
-        },
-        {
-            "id": 156762,
-            "name": "Edoardo Bove",
-            "position": "Central Midfield",
-            "dateOfBirth": "2002-05-16",
-            "nationality": "Italy"
-        },
-        {
-            "id": 154031,
-            "name": "Tommaso Baldanzi",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2003-03-23",
-            "nationality": "Italy"
-        },
-        {
-            "id": 149173,
-            "name": "Devyne Rensch",
-            "position": "Right-Back",
-            "dateOfBirth": "2003-01-18",
-            "nationality": "Netherlands"
-        },
-        {
-            "id": 137693,
-            "name": "Anass Salah-Eddine",
-            "position": "Left-Back",
-            "dateOfBirth": "2002-01-18",
-            "nationality": "Netherlands"
         }
     ],
     "staff": [],

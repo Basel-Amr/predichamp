@@ -7,7 +7,7 @@
     "nationality": "Argentina",
     "section": "Left-Back",
     "position": "Midfield",
-    "shirtNumber": null,
+    "shirtNumber": 79,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,35 +16,35 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 108,
-        "name": "FC Internazionale Milano",
-        "shortName": "Inter",
-        "tla": "INT",
-        "crest": "https://crests.football-data.org/108.png",
-        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-        "website": "http://www.inter.it",
-        "founded": 1908,
-        "clubColors": "Blue / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 445,
+        "name": "Empoli FC",
+        "shortName": "Empoli",
+        "tla": "EMP",
+        "crest": "https://crests.football-data.org/445.png",
+        "address": "Piazza Matteotti Empoli 50053",
+        "website": "http://www.empolicalcio.net",
+        "founded": 1920,
+        "clubColors": "Blue / White",
+        "venue": "Stadio Carlo Castellani",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "id": 2122,
+                "name": "Coppa Italia",
+                "code": "CIT",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CIT.png"
             }
         ],
         "contract": {
             "start": "2025-07",
-            "until": "2027-06"
+            "until": "2026-06"
         }
     }
 }

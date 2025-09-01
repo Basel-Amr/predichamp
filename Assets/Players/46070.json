@@ -7,37 +7,44 @@
     "nationality": "Argentina",
     "section": "Left Winger",
     "position": "Offence",
-    "shirtNumber": 10,
+    "shirtNumber": 17,
     "lastUpdated": "2024-08-23T10:11:36Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2011,
+            "name": "Argentina",
+            "code": "ARG",
+            "flag": "https://crests.football-data.org/ar.svg"
         },
-        "id": 263,
-        "name": "Deportivo Alavés",
-        "shortName": "Alavés",
-        "tla": "ALA",
-        "crest": "https://crests.football-data.org/263.png",
-        "address": "Mendizorroza, Paseo Cervantes, s/n Vitoria 01007",
-        "website": "http://www.alaves.com",
-        "founded": 1921,
+        "id": 6803,
+        "name": "Racing Club",
+        "shortName": "Racing Club",
+        "tla": "RAC",
+        "crest": "https://crests.football-data.org/6803.png",
+        "address": "Avenida Bartolomé Mitre 934 Avellaneda, Buenos Aires 1870",
+        "website": "http://www.racingclub.com.ar",
+        "founded": 1903,
         "clubColors": "Blue / White",
-        "venue": "Estadio de Mendizorroza",
+        "venue": "Estadio Presidente Juan Domingo Perón",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2152,
+                "name": "Copa Libertadores",
+                "code": "CLI",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/CLI.svg"
+            },
+            {
+                "id": 2024,
+                "name": "Liga Profesional",
+                "code": "ASL",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/LPDF.svg"
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2029-12"
         }
     }
 }

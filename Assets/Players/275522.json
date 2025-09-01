@@ -7,7 +7,7 @@
     "nationality": "Denmark",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 56,
+    "shirtNumber": 32,
     "lastUpdated": "2025-02-17T09:43:06Z",
     "currentTeam": {
         "area": {
@@ -36,7 +36,7 @@
             }
         ],
         "contract": {
-            "start": "2025-02",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

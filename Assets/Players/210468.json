@@ -7,51 +7,44 @@
     "nationality": "Brazil",
     "section": "Defensive Midfield",
     "position": "Midfield",
-    "shirtNumber": 20,
+    "shirtNumber": 17,
     "lastUpdated": "2024-08-23T10:11:40Z",
     "currentTeam": {
         "area": {
-            "id": 2081,
-            "name": "France",
-            "code": "FRA",
-            "flag": "https://crests.football-data.org/773.svg"
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
         },
-        "id": 524,
-        "name": "Paris Saint-Germain FC",
-        "shortName": "PSG",
-        "tla": "PSG",
-        "crest": "https://crests.football-data.org/524.png",
-        "address": "24, rue de Commandant Guibaud Paris 7501",
-        "website": "http://www.psg.fr",
-        "founded": 1904,
-        "clubColors": "Red / Blue / White",
-        "venue": "Parc des Princes",
+        "id": 5613,
+        "name": "Sporting Clube de Braga",
+        "shortName": "Braga",
+        "tla": "SCB",
+        "crest": "https://crests.football-data.org/5613.png",
+        "address": "Parque Norte, Monte Crasto, Apartado 12 Braga 4700-087",
+        "website": "http://www.scbraga.pt",
+        "founded": 1921,
+        "clubColors": "Red / White",
+        "venue": "Estádio Municipal de Braga",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            },
+            {
+                "id": 2177,
+                "name": "Taça da Liga",
+                "code": "TDL",
                 "type": "CUP",
                 "emblem": null
-            },
-            {
-                "id": 2157,
-                "name": "UEFA Super Cup",
-                "code": "ESC",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/esc.png"
-            },
-            {
-                "id": 2015,
-                "name": "Ligue 1",
-                "code": "FL1",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/FL1.png"
             }
         ],
         "contract": {
-            "start": "2025-06",
-            "until": "2028-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

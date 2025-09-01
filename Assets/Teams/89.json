@@ -38,6 +38,13 @@
     },
     "squad": [
         {
+            "id": 274,
+            "name": "Cuéllar",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1984-05-25",
+            "nationality": "Spain"
+        },
+        {
             "id": 79776,
             "name": "Dominik Greif",
             "position": "Goalkeeper",
@@ -52,10 +59,38 @@
             "nationality": "Spain"
         },
         {
+            "id": 179663,
+            "name": "Lucas Bergström",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-09-05",
+            "nationality": "Finland"
+        },
+        {
             "id": 180040,
             "name": "Antonio Sánchez",
             "position": "Midfield",
             "dateOfBirth": "1997-04-22",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264398,
+            "name": "Iliesse Salhi",
+            "position": "Midfield",
+            "dateOfBirth": "2007-07-27",
+            "nationality": "Morocco"
+        },
+        {
+            "id": 265348,
+            "name": "Miquel Salas",
+            "position": "Midfield",
+            "dateOfBirth": "2005-08-10",
+            "nationality": "Spain"
+        },
+        {
+            "id": 264439,
+            "name": "Marc Domènech",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2006-12-01",
             "nationality": "Spain"
         },
         {
@@ -66,6 +101,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 185178,
+            "name": "Mateo Fernandez",
+            "position": "Centre-Forward",
+            "dateOfBirth": "2003-10-19",
+            "nationality": "Spain"
+        },
+        {
             "id": 176236,
             "name": "Javier Llabres",
             "position": "Left Winger",
@@ -73,10 +115,10 @@
             "nationality": "Spain"
         },
         {
-            "id": 172108,
-            "name": "Copete",
-            "position": "Centre-Back",
-            "dateOfBirth": "1999-10-10",
+            "id": 159520,
+            "name": "Pablo Torre",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "2003-04-03",
             "nationality": "Spain"
         },
         {
@@ -169,13 +211,6 @@
             "position": "Right Winger",
             "dateOfBirth": "1994-11-10",
             "nationality": "Japan"
-        },
-        {
-            "id": 9097,
-            "name": "Siebe Van der Heyden",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-05-30",
-            "nationality": "Belgium"
         },
         {
             "id": 6713,

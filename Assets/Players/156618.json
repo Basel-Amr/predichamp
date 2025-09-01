@@ -6,7 +6,7 @@
     "dateOfBirth": "2002-04-01",
     "nationality": "Italy",
     "section": "Offence",
-    "position": "Offence",
+    "position": "Midfield",
     "shirtNumber": null,
     "lastUpdated": "2023-07-30T16:42:23Z",
     "currentTeam": {
@@ -16,23 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 471,
-        "name": "US Sassuolo Calcio",
-        "shortName": "Sassuolo",
-        "tla": "SAS",
-        "crest": "https://crests.football-data.org/471.png",
-        "address": "Piazza Risorgimento, 47 Sassuolo 41049",
-        "website": "http://www.sassuolocalcio.it",
-        "founded": 1920,
-        "clubColors": "Green / Black",
-        "venue": "Mapei Stadium - Città del Tricolore",
+        "id": 591,
+        "name": "AC Cesena",
+        "shortName": "Cesena",
+        "tla": "CES",
+        "crest": "https://crests.football-data.org/591.png",
+        "address": "Viale dello Stadio, 124 Cesena 47023",
+        "website": "https://calciocesena.com/",
+        "founded": 1940,
+        "clubColors": "Black / White",
+        "venue": "Stadio Dino Manuzzi",
         "runningCompetitions": [
             {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2121,
+                "name": "Serie B",
+                "code": "SB",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": "https://crests.football-data.org/SB.png"
             },
             {
                 "id": 2122,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2025-07",
-            "until": "2027-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

@@ -45,11 +45,18 @@
             "nationality": "Germany"
         },
         {
-            "id": 81055,
-            "name": "Steven Benda",
+            "id": 8366,
+            "name": "Benjamin Lecomte",
             "position": "Goalkeeper",
-            "dateOfBirth": "1998-10-01",
-            "nationality": "Germany"
+            "dateOfBirth": "1991-04-26",
+            "nationality": "France"
+        },
+        {
+            "id": 246418,
+            "name": "Joshua King",
+            "position": "Central Midfield",
+            "dateOfBirth": "2007-01-03",
+            "nationality": "England"
         },
         {
             "id": 204426,
@@ -57,13 +64,6 @@
             "position": "Left Winger",
             "dateOfBirth": "2003-03-14",
             "nationality": "England"
-        },
-        {
-            "id": 187167,
-            "name": "Luke Harris",
-            "position": "Attacking Midfield",
-            "dateOfBirth": "2005-04-03",
-            "nationality": "Wales"
         },
         {
             "id": 146154,
@@ -147,6 +147,13 @@
             "name": "Harrison Reed",
             "position": "Central Midfield",
             "dateOfBirth": "1995-01-27",
+            "nationality": "England"
+        },
+        {
+            "id": 3965,
+            "name": "Tom Cairney",
+            "position": "Central Midfield",
+            "dateOfBirth": "1991-01-20",
             "nationality": "England"
         },
         {

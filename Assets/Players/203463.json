@@ -7,37 +7,37 @@
     "nationality": "Argentina",
     "section": "Defence",
     "position": "Midfield",
-    "shirtNumber": 10,
+    "shirtNumber": 7,
     "lastUpdated": "2024-08-05T08:21:35Z",
     "currentTeam": {
         "area": {
-            "id": 2224,
-            "name": "Spain",
-            "code": "ESP",
-            "flag": "https://crests.football-data.org/760.svg"
+            "id": 2256,
+            "name": "United States",
+            "code": "USA",
+            "flag": "https://crests.football-data.org/usa.svg"
         },
-        "id": 285,
-        "name": "Elche CF",
-        "shortName": "Elche",
-        "tla": "ELC",
-        "crest": "https://crests.football-data.org/285.png",
-        "address": "Avenida Manuel Martínez Valero, 3 Elche 03208",
-        "website": "http://www.elchecf.es",
-        "founded": 1923,
-        "clubColors": "White / Green",
-        "venue": "Estadio Manuel Martínez Valero",
+        "id": 7469,
+        "name": "New York City FC",
+        "shortName": "New York City",
+        "tla": "NYC",
+        "crest": "https://crests.football-data.org/7469.png",
+        "address": "600 Third Avenue, 30th Floor Bronx, NY 100016",
+        "website": "http://www.nycfc.com",
+        "founded": 2013,
+        "clubColors": "Sky Blue / White",
+        "venue": "Red Bull Arena",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2145,
+                "name": "MLS",
+                "code": "MLS",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/MLS.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2029-12"
         }
     }
 }

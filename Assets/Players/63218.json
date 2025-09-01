@@ -7,7 +7,7 @@
     "nationality": "Bosnia-Herzegovina",
     "section": "Offence",
     "position": "Offence",
-    "shirtNumber": 26,
+    "shirtNumber": 15,
     "lastUpdated": "2024-07-30T09:41:17Z",
     "currentTeam": {
         "area": {
@@ -16,16 +16,16 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 2,
-        "name": "TSG 1899 Hoffenheim",
-        "shortName": "Hoffenheim",
-        "tla": "TSG",
-        "crest": "https://crests.football-data.org/2.png",
-        "address": "Horrenberger Straße 58 Zuzenhausen 74939",
-        "website": "http://www.achtzehn99.de",
-        "founded": 1921,
-        "clubColors": "Blue / White",
-        "venue": "PreZero Arena",
+        "id": 18,
+        "name": "Borussia Mönchengladbach",
+        "shortName": "M'gladbach",
+        "tla": "BMG",
+        "crest": "https://crests.football-data.org/18.png",
+        "address": "Hennes-Weisweiler-Allee 1 Mönchengladbach 41179",
+        "website": "http://www.borussia.de",
+        "founded": 1900,
+        "clubColors": "Black / White / Green",
+        "venue": "Stadion im Borussia-Park",
         "runningCompetitions": [
             {
                 "id": 2011,
@@ -43,8 +43,8 @@
             }
         ],
         "contract": {
-            "start": "2024-08",
-            "until": "2027-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

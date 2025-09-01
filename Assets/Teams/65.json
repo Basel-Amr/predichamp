@@ -17,13 +17,6 @@
     "venue": "Etihad Stadium",
     "runningCompetitions": [
         {
-            "id": 2178,
-            "name": "FIFA Club World Cup",
-            "code": "FCWC",
-            "type": "CUP",
-            "emblem": null
-        },
-        {
             "id": 2021,
             "name": "Premier League",
             "code": "PL",
@@ -66,18 +59,25 @@
             "nationality": "Germany"
         },
         {
+            "id": 153874,
+            "name": "James Trafford",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-10-10",
+            "nationality": "England"
+        },
+        {
+            "id": 180453,
+            "name": "Sverre Nypan",
+            "position": "Midfield",
+            "dateOfBirth": "2006-12-19",
+            "nationality": "Norway"
+        },
+        {
             "id": 206743,
             "name": "Nico O'Reilly",
             "position": "Midfield",
             "dateOfBirth": "2005-03-21",
             "nationality": "England"
-        },
-        {
-            "id": 272311,
-            "name": "Farid Alfa-Ruprecht",
-            "position": "Offence",
-            "dateOfBirth": "2006-03-28",
-            "nationality": "Germany"
         },
         {
             "id": 38101,
@@ -129,24 +129,10 @@
             "nationality": "England"
         },
         {
-            "id": 3895,
-            "name": "Jack Grealish",
-            "position": "Left Winger",
-            "dateOfBirth": "1995-09-10",
-            "nationality": "England"
-        },
-        {
             "id": 3313,
             "name": "John Stones",
             "position": "Centre-Back",
             "dateOfBirth": "1994-05-28",
-            "nationality": "England"
-        },
-        {
-            "id": 3311,
-            "name": "Kyle Walker",
-            "position": "Right-Back",
-            "dateOfBirth": "1990-05-28",
             "nationality": "England"
         },
         {
@@ -185,20 +171,6 @@
             "nationality": "Croatia"
         },
         {
-            "id": 272307,
-            "name": "Jahmai Simpson-Pusey",
-            "position": "Centre-Back",
-            "dateOfBirth": "2005-11-04",
-            "nationality": "England"
-        },
-        {
-            "id": 249196,
-            "name": "Vitor Reis",
-            "position": "Centre-Back",
-            "dateOfBirth": "2006-01-12",
-            "nationality": "Brazil"
-        },
-        {
             "id": 212868,
             "name": "Abdukodir Khusanov",
             "position": "Centre-Back",
@@ -225,13 +197,6 @@
             "position": "Right Winger",
             "dateOfBirth": "2003-07-12",
             "nationality": "Norway"
-        },
-        {
-            "id": 179159,
-            "name": "Maximo Perrone",
-            "position": "Defensive Midfield",
-            "dateOfBirth": "2003-01-07",
-            "nationality": "Argentina"
         },
         {
             "id": 172956,

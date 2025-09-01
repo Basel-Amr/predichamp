@@ -7,7 +7,7 @@
     "nationality": "Spain",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 30,
+    "shirtNumber": null,
     "lastUpdated": "2024-08-12T11:57:15Z",
     "currentTeam": {
         "area": {
@@ -16,27 +16,27 @@
             "code": "ESP",
             "flag": "https://crests.football-data.org/760.svg"
         },
-        "id": 94,
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "tla": "VIL",
-        "crest": "https://crests.football-data.org/94.png",
-        "address": "Camino Miralcamp, s/n Villarreal 12540",
-        "website": "http://www.villarrealcf.es",
-        "founded": 1923,
-        "clubColors": "Yellow / Blue",
-        "venue": "Estadio de la Cerámica",
+        "id": 295,
+        "name": "Córdoba CF",
+        "shortName": "Córdoba",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/295.png",
+        "address": "Avenida del Arcángel s/n Córdoba 14010",
+        "website": "http://www.cordobacf.com",
+        "founded": 1954,
+        "clubColors": "White / Green",
+        "venue": "Estadio Nuevo Arcángel",
         "runningCompetitions": [
             {
-                "id": 2014,
-                "name": "Primera Division",
-                "code": "PD",
+                "id": 2077,
+                "name": "Segunda División",
+                "code": "SD",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/laliga.png"
+                "emblem": "https://crests.football-data.org/SD.png"
             }
         ],
         "contract": {
-            "start": "2024-07",
+            "start": "2025-07",
             "until": "2026-06"
         }
     }

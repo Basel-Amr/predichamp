@@ -7,8 +7,8 @@
     "nationality": "England",
     "section": "Central Midfield",
     "position": "Midfield",
-    "shirtNumber": 73,
-    "lastUpdated": "2024-08-23T09:25:15Z",
+    "shirtNumber": 26,
+    "lastUpdated": "2025-08-05T09:43:07Z",
     "currentTeam": {
         "area": {
             "id": 2072,
@@ -16,35 +16,35 @@
             "code": "ENG",
             "flag": "https://crests.football-data.org/770.svg"
         },
-        "id": 73,
-        "name": "Tottenham Hotspur FC",
-        "shortName": "Tottenham",
-        "tla": "TOT",
-        "crest": "https://crests.football-data.org/73.png",
-        "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
-        "website": "http://www.tottenhamhotspur.com",
-        "founded": 1882,
-        "clubColors": "Navy Blue / White",
-        "venue": "Tottenham Hotspur Stadium",
+        "id": 391,
+        "name": "Notts County FC",
+        "shortName": "Notts County",
+        "tla": "NOT",
+        "crest": "https://crests.football-data.org/391.png",
+        "address": "Meadow Lane Nottingham NG2 3HJ",
+        "website": "http://www.nottscountyfc.co.uk",
+        "founded": 1862,
+        "clubColors": "Black / White",
+        "venue": "Meadow Lane Stadium",
         "runningCompetitions": [
             {
-                "id": 2157,
-                "name": "UEFA Super Cup",
-                "code": "ESC",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/esc.png"
+                "id": 2054,
+                "name": "League Two",
+                "code": "EL2",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/el2.png"
             },
             {
-                "id": 2021,
-                "name": "Premier League",
-                "code": "PL",
-                "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/PL.png"
+                "id": 2139,
+                "name": "Football League Cup",
+                "code": "FLC",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/carabao.png"
             }
         ],
         "contract": {
-            "start": "2024-05",
-            "until": "2029-06"
+            "start": "2025-08",
+            "until": "2026-06"
         }
     }
 }

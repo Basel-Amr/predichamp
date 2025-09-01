@@ -52,11 +52,25 @@
             "nationality": "Brazil"
         },
         {
+            "id": 188765,
+            "name": "Ruben Gomez",
+            "position": "Goalkeeper",
+            "dateOfBirth": "2002-01-24",
+            "nationality": "Spain"
+        },
+        {
             "id": 245756,
             "name": "Alex Quevedo",
             "position": "Goalkeeper",
             "dateOfBirth": "2004-04-28",
             "nationality": "Spain"
+        },
+        {
+            "id": 272229,
+            "name": "Valou",
+            "position": "Defence",
+            "dateOfBirth": "2006-01-01",
+            "nationality": "Ivory Coast"
         },
         {
             "id": 213263,
@@ -101,18 +115,11 @@
             "nationality": "Spain"
         },
         {
-            "id": 206721,
-            "name": "Dani Requena",
-            "position": "Central Midfield",
-            "dateOfBirth": "2004-02-12",
-            "nationality": "Spain"
-        },
-        {
-            "id": 192121,
-            "name": "Jorge Pascual",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2003-04-09",
-            "nationality": "Spain"
+            "id": 212858,
+            "name": "Santiago Mouriño",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-02-13",
+            "nationality": "Uruguay"
         },
         {
             "id": 185093,
@@ -129,6 +136,13 @@
             "nationality": "Spain"
         },
         {
+            "id": 176758,
+            "name": "Rafa Marin",
+            "position": "Centre-Back",
+            "dateOfBirth": "2002-05-19",
+            "nationality": "Spain"
+        },
+        {
             "id": 176202,
             "name": "Ilias Akhomach",
             "position": "Right Winger",
@@ -136,18 +150,18 @@
             "nationality": "Spain"
         },
         {
-            "id": 171995,
-            "name": "Thierno Barry",
-            "position": "Centre-Forward",
-            "dateOfBirth": "2000-01-12",
-            "nationality": "France"
-        },
-        {
             "id": 150533,
             "name": "Alberto Moleiro",
             "position": "Attacking Midfield",
             "dateOfBirth": "2003-09-30",
             "nationality": "Spain"
+        },
+        {
+            "id": 113175,
+            "name": "Tajon Buchanan",
+            "position": "Right Midfield",
+            "dateOfBirth": "1999-02-08",
+            "nationality": "Canada"
         },
         {
             "id": 32719,
@@ -162,13 +176,6 @@
             "position": "Attacking Midfield",
             "dateOfBirth": "1994-01-06",
             "nationality": "Spain"
-        },
-        {
-            "id": 9870,
-            "name": "Arnaut Danjuma",
-            "position": "Left Winger",
-            "dateOfBirth": "1997-01-31",
-            "nationality": "Netherlands"
         },
         {
             "id": 8412,
@@ -218,6 +225,13 @@
             "position": "Left-Back",
             "dateOfBirth": "1996-04-09",
             "nationality": "Spain"
+        },
+        {
+            "id": 110,
+            "name": "Thomas Partey",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1993-06-13",
+            "nationality": "Ghana"
         }
     ],
     "staff": [],

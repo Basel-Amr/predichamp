@@ -1,0 +1,43 @@
+{
+    "id": 276658,
+    "name": "Tiago Parente",
+    "firstName": "",
+    "lastName": "Tiago Parente",
+    "dateOfBirth": "2004-01-14",
+    "nationality": "Portugal",
+    "section": "Defence",
+    "position": "Defence",
+    "shirtNumber": null,
+    "lastUpdated": "2025-03-09T09:42:53Z",
+    "currentTeam": {
+        "area": {
+            "id": 2187,
+            "name": "Portugal",
+            "code": "POR",
+            "flag": "https://crests.football-data.org/765.svg"
+        },
+        "id": 582,
+        "name": "GD Estoril Praia",
+        "shortName": "Estoril Praia",
+        "tla": "EST",
+        "crest": "https://crests.football-data.org/582.png",
+        "address": "Estádio António Coimbra da Mota Estoril 2765",
+        "website": "http://www.estorilpraia.pt",
+        "founded": 1939,
+        "clubColors": "Yellow / Blue",
+        "venue": "Estádio António Coimbra da Mota",
+        "runningCompetitions": [
+            {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/PPL.png"
+            }
+        ],
+        "contract": {
+            "start": "2025-03",
+            "until": "2026-06"
+        }
+    }
+}

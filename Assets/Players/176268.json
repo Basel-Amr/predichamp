@@ -16,42 +16,28 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 4,
-        "name": "Borussia Dortmund",
-        "shortName": "Dortmund",
+        "id": 553,
+        "name": "BV Borussia 09 Dortmund II",
+        "shortName": "Dortmund II",
         "tla": "BVB",
-        "crest": "https://crests.football-data.org/4.png",
+        "crest": "https://crests.football-data.org/553.png",
         "address": "Rheinlanddamm 207-209 Dortmund 44137",
         "website": "http://www.bvb.de",
         "founded": 1909,
         "clubColors": "Black / Yellow",
-        "venue": "Signal Iduna Park",
+        "venue": "Stadion Rote Erde",
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2168,
+                "name": "Regionalliga West",
+                "code": "RLW",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": null
             }
         ],
         "contract": {
-            "start": "2021-11",
-            "until": "2027-06"
+            "start": "2023-07",
+            "until": "2026-06"
         }
     }
 }

@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": 5,
+    "shirtNumber": 3,
     "lastUpdated": "2024-10-09T09:42:50Z",
     "currentTeam": {
         "area": {
@@ -36,8 +36,8 @@
             }
         ],
         "contract": {
-            "start": "2025-01",
-            "until": "2026-06"
+            "start": "2025-07",
+            "until": "2029-06"
         }
     }
 }

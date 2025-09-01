@@ -45,10 +45,24 @@
     },
     "squad": [
         {
-            "id": 6572,
-            "name": "Lennart Grill",
+            "id": 3450,
+            "name": "Frederik Rønnow",
             "position": "Goalkeeper",
-            "dateOfBirth": "1999-01-25",
+            "dateOfBirth": "1992-08-04",
+            "nationality": "Denmark"
+        },
+        {
+            "id": 50717,
+            "name": "Carl Klaus",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1994-01-16",
+            "nationality": "Germany"
+        },
+        {
+            "id": 144395,
+            "name": "Matheo Raab",
+            "position": "Goalkeeper",
+            "dateOfBirth": "1998-12-18",
             "nationality": "Germany"
         },
         {
@@ -57,6 +71,13 @@
             "position": "Goalkeeper",
             "dateOfBirth": "2004-09-17",
             "nationality": "Germany"
+        },
+        {
+            "id": 152811,
+            "name": "Leopold Querfeld",
+            "position": "Defence",
+            "dateOfBirth": "2003-12-20",
+            "nationality": "Austria"
         },
         {
             "id": 279839,
@@ -70,6 +91,13 @@
             "name": "Tim Skarke",
             "position": "Midfield",
             "dateOfBirth": "1996-09-07",
+            "nationality": "Germany"
+        },
+        {
+            "id": 212115,
+            "name": "David Preu",
+            "position": "Midfield",
+            "dateOfBirth": "2004-10-26",
             "nationality": "Germany"
         },
         {
@@ -101,6 +129,13 @@
             "nationality": "Germany"
         },
         {
+            "id": 203039,
+            "name": "Stanley N'Soki",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-04-09",
+            "nationality": "France"
+        },
+        {
             "id": 188299,
             "name": "Aljoscha Kemlein",
             "position": "Defensive Midfield",
@@ -113,6 +148,27 @@
             "position": "Centre-Forward",
             "dateOfBirth": "2000-04-03",
             "nationality": "Serbia"
+        },
+        {
+            "id": 171757,
+            "name": "Tom Rothe",
+            "position": "Left-Back",
+            "dateOfBirth": "2004-10-29",
+            "nationality": "Germany"
+        },
+        {
+            "id": 72432,
+            "name": "Jeong Wooyeong",
+            "position": "Attacking Midfield",
+            "dateOfBirth": "1999-09-20",
+            "nationality": "South Korea"
+        },
+        {
+            "id": 72117,
+            "name": "András Schafer",
+            "position": "Central Midfield",
+            "dateOfBirth": "1999-04-13",
+            "nationality": "Hungary"
         },
         {
             "id": 67886,
@@ -129,11 +185,25 @@
             "nationality": "Czech Republic"
         },
         {
+            "id": 37796,
+            "name": "Diogo Leite",
+            "position": "Centre-Back",
+            "dateOfBirth": "1999-01-23",
+            "nationality": "Portugal"
+        },
+        {
             "id": 23202,
             "name": "Josip Juranović",
             "position": "Right-Back",
             "dateOfBirth": "1995-08-16",
             "nationality": "Croatia"
+        },
+        {
+            "id": 10195,
+            "name": "Robert Skov",
+            "position": "Left Midfield",
+            "dateOfBirth": "1996-05-20",
+            "nationality": "Denmark"
         },
         {
             "id": 9489,
@@ -143,11 +213,11 @@
             "nationality": "Germany"
         },
         {
-            "id": 9421,
-            "name": "Paul Jaeckel",
-            "position": "Centre-Back",
-            "dateOfBirth": "1998-07-22",
-            "nationality": "Germany"
+            "id": 8465,
+            "name": "Lucas Tousart",
+            "position": "Defensive Midfield",
+            "dateOfBirth": "1997-04-29",
+            "nationality": "France"
         },
         {
             "id": 8027,

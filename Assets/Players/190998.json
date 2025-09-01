@@ -7,7 +7,7 @@
     "nationality": "France",
     "section": "Right Winger",
     "position": "Offence",
-    "shirtNumber": null,
+    "shirtNumber": 10,
     "lastUpdated": "2024-08-23T09:25:23Z",
     "currentTeam": {
         "area": {
@@ -16,30 +16,23 @@
             "code": "ITA",
             "flag": "https://crests.football-data.org/784.svg"
         },
-        "id": 108,
-        "name": "FC Internazionale Milano",
-        "shortName": "Inter",
-        "tla": "INT",
-        "crest": "https://crests.football-data.org/108.png",
-        "address": "Corso Vittorio Emanuele II 9 Milano 20122",
-        "website": "http://www.inter.it",
-        "founded": 1908,
-        "clubColors": "Blue / Black",
-        "venue": "Stadio Giuseppe Meazza",
+        "id": 11281,
+        "name": "Inter II",
+        "shortName": "Inter II",
+        "tla": "",
+        "crest": "https://crests.football-data.org/11281.png",
+        "address": "null null null",
+        "website": null,
+        "founded": null,
+        "clubColors": null,
+        "venue": null,
         "runningCompetitions": [
             {
-                "id": 2178,
-                "name": "FIFA Club World Cup",
-                "code": "FCWC",
-                "type": "CUP",
-                "emblem": null
-            },
-            {
-                "id": 2019,
-                "name": "Serie A",
-                "code": "SA",
+                "id": 2162,
+                "name": "Serie C - Girone A",
+                "code": "ISCA",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/SA.png"
+                "emblem": null
             }
         ],
         "contract": {

@@ -59,13 +59,6 @@
             "nationality": "Spain"
         },
         {
-            "id": 189528,
-            "name": "Martin Conde",
-            "position": "Defence",
-            "dateOfBirth": "2003-03-25",
-            "nationality": "Spain"
-        },
-        {
             "id": 279927,
             "name": "Manuel Fernández",
             "position": "Defence",
@@ -87,6 +80,20 @@
             "nationality": "Norway"
         },
         {
+            "id": 272435,
+            "name": "Miguel Román",
+            "position": "Midfield",
+            "dateOfBirth": "2002-12-26",
+            "nationality": "Spain"
+        },
+        {
+            "id": 180104,
+            "name": "Bryan Zaragoza",
+            "position": "Offence",
+            "dateOfBirth": "2001-04-25",
+            "nationality": "Spain"
+        },
+        {
             "id": 253001,
             "name": "Javi Rueda",
             "position": "Right-Back",
@@ -94,17 +101,17 @@
             "nationality": "Spain"
         },
         {
+            "id": 252993,
+            "name": "Yoel Lago",
+            "position": "Centre-Back",
+            "dateOfBirth": "2004-03-25",
+            "nationality": "Spain"
+        },
+        {
             "id": 229003,
             "name": "Javi Rodríguez",
             "position": "Centre-Back",
             "dateOfBirth": "2003-06-26",
-            "nationality": "Spain"
-        },
-        {
-            "id": 189380,
-            "name": "Carlos Dotor",
-            "position": "Central Midfield",
-            "dateOfBirth": "2001-03-15",
             "nationality": "Spain"
         },
         {
@@ -119,6 +126,13 @@
             "name": "Damian Rodriguez",
             "position": "Defensive Midfield",
             "dateOfBirth": "2003-03-17",
+            "nationality": "Spain"
+        },
+        {
+            "id": 175892,
+            "name": "Hugo Gonzalez",
+            "position": "Right Winger",
+            "dateOfBirth": "2003-02-07",
             "nationality": "Spain"
         },
         {
@@ -171,13 +185,6 @@
             "nationality": "Spain"
         },
         {
-            "id": 118715,
-            "name": "Manuel Sánchez",
-            "position": "Left-Back",
-            "dateOfBirth": "2000-08-24",
-            "nationality": "Spain"
-        },
-        {
             "id": 57610,
             "name": "Mihajlo Ristić",
             "position": "Left-Back",
@@ -185,24 +192,17 @@
             "nationality": "Serbia"
         },
         {
-            "id": 32584,
-            "name": "Unai Núñez",
-            "position": "Centre-Back",
-            "dateOfBirth": "1997-01-30",
-            "nationality": "Spain"
-        },
-        {
-            "id": 32510,
-            "name": "Carles Pérez",
-            "position": "Right Winger",
-            "dateOfBirth": "1998-02-16",
-            "nationality": "Spain"
-        },
-        {
             "id": 32111,
             "name": "Fran Beltrán",
             "position": "Central Midfield",
             "dateOfBirth": "1999-02-03",
+            "nationality": "Spain"
+        },
+        {
+            "id": 32056,
+            "name": "Borja Iglesias",
+            "position": "Centre-Forward",
+            "dateOfBirth": "1993-01-17",
             "nationality": "Spain"
         },
         {
@@ -231,6 +231,13 @@
             "name": "Iago Aspas",
             "position": "Centre-Forward",
             "dateOfBirth": "1987-08-01",
+            "nationality": "Spain"
+        },
+        {
+            "id": 3195,
+            "name": "Marcos Alonso",
+            "position": "Left-Back",
+            "dateOfBirth": "1990-12-28",
             "nationality": "Spain"
         }
     ],

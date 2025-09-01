@@ -7,29 +7,44 @@
     "nationality": "Georgia",
     "section": "Defence",
     "position": "Defence",
-    "shirtNumber": 47,
+    "shirtNumber": 24,
     "lastUpdated": "2024-06-12T17:56:52Z",
     "currentTeam": {
         "area": {
-            "id": 2114,
-            "name": "Italy",
-            "code": "ITA",
-            "flag": "https://crests.football-data.org/784.svg"
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 455,
-        "name": "US Salernitana 1919",
-        "shortName": "Salernitana",
-        "tla": "SAL",
-        "crest": "https://crests.football-data.org/455.png",
-        "address": "Via San Leonardo, 51 Salerno 84131",
-        "website": "http://www.ussalernitana1919.it",
-        "founded": 1919,
-        "clubColors": null,
-        "venue": "Stadio Arechi",
-        "runningCompetitions": [],
+        "id": 14,
+        "name": "1. FC Nürnberg",
+        "shortName": "Nürnberg",
+        "tla": "FCN",
+        "crest": "https://crests.football-data.org/14.png",
+        "address": "Valznerweiherstraße 200 Nürnberg 90480",
+        "website": "http://www.fcn.de",
+        "founded": 1900,
+        "clubColors": "Red / White",
+        "venue": "Max-Morlock-Stadion",
+        "runningCompetitions": [
+            {
+                "id": 2011,
+                "name": "DFB-Pokal",
+                "code": "DFB",
+                "type": "CUP",
+                "emblem": "https://crests.football-data.org/DFB_CUP.png"
+            },
+            {
+                "id": 2004,
+                "name": "2. Bundesliga",
+                "code": "BL2",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/BL2.png"
+            }
+        ],
         "contract": {
-            "start": "2025-01",
-            "until": "2025-06"
+            "start": "2025-07",
+            "until": "2026-06"
         }
     }
 }

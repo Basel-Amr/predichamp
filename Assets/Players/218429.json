@@ -7,7 +7,7 @@
     "nationality": "Germany",
     "section": "Centre-Back",
     "position": "Defence",
-    "shirtNumber": null,
+    "shirtNumber": 13,
     "lastUpdated": "2024-08-12T11:57:09Z",
     "currentTeam": {
         "area": {
@@ -16,34 +16,27 @@
             "code": "DEU",
             "flag": "https://crests.football-data.org/759.svg"
         },
-        "id": 721,
-        "name": "RB Leipzig",
-        "shortName": "RB Leipzig",
-        "tla": "RBL",
-        "crest": "https://crests.football-data.org/721.png",
-        "address": "Neumarkt 29-33 Leipzig 04109",
-        "website": "http://www.dierotenbullen.com",
-        "founded": 2009,
+        "id": 45,
+        "name": "VfB Stuttgart II",
+        "shortName": "Stuttgart II",
+        "tla": "STU",
+        "crest": "https://crests.football-data.org/45.png",
+        "address": "Mercedesstraße 109 Stuttgart 70372",
+        "website": "http://www.vfb.de",
+        "founded": 1893,
         "clubColors": "White / Red",
-        "venue": "Red Bull Arena",
+        "venue": "Robert-Schlienz-Stadion",
         "runningCompetitions": [
             {
-                "id": 2011,
-                "name": "DFB-Pokal",
-                "code": "DFB",
-                "type": "CUP",
-                "emblem": "https://crests.football-data.org/DFB_CUP.png"
-            },
-            {
-                "id": 2002,
-                "name": "Bundesliga",
-                "code": "BL1",
+                "id": 2140,
+                "name": "3. Bundesliga",
+                "code": "BL3",
                 "type": "LEAGUE",
-                "emblem": "https://crests.football-data.org/BL1.png"
+                "emblem": "https://crests.football-data.org/BL3.png"
             }
         ],
         "contract": {
-            "start": "2025-07",
+            "start": "2025-08",
             "until": "2026-06"
         }
     }
