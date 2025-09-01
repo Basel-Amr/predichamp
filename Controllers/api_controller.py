@@ -577,8 +577,17 @@ def insert_or_update_match_with_score(conn, match, league_id):
         stage_id = cur.lastrowid
         conn.commit()
 
+    # --- Ensure teams exist ---
+    home_team_id = match.get("homeTeam", {}).get("id")
+    away_team_id = match.get("awayTeam", {}).get("id")
+
+    if not home_team_id or not away_team_id:
+        # Skip this match gracefully
+        print(f"⚠️ Skipping match {match.get('id')} - missing team info (home={home_team_id}, away={away_team_id})")
+        return "skipped"
+
     # Venue
-    cur.execute("SELECT Venue_name FROM teams WHERE id = ?", (match['homeTeam']['id'],))
+    cur.execute("SELECT Venue_name FROM teams WHERE id = ?", (home_team_id,))
     venue_row = cur.fetchone()
     venue_name = venue_row[0] if venue_row and venue_row[0] else 'Unknown'
 
@@ -590,8 +599,8 @@ def insert_or_update_match_with_score(conn, match, league_id):
 
     is_predictable = int(
         league_id == 2021 or
-        match['homeTeam']['id'] in (81, 86) or
-        match['awayTeam']['id'] in (81, 86)
+        home_team_id in (81, 86) or
+        away_team_id in (81, 86)
     )
 
     # Scores
@@ -628,7 +637,7 @@ def insert_or_update_match_with_score(conn, match, league_id):
             ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             round_id, league_id,
-            match['homeTeam']['id'], match['awayTeam']['id'],
+            home_team_id, away_team_id,
             dt.isoformat(), status, match.get("matchday", 0), api_match_id,
             stage_id, is_predictable, venue_name,
             home_score, away_score
@@ -639,3 +648,4 @@ def insert_or_update_match_with_score(conn, match, league_id):
     # --- Sync statuses for all matches ---
     update_all_match_statuses(conn)
     return action
+

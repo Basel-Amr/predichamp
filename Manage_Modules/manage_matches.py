@@ -50,7 +50,7 @@ def manage_matches():
         nationality = league['country']
 
         if nationality.lower() == "europe":
-            team_query = "SELECT id, name FROM teams WHERE continent = 'Europe'"
+            team_query = "SELECT id, name FROM teams WHERE nationality = 'Europe'"
             teams = fetch_all(team_query)
         else:
             team_query = "SELECT id, name FROM teams WHERE nationality = ?"
