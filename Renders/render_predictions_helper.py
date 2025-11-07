@@ -12,7 +12,7 @@ import uuid
 import tzlocal  # <--- get user's OS timezone (for local dev)
 from datetime import datetime, timedelta, timezone
 from Controllers import predictions_controller as ctrl
-from Controllers.teams_controller import get_team_id_by_name
+from Controllers.teams_controller import get_team_id_by_name, get_team_name_by_id
 
 # 🎨 Optional: Unique colors per league
 LEAGUE_COLORS = {
@@ -740,12 +740,17 @@ def render_prediction_form(match, player_id):
 
 
 
-def render_prediction_result(match, player_id,can_predict=True):
+def render_prediction_result(match, player_id, can_predict=True):
+    """
+    Render the prediction result for a given match and player.
+    Displays predicted score, penalty winner (if any), and final points.
+    """
     if not player_id:
-        return ""  # no player, no prediction
+        return ""  # No player logged in
 
     existing = get_existing_prediction(player_id, match["id"])
     if not existing:
+        # Handle no prediction made yet
         if can_predict:
             return """
             <div class="predicted_result" style="
@@ -761,34 +766,75 @@ def render_prediction_result(match, player_id,can_predict=True):
             </div>
             """
         else:
-             return """
+            return """
             <div class="predicted_result" style="
-                    margin-top: 12px;
-                    font-style: italic;
-                    color: red;
-                    font-size: 1.1rem;
-                    text-align: center;
-                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                    user-select: none;
-                ">
-                    <em>⚠️ Prediction closed. Deadline passed.</em>
-                </div>
+                margin-top: 12px;
+                font-style: italic;
+                color: red;
+                font-size: 1.1rem;
+                text-align: center;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                user-select: none;
+            ">
+                <em>⚠️ Prediction closed. Deadline passed.</em>
+            </div>
             """
 
+    # Extract existing prediction values
     pred_home = existing["predicted_home_score"]
     pred_away = existing["predicted_away_score"]
     penalty_winner_id = existing["predicted_penalty_winner_id"]
     pred_score = existing["score"]
 
-    # Penalty text
-    penalty_text = ""
-    if penalty_winner_id and pred_home == pred_away:
-        if penalty_winner_id == match.get("home_team_id"):
-            penalty_text = f" (Penalties: {match['home_team']})"
-        elif penalty_winner_id == match.get("away_team_id"):
-            penalty_text = f" (Penalties: {match['away_team']})"
+    # Prepare penalty text
+    # print("---------------------")
+    # print("DEBUG penalty_winner_id:", penalty_winner_id, "type:", type(penalty_winner_id))
+    # print("DEBUG match home_team_id:", match.get("home_team_id"))
+    # print("DEBUG match away_team_id:", match.get("away_team_id"))
+    # print("DEBUG pred_home, pred_away:", pred_home, pred_away)
 
-    # Score display with colors and icons based on value
+    penalty_text = ""
+
+    # Only proceed for tie predictions with a penalty winner
+    if penalty_winner_id is not None and pred_home == pred_away:
+        try:
+            pwid = int(penalty_winner_id)
+        except (TypeError, ValueError):
+            pwid = None
+
+        home_id = match.get("home_team_id")
+        away_id = match.get("away_team_id")
+
+        # Safely convert IDs
+        try:
+            home_id = int(home_id) if home_id is not None else None
+            away_id = int(away_id) if away_id is not None else None
+        except (TypeError, ValueError):
+            home_id, away_id = None, None
+
+        #print(f"DEBUG casted pwid: {pwid} home_id: {home_id} away_id: {away_id}")
+
+        # ---- Match winner by ID ----
+        if pwid == home_id:
+            winner_name = match.get("home_team") or get_team_name_by_id(pwid)
+            penalty_text = f" (Penalties: {winner_name})"
+            #print("✅ Home wins on penalties")
+        elif pwid == away_id:
+            winner_name = match.get("away_team") or get_team_name_by_id(pwid)
+            penalty_text = f" (Penalties: {winner_name})"
+            #print("✅ Away wins on penalties")
+        else:
+            # Fallback — if the penalty winner ID didn’t match either, fetch from DB
+            winner_name = get_team_name_by_id(pwid)
+            if winner_name:
+                penalty_text = f" (Penalties: {winner_name})"
+            #     print("⚠️ Fallback: Found penalty winner from DB:", winner_name)
+            # else:
+            #     print("⚠️ Could not resolve penalty winner team name.")
+
+    #print("---------------------")
+
+    # ---- Score display ----
     if match['status'] != "finished":
         score_display = """
         <span style="
@@ -796,17 +842,17 @@ def render_prediction_result(match, player_id,can_predict=True):
             color: #ff6f61; 
             font-style: italic;
             user-select: none;
-            ">
+        ">
             ⏳ Score not calculated yet
         </span>
         """
     else:
         score_map = {
-            0: ("➖", "#9e9e9e"),  # gray dash
-            1: ("👍", "#4caf50"),  # green thumbs up
-            2: ("🔥", "#ff9800"),  # orange fire
-            3: ("🌟", "#2196f3"),  # blue star
-            4: ("🏆", "#ffd700"),  # gold trophy
+            0: ("➖", "#9e9e9e"),
+            1: ("👍", "#4caf50"),
+            2: ("🔥", "#ff9800"),
+            3: ("🌟", "#2196f3"),
+            4: ("🏆", "#ffd700"),
         }
         icon, color = score_map.get(pred_score, ("❓", "#cccccc"))
         score_display = f"""
@@ -818,12 +864,12 @@ def render_prediction_result(match, player_id,can_predict=True):
             align-items: center;
             gap: 6px;
             font-size: 1.2rem;
-            ">
+        ">
             {icon} +{pred_score}
         </span>
         """
 
-    # Just text without background or card style
+    # ---- Final HTML render ----
     html = f"""
     <div class="predicted_result" style="
         margin-top: 14px;
@@ -833,8 +879,10 @@ def render_prediction_result(match, player_id,can_predict=True):
         font-size: 1.1rem;
         text-align: center;
         user-select: none;
-        ">
-        🎯 Your Prediction: <span style="color:#a2d5f2;">{pred_home} - {pred_away}</span>{penalty_text}<br><br>
+    ">
+        🎯 Your Prediction: 
+        <span style="color:#a2d5f2;">{pred_home} - {pred_away}</span>
+        {penalty_text}<br><br>
         Score: {score_display}
     </div>
     """

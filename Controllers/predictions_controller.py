@@ -225,11 +225,11 @@ def get_existing_prediction(player_id, match_id):
             p.predicted_penalty_winner_id,
             p.score,
             p.created_at AS prediction_created_at,
-            
+
             m.round_id,
             m.league_id,
-            m.home_team_id,
-            m.away_team_id,
+            m.home_team_id AS match_home_team_id,
+            m.away_team_id AS match_away_team_id,
             m.match_datetime,
             m.status,
             m.home_score,
@@ -242,12 +242,11 @@ def get_existing_prediction(player_id, match_id):
             m.matchday,
             m.Venue_Name,
             m.api_match_id,
-            
+
             ht.name AS home_team,
             at.name AS away_team,
             ht.color AS home_color,
             at.color AS away_color
-            
         FROM predictions p
         JOIN matches m ON p.match_id = m.id
         JOIN teams ht ON m.home_team_id = ht.id
@@ -255,6 +254,8 @@ def get_existing_prediction(player_id, match_id):
         WHERE p.player_id = ? AND p.match_id = ?
     """
     return fetch_one(query, (player_id, match_id))
+
+
 
 
 
@@ -420,3 +421,4 @@ def get_player_id_by_username(username: str) -> int | None:
     if row:
         return row['id']
     return None
+

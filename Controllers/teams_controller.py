@@ -229,3 +229,14 @@ def get_match_full_info(match_id):
 
     return match_info
 
+def get_team_name_by_id(team_id):
+    """
+    Fetch the team name given its ID.
+    Returns the team name as a string, or None if not found.
+    """
+    if team_id is None:
+        return None
+
+    query = "SELECT name FROM teams WHERE id = ?"
+    row = fetch_one(query, (team_id,))
+    return row["name"] if row else None
