@@ -12,6 +12,7 @@ import uuid
 import tzlocal  # <--- get user's OS timezone (for local dev)
 from datetime import datetime, timedelta, timezone
 from Controllers import predictions_controller as ctrl
+from Controllers.teams_controller import get_team_id_by_name
 
 # 🎨 Optional: Unique colors per league
 LEAGUE_COLORS = {
@@ -578,6 +579,22 @@ def render_countdown_block(local_dt):
 
 
 def render_prediction_form(match, player_id):
+    """
+    Render an interactive prediction form for a given match and player.
+    Automatically loads complete match info (round, stage, league, teams).
+    Keeps save_prediction() unchanged.
+    """
+
+    # ✅ Step 1: Fetch complete match info (ensures correct round/stage linkage)
+    from Controllers.teams_controller import get_match_full_info
+
+    try:
+        match = get_match_full_info(match["id"])  # enrich match dict
+    except Exception as e:
+        st.error(f"❌ Failed to load match info: {e}")
+        return
+
+    # ✅ Step 2: Fetch existing prediction (if any)
     existing = get_existing_prediction(player_id, match["id"])
 
     # Pre-fill values if prediction exists
@@ -585,64 +602,141 @@ def render_prediction_form(match, player_id):
     default_away_score = existing["predicted_away_score"] if existing else 0
     default_penalty_winner = existing["predicted_penalty_winner_id"] if existing else None
 
-    with st.form(key=f"prediction_form_{match['id']}", clear_on_submit=False):
-        st.markdown("#### 📝 Your Prediction")
+    # ✅ Step 3: Extract rules safely
+    allows_draw = match.get("allows_draw", 1)
+    has_penalties = match.get("has_penalties", 0)
+    is_two_legged = match.get("is_two_legged", 0)
+    # print(f"The match allows_draw is {allows_draw}")
+    # print(f"The match has_penalties is {has_penalties}")
+    # print(f"The match is_two_legged is {is_two_legged}")
+    
+    # print(f"existing {existing}")
+    # Stage-level override example
+    if match.get('stage_name') == "Final - Single Leg":
+        has_penalties = 1
+        allows_draw = 1
 
+    # ✅ Step 4: Resolve team IDs safely
+    home_team_id = match.get('home_team_id')
+    away_team_id = match.get('away_team_id')
+
+    if not home_team_id:
+        home_team_id = get_team_id_by_name(match.get('home_team'))
+    if not away_team_id:
+        away_team_id = get_team_id_by_name(match.get('away_team'))
+
+    ids_missing = (home_team_id is None or away_team_id is None)
+
+    # ✅ Step 5: Header info
+    st.markdown(
+        f"""
+        ### ⚽ Prediction: **{match.get('home_team', 'TBD')}** vs **{match.get('away_team', 'TBD')}**
+        🏆 League: {match.get('league_name', 'Unknown League')}  
+        📅 Date: {match.get('match_datetime', 'TBD')}  
+        **Round:** {match.get('round_name', 'Unknown Round')}  
+        **Stage:** {match.get('stage_name', 'Unknown Stage')}  
+        """
+    )
+
+    # ✅ Stage Rules summary
+    stage_desc = []
+    if is_two_legged:
+        stage_desc.append("Two-legged tie")
+    if has_penalties:
+        stage_desc.append("Penalties if draw")
+    elif allows_draw:
+        stage_desc.append("Draw allowed")
+
+    if stage_desc:
+        st.caption(f"**Stage Rules:** {', '.join(stage_desc)}")
+
+    if ids_missing:
+        st.warning("⚠️ Team IDs not found. Penalty winner will be resolved by name lookup at save time.")
+
+    # ✅ Step 6: Prediction form
+    with st.form(key=f"prediction_form_{match['id']}", clear_on_submit=False):
+        st.markdown("#### 📝 Enter Your Prediction")
         col1, col2 = st.columns(2)
         with col1:
             predicted_home_score = st.number_input(
-                f"{match['home_team']} Goals",
+                f"{match.get('home_team', 'Home')} Goals",
                 min_value=0, max_value=20,
                 value=default_home_score,
                 key=f"home_score_{match['id']}"
             )
         with col2:
             predicted_away_score = st.number_input(
-                f"{match['away_team']} Goals",
+                f"{match.get('away_team', 'Away')} Goals",
                 min_value=0, max_value=20,
                 value=default_away_score,
                 key=f"away_score_{match['id']}"
             )
 
-        predicted_penalty_winner_id = None
+        predicted_penalty_winner_name = None
+        penalty_winner_id_to_save = None
 
-        # For logic, use match status or flags if available
-        allows_draw = match.get("allows_draw", 1)  # fallback default
-        has_penalties = match.get("has_penalties", 0)
-
-        # Show penalty winner choice only if penalties allowed AND predicted scores are tied
+        # ✅ Step 7: Penalty logic
         if has_penalties and predicted_home_score == predicted_away_score:
-            # Map team names to their IDs from match info
-            teams = {
-                match['home_team']: existing['home_team_id'],
-                match['away_team']: existing['away_team_id']
+            st.markdown("### ⚔️ Penalty Shootout Prediction")
+
+            teams_map = {
+                match.get('home_team', 'Home'): home_team_id,
+                match.get('away_team', 'Away'): away_team_id
             }
 
-            # Set default selected penalty winner index if available
-            default_index = 0  # default to home team
-            if default_penalty_winner in teams.values():
-                default_index = list(teams.values()).index(default_penalty_winner)
+            default_index = 0
+            if default_penalty_winner in teams_map.values():
+                try:
+                    default_index = list(teams_map.values()).index(default_penalty_winner)
+                except ValueError:
+                    default_index = 0
 
-            winner = st.radio(
-                "⚽ Who wins on penalties?",
-                options=list(teams.keys()),
+            winner_name = st.radio(
+                "Select the penalty winner:",
+                options=list(teams_map.keys()),
                 index=default_index,
+                horizontal=True,
                 key=f"penalty_{match['id']}"
             )
-            predicted_penalty_winner_id = teams[winner]
 
-        submitted = st.form_submit_button("✅ Submit Prediction")
+            predicted_penalty_winner_name = winner_name
+
+        elif has_penalties and predicted_home_score != predicted_away_score:
+            st.info("✅ No penalties needed as you predicted a clear winner.")
+
+        # ✅ Step 8: Save logic (unchanged)
+        submitted = st.form_submit_button("✅ Save Prediction")
         if submitted:
+            if has_penalties and predicted_home_score == predicted_away_score and predicted_penalty_winner_name:
+                chosen_name = predicted_penalty_winner_name
+                chosen_id = teams_map.get(chosen_name)
+                if chosen_id is None:
+                    chosen_id = get_team_id_by_name(chosen_name)
+
+                if chosen_id is None:
+                    st.error("⚠️ Could not resolve the selected team's ID. Prediction not saved.")
+                    return
+
+                if home_team_id and away_team_id and chosen_id not in (home_team_id, away_team_id):
+                    st.error("⚠️ Penalty winner ID doesn't belong to this match's teams. Aborting save.")
+                    return
+
+                penalty_winner_id_to_save = chosen_id
+
+            # ✅ Save the prediction using your existing controller
             from Controllers.predictions_controller import save_prediction
             save_prediction(
                 player_id=player_id,
                 match_id=match['id'],
                 home_score=predicted_home_score,
                 away_score=predicted_away_score,
-                penalty_winner_id=predicted_penalty_winner_id
+                penalty_winner_id=penalty_winner_id_to_save
             )
+
             st.success("🎉 Prediction saved successfully!")
             st.rerun()
+
+
 
 
 

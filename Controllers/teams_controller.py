@@ -146,3 +146,86 @@ def get_participated_league(team_id):
     ORDER BY tc.season_start DESC;
     """
     return fetch_all(query)
+
+def get_team_id_by_name(team_name):
+    """
+    Fetch the team ID by its name (case-insensitive).
+
+    Args:
+        team_name (str): The name of the team.
+
+    Returns:
+        int | None: The team's ID if found, otherwise None.
+    """
+    if not team_name:
+        return None
+
+    query = f"""
+        SELECT id
+        FROM teams
+        WHERE LOWER(name) = LOWER('{team_name}')
+        LIMIT 1
+    """
+    result = fetch_one(query)
+    return result["id"] if result else None
+
+def get_match_full_info(match_id):
+    """
+    Fetch all related info for a given match_id:
+    - Teams (names + IDs)
+    - Round, Stage, and League info
+    - Match rules (allows_draw, has_penalties, is_two_legged)
+    Returns a clean dictionary ready for render_prediction_form().
+    """
+
+    query = """
+        SELECT 
+            m.id AS match_id,
+            m.home_team_id,
+            m.away_team_id,
+            th.name AS home_team,
+            ta.name AS away_team,
+            m.match_datetime,
+            r.id AS round_id,
+            r.name AS round_name,
+            s.id AS stage_id,
+            s.name AS stage_name,
+            s.is_two_legged,
+            s.allows_draw,
+            s.has_penalties,
+            l.id AS league_id,
+            l.name AS league_name
+        FROM matches m
+        LEFT JOIN teams th ON th.id = m.home_team_id
+        LEFT JOIN teams ta ON ta.id = m.away_team_id
+        LEFT JOIN rounds r ON r.id = m.round_id
+        LEFT JOIN stages s ON s.id = m.stage_id
+        LEFT JOIN leagues l ON l.id = s.league_id
+        WHERE m.id = ?
+    """
+
+    row = fetch_one(query, (match_id,))
+    if not row:
+        raise ValueError(f"❌ No match found with id {match_id}")
+
+    # Build the dict
+    match_info = {
+        "id": row["match_id"],
+        "home_team_id": row["home_team_id"],
+        "away_team_id": row["away_team_id"],
+        "home_team": row["home_team"],
+        "away_team": row["away_team"],
+        "match_datetime": row["match_datetime"],
+        "allows_draw": row["allows_draw"],
+        "has_penalties": row["has_penalties"],
+        "is_two_legged": row["is_two_legged"],
+        "round_id": row["round_id"],
+        "round_name": row["round_name"],
+        "stage_id": row["stage_id"],
+        "stage_name": row["stage_name"],
+        "league_id": row["league_id"],
+        "league_name": row["league_name"]
+    }
+
+    return match_info
+
